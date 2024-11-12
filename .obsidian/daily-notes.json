@@ -1,6 +1,6 @@
 {
-  "format": "",
-  "folder": "5 - Notas Diarias",
-  "template": "6 - Plantillas/Nota Diaria",
+  "format": "DD-MM-YY",
+  "folder": "Bitácora",
+  "template": "Plantillas/Bitácora",
   "autorun": true
 }

@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Despertar": "number",
+    "Horas_Sueño": "number",
+    "Dormir": "number",
+    "Ejercicio": "number",
+    "Estudio": "number",
+    "Leer": "number",
+    "Meditar": "number",
+    "D-Journal": "number"
+  }
+}

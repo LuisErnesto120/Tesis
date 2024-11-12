@@ -16,3 +16,4 @@ sort by due
 ```
 
 # Notas 
+Hoy inicié este vault. Pienso utilizarlo para llevar un control de la investigación necesaria para la tesis.

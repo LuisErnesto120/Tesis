@@ -4,7 +4,7 @@
 
 [[Metodología]]
 
-[[Desarrollo]]
+[[Resultados]]
 
 [[Bibliografía]]
 

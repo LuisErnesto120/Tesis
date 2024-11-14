@@ -5,7 +5,7 @@ format: "12hr" | "24hr"
 ```
 ---
 
-# Tags:
+# Tags: [[Bitácora]]
 
 
 ---

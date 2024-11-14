@@ -1,0 +1,14 @@
+- Síntesis
+    - Sonicación
+- Caracterización
+    - TGA
+    - DRX
+    - SEM
+        - EDS
+    - UV-Vis
+        - Método Tauc
+    - Magnetometría
+        - SQUID
+            - ZFC y FC
+            - Mediciones realizadas (MvT, XivT, MvH)
+        - ...

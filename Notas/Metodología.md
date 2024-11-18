@@ -4,6 +4,8 @@
     - TGA
     - DRX
     - SEM
+	    - Morfología
+		    - Diámetro de partícula
         - EDS
     - UV-Vis
         - Método Tauc

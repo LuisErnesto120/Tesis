@@ -6,6 +6,8 @@
 
 [[Resultados]]
 
+[[Conclusión]]
+
 [[Bibliografía]]
 
 [[Anexos]]

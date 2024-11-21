@@ -1,1 +1,2 @@
-- [ ] #tasks 📅 2024-11-14 Hacer Índice
+- [x] #tasks 📅 2024-11-14 Hacer Índice ✅ 2024-11-13
+- [ ] #tasks 📅 2024-11-22 Seleccionar figuras

@@ -3,7 +3,15 @@
 - Caracterización
     - TGA
     - DRX
+        - Estructura Cristalina 
+            - Ley de Bragg
+            - Estructura cristalina de las Ortoferritas de Tierras Raras
+            - Modelado de Picos de Refracción (Rietveld)
+                - Justificación Teórica
+                - Factores de Bondad
     - SEM
+        -  Conceptos para el análisis estadístico de muestras
+            - Incertidumbre de una medición estadística
 	    - Morfología
 		    - Diámetro de partícula
         - EDS
@@ -14,3 +22,4 @@
             - ZFC y FC
             - Mediciones realizadas (MvT, XivT, MvH)
         - ...
+    - ...

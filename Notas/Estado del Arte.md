@@ -1,0 +1,9 @@
+- Materiales Magnéticos y sus propiedades
+    - Magnetización
+    - Susceptibilidad
+    - Tipos de materiales magnéticos
+    - Histéresis
+    - Multiferroicos*
+- Ortoferritas de Tierras Raras
+    - Propiedades Magnéticas de las Ortoferritas de Tierras Raras
+    - Aplicaciones

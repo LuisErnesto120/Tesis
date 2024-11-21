@@ -10,3 +10,9 @@
         - EDS
     - UV-Vis
     - Magnetometría
+	    - SQUID
+		    - MvT
+		    - Xi v T
+		    - MvH
+		- ...
+    - ...

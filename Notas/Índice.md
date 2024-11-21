@@ -1,6 +1,8 @@
+[[Resumen]]
+
 [[Introducción]]
 
-[[Marco Teórico]]
+[[Estado del Arte]]
 
 [[Metodología]]
 

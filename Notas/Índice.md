@@ -1,6 +1,5 @@
-[[Resumen]]
-
-[[Introducción]]
+[[1. Resumen]]
+[[2. Introducción]]
 
 [[Estado del Arte]]
 

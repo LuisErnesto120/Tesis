@@ -11,5 +11,7 @@
   "obsidian-tasks-plugin",
   "obsidian-day-planner",
   "table-editor-obsidian",
-  "sheets"
+  "sheets",
+  "3d-graph",
+  "graph-link-types"
 ]

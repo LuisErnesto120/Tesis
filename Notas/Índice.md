@@ -1,4 +1,4 @@
-[[1. Resumen]]
+ [[1. Resumen]]
 [[2. Introducción]]
 [[3. Estado del Arte]]
     [[3.1 Materiales Magnéticos y sus propiedades]]

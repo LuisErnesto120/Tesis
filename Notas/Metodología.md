@@ -9,6 +9,7 @@
             - Modelado de Picos de Refracción (Rietveld)
                 - Justificación Teórica
                 - Factores de Bondad
+            - Fórmula de Scherrer
     - SEM
         -  Conceptos para el análisis estadístico de muestras
             - Incertidumbre de una medición estadística

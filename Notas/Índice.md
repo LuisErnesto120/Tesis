@@ -33,8 +33,8 @@
             [[4.2.5.1 SQUID]]
                 [[4.2.5.1.1 ZFC y FC]]
                 [[4.2.5.1.2 Mediciones realizadas (MvT, XivT, MvH)]]
-            - ...
-        - ...
+            [[4.2.5.2 Espectroscopía Raman]]
+        [[4.2.6 Mediciones de Impedancia]]
 [[5. Resultados]]
     [[5.1 Muestras sintetizadas]]
     [[5.2 Análisis]]
@@ -49,8 +49,8 @@
 		    [[5.4.1.1 MvT]]
 		    [[5.4.1.2 Xi v T]]
 		    [[5.4.1.3 MvH]]
-	    	- ...
-        - ...
+	    [[5.4.2 Espectroscopía Raman]]
+	[[5.5 Mediciones de Impedancia]]
 [[6. Conclusión]]
 
 [[7. Bibliografía]]

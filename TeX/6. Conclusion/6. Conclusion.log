@@ -1,16 +1,21 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  2 DEC 2024 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  2 DEC 2024 16:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/PC/Desktop/Git/Tesis/TeX/main.tex
-(c:/Users/PC/Desktop/Git/Tesis/TeX/main.tex
+**"c:/Users/PC/Desktop/Git/Tesis/TeX/6. Conclusion/6. Conclusion.tex"
+(c:/Users/PC/Desktop/Git/Tesis/TeX/6. Conclusion/6. Conclusion.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
-(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
+Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
+Preamble taken from file `../main.tex'
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+) (C:\Users\PC\Desktop\Git\Tesis\TeX\main.tex (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
-File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count189
 \c@chapter=\count190
@@ -623,9 +628,7 @@ Package: supertabular 2020/02/02 v4.1g the supertabular environment
 )) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
 Package: glossary-tree 2024/04/03 v4.54 (NLCT)
 \glstreeindent=\skip74
-)) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
-Package: import 2020/04/01  v 6.2
-) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+)) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
@@ -999,87 +1002,71 @@ File: pppdftex.def 2024/10/28 v0.6c Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks48
 \c@AM@survey=\count494
 \AM@templatesizebox=\box113
-) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box114
-\beforetitleunit=\skip129
-\aftertitleunit=\skip130
-\ttl@plus=\dimen267
-\ttl@minus=\dimen268
-\ttl@toksa=\toks49
-\titlewidth=\dimen269
-\titlewidthlast=\dimen270
-\titlewidthfirst=\dimen271
-)
+)))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (main.aux
+ (C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.aux
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 )
-\openout1 = `main.aux'.
+\openout1 = `"6. Conclusion.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count495
-\scratchdimen=\dimen272
-\scratchbox=\box115
+\scratchdimen=\dimen267
+\scratchbox=\box114
 \nofMPsegments=\count496
 \nofMParguments=\count497
-\everyMPshowfont=\toks50
+\everyMPshowfont=\toks49
 \MPscratchCnt=\count498
-\MPscratchDim=\dimen273
+\MPscratchDim=\dimen268
 \MPnumerator=\count499
 \makeMPintoPDFobject=\count500
-\everyMPtoPDFconversion=\toks51
+\everyMPtoPDFconversion=\toks50
 ) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 52.
- (main.out) (main.out)
+Package hyperref Info: Link coloring OFF on input line 2.
+ (C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out) (C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out)
 \@outlinefile=\write5
-\openout5 = `main.out'.
+\openout5 = `"6. Conclusion.out"'.
 
 \symgns@font=\mathgroup12
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 52.
-Package gensymb Info: Math companion symbols declared on input line 52.
-LaTeX Info: Redefining \degree on input line 52.
-LaTeX Info: Redefining \celsius on input line 52.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 52.
-LaTeX Info: Redefining \ohm on input line 52.
-Package gensymb Info: Using \textohm for \ohm on input line 52.
-Package gensymb Info: Using \textmu for \micro on input line 52.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-dictionary-English.dict
-Dictionary: glossaries-dictionary, Language: English 
-) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-spanish\glossaries-dictionary-Spanish.dict
-Dictionary: glossaries-dictionary, Language: Spanish 
-)
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 2.
+Package gensymb Info: Math companion symbols declared on input line 2.
+LaTeX Info: Redefining \degree on input line 2.
+LaTeX Info: Redefining \celsius on input line 2.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 2.
+LaTeX Info: Redefining \ohm on input line 2.
+Package gensymb Info: Using \textohm for \ohm on input line 2.
+Package gensymb Info: Using \textmu for \micro on input line 2.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
@@ -1101,15 +1088,15 @@ Package caption Info: End \AtBeginDocument code.
 * \textheight=681.15898pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
-* \topmargin=-47.23828pt
+* \topmargin=-45.43198pt
 * \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=98.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1127,15 +1114,15 @@ File: spanish.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `main.bcf'.
+\openout4 = `"6. Conclusion.bcf"'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
-Package biblatex Info: Reference section=0 on input line 52.
-Package biblatex Info: Reference segment=0 on input line 52.
+Package biblatex Info: ... file '"6. Conclusion".bbl' found.
+ (C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.bbl)
+Package biblatex Info: Reference section=0 on input line 2.
+Package biblatex Info: Reference segment=0 on input line 2.
 
-Package chemgreek Info: Activating mapping `upgreek' on line 52.
+Package chemgreek Info: Activating mapping `upgreek' on line 2.
 
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -1143,144 +1130,11 @@ Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-<0. Portada/0. Portada.pdf, id=71, 614.295pt x 794.97pt>
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf  used on input line 55.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf  used on input line 55.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<0. Portada/0. Portada.pdf, id=74, page=1, 614.295pt x 794.97pt>
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 55.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 55.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 55.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 55.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 55.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [1
-
-
-
- <./0. Portada/0. Portada.pdf{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}>] [2
-
-]
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 63.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 63.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [3{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [4
-
-] [5]
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
- [6
-
-] (main.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 2.
-
-
-Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
-(spanish)                faked small caps on input line 2.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
-(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 6.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-))
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
- [7]
-LaTeX Info: Redefining \. on input line 75.
-LaTeX Info: Redefining \% on input line 75.
- [8
-
-] (1. Resumen/1. Resumen.tex
 Cap\'{\i }tulo 1.
-) (2. Introduccion/2. Introduccion.tex [1
+[1
 
-]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [2
 
-]
-Cap\'{\i }tulo 2.
-) (3. Estado del Arte/3. Estado del Arte.tex [3]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [4
-
-]
-Cap\'{\i }tulo 3.
-) (4. Metodologia/4. Metodologia.tex [5]
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
- [6
-
-]
-Cap\'{\i }tulo 4.
-) (5. Resultados/5. Resultados.tex [7]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [8
-
-]
-Cap\'{\i }tulo 5.
-) (6. Conclusion/6. Conclusion.tex [9]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [10
-
-]
-Cap\'{\i }tulo 6.
-) (7. Bibliografia/7. Bibliografia.tex [11]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [12
-
-]
-Cap\'{\i }tulo 7.
-) (8. Anexos/8. Anexos.tex [13]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [14
-
-]
-Cap\'{\i }tulo 8.
-) [15] (main.aux
+{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.aux
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
@@ -1289,28 +1143,24 @@ LaTeX Info: Redefining \% on input line 14.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2E2A11A02F9758BAF5CA3A7E17AE1E06;2479.
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
+Package rerunfilecheck Info: File `"6. Conclusion".out' has not changed.
+(rerunfilecheck)             Checksum: 7D58BF435B5C091951CCA6D9751F56A5;96.
+Package logreq Info: Writing requests to '"6. Conclusion".run.xml'.
+\openout1 = `"6. Conclusion.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33665 strings out of 474312
- 598721 string characters out of 5740701
- 1933907 words of memory out of 5000000
- 55529 multiletter control sequences out of 15000+600000
- 574250 words of font info for 89 fonts, out of 8000000 for 9000
+ 33089 strings out of 474312
+ 589349 string characters out of 5740701
+ 1928907 words of memory out of 5000000
+ 55109 multiletter control sequences out of 15000+600000
+ 558982 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,17n,117p,2376b,1964s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (23 pages, 258128 bytes).
+ 114i,5n,134p,2441b,1853s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.pdf" (1 page, 21133 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 157 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
 

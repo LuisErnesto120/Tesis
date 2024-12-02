@@ -1,13 +1,19 @@
 PWD C:\Users\PC\Desktop\Git\Tesis\TeX
 INPUT C:\Users\PC\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\PC\Desktop\Git\Tesis\TeX\main.tex
-OUTPUT main.log
+INPUT c:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.tex
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.log
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\main.tex
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk10.clo
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk10.clo
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk10.clo
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
@@ -235,8 +241,6 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glos
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\supertabular\supertabular.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-tree.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-tree.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
@@ -317,12 +321,10 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT .\main.aux
-INPUT .\main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.aux
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.aux
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -331,177 +333,37 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.out
-INPUT main.out
-OUTPUT main.pdf
-INPUT .\main.out
-INPUT .\main.out
-OUTPUT main.out
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-dictionary-English.dict
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-dictionary-English.dict
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-dictionary-English.dict
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-spanish\glossaries-dictionary-Spanish.dict
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-spanish\glossaries-dictionary-Spanish.dict
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-spanish\glossaries-dictionary-Spanish.dict
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.pdf
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-OUTPUT main.bcf
-INPUT main.bbl
-INPUT .\main.bbl
-INPUT .\main.bbl
-INPUT .\main.bbl
-INPUT main.bbl
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.bcf
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.bbl
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT .\0. Portada\0. Portada.pdf
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ppl.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ppl.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ppl.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr7t.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri7t.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri7t.vf
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr7t.vf
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT .\main.toc
-INPUT .\main.toc
-INPUT main.toc
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolF12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolF8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolF6.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolE12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolE8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolE6.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolA12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolA8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolA6.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolB12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolB8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolB6.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolC12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolC8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolC6.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolD12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolD8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolD6.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0800.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0600.tfm
-OUTPUT main.toc
-INPUT .\1. Resumen\1. Resumen.tex
-INPUT 1. Resumen\1. Resumen.tex
-INPUT .\1. Resumen\1. Resumen.tex
-INPUT 1. Resumen\1. Resumen.tex
-INPUT .\2. Introduccion\2. Introduccion.tex
-INPUT 2. Introduccion\2. Introduccion.tex
-INPUT .\2. Introduccion\2. Introduccion.tex
-INPUT 2. Introduccion\2. Introduccion.tex
-INPUT .\3. Estado del Arte\3. Estado del Arte.tex
-INPUT 3. Estado del Arte\3. Estado del Arte.tex
-INPUT .\3. Estado del Arte\3. Estado del Arte.tex
-INPUT 3. Estado del Arte\3. Estado del Arte.tex
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\4. Metodologia\4. Metodologia.tex
-INPUT 4. Metodologia\4. Metodologia.tex
-INPUT .\4. Metodologia\4. Metodologia.tex
-INPUT 4. Metodologia\4. Metodologia.tex
-INPUT .\5. Resultados\5. Resultados.tex
-INPUT 5. Resultados\5. Resultados.tex
-INPUT .\5. Resultados\5. Resultados.tex
-INPUT 5. Resultados\5. Resultados.tex
-INPUT .\6. Conclusion\6. Conclusion.tex
-INPUT 6. Conclusion\6. Conclusion.tex
-INPUT .\6. Conclusion\6. Conclusion.tex
-INPUT 6. Conclusion\6. Conclusion.tex
-INPUT .\7. Bibliografia\7. Bibliografia.tex
-INPUT 7. Bibliografia\7. Bibliografia.tex
-INPUT .\7. Bibliografia\7. Bibliografia.tex
-INPUT 7. Bibliografia\7. Bibliografia.tex
-INPUT .\8. Anexos\8. Anexos.tex
-INPUT 8. Anexos\8. Anexos.tex
-INPUT .\8. Anexos\8. Anexos.tex
-INPUT 8. Anexos\8. Anexos.tex
-INPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.run.xml
-OUTPUT main.run.xml
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.run.xml
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\6. Conclusion\6. Conclusion.run.xml
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb

@@ -1,4 +1,4 @@
-\documentclass[letterpaper]{book}
+\documentclass[letterpaper,spanish,12pt]{book}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish,es-tabla]{babel}
 \usepackage{csquotes}
@@ -43,8 +43,36 @@
 \newcommand{\gradoC}{$^\circ$C}
 \usepackage{subfiles}
 \usepackage{pdfpages}
+\usepackage{titlesec}
+\titleformat{\chapter} % Config titlesec
+	{\Large\bfseries}	% 
+	{\huge \thechapter}	% 
+	{20pt}				% 
+	{\huge}				% 
 \begin{document}
+\frontmatter
+%\subfile{0. Portada/0. Portada.tex}
 \includepdf{0. Portada/0. Portada.pdf}
+%------------------------------------------
+% DEDICATORIA
+%------------------------------------------
+\chapter*{}
+%\vspace{2cm}
+\begin{flushright}
+	{\fontfamily{ppl}%Palatino
+	\selectfont\emph{<<Cita. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.>>}\\
+\vspace{5mm}
+	Autor}
+
+\end{flushright}
+\vfill
+%------------------------------------------
+% AGRADECIMIENTOS
+%------------------------------------------
+\chapter{Agradecimientos}
+\lipsum[6-9]
+\tableofcontents % Index 
+\mainmatter 
 \subfile{1. Resumen/1. Resumen.tex}
 \subfile{2. Introduccion/2. Introduccion.tex}
 \subfile{3. Estado del Arte/3. Estado del Arte.tex}
@@ -52,5 +80,6 @@
 \subfile{5. Resultados/5. Resultados.tex}
 \subfile{6. Conclusion/6. Conclusion.tex}
 \subfile{7. Bibliografia/7. Bibliografia.tex}
+
 \subfile{8. Anexos/8. Anexos.tex}
 \end{document}

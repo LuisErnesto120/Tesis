@@ -1,4 +1,4 @@
-\documentclass[letterpaper]{article}
+\documentclass[letterpaper]{book}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish,es-tabla]{babel}
 \usepackage{csquotes}
@@ -31,63 +31,18 @@
 \usepackage[left=2.5cm,right=2.5cm,top=2 cm,bottom=2 cm]{geometry}
 \usepackage[backend=biber,sorting=none,style=numeric-comp,bibstyle=chem-acs,articletitle=true,biblabel=brackets,doi=false,autocite = superscript]{biblatex} %Nota del 05 de julio de 2021: esta librería genera las referencias bibliográficas.
 \bibliography{bib}
-\usepackage{verbatim} %Nota del 05 de julio de 2021: esta libreria es para comentar varias lineas
-\usepackage{float} %Nota del 06 de julio de 2021: esta libreria sirve para las imagenes en el entorno multicols
+\usepackage{verbatim} %Nota del 05 de julio de 2021: esta librería es para comentar varias lineas
+\usepackage{float} %Nota del 06 de julio de 2021: esta librería sirve para las imágenes en el entorno multicols
 \usepackage{ragged2e}
 \usepackage[version=4]{mhchem}
 \newcommand{\e}{\hat{\textbf{e}}} %para los vectores unitarios
 \newcommand{\im}{\mathrm{i}} %para las partes imaginarias, es la i
 \newcommand{\neod}{\ce{NdFeO3}}
-\newcommand{\sama}{\ce{SmFeO5}}
+\newcommand{\sama}{\ce{SmFeO3}}
 \newcommand{\grado}{$^\circ$}
 \newcommand{\gradoC}{$^\circ$C}
-
-
+\usepackage{subfiles}
+\usepackage{pdfpages}
 \begin{document}
-
-\includegraphics[width=3cm]{IF.jpg}
-\vspace{-4cm}
-
-\begin{flushleft}
-\hspace{3.85 cm}\LARGE \textbf{Reporte Mensual para Servicio Social 3.}\\
-\hspace{3.75 cm} Medición y análisis de magnetización contra\\
-\hspace{3.75 cm} campo magnético y contra Temperatura mediante\\
-\hspace{3.75 cm} magnetometría SQUID\\
-\end{flushleft}
-
-
-\begin{flushleft}
-\hspace{3.75 cm} \large Servicio Social: Investigación Instituto de Física (2023-12/82-2509).\\
-\hspace{3.75 cm} Espintrónica: dinámica de momentos de espín.\\
-\hspace{3.75 cm} Luis Ernesto Garduño Garrido\\
-%\hspace{3.75 cm} en caso de ser necesario una segunda línea
-%\hspace{3.75 cm} \textbf{} En caso de ser necesaria otra línea
-\vspace{0.25 cm}
-\normalsize \hspace{3.75 cm} e-mail: luiseg@estudiantes.fisica.unam.mx \\
-\hspace{3.75 cm} Entregado: /Junio/2024
-\end{flushleft}
-\hrule
-\begin{minipage}[t]{4.5 cm}
-\vspace{5 pt}
-\centering \footnotesize\textbf{Palabras Clave}
-\justify
-. \neod\\
-. \\
-. \\
-. \\
-. \\
-. \\
-. 
-\end{minipage}
-\begin{minipage}[t]{12 cm}
-\vspace{5 pt}
-\begin{abstract}
-    hola
-\end{abstract}
-\end{minipage}
-\vspace{5 pt}
-\hrule
-
-\input{3. Estado del Arte/3. Estado del Arte.tex}
-
+\includepdf{0. Portada/0. Portada.pdf}
 \end{document}

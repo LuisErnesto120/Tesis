@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  2 DEC 2024 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  2 DEC 2024 16:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1127,7 +1127,7 @@ Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-<0. Portada/0. Portada.pdf, id=3, 614.295pt x 794.97pt>
+<0. Portada/0. Portada.pdf, id=67, 614.295pt x 794.97pt>
 File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
 <use 0. Portada/0. Portada.pdf>
 Package pdftex.def Info: 0. Portada/0. Portada.pdf  used on input line 47.
@@ -1136,7 +1136,7 @@ File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
 <use 0. Portada/0. Portada.pdf>
 Package pdftex.def Info: 0. Portada/0. Portada.pdf  used on input line 47.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<0. Portada/0. Portada.pdf, id=6, page=1, 614.295pt x 794.97pt>
+<0. Portada/0. Portada.pdf, id=70, page=1, 614.295pt x 794.97pt>
 File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
 <use 0. Portada/0. Portada.pdf, page 1>
 Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 47.
@@ -1160,7 +1160,60 @@ Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 47
  [1
 
 
- <./0. Portada/0. Portada.pdf{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}>] (main.aux
+ <./0. Portada/0. Portada.pdf{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}>] (1. Resumen/1. Resumen.tex [2
+
+]
+Cap\'{\i }tulo 1.
+) (2. Introduccion/2. Introduccion.tex [3]
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [4
+
+]
+Cap\'{\i }tulo 2.
+) (3. Estado del Arte/3. Estado del Arte.tex [5]
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [6
+
+]
+Cap\'{\i }tulo 3.
+) (4. Metodologia/4. Metodologia.tex [7]
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [8
+
+]
+Cap\'{\i }tulo 4.
+) (5. Resultados/5. Resultados.tex [9]
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [10
+
+]
+Cap\'{\i }tulo 5.
+) (6. Conclusion/6. Conclusion.tex [11]
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [12
+
+]
+Cap\'{\i }tulo 6.
+) (7. Bibliografia/7. Bibliografia.tex [13]
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [14
+
+]
+Cap\'{\i }tulo 7.
+) (8. Anexos/8. Anexos.tex [15]
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [16
+
+]
+Cap\'{\i }tulo 9.
+) [17] (main.aux
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
@@ -1170,23 +1223,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 9167BFD8685F1CAAC78CCA49866A136F;2359.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33058 strings out of 474312
- 588035 string characters out of 5740701
- 1928907 words of memory out of 5000000
- 55088 multiletter control sequences out of 15000+600000
- 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 33201 strings out of 474312
+ 591452 string characters out of 5740701
+ 1930907 words of memory out of 5000000
+ 55147 multiletter control sequences out of 15000+600000
+ 560545 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,17n,117p,2376b,1853s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (1 page, 139364 bytes).
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on main.pdf (17 pages, 198148 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 181 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 149 words of extra memory for PDF output out of 10000 (max. 10000000)
 

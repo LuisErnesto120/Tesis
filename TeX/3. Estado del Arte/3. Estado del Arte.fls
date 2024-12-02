@@ -1,12 +1,19 @@
-PWD C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte
+PWD C:\Users\PC\Desktop\Git\Tesis\TeX
 INPUT C:\Users\PC\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.tex
-OUTPUT 3. Estado del Arte.log
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.log
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\main.tex
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk10.clo
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk10.clo
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk10.clo
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
@@ -234,8 +241,6 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glos
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\supertabular\supertabular.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-tree.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-tree.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
@@ -307,10 +312,19 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\chemgreek\chemgreek.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\chemgreek\chemgreek.sty
-INPUT .\3. Estado del Arte.aux
-INPUT .\3. Estado del Arte.aux
-INPUT 3. Estado del Arte.aux
-OUTPUT 3. Estado del Arte.aux
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -319,36 +333,40 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\3. Estado del Arte.out
-INPUT .\3. Estado del Arte.out
-INPUT 3. Estado del Arte.out
-INPUT 3. Estado del Arte.out
-OUTPUT 3. Estado del Arte.pdf
-INPUT .\3. Estado del Arte.out
-INPUT .\3. Estado del Arte.out
-OUTPUT 3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-OUTPUT 3. Estado del Arte.bcf
-INPUT 3. Estado del Arte.bbl
-INPUT .\3. Estado del Arte.bbl
-INPUT .\3. Estado del Arte.bbl
-INPUT .\3. Estado del Arte.bbl
-INPUT 3. Estado del Arte.bbl
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bcf
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT 3. Estado del Arte.aux
-INPUT .\3. Estado del Arte.out
-INPUT .\3. Estado del Arte.out
-INPUT 3. Estado del Arte.run.xml
-OUTPUT 3. Estado del Arte.run.xml
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.run.xml
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.run.xml
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb

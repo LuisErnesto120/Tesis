@@ -332,10 +332,10 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT main.out
 INPUT main.out
+OUTPUT main.pdf
 INPUT .\main.out
 INPUT .\main.out
 OUTPUT main.out
-OUTPUT main.pdf
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
@@ -367,10 +367,56 @@ INPUT .\0. Portada\0. Portada.pdf
 INPUT .\0. Portada\0. Portada.pdf
 INPUT .\0. Portada\0. Portada.pdf
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\1. Resumen\1. Resumen.tex
+INPUT 1. Resumen\1. Resumen.tex
+INPUT .\1. Resumen\1. Resumen.tex
+INPUT 1. Resumen\1. Resumen.tex
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\2. Introduccion\2. Introduccion.tex
+INPUT 2. Introduccion\2. Introduccion.tex
+INPUT .\2. Introduccion\2. Introduccion.tex
+INPUT 2. Introduccion\2. Introduccion.tex
+INPUT .\3. Estado del Arte\3. Estado del Arte.tex
+INPUT 3. Estado del Arte\3. Estado del Arte.tex
+INPUT .\3. Estado del Arte\3. Estado del Arte.tex
+INPUT 3. Estado del Arte\3. Estado del Arte.tex
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\4. Metodologia\4. Metodologia.tex
+INPUT 4. Metodologia\4. Metodologia.tex
+INPUT .\4. Metodologia\4. Metodologia.tex
+INPUT 4. Metodologia\4. Metodologia.tex
+INPUT .\5. Resultados\5. Resultados.tex
+INPUT 5. Resultados\5. Resultados.tex
+INPUT .\5. Resultados\5. Resultados.tex
+INPUT 5. Resultados\5. Resultados.tex
+INPUT .\6. Conclusion\6. Conclusion.tex
+INPUT 6. Conclusion\6. Conclusion.tex
+INPUT .\6. Conclusion\6. Conclusion.tex
+INPUT 6. Conclusion\6. Conclusion.tex
+INPUT .\7. Bibliografia\7. Bibliografia.tex
+INPUT 7. Bibliografia\7. Bibliografia.tex
+INPUT .\7. Bibliografia\7. Bibliografia.tex
+INPUT 7. Bibliografia\7. Bibliografia.tex
+INPUT .\8. Anexos\8. Anexos.tex
+INPUT 8. Anexos\8. Anexos.tex
+INPUT .\8. Anexos\8. Anexos.tex
+INPUT 8. Anexos\8. Anexos.tex
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb

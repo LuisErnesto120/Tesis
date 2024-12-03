@@ -21,6 +21,7 @@
 \usepackage{units}
 \usepackage{gensymb}
 \usepackage{glossaries}
+\usepackage{textgreek}
 \usepackage{import}
 \usepackage{caption}
 \usepackage{lipsum}
@@ -43,6 +44,12 @@
 \newcommand{\gradoC}{$^\circ$C}
 \usepackage{subfiles}
 \usepackage{pdfpages}
+\usepackage{titlesec}
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
 \usepackage{titlesec}
 \titleformat{\chapter} % Config titlesec
 	{\Large\bfseries}	% 

@@ -1,20 +1,36 @@
 \documentclass[../main.tex]{subfiles}
 \begin{document}
 \chapter{Estado del Arte}
-
 \section{Materiales Magnéticos y sus Propiedades}
-
+Debido a que se busca caracterizar las propiedades magnéticas de los materiales de interés en esta tesis, es necesario puntualizar algunas características de interés.
 \subsection{Magnetización}
+La magnetización (M) de un volumen determinado se define como la suma de los momentos magnéticos contenidos dentro de éste. Representa la dirección y fuerza del campo magnético macroscópico resultante.
 
-\subsection{Susceptibilidad}
+Ésta puede ser inducida por un campo magnético externo (H), como se explicará es el caso de los materiales para y diamagnéticos, o ser producto de un orden intrínseco de los átomos que forman el material, como es el caso de los ferro, antiferro y ferrimagnéticos. Sin embargo, incluso en este último caso, el campo magnético externo sigue teniendo efecto en la magnetización.
 
+A excepción únicamente del diamagnetismo, los materiales magnéticos dependen de la alineación de sus momentos de espín, lo cual se traduce en una dependencia de la magnetización y la susceptibilidad magnética en la temperatura, debido a que el ordenamiento de los momentos se ve afectado por el movimiento causado por la temperatura \cite{coey2010magnetism}.
+\subsection{Susceptibilidad Magnética}
+Esta propiedad es una medida de la respuesta de un material a un campo magnético externo. Es la capacidad de un material de ser magnetizado al ser expuesto a un campo externo \cite{coey2010magnetism}.
+
+La susceptibilidad ($\pmb{\chi}$) para materiales lineales e anisótropos se expresa a través de un tensor de 3x3, cuyas componentes $\chi_{ii}$ describen la respuesta en cada eje principal, y las componentes $\chi_{ij}$, $i\neq j$ los acoplamientos entre diferentes direcciones de la magnetización y el campo magnético externo. Es decir, de forma general:
+$$\pmb{M}=\pmb{\chi}\cdot\pmb{H}$$
+Si el material fuera además isótropo, esta relación se simplifica, debido a que ahora $\chi_{ij}=\delta_{ij}\chi$, con $\delta{ij}$ una delta de Kronecker. Por lo cual, se reemplaza el tensor $\pmb{\chi}$ con un escalar $\chi$:
+$$\pmb{M}=\chi\pmb{H}\iff\chi=\dfrac{M_i}{H_i}$$
+Sin embargo, la relación entre la magnetización y el campo externo no siempre es lineal, sino que presenta comportamientos más complejos, lo cual da origen a fenómenos como la histéresis.
 \subsection{Tipos de Materiales Magnéticos}
-
+Clasificando a través de su respuesta a campos externos, podemos dividir los materiales en 5 tipos:
+\begin{itemize}
+\item \textbf{Diamagnéticos:} Cuando un material diamagnético es expuesto a un campo magnético externo, éste presenta una magnetización en el sentido opuesto, es decir, $\chi<0$ \cite{griffiths2023introduction}.
+\item \textbf{Paramagnéticos:}
+\item \textbf{Ferromagnéticos:}
+\item \textbf{Antiferromagnéticos:}
+\item \textbf{Ferrimagnéticos:} 
+\end{itemize}
 \subsection{Histéresis}
-
+La histéresis 
 \section{Ortoferritas de Tierras Raras}
 
-\subsection{Propiedades Magnéticas de las Ortoferritas de Tierras Raras}
+\subsection{Propiedades Magnéticas}
 
 \subsection{Aplicaciones}
 \end{document}

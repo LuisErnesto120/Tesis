@@ -1,13 +1,18 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  4 DEC 2024 18:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  2 DEC 2024 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/PC/Desktop/Git/Tesis/TeX/main.tex
-(c:/Users/PC/Desktop/Git/Tesis/TeX/main.tex
+**"c:/Users/PC/Desktop/Git/Tesis/TeX/5. Resultados/5. Resultados.tex"
+(c:/Users/PC/Desktop/Git/Tesis/TeX/5. Resultados/5. Resultados.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
-(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
+Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
+Preamble taken from file `../main.tex'
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+) (C:\Users\PC\Desktop\Git\Tesis\TeX\main.tex (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
 File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
@@ -985,8 +990,6 @@ File: lgrenc.dfu 2023-03-21 1.9 UTF-8 support for Greek
 File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
 ))
 Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/*}. on input line 69.
-) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
-Package: import 2020/04/01  v 6.2
 ) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
@@ -1372,43 +1375,43 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen269
 \titlewidthlast=\dimen270
 \titlewidthfirst=\dimen271
-)
+)))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (main.aux
+ (C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.aux
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 )
-\openout1 = `main.aux'.
+\openout1 = `"5. Resultados.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 60.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 2.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 2.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count495
@@ -1428,21 +1431,21 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 60.
- (main.out) (main.out)
+Package hyperref Info: Link coloring OFF on input line 2.
+ (C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.out) (C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.out)
 \@outlinefile=\write5
-\openout5 = `main.out'.
+\openout5 = `"5. Resultados.out"'.
 
 \symgns@font=\mathgroup12
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 60.
-Package gensymb Info: Math companion symbols declared on input line 60.
-LaTeX Info: Redefining \degree on input line 60.
-LaTeX Info: Redefining \celsius on input line 60.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 60.
-LaTeX Info: Redefining \ohm on input line 60.
-Package gensymb Info: Using \textohm for \ohm on input line 60.
-Package gensymb Info: Using \textmu for \micro on input line 60.
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 2.
+Package gensymb Info: Math companion symbols declared on input line 2.
+LaTeX Info: Redefining \degree on input line 2.
+LaTeX Info: Redefining \celsius on input line 2.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 2.
+LaTeX Info: Redefining \ohm on input line 2.
+Package gensymb Info: Using \textohm for \ohm on input line 2.
+Package gensymb Info: Using \textmu for \micro on input line 2.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-dictionary-English.dict
 Dictionary: glossaries-dictionary, Language: English 
 ) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-spanish\glossaries-dictionary-Spanish.dict
@@ -1495,15 +1498,15 @@ File: spanish.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `main.bcf'.
+\openout4 = `"5. Resultados.bcf"'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
-Package biblatex Info: Reference section=0 on input line 60.
-Package biblatex Info: Reference segment=0 on input line 60.
+Package biblatex Info: ... file '"5. Resultados".bbl' found.
+ (C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.bbl)
+Package biblatex Info: Reference section=0 on input line 2.
+Package biblatex Info: Reference segment=0 on input line 2.
 
-Package chemgreek Info: Activating mapping `default' on line 60.
+Package chemgreek Info: Activating mapping `default' on line 2.
 
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -1511,142 +1514,11 @@ Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-<0. Portada/0. Portada.pdf, id=131, 614.295pt x 794.97pt>
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf  used on input line 63.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf  used on input line 63.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<0. Portada/0. Portada.pdf, id=134, page=1, 614.295pt x 794.97pt>
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 63.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 63.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 63.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 63.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: 0. Portada/0. Portada.pdf Graphic file (type pdf)
-<use 0. Portada/0. Portada.pdf, page 1>
-Package pdftex.def Info: 0. Portada/0. Portada.pdf , page1 used on input line 63.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [1
-
-
-
- <./0. Portada/0. Portada.pdf{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}>] [2
-
-]
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 71.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 71.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [3{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [4
-
-] [5]
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
- [6
-
-] (main.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 2.
-
-
-Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
-(spanish)                faked small caps on input line 2.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
-(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 6.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [7])
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
- [8] (1. Resumen/1. Resumen.tex
 Cap\'{\i }tulo 1.
-) (2. Introduccion/2. Introduccion.tex [1
+[1
 
 
-]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [2
-
-]
-Cap\'{\i }tulo 2.
-) (3. Estado del Arte/3. Estado del Arte.tex [3]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [4
-
-]
-Cap\'{\i }tulo 3.
-[5{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]) (4. Metodologia/4. Metodologia.tex
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [6]
-Cap\'{\i }tulo 4.
-) (5. Resultados/5. Resultados.tex [7
-
-]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [8
-
-]
-Cap\'{\i }tulo 5.
-) (6. Conclusion/6. Conclusion.tex [9]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [10
-
-]
-Cap\'{\i }tulo 6.
-) (7. Bibliografia/7. Bibliografia.tex [11]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [12
-
-]
-Cap\'{\i }tulo 7.
-) (8. Anexos/8. Anexos.tex [13]
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [14
-
-]
-Cap\'{\i }tulo 8.
-) [15] (main.aux
+{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.aux
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
@@ -1655,34 +1527,24 @@ LaTeX Info: Redefining \% on input line 14.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 91D2CB584D15D5337C29E0D519777A60;4834.
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
+Package rerunfilecheck Info: File `"5. Resultados".out' has not changed.
+(rerunfilecheck)             Checksum: 8B57B315538E9C9F03E73D12E8D90DE7;1312.
+Package logreq Info: Writing requests to '"5. Resultados".run.xml'.
+\openout1 = `"5. Resultados.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35251 strings out of 474312
- 627181 string characters out of 5740701
- 1940907 words of memory out of 5000000
- 57057 multiletter control sequences out of 15000+600000
- 575309 words of font info for 91 fonts, out of 8000000 for 9000
+ 34693 strings out of 474312
+ 616791 string characters out of 5740701
+ 1934907 words of memory out of 5000000
+ 56668 multiletter control sequences out of 15000+600000
+ 560892 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,17n,117p,2379b,2380s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{cite.0@griffiths2023introduction} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@coey2010magnetism} has been referenced but does not exist, replaced by a fixed one
-
-<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn1200.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (23 pages, 344060 bytes).
+ 114i,5n,134p,2444b,1853s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn1200.pfb>
+Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.pdf" (1 page, 40104 bytes).
 PDF statistics:
- 397 PDF objects out of 1000 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 

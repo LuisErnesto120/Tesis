@@ -16,5 +16,62 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{coey2010magnetism}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5733536a8c334812dd8e088877f7b1d5}{%
+           family={Coey},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima MD},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press}%
+      }
+      \strng{namehash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{fullhash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{fullhashraw}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{bibnamehash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{authorbibnamehash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{authornamehash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{authorfullhash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{authorfullhashraw}{5733536a8c334812dd8e088877f7b1d5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Magnetism and magnetic materials}
+      \field{year}{2010}
+    \endentry
+    \entry{griffiths2023introduction}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a00328547222c4a2a201442ee59dccfd}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{fullhash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{fullhashraw}{a00328547222c4a2a201442ee59dccfd}
+      \strng{bibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorbibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorfullhashraw}{a00328547222c4a2a201442ee59dccfd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to electrodynamics}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

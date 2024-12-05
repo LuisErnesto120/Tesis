@@ -1,9 +1,14 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is '3. Estado del Arte/3. Estado del Arte.blg'
-[232] biber-MSWIN64:340> INFO - === 
-[295] Biber.pm:420> INFO - Reading '3. Estado del Arte/3. Estado del Arte.bcf'
-[528] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[562] bbl.pm:676> INFO - Writing '3. Estado del Arte/3. Estado del Arte.bbl' with encoding 'UTF-8'
-[562] bbl.pm:779> INFO - Output to 3. Estado del Arte/3. Estado del Arte.bbl
-[563] Biber.pm:131> WARN - The file '3. Estado del Arte/3. Estado del Arte.bcf' does not contain any citations!
-[563] Biber.pm:133> INFO - WARNINGS: 1
+[187] biber-MSWIN64:340> INFO - === 
+[239] Biber.pm:420> INFO - Reading '3. Estado del Arte/3. Estado del Arte.bcf'
+[456] Biber.pm:994> INFO - Found 2 citekeys in bib section 0
+[487] Biber.pm:4463> INFO - Processing section 0
+[509] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
+[571] bibtex.pm:1713> INFO - LaTeX decoding ...
+[579] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
+[658] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[659] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[659] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[661] bbl.pm:676> INFO - Writing '3. Estado del Arte/3. Estado del Arte.bbl' with encoding 'UTF-8'
+[663] bbl.pm:779> INFO - Output to 3. Estado del Arte/3. Estado del Arte.bbl

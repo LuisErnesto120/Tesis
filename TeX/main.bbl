@@ -45,6 +45,38 @@
       \field{title}{Magnetism and magnetic materials}
       \field{year}{2010}
     \endentry
+    \entry{Prasad2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=3a726a7635875c69dee386aa419a7682}{%
+           family={Prasad},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{3a726a7635875c69dee386aa419a7682}
+      \strng{fullhash}{3a726a7635875c69dee386aa419a7682}
+      \strng{fullhashraw}{3a726a7635875c69dee386aa419a7682}
+      \strng{bibnamehash}{3a726a7635875c69dee386aa419a7682}
+      \strng{authorbibnamehash}{3a726a7635875c69dee386aa419a7682}
+      \strng{authornamehash}{3a726a7635875c69dee386aa419a7682}
+      \strng{authorfullhash}{3a726a7635875c69dee386aa419a7682}
+      \strng{authorfullhashraw}{3a726a7635875c69dee386aa419a7682}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783031320842}
+      \field{journaltitle}{Physics and Technology for Engineers: Understanding Materials and Sustainability}
+      \field{month}{6}
+      \field{title}{Physics and technology for engineers: Understanding materials and sustainability}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1007/978-3-031-32084-2/COVER
+      \endverb
+    \endentry
     \entry{griffiths2023introduction}{book}{}{}
       \name{author}{1}{}{%
         {{hash=a00328547222c4a2a201442ee59dccfd}{%
@@ -64,14 +96,43 @@
       \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
       \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
       \strng{authorfullhashraw}{a00328547222c4a2a201442ee59dccfd}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Introduction to electrodynamics}
       \field{year}{2023}
       \field{pages}{255\bibrangedash 258}
       \range{pages}{4}
+    \endentry
+    \entry{Buschow2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5c4718bc5cca772fcce6968f9a9a34f7}{%
+           family={Buschow},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi H.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{fullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{fullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{bibnamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authorbibnamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authornamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authorfullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authorfullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{month}{12}
+      \field{title}{Handbook of Magnetic Materials}
+      \field{volume}{15}
+      \field{year}{2003}
     \endentry
     \entry{sonicaciondef}{book}{}{}
       \name{author}{1}{}{%
@@ -89,8 +150,8 @@
       \strng{authornamehash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
       \strng{authorfullhash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
       \strng{authorfullhashraw}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{Rev. 4-16}
@@ -112,8 +173,8 @@
       \strng{authornamehash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhashraw}{883888a79180ecb0cd7bb36db3dbe683}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://measurlabs.com/methods/thermogravimetric-analysis-tga/}}
@@ -135,8 +196,8 @@
       \strng{authornamehash}{b1506d795713a78166436180a3b569b3}
       \strng{authorfullhash}{b1506d795713a78166436180a3b569b3}
       \strng{authorfullhashraw}{b1506d795713a78166436180a3b569b3}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Introduction_to_Materials_Characterization__CHM_412_Collaborative_Text/Thermal_Analysis/Thermogravimetric_analysis_(TGA)}}
@@ -164,8 +225,8 @@
       \strng{authornamehash}{6adcddf836f71e754b0efe50729f1efa}
       \strng{authorfullhash}{6adcddf836f71e754b0efe50729f1efa}
       \strng{authorfullhashraw}{6adcddf836f71e754b0efe50729f1efa}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://serc.carleton.edu/research_education/geochemsheets/techniques/XRD.html}}
@@ -210,8 +271,8 @@
       \strng{authornamehash}{d724738c3b9d7910bcbca62cacc6f87b}
       \strng{authorfullhash}{3c6190f166a6416b53fd581710b3b258}
       \strng{authorfullhashraw}{3c6190f166a6416b53fd581710b3b258}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{20054602}
@@ -275,8 +336,8 @@
       \strng{authornamehash}{8bb0715a111dbadfec10c83514983109}
       \strng{authorfullhash}{8bb0715a111dbadfec10c83514983109}
       \strng{authorfullhashraw}{8bb0715a111dbadfec10c83514983109}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Bravais Lattice: Definition, Types, and Structure}
@@ -312,8 +373,8 @@
       \strng{authornamehash}{c4f588658d947883367cf33e82a0728f}
       \strng{authorfullhash}{c4f588658d947883367cf33e82a0728f}
       \strng{authorfullhashraw}{c4f588658d947883367cf33e82a0728f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3}

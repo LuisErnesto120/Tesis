@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber main"] 1733446647.40936 "main.bcf" "main.bbl" "main" 1733446837.98261 0
-  "bib.bib" 1733444667.49621 2473 65264c18a282f6788d62566a3424a74a ""
-  "main.bcf" 1733446837.07441 109184 7a4798a5922ff4b1df891fd1e3bb8471 "pdflatex"
+["biber main"] 1733453529.0894 "main.bcf" "main.bbl" "main" 1733454328.27037 0
+  "bib.bib" 1733453510.83299 3073 459ccdb7aeea6d10a4fd7dba7886afe1 ""
+  "main.bcf" 1733454327.15612 109750 0f10deb7f403904a81ebdd52f33e103f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1733446828.85266 "c:/Users/PC/Desktop/Git/Tesis/TeX/main.tex" "main.pdf" "main" 1733446837.98461 0
+["pdflatex"] 1733454317.56457 "c:/Users/PC/Desktop/Git/Tesis/TeX/main.tex" "main.pdf" "main" 1733454328.27305 0
   "0. Portada/0. Portada.pdf" 1733176898 136009 27134dac86358ba98a47502ef49b95f5 ""
   "1. Resumen/1. Resumen.tex" 1733178712.55663 90 c4aaebd46d2341652c33c61afc7fd614 ""
   "2. Introduccion/2. Introduccion.tex" 1733179472.12635 96 6ee0c500e9b563b02e01d9fd73fcaccd ""
-  "3. Estado del Arte/3. Estado del Arte.tex" 1733377391.23301 4195 64f84d51522b5a80b71c4892f86f039c ""
+  "3. Estado del Arte/3. Estado del Arte.tex" 1733454304.31458 7872 8cea4ead0d1559f3fcb97e41077a3a7c ""
   "4. Metodologia/4. Metodologia.tex" 1733446827.6052 11544 294598475475da63aa3e0803d87aecf3 ""
   "5. Resultados/5. Resultados.tex" 1733191140.67809 566 5796971ba5eeec89b943ad6481767654 ""
   "6. Conclusion/6. Conclusion.tex" 1733178560.40742 94 e7b49ed9ff7732b73ab94088af103047 ""
@@ -266,13 +266,15 @@
   "fig/2.png" 1733382221.26244 1363652 dac091f69da400488c3ff7122339b62d ""
   "fig/DRXdiag.png" 1733421417.70231 52885 386aa1182b9fd05b8d6febde4b0c9f20 ""
   "fig/bravais.png" 1733441607.61943 447162 f63f8906533731145b2309c1ce96bee2 ""
+  "fig/histeresis1.jpg" 1733453945.98484 127889 75927abed03319dd0170bec808007f84 ""
   "fig/miller.png" 1733446449.70722 35459 213586e0ba5abefb9eaf0de5812895eb ""
   "fig/tgadiag.png" 1733385745.00861 82575 2c8dc9f58a800e42528c050ca7f01426 ""
-  "main.aux" 1733446837.0414 12096 6d05cf10c1dd33fb3ae03c69dacf13e1 "pdflatex"
-  "main.bbl" 1733446651.30781 14023 c0e845e42fd18bfc53145438b10bb84a "biber main"
-  "main.out" 1733446837.06241 4958 1d7d875f1fbd9be236a904e32985fa09 "pdflatex"
-  "main.run.xml" 1733446837.07741 2371 21149cf7338497cabc9d44bc070debbe "pdflatex"
-  "main.toc" 1733446837.07849 4655 37689d12dcc745681f6c249a3a7a8e66 "pdflatex"
+  "fig/types.png" 1733449230.77687 150052 215452ed920893293508e968af2c9b74 ""
+  "main.aux" 1733454327.12311 13674 fab214527994a3f8902ae8a0c68025c3 "pdflatex"
+  "main.bbl" 1733453534.12534 16654 70ebe384caf236e20e73f4f227ddeba3 "biber main"
+  "main.out" 1733454327.14412 4958 3131a768e83c2f223e66d7cc5aeb1e80 "pdflatex"
+  "main.run.xml" 1733454327.16012 2371 21149cf7338497cabc9d44bc070debbe "pdflatex"
+  "main.toc" 1733454327.16012 4656 2daed09bdac82ae244fc9a733d37aded "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

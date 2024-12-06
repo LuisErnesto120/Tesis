@@ -28,7 +28,7 @@
            giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Cambridge university press}%
+        {Cambridge University Press}%
       }
       \strng{namehash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{fullhash}{5733536a8c334812dd8e088877f7b1d5}
@@ -44,6 +44,38 @@
       \field{labeltitlesource}{title}
       \field{title}{Magnetism and magnetic materials}
       \field{year}{2010}
+    \endentry
+    \entry{Prasad2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=3a726a7635875c69dee386aa419a7682}{%
+           family={Prasad},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{3a726a7635875c69dee386aa419a7682}
+      \strng{fullhash}{3a726a7635875c69dee386aa419a7682}
+      \strng{fullhashraw}{3a726a7635875c69dee386aa419a7682}
+      \strng{bibnamehash}{3a726a7635875c69dee386aa419a7682}
+      \strng{authorbibnamehash}{3a726a7635875c69dee386aa419a7682}
+      \strng{authornamehash}{3a726a7635875c69dee386aa419a7682}
+      \strng{authorfullhash}{3a726a7635875c69dee386aa419a7682}
+      \strng{authorfullhashraw}{3a726a7635875c69dee386aa419a7682}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783031320842}
+      \field{journaltitle}{Physics and Technology for Engineers: Understanding Materials and Sustainability}
+      \field{month}{6}
+      \field{title}{Physics and technology for engineers: Understanding materials and sustainability}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1007/978-3-031-32084-2/COVER
+      \endverb
     \endentry
     \entry{griffiths2023introduction}{book}{}{}
       \name{author}{1}{}{%
@@ -64,12 +96,43 @@
       \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
       \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
       \strng{authorfullhashraw}{a00328547222c4a2a201442ee59dccfd}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Introduction to electrodynamics}
       \field{year}{2023}
+      \field{pages}{255\bibrangedash 258}
+      \range{pages}{4}
+    \endentry
+    \entry{Buschow2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5c4718bc5cca772fcce6968f9a9a34f7}{%
+           family={Buschow},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi H.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{fullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{fullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{bibnamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authorbibnamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authornamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authorfullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authorfullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{month}{12}
+      \field{title}{Handbook of Magnetic Materials}
+      \field{volume}{15}
+      \field{year}{2003}
     \endentry
   \enddatalist
 \endrefsection

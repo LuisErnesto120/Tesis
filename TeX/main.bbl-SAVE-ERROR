@@ -261,6 +261,33 @@
       \field{pages}{64\bibrangedash 68}
       \range{pages}{5}
     \endentry
+    \entry{ScienceFacts2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=8bb0715a111dbadfec10c83514983109}{%
+           family={ScienceFacts},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bb0715a111dbadfec10c83514983109}
+      \strng{fullhash}{8bb0715a111dbadfec10c83514983109}
+      \strng{fullhashraw}{8bb0715a111dbadfec10c83514983109}
+      \strng{bibnamehash}{8bb0715a111dbadfec10c83514983109}
+      \strng{authorbibnamehash}{8bb0715a111dbadfec10c83514983109}
+      \strng{authornamehash}{8bb0715a111dbadfec10c83514983109}
+      \strng{authorfullhash}{8bb0715a111dbadfec10c83514983109}
+      \strng{authorfullhashraw}{8bb0715a111dbadfec10c83514983109}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bravais Lattice: Definition, Types, and Structure}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.sciencefacts.net/bravais-lattice.html
+      \endverb
+      \verb{url}
+      \verb https://www.sciencefacts.net/bravais-lattice.html
+      \endverb
+    \endentry
     \entry{Cullity2014}{book}{}{}
       \name{author}{2}{}{%
         {{hash=381a87a0ac1c7336c9343ac57d754305}{%
@@ -292,33 +319,6 @@
       \field{edition}{3}
       \field{title}{Elements of X-Ray Diffraction}
       \field{year}{2014}
-    \endentry
-    \entry{ScienceFacts2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=8bb0715a111dbadfec10c83514983109}{%
-           family={ScienceFacts},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{8bb0715a111dbadfec10c83514983109}
-      \strng{fullhash}{8bb0715a111dbadfec10c83514983109}
-      \strng{fullhashraw}{8bb0715a111dbadfec10c83514983109}
-      \strng{bibnamehash}{8bb0715a111dbadfec10c83514983109}
-      \strng{authorbibnamehash}{8bb0715a111dbadfec10c83514983109}
-      \strng{authornamehash}{8bb0715a111dbadfec10c83514983109}
-      \strng{authorfullhash}{8bb0715a111dbadfec10c83514983109}
-      \strng{authorfullhashraw}{8bb0715a111dbadfec10c83514983109}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Bravais Lattice: Definition, Types, and Structure}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://www.sciencefacts.net/bravais-lattice.html
-      \endverb
-      \verb{url}
-      \verb https://www.sciencefacts.net/bravais-lattice.html
-      \endverb
     \endentry
   \enddatalist
 \endrefsection

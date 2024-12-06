@@ -1,25 +1,25 @@
 # Fdb version 4
-["biber 3. Estado del Arte/3. Estado del Arte"] 1733358350.63525 "3. Estado del Arte/3. Estado del Arte.bcf" "3. Estado del Arte/3. Estado del Arte.bbl" "3. Estado del Arte/3. Estado del Arte" 1733376983.88183 0
-  "3. Estado del Arte/3. Estado del Arte.bcf" 1733376983.23843 107925 883fd1e94f64d1009027bdeadc2a256c "pdflatex"
-  "bib.bib" 1733358297.92303 330 1c194c217ce2c36a1696d4b6d0d0da79 ""
+["biber 3. Estado del Arte/3. Estado del Arte"] 1733453591.53185 "3. Estado del Arte/3. Estado del Arte.bcf" "3. Estado del Arte/3. Estado del Arte.bbl" "3. Estado del Arte/3. Estado del Arte" 1733454341.47701 0
+  "3. Estado del Arte/3. Estado del Arte.bcf" 1733454340.55255 108485 d879f3ec6776febd918ddd0dbb3c7064 "pdflatex"
+  "bib.bib" 1733453510.83299 3073 459ccdb7aeea6d10a4fd7dba7886afe1 ""
   (generated)
   "3. Estado del Arte/3. Estado del Arte.bbl"
   "3. Estado del Arte/3. Estado del Arte.blg"
   (rewritten before read)
-["biber C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte"] 1733358346.83481 "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bcf" "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl" "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte" 1733376983.88002 0
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bcf" 1733376983.23843 107925 883fd1e94f64d1009027bdeadc2a256c ""
-  "bib.bib" 1733358297.92303 330 1c194c217ce2c36a1696d4b6d0d0da79 ""
+["biber C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte"] 1733453586.76041 "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bcf" "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl" "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte" 1733454341.47476 0
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bcf" 1733454340.55255 108485 d879f3ec6776febd918ddd0dbb3c7064 ""
+  "bib.bib" 1733453510.83299 3073 459ccdb7aeea6d10a4fd7dba7886afe1 ""
   (generated)
   "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl"
   "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.blg"
   (rewritten before read)
-["pdflatex"] 1733376980.23497 "c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex" "3. Estado del Arte/3. Estado del Arte.pdf" "3. Estado del Arte" 1733376983.88358 0
-  "3. Estado del Arte/../main.tex" 1733206380.52124 3129 157b616dc6bba513354c10965830fe1e ""
-  "3. Estado del Arte/3. Estado del Arte.aux" 1733376983.21734 1993 34bda0f9c4d251dda21517896c63b2e5 "pdflatex"
-  "3. Estado del Arte/3. Estado del Arte.bbl" 1733358354.2269 2899 a8527cc90d4ec60ffaf66e4bc6c8b7f8 "biber 3. Estado del Arte/3. Estado del Arte"
-  "3. Estado del Arte/3. Estado del Arte.out" 1733376983.22343 1552 020d1d6a45ffcb73c24b231a64390ec4 "pdflatex"
-  "3. Estado del Arte/3. Estado del Arte.run.xml" 1733376983.24134 2483 0d12e06003455f114d16d1204b6ed192 "pdflatex"
-  "C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733188133.60701 182663 8a8647167012e1778c6bdf8e7ba3d50e ""
+["pdflatex"] 1733454335.69053 "c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex" "3. Estado del Arte/3. Estado del Arte.pdf" "3. Estado del Arte" 1733454341.47918 0
+  "3. Estado del Arte/../main.tex" 1733420060.08604 3168 9958a160baefd508131bd7ef5fb989b6 ""
+  "3. Estado del Arte/3. Estado del Arte.aux" 1733454340.53655 3407 25178e25800ee24d66d20cf1bb7c5671 "pdflatex"
+  "3. Estado del Arte/3. Estado del Arte.bbl" 1733453596.20132 5597 128a9d7a08e9f8e819b2e164ad83bce7 "biber 3. Estado del Arte/3. Estado del Arte"
+  "3. Estado del Arte/3. Estado del Arte.out" 1733454340.54255 1552 020d1d6a45ffcb73c24b231a64390ec4 "pdflatex"
+  "3. Estado del Arte/3. Estado del Arte.run.xml" 1733454340.55555 2483 0d12e06003455f114d16d1204b6ed192 "pdflatex"
+  "C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733418613.1412 182663 8a8647167012e1778c6bdf8e7ba3d50e ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1716864877.11816 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1716864878.39123 684 3a51bd4fd9600428d5264cf25f04bb9a ""
   "C:/Users/PC/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1716864276.89939 24242556 4d96062cc52ad267d65fbfbe12c9f0b1 ""
@@ -39,6 +39,7 @@
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
@@ -65,6 +66,7 @@
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 fa121aac0049305630cf160b86157ee4 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 70d41d2b9ea31d5d813066df7c99281c ""
+  "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb" 1247596666 34586 5a65dc15601f9c74fe3fb3f37b3b8b6f ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb" 1168810947 229585 bdba772a656e8a0005d66210fc9c2be0 ""
@@ -230,12 +232,14 @@
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/xfor/xfor.sty" 1233849756 2689 44855b72da58344b1c1d9b3087bce6ca ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.aux" 1733376983.21734 1993 34bda0f9c4d251dda21517896c63b2e5 ""
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl" 1733358354.2269 2899 a8527cc90d4ec60ffaf66e4bc6c8b7f8 "biber C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte"
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.out" 1733376983.22343 1552 020d1d6a45ffcb73c24b231a64390ec4 ""
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/main.tex" 1733206380.52124 3129 157b616dc6bba513354c10965830fe1e ""
-  "c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex" 1733376974.41063 4147 1871349196b986503d7d559b5d400a53 ""
-  "main.tex" 1733206380.52124 3129 157b616dc6bba513354c10965830fe1e ""
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.aux" 1733454340.53655 3407 25178e25800ee24d66d20cf1bb7c5671 ""
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl" 1733453596.20132 5597 128a9d7a08e9f8e819b2e164ad83bce7 "biber C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte"
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.out" 1733454340.54255 1552 020d1d6a45ffcb73c24b231a64390ec4 ""
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/main.tex" 1733420060.08604 3168 9958a160baefd508131bd7ef5fb989b6 ""
+  "c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex" 1733454304.31458 7872 8cea4ead0d1559f3fcb97e41077a3a7c ""
+  "fig/histeresis1.jpg" 1733453945.98484 127889 75927abed03319dd0170bec808007f84 ""
+  "fig/types.png" 1733449230.77687 150052 215452ed920893293508e968af2c9b74 ""
+  "main.tex" 1733420060.08604 3168 9958a160baefd508131bd7ef5fb989b6 ""
   (generated)
   "3. Estado del Arte/3. Estado del Arte.aux"
   "3. Estado del Arte/3. Estado del Arte.bcf"

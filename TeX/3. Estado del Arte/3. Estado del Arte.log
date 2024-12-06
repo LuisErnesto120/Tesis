@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  4 DEC 2024 23:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  5 DEC 2024 21:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -52,9 +52,6 @@ Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks19
 \es@quotdepth=\count266
 Package babel Info: Making " an active character on input line 570.
-Package babel Info: Making . an active character on input line 675.
-Package babel Info: Making < an active character on input line 722.
-Package babel Info: Making > an active character on input line 722.
 )) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
@@ -1381,8 +1378,8 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
  (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
 )
 \openout1 = `"3. Estado del Arte.aux"'.
 
@@ -1530,12 +1527,31 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 
 {C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
- [2] (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
-LaTeX Info: Redefining \sptext on input line 18.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+<fig/types.png, id=54, 1117.92656pt x 856.70062pt>
+File: fig/types.png Graphic file (type png)
+<use fig/types.png>
+Package pdftex.def Info: fig/types.png  used on input line 25.
+(pdftex.def)             Requested size: 330.42041pt x 253.20816pt.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [2 <./fig/types.png>]
+<fig/histeresis1.jpg, id=76, 603.7423pt x 493.09885pt>
+File: fig/histeresis1.jpg Graphic file (type jpg)
+<use fig/histeresis1.jpg>
+Package pdftex.def Info: fig/histeresis1.jpg  used on input line 45.
+(pdftex.def)             Requested size: 259.6186pt x 212.04341pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [3]
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+ [4 <./fig/histeresis1.jpg>] (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+LaTeX Info: Redefining \sptext on input line 15.
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -1548,23 +1564,29 @@ Package logreq Info: Writing requests to '"3. Estado del Arte".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35018 strings out of 474312
- 623248 string characters out of 5740701
+ 34978 strings out of 474312
+ 622969 string characters out of 5740701
  1941907 words of memory out of 5000000
- 56949 multiletter control sequences out of 15000+600000
- 571367 words of font info for 82 fonts, out of 8000000 for 9000
+ 56903 multiletter control sequences out of 15000+600000
+ 571667 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,6n,134p,2454b,1853s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,7n,134p,2454b,1955s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{cite.0@Buschow2003} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{cite.0@griffiths2023introduction} has been referenced but does not exist, replaced by a fixed one
 
 
+pdfTeX warning (dest): name{cite.0@Prasad2023} has been referenced but does not exist, replaced by a fixed one
+
+
 pdfTeX warning (dest): name{cite.0@coey2010magnetism} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf" (2 pages, 100949 bytes).
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf" (4 pages, 366038 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

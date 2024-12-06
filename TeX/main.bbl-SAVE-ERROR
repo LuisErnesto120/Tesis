@@ -16,5 +16,311 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{coey2010magnetism}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5733536a8c334812dd8e088877f7b1d5}{%
+           family={Coey},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima MD},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{fullhash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{fullhashraw}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{bibnamehash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{authorbibnamehash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{authornamehash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{authorfullhash}{5733536a8c334812dd8e088877f7b1d5}
+      \strng{authorfullhashraw}{5733536a8c334812dd8e088877f7b1d5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Magnetism and magnetic materials}
+      \field{year}{2010}
+    \endentry
+    \entry{griffiths2023introduction}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a00328547222c4a2a201442ee59dccfd}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{fullhash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{fullhashraw}{a00328547222c4a2a201442ee59dccfd}
+      \strng{bibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorbibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorfullhashraw}{a00328547222c4a2a201442ee59dccfd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to electrodynamics}
+      \field{year}{2023}
+      \field{pages}{255\bibrangedash 258}
+      \range{pages}{4}
+    \endentry
+    \entry{sonicaciondef}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=fc8694d8a8aa3dfccf7f4e0b7318bb83}{%
+           family={Qsonica},
+           familyi={Q\bibinitperiod},
+           given={LLC},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
+      \strng{fullhash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
+      \strng{fullhashraw}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
+      \strng{bibnamehash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
+      \strng{authorbibnamehash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
+      \strng{authornamehash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
+      \strng{authorfullhash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
+      \strng{authorfullhashraw}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Rev. 4-16}
+      \field{title}{Sonicator ULTRASONIC PROCESSOR Part No. Q500 OPERATION MANUAL}
+      \field{pages}{7\bibrangedash 8}
+      \range{pages}{2}
+    \endentry
+    \entry{TGADIAG}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=883888a79180ecb0cd7bb36db3dbe683}{%
+           family={Measurlabs},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{883888a79180ecb0cd7bb36db3dbe683}
+      \strng{fullhash}{883888a79180ecb0cd7bb36db3dbe683}
+      \strng{fullhashraw}{883888a79180ecb0cd7bb36db3dbe683}
+      \strng{bibnamehash}{883888a79180ecb0cd7bb36db3dbe683}
+      \strng{authorbibnamehash}{883888a79180ecb0cd7bb36db3dbe683}
+      \strng{authornamehash}{883888a79180ecb0cd7bb36db3dbe683}
+      \strng{authorfullhash}{883888a79180ecb0cd7bb36db3dbe683}
+      \strng{authorfullhashraw}{883888a79180ecb0cd7bb36db3dbe683}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://measurlabs.com/methods/thermogravimetric-analysis-tga/}}
+      \field{title}{Thermogravimetric analysis}
+    \endentry
+    \entry{TGA}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b1506d795713a78166436180a3b569b3}{%
+           family={Garcia-Herrera},
+           familyi={G\bibinithyphendelim H\bibinitperiod},
+           given={Luis\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1506d795713a78166436180a3b569b3}
+      \strng{fullhash}{b1506d795713a78166436180a3b569b3}
+      \strng{fullhashraw}{b1506d795713a78166436180a3b569b3}
+      \strng{bibnamehash}{b1506d795713a78166436180a3b569b3}
+      \strng{authorbibnamehash}{b1506d795713a78166436180a3b569b3}
+      \strng{authornamehash}{b1506d795713a78166436180a3b569b3}
+      \strng{authorfullhash}{b1506d795713a78166436180a3b569b3}
+      \strng{authorfullhashraw}{b1506d795713a78166436180a3b569b3}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Introduction_to_Materials_Characterization__CHM_412_Collaborative_Text/Thermal_Analysis/Thermogravimetric_analysis_(TGA)}}
+      \field{title}{Thermogravimetric analysis (TGA)}
+      \field{year}{2020}
+    \endentry
+    \entry{dutrowxrd}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=a6638628e135dfe3887457668f43e2bd}{%
+           family={Dutrow},
+           familyi={D\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c0e3c92c9877076296dbb5c3d45c7ea4}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6adcddf836f71e754b0efe50729f1efa}
+      \strng{fullhash}{6adcddf836f71e754b0efe50729f1efa}
+      \strng{fullhashraw}{6adcddf836f71e754b0efe50729f1efa}
+      \strng{bibnamehash}{6adcddf836f71e754b0efe50729f1efa}
+      \strng{authorbibnamehash}{6adcddf836f71e754b0efe50729f1efa}
+      \strng{authornamehash}{6adcddf836f71e754b0efe50729f1efa}
+      \strng{authorfullhash}{6adcddf836f71e754b0efe50729f1efa}
+      \strng{authorfullhashraw}{6adcddf836f71e754b0efe50729f1efa}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://serc.carleton.edu/research_education/geochemsheets/techniques/XRD.html}}
+      \field{title}{X-ray Powder Diffraction (XRD)}
+    \endentry
+    \entry{Jung2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=d84ee4e20ead29c869f9e7326a27c5e1}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Hokyoung},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7812e7bafcfa4f3ad7b63497e472706d}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Seonho},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d2ea345be79a07aba48292752ed32bf4}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Youngwook},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=38b4edb4e772e76e676882adbd6a8c84}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Yeongil},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=dd2184286bdb6d81382e89d795df9736}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Haedo},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SpringerOpen}%
+      }
+      \strng{namehash}{d724738c3b9d7910bcbca62cacc6f87b}
+      \strng{fullhash}{3c6190f166a6416b53fd581710b3b258}
+      \strng{fullhashraw}{3c6190f166a6416b53fd581710b3b258}
+      \strng{bibnamehash}{3c6190f166a6416b53fd581710b3b258}
+      \strng{authorbibnamehash}{3c6190f166a6416b53fd581710b3b258}
+      \strng{authornamehash}{d724738c3b9d7910bcbca62cacc6f87b}
+      \strng{authorfullhash}{3c6190f166a6416b53fd581710b3b258}
+      \strng{authorfullhashraw}{3c6190f166a6416b53fd581710b3b258}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{20054602}
+      \field{issue}{1}
+      \field{journaltitle}{International Journal of Precision Engineering and Manufacturing}
+      \field{month}{1}
+      \field{title}{X-ray Diffraction Analysis of Damaged Layer During Polishing of Silicon Carbide}
+      \field{volume}{24}
+      \field{year}{2023}
+      \field{pages}{25\bibrangedash 32}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/S12541-022-00711-5
+      \endverb
+      \keyw{Chemical mechanical polishing,Damaged layer,Full width at half maximum,Silicon carbide,X-ray diffraction}
+    \endentry
+    \entry{Ashcroft1976}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=a2b8f29a9323ac2977edd5b5e7888a84}{%
+           family={Ashcroft},
+           familyi={A\bibinitperiod},
+           given={Neil\bibnamedelima W},
+           giveni={N\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=711617251066ebdd9d8e58c101e03ed3}{%
+           family={Mermin},
+           familyi={M\bibinitperiod},
+           given={N\bibnamedelima David},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harcourt College Publishers}%
+      }
+      \strng{namehash}{f60683403a92a32e002be743cb4a5e4b}
+      \strng{fullhash}{f60683403a92a32e002be743cb4a5e4b}
+      \strng{fullhashraw}{f60683403a92a32e002be743cb4a5e4b}
+      \strng{bibnamehash}{f60683403a92a32e002be743cb4a5e4b}
+      \strng{authorbibnamehash}{f60683403a92a32e002be743cb4a5e4b}
+      \strng{authornamehash}{f60683403a92a32e002be743cb4a5e4b}
+      \strng{authorfullhash}{f60683403a92a32e002be743cb4a5e4b}
+      \strng{authorfullhashraw}{f60683403a92a32e002be743cb4a5e4b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Solid State Physics}
+      \field{year}{1976}
+      \field{pages}{64\bibrangedash 68}
+      \range{pages}{5}
+    \endentry
+    \entry{Cullity2014}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=381a87a0ac1c7336c9343ac57d754305}{%
+           family={Cullity},
+           familyi={C\bibinitperiod},
+           given={B\bibnamedelima D},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e9776418d1caea01917fc6b3aefe195a}{%
+           family={Stock},
+           familyi={S\bibinitperiod},
+           given={S\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{c4f588658d947883367cf33e82a0728f}
+      \strng{fullhash}{c4f588658d947883367cf33e82a0728f}
+      \strng{fullhashraw}{c4f588658d947883367cf33e82a0728f}
+      \strng{bibnamehash}{c4f588658d947883367cf33e82a0728f}
+      \strng{authorbibnamehash}{c4f588658d947883367cf33e82a0728f}
+      \strng{authornamehash}{c4f588658d947883367cf33e82a0728f}
+      \strng{authorfullhash}{c4f588658d947883367cf33e82a0728f}
+      \strng{authorfullhashraw}{c4f588658d947883367cf33e82a0728f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Elements of X-Ray Diffraction}
+      \field{year}{2014}
+    \endentry
+    \entry{ScienceFacts2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=8bb0715a111dbadfec10c83514983109}{%
+           family={ScienceFacts},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bb0715a111dbadfec10c83514983109}
+      \strng{fullhash}{8bb0715a111dbadfec10c83514983109}
+      \strng{fullhashraw}{8bb0715a111dbadfec10c83514983109}
+      \strng{bibnamehash}{8bb0715a111dbadfec10c83514983109}
+      \strng{authorbibnamehash}{8bb0715a111dbadfec10c83514983109}
+      \strng{authornamehash}{8bb0715a111dbadfec10c83514983109}
+      \strng{authorfullhash}{8bb0715a111dbadfec10c83514983109}
+      \strng{authorfullhashraw}{8bb0715a111dbadfec10c83514983109}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bravais Lattice: Definition, Types, and Structure}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.sciencefacts.net/bravais-lattice.html
+      \endverb
+      \verb{url}
+      \verb https://www.sciencefacts.net/bravais-lattice.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

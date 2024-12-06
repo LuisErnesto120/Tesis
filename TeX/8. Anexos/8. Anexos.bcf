@@ -2379,22 +2379,6 @@
     <bcf:datasource type="file" datatype="bibtex">bib.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">coey2010magnetism</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">coey2010magnetism</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">griffiths2023introduction</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">sonicaciondef</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">TGADIAG</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">TGADIAG</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">TGA</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">dutrowxrd</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">Jung2023</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">Jung2023</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Ashcroft1976</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">ScienceFacts2024</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">ScienceFacts2024</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">Cullity2014</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">Cullity2014</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">Cullity2014</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -2406,14 +2390,4 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
-  <bcf:datalist section="0"
-                name="none/global//global/global/global"
-                type="entry"
-                sortingtemplatename="none"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global"
-                namehashtemplatename="global">
-  </bcf:datalist>
 </bcf:controlfile>

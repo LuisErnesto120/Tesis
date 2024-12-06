@@ -1,6 +1,6 @@
-\documentclass[letterpaper,spanish,12pt]{book}
+\documentclass[letterpaper,spanish,12pt,openany]{book}
 \usepackage[utf8]{inputenc}
-\usepackage[spanish,es-tabla]{babel}
+\usepackage[spanish,es-tabla,mexico]{babel}
 \usepackage{csquotes}
 \usepackage{graphicx}
 \usepackage{wrapfig}
@@ -61,6 +61,7 @@
 \frontmatter
 %\subfile{0. Portada/0. Portada.tex}
 \includepdf{0. Portada/0. Portada.pdf}
+\clearpage
 %------------------------------------------
 % DEDICATORIA
 %------------------------------------------
@@ -87,7 +88,6 @@
 \subfile{4. Metodologia/4. Metodologia.tex}
 \subfile{5. Resultados/5. Resultados.tex}
 \subfile{6. Conclusion/6. Conclusion.tex}
-\subfile{7. Bibliografia/7. Bibliografia.tex}
-
+\printbibliography[heading=bibintoc, title={Bibliografía}]
 \subfile{8. Anexos/8. Anexos.tex}
 \end{document}

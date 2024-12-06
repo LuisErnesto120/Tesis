@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  4 DEC 2024 23:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  5 DEC 2024 11:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex"
-(c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex
+**"c:/Users/PC/Desktop/Git/Tesis/TeX/8. Anexos/8. Anexos.tex"
+(c:/Users/PC/Desktop/Git/Tesis/TeX/8. Anexos/8. Anexos.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
@@ -52,9 +52,6 @@ Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks19
 \es@quotdepth=\count266
 Package babel Info: Making " an active character on input line 570.
-Package babel Info: Making . an active character on input line 675.
-Package babel Info: Making < an active character on input line 722.
-Package babel Info: Making > an active character on input line 722.
 )) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
@@ -1380,11 +1377,11 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+ (C:\Users\PC\Desktop\Git\Tesis\TeX\8. Anexos\8. Anexos.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 )
-\openout1 = `"3. Estado del Arte.aux"'.
+\openout1 = `"8. Anexos.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -1432,9 +1429,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 2.
- (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out) (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out)
+ (C:\Users\PC\Desktop\Git\Tesis\TeX\8. Anexos\8. Anexos.out) (C:\Users\PC\Desktop\Git\Tesis\TeX\8. Anexos\8. Anexos.out)
 \@outlinefile=\write5
-\openout5 = `"3. Estado del Arte.out"'.
+\openout5 = `"8. Anexos.out"'.
 
 \symgns@font=\mathgroup12
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
@@ -1498,11 +1495,11 @@ File: spanish.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `"3. Estado del Arte.bcf"'.
+\openout4 = `"8. Anexos.bcf"'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file '"3. Estado del Arte".bbl' found.
- (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl)
+Package biblatex Info: ... file '"8. Anexos".bbl' found.
+ (C:\Users\PC\Desktop\Git\Tesis\TeX\8. Anexos\8. Anexos.bbl)
 Package biblatex Info: Reference section=0 on input line 2.
 Package biblatex Info: Reference segment=0 on input line 2.
 
@@ -1514,57 +1511,37 @@ Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-Cap\'{\i }tulo 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
-(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+Ap\'{e}ndice A.
+[1
 
 
-{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
- [2] (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
-LaTeX Info: Redefining \sptext on input line 18.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (C:\Users\PC\Desktop\Git\Tesis\TeX\8. Anexos\8. Anexos.aux
+LaTeX Info: Redefining \sptext on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
-Package rerunfilecheck Info: File `"3. Estado del Arte".out' has not changed.
-(rerunfilecheck)             Checksum: 020D1D6A45FFCB73C24B231A64390EC4;1552.
-Package logreq Info: Writing requests to '"3. Estado del Arte".run.xml'.
-\openout1 = `"3. Estado del Arte.run.xml"'.
+Package rerunfilecheck Info: File `"8. Anexos".out' has not changed.
+(rerunfilecheck)             Checksum: 69387822E7E1D15490A53E462032AAC8;78.
+Package logreq Info: Writing requests to '"8. Anexos".run.xml'.
+\openout1 = `"8. Anexos.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35018 strings out of 474312
- 623248 string characters out of 5740701
- 1941907 words of memory out of 5000000
- 56949 multiletter control sequences out of 15000+600000
- 571367 words of font info for 82 fonts, out of 8000000 for 9000
+ 34582 strings out of 474312
+ 614970 string characters out of 5740701
+ 1928907 words of memory out of 5000000
+ 56571 multiletter control sequences out of 15000+600000
+ 559280 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,6n,134p,2454b,1853s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{cite.0@griffiths2023introduction} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@coey2010magnetism} has been referenced but does not exist, replaced by a fixed one
-
-<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf" (2 pages, 100949 bytes).
+ 114i,5n,134p,2436b,1837s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\8. Anexos\8. Anexos.pdf" (1 page, 19993 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
 

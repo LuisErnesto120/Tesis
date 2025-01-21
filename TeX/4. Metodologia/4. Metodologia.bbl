@@ -44,6 +44,15 @@
       \field{pages}{7\bibrangedash 8}
       \range{pages}{2}
     \endentry
+    \entry{manualpunta}{article}{}{}
+      \list{publisher}{1}{%
+        {HNZXIB Lab}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{UH-650W Ultrasonic cell crusher (Instructions)}
+    \endentry
     \entry{TGADIAG}{online}{}{}
       \name{author}{1}{}{%
         {{hash=883888a79180ecb0cd7bb36db3dbe683}{%
@@ -58,8 +67,8 @@
       \strng{authornamehash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhashraw}{883888a79180ecb0cd7bb36db3dbe683}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://measurlabs.com/methods/thermogravimetric-analysis-tga/}}
@@ -81,8 +90,8 @@
       \strng{authornamehash}{b1506d795713a78166436180a3b569b3}
       \strng{authorfullhash}{b1506d795713a78166436180a3b569b3}
       \strng{authorfullhashraw}{b1506d795713a78166436180a3b569b3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Introduction_to_Materials_Characterization__CHM_412_Collaborative_Text/Thermal_Analysis/Thermogravimetric_analysis_(TGA)}}
@@ -110,8 +119,8 @@
       \strng{authornamehash}{6adcddf836f71e754b0efe50729f1efa}
       \strng{authorfullhash}{6adcddf836f71e754b0efe50729f1efa}
       \strng{authorfullhashraw}{6adcddf836f71e754b0efe50729f1efa}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://serc.carleton.edu/research_education/geochemsheets/techniques/XRD.html}}
@@ -156,8 +165,8 @@
       \strng{authornamehash}{d724738c3b9d7910bcbca62cacc6f87b}
       \strng{authorfullhash}{3c6190f166a6416b53fd581710b3b258}
       \strng{authorfullhashraw}{3c6190f166a6416b53fd581710b3b258}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{20054602}
@@ -198,8 +207,8 @@
       \strng{authornamehash}{f60683403a92a32e002be743cb4a5e4b}
       \strng{authorfullhash}{f60683403a92a32e002be743cb4a5e4b}
       \strng{authorfullhashraw}{f60683403a92a32e002be743cb4a5e4b}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Solid State Physics}
@@ -221,18 +230,13 @@
       \strng{authornamehash}{8bb0715a111dbadfec10c83514983109}
       \strng{authorfullhash}{8bb0715a111dbadfec10c83514983109}
       \strng{authorfullhashraw}{8bb0715a111dbadfec10c83514983109}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{\url{https://www.sciencefacts.net/bravais-lattice.html}}
       \field{title}{Bravais Lattice: Definition, Types, and Structure}
       \field{year}{2024}
-      \verb{urlraw}
-      \verb https://www.sciencefacts.net/bravais-lattice.html
-      \endverb
-      \verb{url}
-      \verb https://www.sciencefacts.net/bravais-lattice.html
-      \endverb
     \endentry
     \entry{Cullity2014}{book}{}{}
       \name{author}{2}{}{%
@@ -265,6 +269,342 @@
       \field{edition}{3}
       \field{title}{Elements of X-Ray Diffraction}
       \field{year}{2014}
+    \endentry
+    \entry{Rietveld}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e87032dfd7c7e61401cb681397ef0ae4}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Luisa\bibnamedelima Ramón},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Centro de Investigación en Energía}%
+      }
+      \strng{namehash}{e87032dfd7c7e61401cb681397ef0ae4}
+      \strng{fullhash}{e87032dfd7c7e61401cb681397ef0ae4}
+      \strng{fullhashraw}{e87032dfd7c7e61401cb681397ef0ae4}
+      \strng{bibnamehash}{e87032dfd7c7e61401cb681397ef0ae4}
+      \strng{authorbibnamehash}{e87032dfd7c7e61401cb681397ef0ae4}
+      \strng{authornamehash}{e87032dfd7c7e61401cb681397ef0ae4}
+      \strng{authorfullhash}{e87032dfd7c7e61401cb681397ef0ae4}
+      \strng{authorfullhashraw}{e87032dfd7c7e61401cb681397ef0ae4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Introducción al Método Rietveld}
+      \field{year}{2007}
+    \endentry
+    \entry{Fuentes2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9aaf1f6ba86f1baeb56e0d0b64c7c07c}{%
+           family={Fuentes},
+           familyi={F\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sociedad Mexicana de Cristalografía, A. C.}%
+      }
+      \strng{namehash}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
+      \strng{fullhash}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
+      \strng{fullhashraw}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
+      \strng{bibnamehash}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
+      \strng{authorbibnamehash}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
+      \strng{authornamehash}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
+      \strng{authorfullhash}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
+      \strng{authorfullhashraw}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Introducción al Método de Rietveld}
+      \field{year}{2004}
+      \field{pages}{97\bibrangedash 104}
+      \range{pages}{8}
+    \endentry
+    \entry{MAUD}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=50236057fd063b93dd014928a83cef85}{%
+           family={Lutterotti},
+           familyi={L\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Trento}%
+      }
+      \strng{namehash}{50236057fd063b93dd014928a83cef85}
+      \strng{fullhash}{50236057fd063b93dd014928a83cef85}
+      \strng{fullhashraw}{50236057fd063b93dd014928a83cef85}
+      \strng{bibnamehash}{50236057fd063b93dd014928a83cef85}
+      \strng{authorbibnamehash}{50236057fd063b93dd014928a83cef85}
+      \strng{authornamehash}{50236057fd063b93dd014928a83cef85}
+      \strng{authorfullhash}{50236057fd063b93dd014928a83cef85}
+      \strng{authorfullhashraw}{50236057fd063b93dd014928a83cef85}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{MAUD - Material Analysis Using Diffraction}
+      \field{year}{2024}
+    \endentry
+    \entry{COD}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9a6a705f90ef07fad457db1a196640b4}{%
+           family={Day},
+           familyi={D\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a6a705f90ef07fad457db1a196640b4}
+      \strng{fullhash}{9a6a705f90ef07fad457db1a196640b4}
+      \strng{fullhashraw}{9a6a705f90ef07fad457db1a196640b4}
+      \strng{bibnamehash}{9a6a705f90ef07fad457db1a196640b4}
+      \strng{authorbibnamehash}{9a6a705f90ef07fad457db1a196640b4}
+      \strng{authornamehash}{9a6a705f90ef07fad457db1a196640b4}
+      \strng{authorfullhash}{9a6a705f90ef07fad457db1a196640b4}
+      \strng{authorfullhashraw}{9a6a705f90ef07fad457db1a196640b4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{http://www.crystallography.net/cod/}}
+      \field{title}{Crystallography Open Database}
+    \endentry
+    \entry{Egerton2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7f4203b4ffea72d0b91407e42bf2e2d1}{%
+           family={Egerton},
+           familyi={E\bibinitperiod},
+           given={Ray\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{7f4203b4ffea72d0b91407e42bf2e2d1}
+      \strng{fullhash}{7f4203b4ffea72d0b91407e42bf2e2d1}
+      \strng{fullhashraw}{7f4203b4ffea72d0b91407e42bf2e2d1}
+      \strng{bibnamehash}{7f4203b4ffea72d0b91407e42bf2e2d1}
+      \strng{authorbibnamehash}{7f4203b4ffea72d0b91407e42bf2e2d1}
+      \strng{authornamehash}{7f4203b4ffea72d0b91407e42bf2e2d1}
+      \strng{authorfullhash}{7f4203b4ffea72d0b91407e42bf2e2d1}
+      \strng{authorfullhashraw}{7f4203b4ffea72d0b91407e42bf2e2d1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0387258000}
+      \field{journaltitle}{Physical Principles of Electron Microscopy: An Introduction to TEM, SEM, and AEM}
+      \field{title}{Physical principles of electron microscopy: An introduction to TEM, SEM, and AEM}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1007/B136495/COVER
+      \endverb
+    \endentry
+    \entry{Jensen2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=5254ee0e36bb5b8ed53cb31e022e384e}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Wade},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{5254ee0e36bb5b8ed53cb31e022e384e}
+      \strng{fullhash}{5254ee0e36bb5b8ed53cb31e022e384e}
+      \strng{fullhashraw}{5254ee0e36bb5b8ed53cb31e022e384e}
+      \strng{bibnamehash}{5254ee0e36bb5b8ed53cb31e022e384e}
+      \strng{authorbibnamehash}{5254ee0e36bb5b8ed53cb31e022e384e}
+      \strng{authornamehash}{5254ee0e36bb5b8ed53cb31e022e384e}
+      \strng{authorfullhash}{5254ee0e36bb5b8ed53cb31e022e384e}
+      \strng{authorfullhashraw}{5254ee0e36bb5b8ed53cb31e022e384e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{note}{\url{https://deringerney.com/interpreting-images-from-scanning-electron-microscopy/}}
+      \field{title}{Interpreting Images from Scanning Electron Microscopy - Deringer Ney}
+      \field{year}{2022}
+    \endentry
+    \entry{ImageJ}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=19346454842bb742895e536fb596da21}{%
+           family={Rasband},
+           familyi={R\bibinitperiod},
+           given={W\bibnamedelima S},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {U. S. National Institutes of Health}%
+      }
+      \strng{namehash}{19346454842bb742895e536fb596da21}
+      \strng{fullhash}{19346454842bb742895e536fb596da21}
+      \strng{fullhashraw}{19346454842bb742895e536fb596da21}
+      \strng{bibnamehash}{19346454842bb742895e536fb596da21}
+      \strng{authorbibnamehash}{19346454842bb742895e536fb596da21}
+      \strng{authornamehash}{19346454842bb742895e536fb596da21}
+      \strng{authorfullhash}{19346454842bb742895e536fb596da21}
+      \strng{authorfullhashraw}{19346454842bb742895e536fb596da21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ImageJ}
+      \field{year}{2018}
+    \endentry
+    \entry{Stephenson2005}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=580182f03c7a1baecaf2ee51f170aba5}{%
+           family={Stephenson},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{fullhash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{fullhashraw}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{bibnamehash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{authorbibnamehash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{authornamehash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{authorfullhash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{authorfullhashraw}{580182f03c7a1baecaf2ee51f170aba5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{\url{https://empslocal.ex.ac.uk/people/staff/dbs202/cat/courses/MT37C/course/node43.html}}
+      \field{title}{Example 2: Binomial distribution}
+      \field{year}{2005}
+    \endentry
+    \entry{bertaoda}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d96bea3005622192b78d422e648cad7e}{%
+           family={Oda},
+           familyi={O\bibinitperiod},
+           given={Berta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Facultad de Ciencias}%
+      }
+      \strng{namehash}{d96bea3005622192b78d422e648cad7e}
+      \strng{fullhash}{d96bea3005622192b78d422e648cad7e}
+      \strng{fullhashraw}{d96bea3005622192b78d422e648cad7e}
+      \strng{bibnamehash}{d96bea3005622192b78d422e648cad7e}
+      \strng{authorbibnamehash}{d96bea3005622192b78d422e648cad7e}
+      \strng{authornamehash}{d96bea3005622192b78d422e648cad7e}
+      \strng{authorfullhash}{d96bea3005622192b78d422e648cad7e}
+      \strng{authorfullhashraw}{d96bea3005622192b78d422e648cad7e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Introducción al Análisis Gráfico de Datos Experimentales}
+      \field{year}{2017}
+    \endentry
+    \entry{Tom2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=1d2437b0ccc035a0da08d83f7dab16ff}{%
+           family={Tom},
+           familyi={T\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{fullhash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{fullhashraw}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{bibnamehash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{authorbibnamehash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{authornamehash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{authorfullhash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{authorfullhashraw}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Analysis & Separations}
+      \field{month}{12}
+      \field{note}{\url{https://www.technologynetworks.com/analysis/articles/uv-vis-spectroscopy-principle-strengths-and-limitations-and-applications-349865}}
+      \field{title}{UV-Vis Spectroscopy: Principle, Strengths and Limitations and Applications}
+      \field{year}{2023}
+    \endentry
+    \entry{Ozan2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ba640f0e7386e8d56a01f4aa62be4b56}{%
+           family={Bıyıklı},
+           familyi={B\bibinitperiod},
+           given={Ozan},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{fullhash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{fullhashraw}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{bibnamehash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{authorbibnamehash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{authornamehash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{authorfullhash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{authorfullhashraw}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{Manufacturing and characterization of perovskite thin films using novel methods}
+      \field{year}{2020}
+    \endentry
+    \entry{Makula2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=470111cb2d3e2fb2c470a5766ed9f8f2}{%
+           family={Makuła},
+           familyi={M\bibinitperiod},
+           given={Patrycja},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cce3bc302969a72ee98c25bad47d872a}{%
+           family={Pacia},
+           familyi={P\bibinitperiod},
+           given={Michał},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5a910734c335e6a058fba13da167d5f5}{%
+           family={Macyk},
+           familyi={M\bibinitperiod},
+           given={Wojciech},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{039b29214aa4c62d11e49016a5404edf}
+      \strng{fullhash}{fc93aafa20c82090c04d83696c20921d}
+      \strng{fullhashraw}{fc93aafa20c82090c04d83696c20921d}
+      \strng{bibnamehash}{fc93aafa20c82090c04d83696c20921d}
+      \strng{authorbibnamehash}{fc93aafa20c82090c04d83696c20921d}
+      \strng{authornamehash}{039b29214aa4c62d11e49016a5404edf}
+      \strng{authorfullhash}{fc93aafa20c82090c04d83696c20921d}
+      \strng{authorfullhashraw}{fc93aafa20c82090c04d83696c20921d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{19487185}
+      \field{issue}{23}
+      \field{journaltitle}{Journal of Physical Chemistry Letters}
+      \field{month}{12}
+      \field{title}{How To Correctly Determine the Band Gap Energy of Modified Semiconductor Photocatalysts Based on UV-Vis Spectra}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{pages}{6814\bibrangedash 6817}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1021/ACS.JPCLETT.8B02892
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  5 DEC 2024 19:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  20 JAN 2025 23:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1528,54 +1528,121 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 12.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+)
+Underfull \vbox (badness 2671) has occurred while \output is active []
+
+ [1
 
 
-{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./fig/2.png>]
-<fig/tgadiag.png, id=63, 481.3182pt x 285.7074pt>
+{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} <./fig/2.png>]
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+ [2]
+<fig/tgadiag.png, id=76, 481.3182pt x 285.7074pt>
 File: fig/tgadiag.png Graphic file (type png)
 <use fig/tgadiag.png>
-Package pdftex.def Info: fig/tgadiag.png  used on input line 61.
+Package pdftex.def Info: fig/tgadiag.png  used on input line 66.
 (pdftex.def)             Requested size: 330.42041pt x 196.1356pt.
-
-Underfull \vbox (badness 1194) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
- [2{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}]
-<fig/DRXdiag.png, id=78, 221.15958pt x 140.525pt>
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+ [3 <./fig/tgadiag.png>]
+<fig/DRXdiag.png, id=92, 221.15958pt x 140.525pt>
 File: fig/DRXdiag.png Graphic file (type png)
 <use fig/DRXdiag.png>
-Package pdftex.def Info: fig/DRXdiag.png  used on input line 72.
+Package pdftex.def Info: fig/DRXdiag.png  used on input line 77.
 (pdftex.def)             Requested size: 283.22162pt x 179.96143pt.
-LaTeX Info: Redefining \. on input line 75.
-LaTeX Info: Redefining \% on input line 75.
- [3{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} <./fig/tgadiag.png>]
-<fig/bravais.png, id=91, 1129.97156pt x 633.11531pt>
+<fig/bravais.png, id=97, 1129.97156pt x 633.11531pt>
 File: fig/bravais.png Graphic file (type png)
 <use fig/bravais.png>
-Package pdftex.def Info: fig/bravais.png  used on input line 86.
+Package pdftex.def Info: fig/bravais.png  used on input line 94.
 (pdftex.def)             Requested size: 354.02342pt x 198.35039pt.
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+ [4{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolF.enc} <./fig/DRXdiag.png>]
+<fig/braggdiag.png, id=115, 499.8675pt x 267.24844pt>
+File: fig/braggdiag.png Graphic file (type png)
+<use fig/braggdiag.png>
+Package pdftex.def Info: fig/braggdiag.png  used on input line 105.
+(pdftex.def)             Requested size: 330.42041pt x 176.6618pt.
+
+Underfull \vbox (badness 1286) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
+ [5 <./fig/bravais.png>]
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+ [6 <./fig/braggdiag.png>]
+<fig/Rietveld.png, id=148, 986.9372pt x 480.29437pt>
+File: fig/Rietveld.png Graphic file (type png)
+<use fig/Rietveld.png>
+Package pdftex.def Info: fig/Rietveld.png  used on input line 159.
+(pdftex.def)             Requested size: 330.42041pt x 160.79883pt.
+LaTeX Info: Redefining \. on input line 166.
+LaTeX Info: Redefining \% on input line 166.
+ [7 <./fig/Rietveld.png>]
+<fig/semdiag.png, id=166, 640.64343pt x 359.09157pt>
+File: fig/semdiag.png Graphic file (type png)
+<use fig/semdiag.png>
+Package pdftex.def Info: fig/semdiag.png  used on input line 191.
+(pdftex.def)             Requested size: 330.42041pt x 185.21092pt.
+
+Underfull \vbox (badness 1490) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 195.
+LaTeX Info: Redefining \% on input line 195.
+ [8]
+LaTeX Info: Redefining \. on input line 207.
+LaTeX Info: Redefining \% on input line 207.
+ [9 <./fig/semdiag.png>]
+<fig/semtipos.png, id=193, 509.65407pt x 190.46156pt>
+File: fig/semtipos.png Graphic file (type png)
+<use fig/semtipos.png>
+Package pdftex.def Info: fig/semtipos.png  used on input line 210.
+(pdftex.def)             Requested size: 330.42041pt x 123.48466pt.
+<fig/imagejcomp.png, id=200, 1024.04723pt x 251.74495pt>
+File: fig/imagejcomp.png Graphic file (type png)
+<use fig/imagejcomp.png>
+Package pdftex.def Info: fig/imagejcomp.png  used on input line 219.
+(pdftex.def)             Requested size: 330.42041pt x 81.22841pt.
+<fig/ejemplohist.png, id=202, 684.3969pt x 551.1792pt>
+File: fig/ejemplohist.png Graphic file (type png)
+<use fig/ejemplohist.png>
+Package pdftex.def Info: fig/ejemplohist.png  used on input line 226.
+(pdftex.def)             Requested size: 330.42041pt x 266.1105pt.
+LaTeX Info: Redefining \. on input line 230.
+LaTeX Info: Redefining \% on input line 230.
+ [10 <./fig/semtipos.png> <./fig/imagejcomp.png>]
+LaTeX Info: Redefining \. on input line 261.
+LaTeX Info: Redefining \% on input line 261.
+ [11 <./fig/ejemplohist.png>]
+<fig/uvvisdiag.png, id=227, 469.755pt x 143.78719pt>
+File: fig/uvvisdiag.png Graphic file (type png)
+<use fig/uvvisdiag.png>
+Package pdftex.def Info: fig/uvvisdiag.png  used on input line 267.
+(pdftex.def)             Requested size: 330.42041pt x 101.1374pt.
+<fig/bandgapdiag.png, id=234, 396.7322pt x 216.05719pt>
+File: fig/bandgapdiag.png Graphic file (type png)
+<use fig/bandgapdiag.png>
+Package pdftex.def Info: fig/bandgapdiag.png  used on input line 282.
+(pdftex.def)             Requested size: 330.42041pt x 179.94719pt.
+LaTeX Info: Redefining \. on input line 285.
+LaTeX Info: Redefining \% on input line 285.
+ [12 <./fig/uvvisdiag.png>]
+<fig/ejemplotauc.png, id=247, 770.88pt x 578.16pt>
+File: fig/ejemplotauc.png Graphic file (type png)
+<use fig/ejemplotauc.png>
+Package pdftex.def Info: fig/ejemplotauc.png  used on input line 301.
+(pdftex.def)             Requested size: 283.22162pt x 212.4161pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
- [4{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolF.enc} <./fig/DRXdiag.png>]
-<fig/miller.png, id=111, 411.78844pt x 207.02344pt>
-File: fig/miller.png Graphic file (type png)
-<use fig/miller.png>
-Package pdftex.def Info: fig/miller.png  used on input line 93.
-(pdftex.def)             Requested size: 330.42041pt x 166.11807pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 127.
-LaTeX Info: Redefining \% on input line 127.
- [5{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc} <./fig/bravais.png> <./fig/miller.png>]
-LaTeX Info: Redefining \. on input line 127.
-LaTeX Info: Redefining \% on input line 127.
- [6] (C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
+LaTeX Info: Redefining \. on input line 305.
+LaTeX Info: Redefining \% on input line 305.
+ [13 <./fig/bandgapdiag.png>]
+LaTeX Info: Redefining \. on input line 313.
+LaTeX Info: Redefining \% on input line 313.
+ [14 <./fig/ejemplotauc.png (PNG copy)>] (C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
 LaTeX Info: Redefining \sptext on input line 11.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
@@ -1591,13 +1658,49 @@ Package logreq Info: Writing requests to '"4. Metodologia".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35076 strings out of 474312
- 624659 string characters out of 5740701
- 1948907 words of memory out of 5000000
- 56968 multiletter control sequences out of 15000+600000
- 575435 words of font info for 96 fonts, out of 8000000 for 9000
+ 35231 strings out of 474312
+ 628086 string characters out of 5740701
+ 1947907 words of memory out of 5000000
+ 57076 multiletter control sequences out of 15000+600000
+ 576128 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,18n,134p,2446b,2007s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{cite.0@Makula2018} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Ozan2020} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Tom2023} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@bertaoda} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Stephenson2005} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@ImageJ} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Jensen2022} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Egerton2005} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@COD} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@MAUD} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Fuentes2004} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Rietveld} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{cite.0@Cullity2014} has been referenced but does not exist, replaced by a fixed one
 
@@ -1620,12 +1723,15 @@ pdfTeX warning (dest): name{cite.0@TGA} has been referenced but does not exist, 
 pdfTeX warning (dest): name{cite.0@TGADIAG} has been referenced but does not exist, replaced by a fixed one
 
 
+pdfTeX warning (dest): name{cite.0@manualpunta} has been referenced but does not exist, replaced by a fixed one
+
+
 pdfTeX warning (dest): name{cite.0@sonicaciondef} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.pdf" (6 pages, 2247774 bytes).
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.pdf" (14 pages, 6041384 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 354 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 

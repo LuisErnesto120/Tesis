@@ -2418,7 +2418,15 @@
     <bcf:citekey order="37" intorder="1">Jensen2022</bcf:citekey>
     <bcf:citekey order="38" intorder="1">Jensen2022</bcf:citekey>
     <bcf:citekey order="39" intorder="1">ImageJ</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">Makula2018</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">Stephenson2005</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">bertaoda</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">Tom2023</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">Tom2023</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">Tom2023</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">Ashcroft1976</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">Ozan2020</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">Ozan2020</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">Makula2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

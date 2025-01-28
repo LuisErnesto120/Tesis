@@ -573,6 +573,108 @@
       \field{title}{ImageJ}
       \field{year}{2018}
     \endentry
+    \entry{Stephenson2005}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=580182f03c7a1baecaf2ee51f170aba5}{%
+           family={Stephenson},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{fullhash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{fullhashraw}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{bibnamehash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{authorbibnamehash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{authornamehash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{authorfullhash}{580182f03c7a1baecaf2ee51f170aba5}
+      \strng{authorfullhashraw}{580182f03c7a1baecaf2ee51f170aba5}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{\url{https://empslocal.ex.ac.uk/people/staff/dbs202/cat/courses/MT37C/course/node43.html}}
+      \field{title}{Example 2: Binomial distribution}
+      \field{year}{2005}
+    \endentry
+    \entry{bertaoda}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d96bea3005622192b78d422e648cad7e}{%
+           family={Oda},
+           familyi={O\bibinitperiod},
+           given={Berta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Facultad de Ciencias}%
+      }
+      \strng{namehash}{d96bea3005622192b78d422e648cad7e}
+      \strng{fullhash}{d96bea3005622192b78d422e648cad7e}
+      \strng{fullhashraw}{d96bea3005622192b78d422e648cad7e}
+      \strng{bibnamehash}{d96bea3005622192b78d422e648cad7e}
+      \strng{authorbibnamehash}{d96bea3005622192b78d422e648cad7e}
+      \strng{authornamehash}{d96bea3005622192b78d422e648cad7e}
+      \strng{authorfullhash}{d96bea3005622192b78d422e648cad7e}
+      \strng{authorfullhashraw}{d96bea3005622192b78d422e648cad7e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Introducción al Análisis Gráfico de Datos Experimentales}
+      \field{year}{2017}
+    \endentry
+    \entry{Tom2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=1d2437b0ccc035a0da08d83f7dab16ff}{%
+           family={Tom},
+           familyi={T\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{fullhash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{fullhashraw}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{bibnamehash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{authorbibnamehash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{authornamehash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{authorfullhash}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \strng{authorfullhashraw}{1d2437b0ccc035a0da08d83f7dab16ff}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Analysis \& Separations}
+      \field{month}{12}
+      \field{note}{\url{https://www.technologynetworks.com/analysis/articles/uv-vis-spectroscopy-principle-strengths-and-limitations-and-applications-349865}}
+      \field{title}{UV-Vis Spectroscopy: Principle, Strengths and Limitations and Applications}
+      \field{year}{2023}
+    \endentry
+    \entry{Ozan2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ba640f0e7386e8d56a01f4aa62be4b56}{%
+           family={Bıyıklı},
+           familyi={B\bibinitperiod},
+           given={Ozan},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{fullhash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{fullhashraw}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{bibnamehash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{authorbibnamehash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{authornamehash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{authorfullhash}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \strng{authorfullhashraw}{ba640f0e7386e8d56a01f4aa62be4b56}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{Manufacturing and characterization of perovskite thin films using novel methods}
+      \field{year}{2020}
+    \endentry
     \entry{Makula2018}{article}{}{}
       \name{author}{3}{}{%
         {{hash=470111cb2d3e2fb2c470a5766ed9f8f2}{%

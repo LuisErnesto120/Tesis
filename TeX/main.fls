@@ -442,7 +442,6 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm0800.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm
 OUTPUT main.toc
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 INPUT ./1. Resumen/1. Resumen.tex
 INPUT 1. Resumen/1. Resumen.tex
 INPUT ./1. Resumen/1. Resumen.tex
@@ -466,6 +465,7 @@ INPUT fig/types.png
 INPUT ./fig/types.png
 INPUT ./fig/types.png
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 INPUT ./fig/histeresis1.jpg
 INPUT ./fig/histeresis1.jpg
 INPUT fig/histeresis1.jpg
@@ -561,10 +561,21 @@ INPUT ./5. Resultados/5. Resultados.tex
 INPUT 5. Resultados/5. Resultados.tex
 INPUT ./5. Resultados/5. Resultados.tex
 INPUT 5. Resultados/5. Resultados.tex
-INPUT ./fig/2.png
-INPUT ./fig/2.png
-INPUT fig/2.png
-INPUT ./fig/2.png
+INPUT ./fig/diagresultados.png
+INPUT ./fig/diagresultados.png
+INPUT fig/diagresultados.png
+INPUT ./fig/diagresultados.png
+INPUT ./fig/diagresultados.png
+INPUT ./fig/ressem.png
+INPUT ./fig/ressem.png
+INPUT fig/ressem.png
+INPUT ./fig/ressem.png
+INPUT ./fig/ressem.png
+INPUT ./fig/resTamaños.png
+INPUT ./fig/resTamaños.png
+INPUT fig/resTamaños.png
+INPUT ./fig/resTamaños.png
+INPUT ./fig/resTamaños.png
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cbfonts/grxn1200.tfm
 INPUT ./6. Conclusion/6. Conclusion.tex
 INPUT 6. Conclusion/6. Conclusion.tex

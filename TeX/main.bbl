@@ -721,6 +721,142 @@
       \verb 10.1021/ACS.JPCLETT.8B02892
       \endverb
     \endentry
+    \entry{Molino}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=e04c59f46edf842ed2e107bec2fa3205}{%
+           family={MicroNanoTools},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e04c59f46edf842ed2e107bec2fa3205}
+      \strng{fullhash}{e04c59f46edf842ed2e107bec2fa3205}
+      \strng{fullhashraw}{e04c59f46edf842ed2e107bec2fa3205}
+      \strng{bibnamehash}{e04c59f46edf842ed2e107bec2fa3205}
+      \strng{authorbibnamehash}{e04c59f46edf842ed2e107bec2fa3205}
+      \strng{authornamehash}{e04c59f46edf842ed2e107bec2fa3205}
+      \strng{authorfullhash}{e04c59f46edf842ed2e107bec2fa3205}
+      \strng{authorfullhashraw}{e04c59f46edf842ed2e107bec2fa3205}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://www.micronanotools.com/products/copy-of-bench-top-high-speed-vibrating-ball-mill-hvbm-1200v-with-one-80ml-ss-jar-2-year-warranty}}
+      \field{title}{Bench-top High Speed Vibrating Ball Mill with Speed Control (HVBM-1200V) Incl. one 80ml SS Jar - 2-year Warranty}
+    \endentry
+    \entry{Banerjee2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=09d1321342daf40c074c5deb7695d8ae}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0bf5185a9cfd4dec50bab013a1a9a12f}{%
+           family={Joens},
+           familyi={J\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Woodhead Publishing}%
+      }
+      \strng{namehash}{6cfb4846d93d81edabfba619defe9073}
+      \strng{fullhash}{6cfb4846d93d81edabfba619defe9073}
+      \strng{fullhashraw}{6cfb4846d93d81edabfba619defe9073}
+      \strng{bibnamehash}{6cfb4846d93d81edabfba619defe9073}
+      \strng{authorbibnamehash}{6cfb4846d93d81edabfba619defe9073}
+      \strng{authornamehash}{6cfb4846d93d81edabfba619defe9073}
+      \strng{authorfullhash}{6cfb4846d93d81edabfba619defe9073}
+      \strng{authorfullhashraw}{6cfb4846d93d81edabfba619defe9073}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780081021521}
+      \field{journaltitle}{Handbook of Metal Injection Molding}
+      \field{month}{1}
+      \field{title}{Debinding and sintering of metal injection molding (MIM) components}
+      \field{year}{2019}
+      \field{pages}{129\bibrangedash 171}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.1016/B978-0-08-102152-1.00009-X
+      \endverb
+    \endentry
+    \entry{Ou2014}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=5ebce78359042b68cdf8c62ea4c2ed6b}{%
+           family={Ou},
+           familyi={O\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3e9f29bfe0fa8f334c9c42bb5b0cfbce}{%
+           family={Sahli},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f5a4bdde58d8d78a2b2955e0cb73d95b}{%
+           family={Gelin},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=29b515b5633af81fb5f5616c3a69b49a}{%
+           family={Barrière},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{aef046be8d4511b80a74d9b2a4e89812}
+      \strng{fullhash}{3195e96aa18560e7b48ad47373019f05}
+      \strng{fullhashraw}{3195e96aa18560e7b48ad47373019f05}
+      \strng{bibnamehash}{3195e96aa18560e7b48ad47373019f05}
+      \strng{authorbibnamehash}{3195e96aa18560e7b48ad47373019f05}
+      \strng{authornamehash}{aef046be8d4511b80a74d9b2a4e89812}
+      \strng{authorfullhash}{3195e96aa18560e7b48ad47373019f05}
+      \strng{authorfullhashraw}{3195e96aa18560e7b48ad47373019f05}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0032-5910}
+      \field{journaltitle}{Powder Technology}
+      \field{month}{12}
+      \field{title}{Experimental analysis and finite element simulation of the co-sintering of bi-material components}
+      \field{volume}{268}
+      \field{year}{2014}
+      \field{pages}{269\bibrangedash 278}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/J.POWTEC.2014.08.023
+      \endverb
+    \endentry
+    \entry{Aparnadevi2016}{article}{}{}
+      \list{publisher}{1}{%
+        {American Institute of Physics Inc.}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{issn}{10897550}
+      \field{issue}{3}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{month}{7}
+      \field{title}{Room temperature dual ferroic behaviour of ball mill synthesized NdFeO3 orthoferrite}
+      \field{volume}{120}
+      \field{year}{2016}
+      \field{pages}{34101}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.4954842/143625
+      \endverb
+      \verb{urlraw}
+      \verb /aip/jap/article/120/3/034101/143625/Room-temperature-dual-ferroic-behaviour-of-ball
+      \endverb
+      \verb{url}
+      \verb /aip/jap/article/120/3/034101/143625/Room-temperature-dual-ferroic-behaviour-of-ball
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

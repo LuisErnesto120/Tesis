@@ -32,22 +32,25 @@
 \contentsline {paragraph}{\numberline {4.2.5.1.2}Mediciones Magnéticas Realizadas}{20}{paragraph.4.2.5.1.2}%
 \contentsline {subsubsection}{\numberline {4.2.5.2}Dispositivo de Medición \textit {(cambiar nombre)}}{20}{subsubsection.4.2.5.2}%
 \contentsline {subsubsection}{\numberline {4.2.5.3}Preparación de la Muestra}{20}{subsubsection.4.2.5.3}%
-\contentsline {subsubsection}{\numberline {4.2.5.4}Sinterización}{20}{subsubsection.4.2.5.4}%
-\contentsline {subsubsection}{\numberline {4.2.5.5}Curvas de Ferroelectricidad}{20}{subsubsection.4.2.5.5}%
-\contentsline {chapter}{\numberline {5}Resultados}{21}{chapter.5}%
+\contentsline {subsubsection}{\numberline {4.2.5.4}Molienda}{20}{subsubsection.4.2.5.4}%
+\contentsline {subsubsection}{\numberline {4.2.5.5}Sinterización}{21}{subsubsection.4.2.5.5}%
+\contentsline {subsubsection}{\numberline {4.2.5.6}Curvas de Ferroelectricidad}{21}{subsubsection.4.2.5.6}%
+\contentsline {chapter}{\numberline {5}Resultados}{22}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Muestras Sintetizadas}{22}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Caracterización}{22}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Análisis Termogravimétrico}{22}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Difracción de Rayos X}{22}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Microscopía Electrónica de Barrido}{22}{subsection.5.2.3}%
-\contentsline {subsubsection}{\numberline {5.2.3.1}Morfología}{22}{subsubsection.5.2.3.1}%
-\contentsline {subsubsection}{\numberline {5.2.3.2}EDS}{22}{subsubsection.5.2.3.2}%
-\contentsline {subsection}{\numberline {5.2.4}Espectroscopía UV-Vis}{22}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}Magnetometría}{22}{subsection.5.2.5}%
-\contentsline {subsubsection}{\numberline {5.2.5.1}Dispositivo Superconductor de Interferencia Cuántica}{22}{subsubsection.5.2.5.1}%
-\contentsline {paragraph}{\numberline {5.2.5.1.1}M vs T}{22}{paragraph.5.2.5.1.1}%
-\contentsline {paragraph}{\numberline {5.2.5.1.2}\textchi {} vs T}{22}{paragraph.5.2.5.1.2}%
-\contentsline {paragraph}{\numberline {5.2.5.1.3}M v H}{22}{paragraph.5.2.5.1.3}%
-\contentsline {chapter}{\numberline {6}Conclusión}{23}{chapter.6}%
-\contentsline {chapter}{Bibliografía}{24}{chapter*.22}%
-\contentsline {chapter}{\numberline {A}Anexos}{26}{appendix.Alph1}%
+\contentsline {section}{\numberline {5.2}Caracterización}{23}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Análisis Térmico}{23}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}Análisis Termogravimétrico}{23}{subsubsection.5.2.1.1}%
+\contentsline {subsection}{\numberline {5.2.2}Análisis Estructural, Morfológico y de Composición}{23}{subsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2.1}Microscopía Electrónica de Barrido}{23}{subsubsection.5.2.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2.2}Espectroscopía de Dispersión de Energía}{25}{subsubsection.5.2.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2.3}Difracción de Rayos X}{25}{subsubsection.5.2.2.3}%
+\contentsline {subsection}{\numberline {5.2.3}Análisis Óptico, Magnético y Eléctrico}{25}{subsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.3.1}Espectroscopía UV-Vis}{25}{subsubsection.5.2.3.1}%
+\contentsline {subsubsection}{\numberline {5.2.3.2}Magnetometría VSM}{25}{subsubsection.5.2.3.2}%
+\contentsline {paragraph}{\numberline {5.2.3.2.1}M vs T}{25}{paragraph.5.2.3.2.1}%
+\contentsline {paragraph}{\numberline {5.2.3.2.2}\textchi {} vs T}{25}{paragraph.5.2.3.2.2}%
+\contentsline {paragraph}{\numberline {5.2.3.2.3}M v H}{25}{paragraph.5.2.3.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.3.3}Espectroscopía de Impedancia}{25}{subsubsection.5.2.3.3}%
+\contentsline {chapter}{\numberline {6}Conclusión}{26}{chapter.6}%
+\contentsline {chapter}{Bibliografía}{27}{chapter*.26}%
+\contentsline {chapter}{\numberline {A}Anexos}{29}{appendix.Alph1}%

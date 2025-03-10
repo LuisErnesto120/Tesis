@@ -1,19 +1,19 @@
 # Fdb version 4
-["biber 4. Metodologia/4. Metodologia"] 1737761763.11114 "4. Metodologia/4. Metodologia.bcf" "4. Metodologia/4. Metodologia.bbl" "4. Metodologia/4. Metodologia" 1737761770.528 0
-  "4. Metodologia/4. Metodologia.bcf" 1737761770 110111 c444841b1eead2e0365706b396eaf4a3 "pdflatex"
-  "bib.bib" 1737752756 6551 f67bb8c2d3060cc1606dbffdde0625fb ""
+["biber 4. Metodologia/4. Metodologia"] 1741618292.17779 "4. Metodologia/4. Metodologia.bcf" "4. Metodologia/4. Metodologia.bbl" "4. Metodologia/4. Metodologia" 1741618354.9701 0
+  "4. Metodologia/4. Metodologia.bcf" 1741618354 110373 cd26cb4c70d3204ae9ede6a192ce149a "pdflatex"
+  "bib.bib" 1741618163 8162 ac825f6591b2838c90d5d96556ae22da ""
   (generated)
   "4. Metodologia/4. Metodologia.bbl"
   "4. Metodologia/4. Metodologia.blg"
   (rewritten before read)
-["pdflatex"] 1737761764.9478 "c:/Users/Hugo Lara/Desktop/Luis/git/Tesis/TeX/4. Metodologia/4. Metodologia.tex" "4. Metodologia/4. Metodologia.pdf" "4. Metodologia" 1737761770.52863 0
-  "4. Metodologia/../main.tex" 1737752756 3168 bb748c9e57a62f9d1a591997219b714a ""
-  "4. Metodologia/4. Metodologia.aux" 1737761770 12629 8ceb1daccade10038d6dcaf4089b8aa5 "pdflatex"
-  "4. Metodologia/4. Metodologia.bbl" 1737761764 26673 910a020316571a11adfefe66460e71d4 "biber 4. Metodologia/4. Metodologia"
-  "4. Metodologia/4. Metodologia.out" 1737761770 1486 a083235cdc540a12a9cc3b0ca72dad98 "pdflatex"
-  "4. Metodologia/4. Metodologia.run.xml" 1737761770 2455 38975106beec0c7e83edb68356826d1c "pdflatex"
-  "4. Metodologia/4. Metodologia.tex" 1737761744 31855 f876b7a5e428ae8267273c1e4d87fbe1 ""
-  "c:/Users/Hugo Lara/Desktop/Luis/git/Tesis/TeX/4. Metodologia/4. Metodologia.tex" 1737761744 31855 f876b7a5e428ae8267273c1e4d87fbe1 ""
+["pdflatex"] 1741618349.24708 "c:/Users/Hugo Lara/Desktop/Luis/git/Tesis/TeX/4. Metodologia/4. Metodologia.tex" "4. Metodologia/4. Metodologia.pdf" "4. Metodologia" 1741618354.97074 0
+  "4. Metodologia/../main.tex" 1738105733 3168 bb748c9e57a62f9d1a591997219b714a ""
+  "4. Metodologia/4. Metodologia.aux" 1741618354 13277 5102736c13310972fcfe4c67d8130b7b "pdflatex"
+  "4. Metodologia/4. Metodologia.bbl" 1741618293 32449 bb258c1861b8aaabeb0e4a80ed2bd5fc "biber 4. Metodologia/4. Metodologia"
+  "4. Metodologia/4. Metodologia.out" 1741618354 1486 a083235cdc540a12a9cc3b0ca72dad98 "pdflatex"
+  "4. Metodologia/4. Metodologia.run.xml" 1741618354 2455 38975106beec0c7e83edb68356826d1c "pdflatex"
+  "4. Metodologia/4. Metodologia.tex" 1741618348 34168 981855d2188ccca38ae4b1fc40cb0c1e ""
+  "c:/Users/Hugo Lara/Desktop/Luis/git/Tesis/TeX/4. Metodologia/4. Metodologia.tex" 1741618348 34168 981855d2188ccca38ae4b1fc40cb0c1e ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolA.enc" 1737756712 3341 78e600b269762aa2a25a5293cc4535c0 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc" 1737756712 3275 8d7166dfdbc31ffdc8aba0c31b3bd5c8 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc" 1737756712 3375 808c88761dbdc66fc653d18f42765b64 ""

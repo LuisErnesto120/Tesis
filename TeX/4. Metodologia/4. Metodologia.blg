@@ -1,14 +1,14 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is '4. Metodologia/4. Metodologia.blg'
-[90] biber-MSWIN64:340> INFO - === 
-[122] Biber.pm:420> INFO - Reading '4. Metodologia/4. Metodologia.bcf'
-[209] Biber.pm:994> INFO - Found 25 citekeys in bib section 0
-[220] Biber.pm:4463> INFO - Processing section 0
-[230] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
-[280] bibtex.pm:1713> INFO - LaTeX decoding ...
-[312] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
-[435] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[435] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[435] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[447] bbl.pm:676> INFO - Writing '4. Metodologia/4. Metodologia.bbl' with encoding 'UTF-8'
-[456] bbl.pm:779> INFO - Output to 4. Metodologia/4. Metodologia.bbl
+[175] biber-MSWIN64:340> INFO - === 
+[237] Biber.pm:420> INFO - Reading '4. Metodologia/4. Metodologia.bcf'
+[441] Biber.pm:994> INFO - Found 27 citekeys in bib section 0
+[470] Biber.pm:4463> INFO - Processing section 0
+[489] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
+[579] bibtex.pm:1713> INFO - LaTeX decoding ...
+[639] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
+[883] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[883] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[883] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[915] bbl.pm:676> INFO - Writing '4. Metodologia/4. Metodologia.bbl' with encoding 'UTF-8'
+[933] bbl.pm:779> INFO - Output to 4. Metodologia/4. Metodologia.bbl

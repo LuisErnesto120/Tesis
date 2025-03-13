@@ -627,6 +627,58 @@
       \field{note}{\url{https://www.micronanotools.com/products/copy-of-bench-top-high-speed-vibrating-ball-mill-hvbm-1200v-with-one-80ml-ss-jar-2-year-warranty}}
       \field{title}{Bench-top High Speed Vibrating Ball Mill with Speed Control (HVBM-1200V) Incl. one 80ml SS Jar - 2-year Warranty}
     \endentry
+    \entry{Baheti2012}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=73eefb14dc783257ad04be4027e04315}{%
+           family={Baheti},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ccddba16b32b032d8db0befa8e6c0dbf}{%
+           family={Abbasi},
+           familyi={A\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d86e55af8cedb83c5b6a5ef4e20790d0}{%
+           family={Militky},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald}%
+      }
+      \strng{namehash}{8a7b1d5dd9e8236fea79131280a33365}
+      \strng{fullhash}{2acf9e5968b72561bf27ea0608a3e317}
+      \strng{fullhashraw}{2acf9e5968b72561bf27ea0608a3e317}
+      \strng{bibnamehash}{2acf9e5968b72561bf27ea0608a3e317}
+      \strng{authorbibnamehash}{2acf9e5968b72561bf27ea0608a3e317}
+      \strng{authornamehash}{8a7b1d5dd9e8236fea79131280a33365}
+      \strng{authorfullhash}{2acf9e5968b72561bf27ea0608a3e317}
+      \strng{authorfullhashraw}{2acf9e5968b72561bf27ea0608a3e317}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1708-5284}
+      \field{issue}{1}
+      \field{journaltitle}{World Journal of Engineering}
+      \field{month}{3}
+      \field{title}{Ball milling of jute fibre wastes to prepare nanocellulose}
+      \field{volume}{9}
+      \field{year}{2012}
+      \field{pages}{45\bibrangedash 50}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1260/1708-5284.9.1.45
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/244483920_Ball_milling_of_jute_fibre_wastes_to_prepare_nanocellulose
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/244483920_Ball_milling_of_jute_fibre_wastes_to_prepare_nanocellulose
+      \endverb
+    \endentry
     \entry{Banerjee2019}{article}{}{}
       \name{author}{2}{}{%
         {{hash=09d1321342daf40c074c5deb7695d8ae}{%
@@ -651,8 +703,8 @@
       \strng{authornamehash}{6cfb4846d93d81edabfba619defe9073}
       \strng{authorfullhash}{6cfb4846d93d81edabfba619defe9073}
       \strng{authorfullhashraw}{6cfb4846d93d81edabfba619defe9073}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9780081021521}
@@ -741,6 +793,37 @@
       \verb{url}
       \verb /aip/jap/article/120/3/034101/143625/Room-temperature-dual-ferroic-behaviour-of-ball
       \endverb
+    \endentry
+    \entry{Stewart1999}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0c56d36d3c0eddf5cce526900fcbdf60}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a0ef7624e3e50f5f095ef3d73464371}{%
+           family={Cain},
+           familyi={C\bibinitperiod},
+           given={M\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{fullhash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{fullhashraw}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{bibnamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{authorbibnamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{authornamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{authorfullhash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{authorfullhashraw}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{CMMT(A) 152}
+      \field{journaltitle}{NPL Report}
+      \field{month}{5}
+      \field{title}{Ferroelectric Hysteresis Measurement & Analysis}
+      \field{year}{1999}
     \endentry
   \enddatalist
 \endrefsection

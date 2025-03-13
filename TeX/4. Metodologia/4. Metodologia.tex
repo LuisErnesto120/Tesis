@@ -313,24 +313,61 @@ El espectrómetro, al medir absorbancia, permite conocer $\alpha$ respecto a $\n
 
 \subsection*{Mediciones Ferroeléctricas}
 
-\subsubsection{Dispositivo de Medición \textit{(cambiar nombre)}}
-
 \subsubsection{Preparación de la Muestra}
 Para conseguir medir la polarización contra la carga aplicada es necesario que la muestra sea un sólido. Para conseguir esto a partir de los polvos sintetizados se tuvo que realizar un proceso de molienda (sección \ref{sec:molienda}) y sinterización (sección \ref{sec:sinter}). Ésto se realizó con las ortoferritas calcinadas a temperatura más baja (600\gradoC{} para el \neod{} y 700\gradoC{} para el \sama{}), tanto a las muestras sin procesar como a las sonicadas por 4 horas a 292W.
 
 \subsubsection{Molienda} \label{sec:molienda}
 La molienda se realizó haciendo uso de un molino de bolas vibratorio de alta velocidad modelo \textit{HVBM-1200} de la marca \textit{MicroNanoTools}, que tiene una velocidad de 1200rpm \cite{Molino}.
 
-Falta principio físico del molino.
+Los molinos de bolas, en su forma más simple, consisten de un cilindro hueco, el cual se llena con la muestra a moler, las bolas a utilizar y opcionalmente un solvente o lubricante para limitar el calor generado.
 
-Se colocaron 0.6gr de la muestra a moler dentro de un reactor de Circonio con bolas del mismo material, con un diámetro de alrededor de 1cm, además de 30ml de isopropanol. Posteriormente se montó el reactor en un soporte de acero inoxidable y finalmente se aseguró en el molino, el cual se hizo funcionar por 20 minutos para cada muestra.
+Éste se monta en un motor que lo hace rotar, lo cual genera colisiones entre las bolas, el material y las paredes debido a la fuerza centrífuga, lo cual tiene como resultado el molido del material, lo que se ilustra en la figura \ref{fig:molinodiag} \cite{Baheti2012}.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{fig/molinodiag.png}
+    \caption{Diagrama de un molino de bolas. Adaptado de \cite{Baheti2012}.}
+    \label{fig:molinodiag}
+\end{figure}
+Se colocaron 0.6g de la muestra a moler dentro de un reactor de Circonio con bolas del mismo material, con un diámetro de alrededor de 1cm, además de 30ml de isopropanol. Posteriormente se montó el reactor en un soporte de acero inoxidable y finalmente se aseguró en el molino, el cual se hizo funcionar por 20 minutos para cada muestra.
 
 \subsubsection{Sinterización} \label{sec:sinter}
 La sinterización es un tratamiento térmico de polvos metálicos o cerámicos en objetos sólidos a través de procesos de transporte de masa a nivel atómico, haciendo uso de presión y temperatura, sin que esta última llegue a la temperatura de fusión del material \cite{Banerjee2019}.
 
-Este proceso funciona a través de la difusión de los átomos en las fronteras entre granos, uniéndolos en el proceso, esto debido a la energía aplicada en forma de presión y calor, la cual provoca un reordenamiento de los cristales a una configuración de menor energía libre en su superficie, es decir, se eliminan las fronteras y las porosidades \cite{Ou2014}.
+Este proceso funciona a través de la difusión de los átomos en las fronteras entre granos, uniéndolos en el proceso, esto debido a la energía aplicada en forma de presión y calor, la cual provoca un reordenamiento de los cristales a una configuración de menor energía libre en su superficie, es decir, se eliminan las fronteras y las porosidades, como se muestra en la figura \ref{fig:sintdiag} \cite{Ou2014}.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{fig/sintdiag.jpg}
+    \caption{Diagrama del proceso de sinterización. Adaptado de \cite{Ou2014}.}
+    \label{fig:sintdiag}
+\end{figure}
+Los resultados de este proceso dependen de la temperatura, presión aplicada, tiempo de sinterización e incluso de la presión atmosférica. En este trabajo se tomaron como condiciones de sinterización una presión de 5t aplicada por 15 minutos, realizado con una prensa hidráulica manual de 15t de marca \textit{SPECAC}, y una temperatura de 1000\gradoC{} aplicada por 2 horas, haciendo uso de un horno (\textit{nombre}) \cite{Aparnadevi2016}.
 
-Los resultados de este proceso dependen de la temperatura, presión aplicada, tiempo de sinterización e incluso de la presión atmosférica. En este trabajo se tomaron como condiciones de sinterización una presión de 5T aplicada por 15 minutos, realizado con una prensa (\textit{nombre}), y una temperatura de 1000\gradoC{} aplicada por 2 horas, haciendo uso de un horno (\textit{nombre}) \cite{Aparnadevi2016}.
+\subsubsection{Dispositivo de Medición \textit{(cambiar nombre)}}
+Las mediciones de este dispositivo son posibles debido a que la carga ($Q$) en la muestra puede expresarse como:
+\begin{equation}
+    Q=\int_{t_1}^{t_2}I(t)\text{d}t
+    \label{eq:cargaintensidad}
+\end{equation}
+Donde $I$ es la corriente que se hace pasar a través de la muestra en el tiempo $t$.
+
+Con esto, podemos expresar el desplazamiento dieléctrico ($D$) como:
+\begin{equation}
+    D(t)=\dfrac{Q}{A}
+    \label{eq:despdielec}
+\end{equation}
+Donde $A$ es el área superficial de la muestra.
+
+Finalmente, esto es suficiente para encontrar la polarización ($P$):
+\begin{equation}
+    P(t)=D(t)-\epsilon_0E(t)
+    \label{eq:polarizacionec}
+\end{equation}
+Finalmente, debido a que $E$ es una función de $t$ cuyo valor se controla a través del dispositivo, es posible graficar $P(E)$, lo cual es la medición buscada \cite{Stewart1999}.
 \subsubsection{Curvas de Ferroelectricidad}
-
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{fig/polardiag.png}
+    \caption{Gráfica de la polarización contra el campo para distintos tipos de materiales. Adaptado de \cite{Stewart1999}.}
+    \label{fig:polardiag}
+\end{figure}
 \end{document}

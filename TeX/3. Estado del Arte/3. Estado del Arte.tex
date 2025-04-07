@@ -1,57 +1,84 @@
 \documentclass[../main.tex]{subfiles}
 \begin{document}
 \chapter{Estado del Arte}
-\section{Materiales Magnéticos y sus Propiedades}
-Debido a que se busca caracterizar las propiedades magnéticas de los materiales de interés en esta tesis, es necesario puntualizar algunas características de interés.
-\subsection{Magnetización}
-La magnetización (M) de un volumen determinado se define como la suma de los momentos magnéticos contenidos dentro de éste. Representa la dirección y fuerza del campo magnético macroscópico resultante.
-
-Ésta puede ser inducida por un campo magnético externo (H), como se explicará es el caso de los materiales para y diamagnéticos, o ser producto de un orden intrínseco de los átomos que forman el material, como es el caso de los ferro, antiferro y ferrimagnéticos. Sin embargo, incluso en este último caso, el campo magnético externo sigue teniendo efecto en la magnetización.
-
-A excepción únicamente del diamagnetismo, los materiales magnéticos dependen de la alineación de sus momentos de espín, lo cual se traduce en una dependencia de la magnetización y la susceptibilidad magnética en la temperatura, debido a que el ordenamiento de los momentos se ve afectado por el movimiento causado por la temperatura \cite{coey2010magnetism}.
-\subsection{Susceptibilidad Magnética}
-Esta propiedad es una medida de la respuesta de un material a un campo magnético externo. Es la capacidad de un material de ser magnetizado al ser expuesto a un campo externo \cite{coey2010magnetism}.
-
-La susceptibilidad ($\pmb{\chi}$) para materiales lineales e anisótropos se expresa a través de un tensor de 3x3, cuyas componentes $\chi_{ii}$ describen la respuesta en cada eje principal, y las componentes $\chi_{ij}$, $i\neq j$ los acoplamientos entre diferentes direcciones de la magnetización y el campo magnético externo. Es decir, de forma general:
-$$\pmb{M}=\pmb{\chi}\cdot\pmb{H}$$
-Si el material fuera además isótropo, esta relación se simplifica, debido a que ahora $\chi_{ij}=\delta_{ij}\chi$, con $\delta{ij}$ una delta de Kronecker. Por lo cual, se reemplaza el tensor $\pmb{\chi}$ con un escalar $\chi$:
-$$\pmb{M}=\chi\pmb{H}\iff\chi=\dfrac{M_i}{H_i}$$
-Sin embargo, la relación entre la magnetización y el campo externo no siempre es lineal, sino que presenta comportamientos más complejos, lo cual da origen a fenómenos como la histéresis.
-
-[Falta dependencia con la temperatura]
-\subsection{Tipos de Materiales Magnéticos}
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.7\textwidth]{fig/types.png}
-    \caption{Tipos de materiales magnéticos. Adaptado de \cite{Prasad2023}.}
-    \label{diagmaterialesmagneticos}
-\end{figure}
-Clasificando a través de su respuesta a campos externos, podemos dividir los materiales en 5 tipos:
-\begin{itemize}
-\item \textbf{Diamagnéticos:} (Figura \ref{diagmaterialesmagneticos}a) Cuando un material diamagnético es expuesto a un campo magnético externo, éste presenta una magnetización en el sentido opuesto, es decir, $\chi<0$. Esta magnetización suele ser relativamente débil en comparación con otros fenómenos como el paramagnetismo o el ferromagnetismo \cite{griffiths2023introduction}.
-\item \textbf{Paramagnéticos:} (Figura \ref{diagmaterialesmagneticos}b) Cuando un campo magnético ($H$) actúa sobre un material, el momento magnético de cada uno de sus electrones tiende a alinearse de forma paralela o antiparalela al campo. Si todos los electrones están apareados, sus momentos magnéticos se cancelarán entre sí aún después de alinearse, sin embargo esta cancelación no ocurre en aquellos materiales que poseen un electrón desapareado, en este caso, antes de aplicar $H$, los momentos magnéticos individuales en el material apuntan en direcciones aleatorias, dando como resultado una magnetización nula, pero al exponer el material a un campo, estos momentos se alinean, dejando sin cancelar el que proviene del electrón desapareado, dando como resultado una magnetización en el mismo sentido, es decir, $\chi>0$ \cite{griffiths2023introduction}.
-\item \textbf{Ferromagnéticos:} (Figura \ref{diagmaterialesmagneticos}c) De forma similar a los materiales paramagnéticos, éstos poseen una susceptibilidad positiva, sin embargo, poseen un orden magnético intrínseco. Dentro de un material ferromagnético existen dominios magnéticos, es decir, zonas del material donde los momentos magnéticos forman una red en la cual apuntan todos en una misma dirección, estas, al ser expuestas a un campo magnético que esté en la misma dirección, comienzan a crecer a expensas de las zonas que apuntan en direcciones distintas, lo cual, macroscópicamente, causa una magnetización positiva, aún si ésta no está relacionada linealmente con el campo externo, como se verá más adelante \cite{coey2010magnetism}.
-\item \textbf{Antiferromagnéticos:} (Figura \ref{diagmaterialesmagneticos}d) De manera muy similar a los materiales ferromagnéticos, éstos poseen un orden magnético intrínseco y por lo tanto dominios magnéticos, la diferencia entre ambos tipos de materiales radica en que los antiferromagnéticos poseen además una subred cuyos momentos magnéticos tienen la misma magnitud pero que apunta en sentido opuesto a la otra, por lo cual, aún dentro de un mismo dominio, la magnetización neta es 0 \cite{coey2010magnetism}.
-\item \textbf{Ferrimagnéticos:} (Figura \ref{diagmaterialesmagneticos}e) Similares a los materiales antiferromagnéticos, éstos también poseen dominios magnéticos con dos redes de momentos magnéticos, sin embargo, en este caso ambas redes no tienen la misma magnitud, e inclusive pueden tener direcciones distintas, dando como resultado una magnetización diferente de 0, pero que suele ser menor a la de un material ferromagnético \cite{coey2010magnetism}.
-\end{itemize}
-\subsection{Histéresis}
-Se dice que un fenómeno presenta histéresis cuando éste no sólo depende de las condiciones actuales en las que se encuentre, sino también de las condiciones en las que ha estado antes.
-
-Este fenómeno se observa en materiales magnéticos que presentan un orden magnético intrínseco, es decir, materiales ferro, antiferro y ferrimagnéticos.
-
-Éste fenómeno ocurre debido al cambio de tamaño de los dominios magnéticos al aplicarse un campo externo. Retirar el campo no hará que el material regrese a su estado inicial, sino que es necesario aplicar un campo en el sentido opuesto para que ésto ocurra.
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.55\textwidth]{fig/histeresis1.jpg}
-    \caption{Gráfica del comportamiento de la magnetización según el campo externo para los distintos tipos de materiales magnéticos. Adaptado de \cite{Buschow2003}.}
-    \label{diaghist}
-\end{figure}
-Como es posible observar en la Figura \ref{diaghist}, los materiales dia y paramagnéticos no presentan éste comportamiento, su magnetización siempre es la misma para el mismo campo externo. 
-
-Sin embargo, todos los otros materiales presentan un ciclo de histéresis, es decir, su magnetización depende no solo del campo externo, sino también de las condiciones anteriores, cuando el campo externo se retira, no regresan a una magnetización 0, sino que tienen una magnetización remanente, marcada en la figura como $M_r$ para el material ferromagnético. Además, para éstos materiales se puede definir un campo de saturación ($M_s$), éste ocurre cuando el cristal se acerca a contener sólo un dominio magnético, por lo cual su magnetización se acerca asintóticamente a éste valor. Finalmente, $H_c$ se refiere al campo externo necesario para que la magnetización regrese a 0.
 \section{Ortoferritas de Tierras Raras}
+Los óxidos de tipo perovskita (\ce{ABO3} con A una tierra rara o metal alcalinotérreo y B un metal de transición) son estructuras estudiadas muy comúnmente en el campo de la ciencia de materiales debido a sus propiedades electromagnéticas, ópticas y catalíticas, además de su estabilidad \cite{Wang2019}.
 
-\subsection{Propiedades Magnéticas}
+El objeto de estudio de este trabajo son las ortoferritas \ce{RFeO3}, con R una tierra rara, específicamente en los compuestos \neod{}, \sama{}, debido a que presentan un orden magnético intrínseco proveniente de su estructura cristalina. Esta misma estructura además hace posible la presencia de ferroelectricidad, lo cual daría como resultado un material multiferroico \cite{Sharma2024}.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{fig/estructuraNd.jpg}
+    \caption{Estructura cristalina del \neod{}. Tomado de \cite{Quionero2021}}
+    \label{fig:estructNd}
+\end{figure}
 
-\subsection{Aplicaciones}
+\section{Electromagnetismo en Sólidos}
+La respuesta de un sólido al aplicar un campo externo, sea éste magnético o eléctrico, depende de las propiedades intrínsecas de la estructura cristalina de éste. A pesar de esto, las interacciones a nivel cuántico se manifiestan macroscópicamente como propiedades extensivas, las cuales pueden estudiarse mediante la electrodinámica clásica.
+
+Las ecuaciones de Maxwell pueden modificarse para incluir las contribuciones dependientes de las propiedades del material, considerando que las cargas y corrientes dentro de un éste pueden moverse libremente, o estar ligadas.
+
+Así, se puede escribir:
+\begin{equation}
+    \begin{split}
+        \vec{E}=\varepsilon_0\vec{D}-\vec{P}\\
+        \vec{B}=\mu_0(\vec{H}-\vec{M})
+    \end{split}  
+    \label{eq:maxwellmacro}
+\end{equation}
+Donde la fuente de los campos $\vec{D}$ y $\vec{H}$ son las cargas (o corrientes) libres, determinadas por la configuración del sistema, mientras que para los campos $\vec{P}$ y $\vec{M}$ son las cargas (o corrientes) ligadas, determinadas por las propiedades del material \cite{griffiths2023introduction}.
+\subsection{Magnetización y Polarización en Sólidos}
+Ambas propiedades representan la respuesta de la estructura a los campos externos. Macroscópicamente, pueden escribirse de la siguiente manera:
+\begin{equation}
+    \begin{split}
+        P_{i}=\varepsilon_0\chi_{ij}^{(e)}E_j\\
+        M_{i}=\chi_{ij}^{(m)}B_j
+    \end{split}
+    \label{eq:tensorMP}
+\end{equation}
+En esta expresión, $\chi_{ij}$, la susceptibilidad, representa los componentes de un tensor de $3\times3$ \cite{Damjanovic2006}.
+
+Sin embargo, para un material isótropo, esta relación se simplifica a una multiplicación por un escalar, el cual aún puede depender de factores como la temperatura o el tiempo.
+\begin{equation}
+    \begin{split}
+        \vec{P}=\varepsilon_0\chi^{(e)}\vec{E}\\
+        \vec{M}=\chi^{(m)}\vec{B}
+    \end{split}
+    \label{eq:escalarMP}
+\end{equation}
+Por otro lado, también es posible entenderlas como la suma de una propiedad microscópica, es decir, para un volumen de material $V$ pueden escribirse como:
+\begin{equation}
+    \begin{split}
+        \vec{P}=\sum_i \dfrac{\vec{d_i}}{V}\\
+        \vec{M}=\sum_i \dfrac{\vec{m_i}}{V}
+    \end{split}
+    \label{eq:relacionmicromacro}
+\end{equation}
+Donde $\vec{m_i}$ es el momento magnético de cada electrón en el material, y $\vec{d_i}$ es el momento dipolar de cada celda unitaria \cite{Visintin2006}.
+\subsection{Histéresis} \label{sec:hist}
+Un fenómeno presenta histéresis si depende no sólo de las condiciones actuales del sistema, sino que también de las condiciones anteriores. Ésto ocurre para propiedades como la elasticidad, la fricción, la superconductividad, la adsorción, la desorción y, siendo éstas el objeto de estudio de este trabajo, la magnetización y la polarización.
+
+En general, la histéresis, observada en propiedades extensivas, proviene de las contribuciones microscópicas de propiedades intensivas \cite{Visintin2006}.
+
+Este fenómeno es evidente al aplicar un campo externo, sea este magnético o eléctrico, los dominios en el material cuya propiedad intensiva relevante sea paralela al campo aplicado serán energéticamente favorables y por lo tanto crecerán a costa de aquellos dominios orientados de forma distinta, lo que aumenta la propiedad extensiva relevante hasta alcanzar un valor máximo, conocido como campo de saturación.
+
+Este proceso no es reversible, si se quita el campo externo el sistema no regresará por si solo a la configuración inicial, sino que tendrá una polarización, o magnetización, remanente distinta de 0. Si se busca que ésta se anule, se debe de aplicar un campo externo en sentido opuesto, conocido como campo coercitivo.
+\subsection{Clasificación de Materiales}
+Es posible clasificar los materiales según su respuesta a los campos externos aplicados.
+
+Hasta ahora ambos campos han tenido relaciones análogas, sin embargo, el hecho de que sólo el campo eléctrico posea cargas, hace que existan comportamientos de la polarización que no se observan para la magnetización. Por esta razón, se discutirán por separado.
+\subsubsection{Clasificación de Materiales Magnéticos}
+
+Pueden dividirse en dos grupos, aquellos cuyo comportamiento depende únicamente de las propiedades de los electrones en la red, y aquellos que dependen de un orden intrínseco en la red. El primer grupo se compone de los siguientes materiales:
+\begin{itemize}
+    \item \textbf{Diamagnéticos:} Para un electrón sujeto a una órbita al cual se le aplica un campo magnético externo, la torca que éste ejerce sobre el momento magnético del electrón provoca un efecto conocido como la Precesión de Larmor, el cual consiste en una rotación periódica en el momento magnético. Ésto puede verse como una corriente que, debido a la Ley de Lens, provocará un campo magnético que se opone al campo que la generó, es decir, $\chi<0$ \cite{coey2010magnetism}.
+    \item \textbf{Paramagnetismo:} Cuando un material que posee un electrón desapareado en su capa de valencia es expuesto a un campo magnético externo, favorecerá el alineamiento de los momentos magnéticos de cada electrón en el mismo eje. En particular, para los electrones desapareados, el campo favorecerá a la población paralela sobre la antiparalela, provocando una magnetización en el mismo sentido que el campo externo, es decir, $\chi>0$, siendo $\chi$ constante a campos pequeños, pero llegando a una saturación cuando todos los momentos se han alineado. Sin embargo, al retirar el campo externo, estos momentos magnéticos volverán a orientarse de forma aleatoria, regresando la magnetización a 0 \cite{coey2010magnetism}.
+\end{itemize}
+Por otro lado, en el segundo grupo se pueden identificar tres tipos de material:
+\begin{itemize}
+    \item \textbf{Ferromagnéticos:} Debido a las propiedades de su estructura cristalina, estos materiales están divididos en zonas en las que el momento magnético tiene una dirección preferencial, llamados dominios magnéticos, los cuales se vuelven energéticamente más favorables al aplicar un campo magnético paralelo en el material, por lo que comienzan a crecer a costa de las zonas en direcciones distintas, es decir, presentan histéresis. Son similares a los materiales paramagnéticos debido a que ambos provienen de una reorientación de espines, ambos tienen una $\chi>0$, y ambos poseen un campo de saturación $M_s$, sin embargo, como se discutió en la sección \ref{sec:hist}, al presentar histéresis estos también poseen magnetización remanente $M_r$, la cual se cancela con un campo coercitivo $H_c$ \cite{coey2010magnetism}.
+    \item \textbf{Antiferromagnéticos:} De manera similar a los materiales ferromagnéticos, estos también presentan dominios magnéticos, y por tanto histéresis, sin embargo, estos dominios poseen no solo electrones apuntando con un momento magnético en una dirección, sino también electrones cuyo momento magnético apunta en dirección opuesta, ambos de igual magnitud, por lo que $M=0$ \cite{coey2010magnetism}.
+    \item \textbf{Ferrimagnéticos:} Finalmente, los materiales ferrimagnéticos son similares a los antiferromagnéticos, también poseen dominios con electrones cuyos momentos magnéticos apuntan en direcciones opuestas, sin embargo los momentos en una dirección son más pequeños que los momentos en la otra, lo cual provoca una magnetización positiva, aunque menor a la de los materiales ferrimagnéticos \cite{coey2010magnetism}.
+\end{itemize}
+\subsubsection{Clasificación de Materiales Eléctricos}
+\subsection{Multiferroicidad}
 \end{document}

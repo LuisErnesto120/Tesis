@@ -19,6 +19,180 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{Wang2019}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=39f0b3347a8cc447c5e60393cd393898}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhao\bibnamedelima Qi},
+           giveni={Z\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=b0555c1c662413f9081d43a73e6b8b49}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yang\bibnamedelima Shun},
+           giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=564fce26e7f0470b418d0ab0f97cf251}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Zhao\bibnamedelima Yi},
+           giveni={Z\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=2b202b459bbc3f1e5114ed11823bb503}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xiang\bibnamedelima Rong},
+           giveni={X\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=293792788278d838f54cbca0b0276d1f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Qi\bibnamedelima Feng},
+           giveni={Q\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{9ae312133df1c0bfaa76f1c00301819e}
+      \strng{fullhash}{968f903fd9c954112b5cded2f8420872}
+      \strng{fullhashraw}{968f903fd9c954112b5cded2f8420872}
+      \strng{bibnamehash}{968f903fd9c954112b5cded2f8420872}
+      \strng{authorbibnamehash}{968f903fd9c954112b5cded2f8420872}
+      \strng{authornamehash}{9ae312133df1c0bfaa76f1c00301819e}
+      \strng{authorfullhash}{968f903fd9c954112b5cded2f8420872}
+      \strng{authorfullhashraw}{968f903fd9c954112b5cded2f8420872}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0038-1098}
+      \field{journaltitle}{Solid State Communications}
+      \field{month}{2}
+      \field{title}{Magnetic structures and optical properties of rare-earth orthoferrites RFeO3 (R = Ho, Er, Tm and Lu)}
+      \field{volume}{288}
+      \field{year}{2019}
+      \field{pages}{10\bibrangedash 17}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/J.SSC.2018.11.004
+      \endverb
+      \keyw{Electronic structure,Magnetic anisotropy,Optical property,Orthoferrite}
+    \endentry
+    \entry{Sharma2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=e3568863f90a1e2a613add3ed9d92dce}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Surbhi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6e58b884f3375ef9f6f4ff30e6a37a5b}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Shakeel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{457cbb7919e4bf8a6c24593f60cc6fb0}
+      \strng{fullhash}{457cbb7919e4bf8a6c24593f60cc6fb0}
+      \strng{fullhashraw}{457cbb7919e4bf8a6c24593f60cc6fb0}
+      \strng{bibnamehash}{457cbb7919e4bf8a6c24593f60cc6fb0}
+      \strng{authorbibnamehash}{457cbb7919e4bf8a6c24593f60cc6fb0}
+      \strng{authornamehash}{457cbb7919e4bf8a6c24593f60cc6fb0}
+      \strng{authorfullhash}{457cbb7919e4bf8a6c24593f60cc6fb0}
+      \strng{authorfullhashraw}{457cbb7919e4bf8a6c24593f60cc6fb0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02728842}
+      \field{issue}{6}
+      \field{journaltitle}{Ceramics International}
+      \field{month}{3}
+      \field{title}{Tailoring the structural, optical, electrical and multiferroic properties of Sm1-xRxFeO3 (x = 0.0 and 0.5; R = Pr, Nd, and Gd) and their synergistic photocatalytic activity}
+      \field{volume}{50}
+      \field{year}{2024}
+      \field{pages}{9185\bibrangedash 9205}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/j.ceramint.2023.12.235
+      \endverb
+    \endentry
+    \entry{Quionero2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=01bcc83d96458aeb9ccc99bbc9ba825d}{%
+           family={Quiñonero},
+           familyi={Q\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=19bdf98ea974f40691b62f05565fa419}{%
+           family={Pastor},
+           familyi={P\bibinitperiod},
+           given={Francisco\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=380d6dea336275ede44d4c2265507389}{%
+           family={Orts},
+           familyi={O\bibinitperiod},
+           given={José\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cc55a0dbc42a1627b5df338365a842fe}{%
+           family={Gómez},
+           familyi={G\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f61194061fdbddf0e1a8e8bda93d4094}
+      \strng{fullhash}{ae24d7906f324af10b9b35f0f3f0aa96}
+      \strng{fullhashraw}{ae24d7906f324af10b9b35f0f3f0aa96}
+      \strng{bibnamehash}{ae24d7906f324af10b9b35f0f3f0aa96}
+      \strng{authorbibnamehash}{ae24d7906f324af10b9b35f0f3f0aa96}
+      \strng{authornamehash}{f61194061fdbddf0e1a8e8bda93d4094}
+      \strng{authorfullhash}{ae24d7906f324af10b9b35f0f3f0aa96}
+      \strng{authorfullhashraw}{ae24d7906f324af10b9b35f0f3f0aa96}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1944-8244}
+      \field{issue}{12}
+      \field{journaltitle}{ACS Applied Materials \& Interfaces}
+      \field{month}{3}
+      \field{title}{Photoelectrochemical Behavior and Computational Insights for Pristine and Doped NdFeO 3 Thin-Film Photocathodes}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{14150\bibrangedash 14159}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/acsami.0c21792
+      \endverb
+    \endentry
+    \entry{Visintin2006}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{hash=9d6b1accd80a7976c6e85165ece56d85}{%
+           family={Visintin},
+           familyi={V\bibinitperiod},
+           given={Augusto},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9d6b1accd80a7976c6e85165ece56d85}
+      \strng{fullhash}{9d6b1accd80a7976c6e85165ece56d85}
+      \strng{fullhashraw}{9d6b1accd80a7976c6e85165ece56d85}
+      \strng{bibnamehash}{9d6b1accd80a7976c6e85165ece56d85}
+      \strng{authorbibnamehash}{9d6b1accd80a7976c6e85165ece56d85}
+      \strng{authornamehash}{9d6b1accd80a7976c6e85165ece56d85}
+      \strng{authorfullhash}{9d6b1accd80a7976c6e85165ece56d85}
+      \strng{authorfullhashraw}{9d6b1accd80a7976c6e85165ece56d85}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Science of Hysteresis}
+      \field{title}{Mathematical Models of Hysteresis}
+      \field{year}{2006}
+      \field{pages}{1\bibrangedash 123}
+      \range{pages}{123}
+      \verb{doi}
+      \verb 10.1016/B978-012480874-4/50004-X
+      \endverb
+    \endentry
     \entry{coey2010magnetism}{book}{}{}
       \name{author}{1}{}{%
         {{hash=5733536a8c334812dd8e088877f7b1d5}{%
@@ -38,101 +212,12 @@
       \strng{authornamehash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhashraw}{5733536a8c334812dd8e088877f7b1d5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Magnetism and magnetic materials}
       \field{year}{2010}
-    \endentry
-    \entry{Prasad2023}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=3a726a7635875c69dee386aa419a7682}{%
-           family={Prasad},
-           familyi={P\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Nature}%
-      }
-      \strng{namehash}{3a726a7635875c69dee386aa419a7682}
-      \strng{fullhash}{3a726a7635875c69dee386aa419a7682}
-      \strng{fullhashraw}{3a726a7635875c69dee386aa419a7682}
-      \strng{bibnamehash}{3a726a7635875c69dee386aa419a7682}
-      \strng{authorbibnamehash}{3a726a7635875c69dee386aa419a7682}
-      \strng{authornamehash}{3a726a7635875c69dee386aa419a7682}
-      \strng{authorfullhash}{3a726a7635875c69dee386aa419a7682}
-      \strng{authorfullhashraw}{3a726a7635875c69dee386aa419a7682}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9783031320842}
-      \field{journaltitle}{Physics and Technology for Engineers: Understanding Materials and Sustainability}
-      \field{month}{6}
-      \field{title}{Physics and technology for engineers: Understanding materials and sustainability}
-      \field{year}{2023}
-      \verb{doi}
-      \verb 10.1007/978-3-031-32084-2/COVER
-      \endverb
-    \endentry
-    \entry{griffiths2023introduction}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=a00328547222c4a2a201442ee59dccfd}{%
-           family={Griffiths},
-           familyi={G\bibinitperiod},
-           given={David\bibnamedelima J},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{a00328547222c4a2a201442ee59dccfd}
-      \strng{fullhash}{a00328547222c4a2a201442ee59dccfd}
-      \strng{fullhashraw}{a00328547222c4a2a201442ee59dccfd}
-      \strng{bibnamehash}{a00328547222c4a2a201442ee59dccfd}
-      \strng{authorbibnamehash}{a00328547222c4a2a201442ee59dccfd}
-      \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
-      \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
-      \strng{authorfullhashraw}{a00328547222c4a2a201442ee59dccfd}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Introduction to electrodynamics}
-      \field{year}{2023}
-      \field{pages}{255\bibrangedash 258}
-      \range{pages}{4}
-    \endentry
-    \entry{Buschow2003}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=5c4718bc5cca772fcce6968f9a9a34f7}{%
-           family={Buschow},
-           familyi={B\bibinitperiod},
-           given={K.\bibnamedelimi H.\bibnamedelimi J.},
-           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \strng{fullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \strng{fullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \strng{bibnamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \strng{authorbibnamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \strng{authornamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \strng{authorfullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \strng{authorfullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{1st}
-      \field{month}{12}
-      \field{title}{Handbook of Magnetic Materials}
-      \field{volume}{15}
-      \field{year}{2003}
     \endentry
   \enddatalist
 \endrefsection

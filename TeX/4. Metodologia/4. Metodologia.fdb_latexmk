@@ -1,25 +1,25 @@
 # Fdb version 4
-["biber 4. Metodologia/4. Metodologia"] 1741849346.51306 "4. Metodologia/4. Metodologia.bcf" "4. Metodologia/4. Metodologia.bbl" "4. Metodologia/4. Metodologia" 1741849458.16059 0
-  "4. Metodologia/4. Metodologia.bcf" 1741849457.36293 110896 b0c9d64608e70e1c46728bb02eeb80fd "pdflatex"
-  "bib.bib" 1741849313.68529 8889 a2b7c8d40d7e9ff790bc563fae02c838 ""
+["biber 4. Metodologia/4. Metodologia"] 1744004898.06242 "4. Metodologia/4. Metodologia.bcf" "4. Metodologia/4. Metodologia.bbl" "4. Metodologia/4. Metodologia" 1744004914.84253 0
+  "4. Metodologia/4. Metodologia.bcf" 1744004913.97172 110762 45f149f9b808509411fc0b0574330356 "pdflatex"
+  "bib.bib" 1744002530.49098 8890 d5aeac18f45bed3f404bbfdd18d70079 ""
   (generated)
   "4. Metodologia/4. Metodologia.bbl"
   "4. Metodologia/4. Metodologia.blg"
   (rewritten before read)
-["biber C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia"] 1741849342.75156 "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.bcf" "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.bbl" "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia" 1741849458.15871 0
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.bcf" 1741849457.36293 110896 b0c9d64608e70e1c46728bb02eeb80fd ""
-  "bib.bib" 1741849313.68529 8889 a2b7c8d40d7e9ff790bc563fae02c838 ""
+["biber C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia"] 1744004894.30563 "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.bcf" "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.bbl" "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia" 1744004914.84053 0
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.bcf" 1744004913.97172 110762 45f149f9b808509411fc0b0574330356 ""
+  "bib.bib" 1744002530.49098 8890 d5aeac18f45bed3f404bbfdd18d70079 ""
   (generated)
   "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.bbl"
   "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.blg"
   (rewritten before read)
-["pdflatex"] 1741849446.44706 "c:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.tex" "4. Metodologia/4. Metodologia.pdf" "4. Metodologia" 1741849458.16237 0
-  "4. Metodologia/../main.tex" 1733420060.08604 3168 9958a160baefd508131bd7ef5fb989b6 ""
-  "4. Metodologia/4. Metodologia.aux" 1741849457.3388 15187 3ab8e59b1611a1892fac73fcca204b60 "pdflatex"
-  "4. Metodologia/4. Metodologia.bbl" 1741849350.05672 35900 872d96b6edb311d097d6745978c8de91 "biber 4. Metodologia/4. Metodologia"
-  "4. Metodologia/4. Metodologia.out" 1741849457.35628 1486 a083235cdc540a12a9cc3b0ca72dad98 "pdflatex"
-  "4. Metodologia/4. Metodologia.run.xml" 1741849457.36693 2455 38975106beec0c7e83edb68356826d1c "pdflatex"
-  "C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733418613.1412 182663 8a8647167012e1778c6bdf8e7ba3d50e ""
+["pdflatex"] 1744004902.02626 "c:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.tex" "4. Metodologia/4. Metodologia.pdf" "4. Metodologia" 1744004914.84451 0
+  "4. Metodologia/../main.tex" 1744002474.93317 3299 f1104324bffd079eed4d3b8f9d4ed62c ""
+  "4. Metodologia/4. Metodologia.aux" 1744004913.95329 14545 fb55361a718c4946f2de307f11708ea7 "pdflatex"
+  "4. Metodologia/4. Metodologia.bbl" 1744004901.86944 35901 c0e6cbc1d65d6a720222b0bd7282ca4c "biber 4. Metodologia/4. Metodologia"
+  "4. Metodologia/4. Metodologia.out" 1744004913.97132 1486 a083235cdc540a12a9cc3b0ca72dad98 "pdflatex"
+  "4. Metodologia/4. Metodologia.run.xml" 1744004913.97924 2455 38975106beec0c7e83edb68356826d1c "pdflatex"
+  "C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1743925923.06325 182663 8a8647167012e1778c6bdf8e7ba3d50e ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1716864877.11816 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1716864878.39123 684 3a51bd4fd9600428d5264cf25f04bb9a ""
   "C:/Users/PC/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1716864276.89939 24242556 4d96062cc52ad267d65fbfbe12c9f0b1 ""
@@ -251,11 +251,11 @@
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/xfor/xfor.sty" 1233849756 2689 44855b72da58344b1c1d9b3087bce6ca ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.aux" 1741849457.3388 15187 3ab8e59b1611a1892fac73fcca204b60 ""
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.bbl" 1741849350.05672 35900 872d96b6edb311d097d6745978c8de91 "biber C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia"
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.out" 1741849457.35628 1486 a083235cdc540a12a9cc3b0ca72dad98 ""
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/main.tex" 1733420060.08604 3168 9958a160baefd508131bd7ef5fb989b6 ""
-  "c:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.tex" 1741849445.34967 36259 a34b503e8a9f1ebe2094dba8f89f409f ""
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.aux" 1744004913.95329 14545 fb55361a718c4946f2de307f11708ea7 ""
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.bbl" 1744004901.86944 35901 c0e6cbc1d65d6a720222b0bd7282ca4c "biber C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia"
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.out" 1744004913.97132 1486 a083235cdc540a12a9cc3b0ca72dad98 ""
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/main.tex" 1744002474.93317 3299 f1104324bffd079eed4d3b8f9d4ed62c ""
+  "c:/Users/PC/Desktop/Git/Tesis/TeX/4. Metodologia/4. Metodologia.tex" 1744004873.13766 36887 17c5cf47976b906b345ae32f1d650042 ""
   "fig/2.png" 1733382221.26244 1363652 dac091f69da400488c3ff7122339b62d ""
   "fig/DRXdiag.png" 1733421417.70231 52885 386aa1182b9fd05b8d6febde4b0c9f20 ""
   "fig/Rietveld.png" 1736640518.70779 50016 ac0acf4835f20987451b333025e9ec30 ""
@@ -266,13 +266,12 @@
   "fig/ejemplotauc.png" 1737428956.97871 194391 73bc7486de0802945db1e5e5313ce42b ""
   "fig/imagejcomp.png" 1736750920.21142 3745990 7f79a606788f6edf30a47e793d9289f4 ""
   "fig/molinodiag.png" 1741809283.4461 20465 c82bd4cea1dd177a9a42ee50050ede7f ""
-  "fig/polardiag.png" 1741849212.00412 51889 be19e1adacbb7270d439038208fdc920 ""
   "fig/semdiag.png" 1736718199.32693 56534 4ed423bc287b77aa0727cf4c3be4a8ec ""
   "fig/semtipos.png" 1736748713.28213 54642 6dfe5ae6e88ee3e3e5e7eeea02bb9156 ""
   "fig/sintdiag.jpg" 1741811229.10768 52228 d5976fe7ad08671facc2ac960a3866a5 ""
   "fig/tgadiag.png" 1733385745.00861 82575 2c8dc9f58a800e42528c050ca7f01426 ""
   "fig/uvvisdiag.png" 1737425054.3762 29480 ef0692019606abb9ad0602fc6a92bbfa ""
-  "main.tex" 1733420060.08604 3168 9958a160baefd508131bd7ef5fb989b6 ""
+  "main.tex" 1744002474.93317 3299 f1104324bffd079eed4d3b8f9d4ed62c ""
   (generated)
   "4. Metodologia/4. Metodologia.aux"
   "4. Metodologia/4. Metodologia.bcf"

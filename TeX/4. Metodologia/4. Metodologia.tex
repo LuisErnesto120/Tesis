@@ -14,7 +14,8 @@ En el caso del \neod{} se utilizaron los reactivos \ce{Fe(NO3)3 9H2O} (Nitrato d
     \ce{Fe(NO3)3 + 9H2O + R(NO3)3 + 6H2O -> RFeO3 + CO2 + NO2 + ...}
     \label{eq:reaccion}
 \end{equation}
-Donde \ce{R=Nd, Sm}
+Donde \ce{R=Nd, Sm}.
+
 Mediante una relación estequiométrica, se obtuvieron las cantidades que se muestran en la Tabla \ref{tab:sintesisneod} por cada gramo de \ce{NdFeO3} sintetizado:
     \begin{table}[H]
         \centering
@@ -71,6 +72,8 @@ Esta técnica de caracterización, cuyo equipo se observa en la figura \ref{fig:
 Los procesos que se observan mediante esta técnica pueden ser endo o exotérmicos, debido a que tienen un efecto en el cambio de temperatura del material, sin embargo, dado que esta técnica no mide directamente la energía térmica de la muestra, no es posible diferenciar entre estos procesos sólo con los datos obtenidos mediante esta técnica \cite{TGA}.
 
 Sin embargo, es posible inferir información sobre la posible temperatura a la que ocurre la cristalización al comparar los datos obtenidos con la temperatura de los cambios que se espera ocurran en la muestra. En este caso, se espera que haya una combustión de la fase orgánica y la evaporación del agua contenida en la muestra entre los 100 y 200\gradoC{}, mientras que la fase metálica es estable hasta temperaturas mucho más altas que las máximas alcanzadas por el equipo ($\approx1000$\gradoC{}), por lo que es posible asociar un proceso que ocurra a una temperatura mayor a 200\gradoC{} a la cristalización.
+
+Se utilizó un \textit{detector}, el cual se configuró con una rampa de calor de $10$\gradoC{}$/$min que fue de 30\gradoC{} hasta 845\gradoC{}.
 \subsection{Difracción de Rayos X (DRX)}
 Esta técnica, cuyo equipo se puede observar en la figura \ref{fig:diagflujosint} (4) se basa en la interferencia constructiva que ocurre al irradiar una muestra cristalina con un haz de rayos X monocromados en ángulos que dependen de las fases que contenga la muestra. Funciona a través de un tubo de rayos catódicos que bombardea con electrones a un objetivo, los cuales, al tener la energía suficiente, desplazarán los electrones más internos de los átomos del objetivo a niveles energéticos más altos, los cuales a su vez, al regresar al estado de menor energía liberan rayos X de una longitud de onda característica que depende el material objetivo utilizado, los cuales irradian la muestra que se quiere medir en un arreglo como el que se ilustra en la figura \ref{fig:diagDRX}, lo cual brinda información sobre las fases contenidas en la muestra, como se explicará en las siguientes secciones \cite{dutrowxrd}.
 \begin{figure}[H]
@@ -79,6 +82,8 @@ Esta técnica, cuyo equipo se puede observar en la figura \ref{fig:diagflujosint
     \caption{Arreglo experimental utilizado para la obtención de espectros de difracción de rayos X. Adaptado de \cite{Jung2023}}
     \label{fig:diagDRX}
 \end{figure}
+
+Se utilizó un \textit{detector} para las muestras en polvo, y un  difractómetro \textit{Rigaku Ultima IV} para las muestras sinterizadas, ambos con fuentes de Cobre ($K_\alpha=1.54$\r{A}), la medición se realizó con $2\theta\in(20^\circ,80^\circ)$.
 \subsubsection{Estructura Cristalina}
 Los átomos y moléculas que conforman la mayoría de sólidos, como el cuarzo, la sal, los metales o los óxidos, se encuentran en un arreglo periódico regular, ésto se conoce como cristalinidad, y a la estructura periódica como estructura cristalina.
 
@@ -333,6 +338,20 @@ Se colocaron 0.6g de la muestra a moler dentro de un reactor de Circonio con bol
 \subsubsection{Sinterización} \label{sec:sinter}
 La sinterización es un tratamiento térmico de polvos metálicos o cerámicos en objetos sólidos a través de procesos de transporte de masa a nivel atómico, haciendo uso de presión y temperatura, sin que esta última llegue a la temperatura de fusión del material \cite{Banerjee2019}.
 
+Un sólido debe tener una energía mayor en su superficie que en el resto del material pues la fuerza que la mantiene unida es menor. Esta energía libre de superficie ($G_s$) se describe a través de la energía libre de Gibbs $G$ y la tensión superficial $\gamma$ en una superficie $A$ de la siguiente manera:
+\begin{equation}
+    \gamma=\left(\dfrac{\partial G}{\partial A}\right)_{T,P,n}\\
+    G_s=\sum_{i=1}^{m} n_i \mu_i + \gamma A
+    \label{eq:energiasuperficie}
+\end{equation}
+Donde $n_i$ es la cantidad de moles de la sustancia $i$-ésima y $\mu_i$ es su potencial químico. Debido a que, al aumentar la superficie, $n_i$ es creciente para cualquier $i$, y debe ser estrictamente creciente para al menos una $i$, para alguna función $N(A)$ estrictamente creciente podemos escribir
+\begin{equation}
+    \sum_{i=1}^{m} n_i \mu_i = N(A)\\
+    G_s(A)=N(A)+\gamma A
+    \label{eq:energiasuperficiedepA}
+\end{equation}
+Donde $G_s(A)$ es estrictamente creciente. Debido a que ambos términos que componen a $G_s$ dependen de
+
 Este proceso funciona a través de la difusión de los átomos en las fronteras entre granos, uniéndolos en el proceso, esto debido a la energía aplicada en forma de presión y calor, la cual provoca un reordenamiento de los cristales a una configuración de menor energía libre en su superficie, es decir, se eliminan las fronteras y las porosidades, como se muestra en la figura \ref{fig:sintdiag} \cite{Ou2014}.
 \begin{figure}[H]
     \centering
@@ -340,10 +359,11 @@ Este proceso funciona a través de la difusión de los átomos en las fronteras 
     \caption{Diagrama del proceso de sinterización. Adaptado de \cite{Ou2014}.}
     \label{fig:sintdiag}
 \end{figure}
+
 Los resultados de este proceso dependen de la temperatura, presión aplicada, tiempo de sinterización e incluso de la presión atmosférica. En este trabajo se tomaron como condiciones de sinterización una presión de 5t aplicada por 15 minutos, realizado con una prensa hidráulica manual de 15t de marca \textit{SPECAC}, y una temperatura de 1000\gradoC{} aplicada por 2 horas, haciendo uso de un horno (\textit{nombre}) \cite{Aparnadevi2016}.
 
-\subsubsection{Dispositivo de Medición \textit{(cambiar nombre)}}
-Las mediciones de este dispositivo son posibles debido a que la carga ($Q$) en la muestra puede expresarse como:
+\subsubsection{Mediciones de Polarización}
+Es posible obtener la polarización debido a que la carga ($Q$) en la muestra puede expresarse como:
 \begin{equation}
     Q=\int_{t_1}^{t_2}I(t)\text{d}t
     \label{eq:cargaintensidad}
@@ -356,18 +376,9 @@ Con esto, podemos expresar el desplazamiento dieléctrico ($D$) como:
     \label{eq:despdielec}
 \end{equation}
 Donde $A$ es el área superficial de la muestra.
-
-Finalmente, esto es suficiente para encontrar la polarización ($P$):
 \begin{equation}
     P(t)=D(t)-\epsilon_0E(t)
     \label{eq:polarizacionec}
 \end{equation}
 Finalmente, debido a que $E$ es una función de $t$ cuyo valor se controla a través del dispositivo, es posible graficar $P(E)$, lo cual es la medición buscada \cite{Stewart1999}.
-\subsubsection{Curvas de Ferroelectricidad}
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.9\textwidth]{fig/polardiag.png}
-    \caption{Gráfica de la polarización contra el campo para distintos tipos de materiales. Adaptado de \cite{Stewart1999}.}
-    \label{fig:polardiag}
-\end{figure}
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  13 MAR 2025 01:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  6 APR 2025 23:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1645,19 +1645,14 @@ LaTeX Info: Redefining \% on input line 331.
 <fig/sintdiag.jpg, id=284, 653.62779pt x 191.86726pt>
 File: fig/sintdiag.jpg Graphic file (type jpg)
 <use fig/sintdiag.jpg>
-Package pdftex.def Info: fig/sintdiag.jpg  used on input line 339.
+Package pdftex.def Info: fig/sintdiag.jpg  used on input line 353.
 (pdftex.def)             Requested size: 377.62642pt x 110.84686pt.
-LaTeX Info: Redefining \. on input line 350.
-LaTeX Info: Redefining \% on input line 350.
- [15 <./fig/molinodiag.png> <./fig/sintdiag.jpg>]
-<fig/polardiag.png, id=299, 1007.26312pt x 206.27063pt>
-File: fig/polardiag.png Graphic file (type png)
-<use fig/polardiag.png>
-Package pdftex.def Info: fig/polardiag.png  used on input line 369.
-(pdftex.def)             Requested size: 424.82523pt x 86.99501pt.
-LaTeX Info: Redefining \. on input line 373.
-LaTeX Info: Redefining \% on input line 373.
- [16 <./fig/polardiag.png>] (C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
+LaTeX Info: Redefining \. on input line 357.
+LaTeX Info: Redefining \% on input line 357.
+ [15 <./fig/molinodiag.png>]
+LaTeX Info: Redefining \. on input line 379.
+LaTeX Info: Redefining \% on input line 379.
+ [16 <./fig/sintdiag.jpg>] (C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
 LaTeX Info: Redefining \sptext on input line 11.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
@@ -1673,10 +1668,10 @@ Package logreq Info: Writing requests to '"4. Metodologia".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35287 strings out of 474312
- 629398 string characters out of 5740701
+ 35281 strings out of 474312
+ 629256 string characters out of 5740701
  1949907 words of memory out of 5000000
- 57113 multiletter control sequences out of 15000+600000
+ 57107 multiletter control sequences out of 15000+600000
  576128 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,18n,134p,2446b,2007s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1762,9 +1757,9 @@ pdfTeX warning (dest): name{cite.0@manualpunta} has been referenced but does not
 pdfTeX warning (dest): name{cite.0@sonicaciondef} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.pdf" (16 pages, 6174880 bytes).
+Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.pdf" (16 pages, 6135372 bytes).
 PDF statistics:
- 408 PDF objects out of 1000 (max. 8388607)
+ 405 PDF objects out of 1000 (max. 8388607)
  107 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 

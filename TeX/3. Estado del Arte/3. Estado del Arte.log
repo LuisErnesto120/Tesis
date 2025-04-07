@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  5 DEC 2024 21:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  7 APR 2025 00:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -12,7 +12,7 @@ Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
 Preamble taken from file `../main.tex'
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
-) (C:\Users\PC\Desktop\Git\Tesis\TeX\main.tex (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+) (../main.tex (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
 File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
@@ -1377,9 +1377,9 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+ (3. Estado del Arte.aux
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 )
 \openout1 = `"3. Estado del Arte.aux"'.
 
@@ -1429,7 +1429,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 2.
- (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out) (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out)
+ (3. Estado del Arte.out) (3. Estado del Arte.out)
 \@outlinefile=\write5
 \openout5 = `"3. Estado del Arte.out"'.
 
@@ -1499,7 +1499,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"3. Estado del Arte".bbl' found.
- (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl)
+ (3. Estado del Arte.bbl)
 Package biblatex Info: Reference section=0 on input line 2.
 Package biblatex Info: Reference segment=0 on input line 2.
 
@@ -1512,81 +1512,92 @@ Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 Cap\'{\i }tulo 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 5.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+)
+<../fig/estructuraNd.jpg, id=33, 181.51535pt x 132.43898pt>
+File: ../fig/estructuraNd.jpg Graphic file (type jpg)
+<use ../fig/estructuraNd.jpg>
+Package pdftex.def Info: ../fig/estructuraNd.jpg  used on input line 10.
+(pdftex.def)             Requested size: 236.01561pt x 172.21712pt.
+ [1
 
 
-{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
-<fig/types.png, id=54, 1117.92656pt x 856.70062pt>
-File: fig/types.png Graphic file (type png)
-<use fig/types.png>
-Package pdftex.def Info: fig/types.png  used on input line 25.
-(pdftex.def)             Requested size: 330.42041pt x 253.20816pt.
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
- [2 <./fig/types.png>]
-<fig/histeresis1.jpg, id=76, 603.7423pt x 493.09885pt>
-File: fig/histeresis1.jpg Graphic file (type jpg)
-<use fig/histeresis1.jpg>
-Package pdftex.def Info: fig/histeresis1.jpg  used on input line 45.
-(pdftex.def)             Requested size: 259.6186pt x 212.04341pt.
+{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <../fig/estructuraNd.jpg>]
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'griffiths2023introduction' on page 2 undefined on input line 28.
 
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
+
+LaTeX Warning: Citation 'Damjanovic2006' on page 2 undefined on input line 38.
+
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+[2{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}]
+LaTeX Info: Redefining \. on input line 80.
+LaTeX Info: Redefining \% on input line 80.
  [3]
-LaTeX Info: Redefining \. on input line 57.
-LaTeX Info: Redefining \% on input line 57.
- [4 <./fig/histeresis1.jpg>] (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
-LaTeX Info: Redefining \sptext on input line 15.
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
+ [4] (3. Estado del Arte.aux
+LaTeX Info: Redefining \sptext on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `"3. Estado del Arte".out' has not changed.
-(rerunfilecheck)             Checksum: 020D1D6A45FFCB73C24B231A64390EC4;1552.
+(rerunfilecheck)             Checksum: A5D1376D5D5389F25743E1A33DF5DBD6;1272.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                "3. Estado del Arte"
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to '"3. Estado del Arte".run.xml'.
 \openout1 = `"3. Estado del Arte.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34978 strings out of 474312
- 622969 string characters out of 5740701
+ 35017 strings out of 474312
+ 623364 string characters out of 5740701
  1941907 words of memory out of 5000000
- 56903 multiletter control sequences out of 15000+600000
- 571667 words of font info for 83 fonts, out of 8000000 for 9000
+ 56930 multiletter control sequences out of 15000+600000
+ 575076 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,7n,134p,2454b,1955s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{cite.0@Buschow2003} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@griffiths2023introduction} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{cite.0@Prasad2023} has been referenced but does not exist, replaced by a fixed one
-
+ 114i,18n,134p,2454b,1957s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{cite.0@coey2010magnetism} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf" (4 pages, 366038 bytes).
+
+pdfTeX warning (dest): name{cite.0@Visintin2006} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Quionero2021} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Sharma2024} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Wang2019} has been referenced but does not exist, replaced by a fixed one
+
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on "3. Estado del Arte.pdf" (4 pages, 184365 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 

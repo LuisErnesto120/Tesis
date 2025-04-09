@@ -113,54 +113,6 @@
       \verb 10.1016/j.ceramint.2023.12.235
       \endverb
     \endentry
-    \entry{Quionero2021}{article}{}{}
-      \name{author}{4}{}{%
-        {{hash=01bcc83d96458aeb9ccc99bbc9ba825d}{%
-           family={Quiñonero},
-           familyi={Q\bibinitperiod},
-           given={Javier},
-           giveni={J\bibinitperiod}}}%
-        {{hash=19bdf98ea974f40691b62f05565fa419}{%
-           family={Pastor},
-           familyi={P\bibinitperiod},
-           given={Francisco\bibnamedelima J.},
-           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=380d6dea336275ede44d4c2265507389}{%
-           family={Orts},
-           familyi={O\bibinitperiod},
-           given={José\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=cc55a0dbc42a1627b5df338365a842fe}{%
-           family={Gómez},
-           familyi={G\bibinitperiod},
-           given={Roberto},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{f61194061fdbddf0e1a8e8bda93d4094}
-      \strng{fullhash}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{fullhashraw}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{bibnamehash}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{authorbibnamehash}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{authornamehash}{f61194061fdbddf0e1a8e8bda93d4094}
-      \strng{authorfullhash}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{authorfullhashraw}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1944-8244}
-      \field{issue}{12}
-      \field{journaltitle}{ACS Applied Materials \& Interfaces}
-      \field{month}{3}
-      \field{title}{Photoelectrochemical Behavior and Computational Insights for Pristine and Doped NdFeO 3 Thin-Film Photocathodes}
-      \field{volume}{13}
-      \field{year}{2021}
-      \field{pages}{14150\bibrangedash 14159}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1021/acsami.0c21792
-      \endverb
-    \endentry
     \entry{griffiths2023introduction}{book}{}{}
       \name{author}{1}{}{%
         {{hash=a00328547222c4a2a201442ee59dccfd}{%

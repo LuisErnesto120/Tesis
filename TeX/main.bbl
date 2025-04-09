@@ -113,54 +113,6 @@
       \verb 10.1016/j.ceramint.2023.12.235
       \endverb
     \endentry
-    \entry{Quionero2021}{article}{}{}
-      \name{author}{4}{}{%
-        {{hash=01bcc83d96458aeb9ccc99bbc9ba825d}{%
-           family={Quiñonero},
-           familyi={Q\bibinitperiod},
-           given={Javier},
-           giveni={J\bibinitperiod}}}%
-        {{hash=19bdf98ea974f40691b62f05565fa419}{%
-           family={Pastor},
-           familyi={P\bibinitperiod},
-           given={Francisco\bibnamedelima J.},
-           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=380d6dea336275ede44d4c2265507389}{%
-           family={Orts},
-           familyi={O\bibinitperiod},
-           given={José\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=cc55a0dbc42a1627b5df338365a842fe}{%
-           family={Gómez},
-           familyi={G\bibinitperiod},
-           given={Roberto},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{f61194061fdbddf0e1a8e8bda93d4094}
-      \strng{fullhash}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{fullhashraw}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{bibnamehash}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{authorbibnamehash}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{authornamehash}{f61194061fdbddf0e1a8e8bda93d4094}
-      \strng{authorfullhash}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \strng{authorfullhashraw}{ae24d7906f324af10b9b35f0f3f0aa96}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1944-8244}
-      \field{issue}{12}
-      \field{journaltitle}{ACS Applied Materials \& Interfaces}
-      \field{month}{3}
-      \field{title}{Photoelectrochemical Behavior and Computational Insights for Pristine and Doped NdFeO 3 Thin-Film Photocathodes}
-      \field{volume}{13}
-      \field{year}{2021}
-      \field{pages}{14150\bibrangedash 14159}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1021/acsami.0c21792
-      \endverb
-    \endentry
     \entry{griffiths2023introduction}{book}{}{}
       \name{author}{1}{}{%
         {{hash=a00328547222c4a2a201442ee59dccfd}{%
@@ -180,8 +132,8 @@
       \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
       \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
       \strng{authorfullhashraw}{a00328547222c4a2a201442ee59dccfd}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Introduction to electrodynamics}
@@ -208,8 +160,8 @@
       \strng{authornamehash}{6db93fbe40aeb35c846d50e769333ac2}
       \strng{authorfullhash}{6db93fbe40aeb35c846d50e769333ac2}
       \strng{authorfullhashraw}{6db93fbe40aeb35c846d50e769333ac2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-12-480874-4}
@@ -243,8 +195,8 @@
       \strng{authornamehash}{9d6b1accd80a7976c6e85165ece56d85}
       \strng{authorfullhash}{9d6b1accd80a7976c6e85165ece56d85}
       \strng{authorfullhashraw}{9d6b1accd80a7976c6e85165ece56d85}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Science of Hysteresis}
@@ -254,6 +206,44 @@
       \range{pages}{123}
       \verb{doi}
       \verb 10.1016/B978-012480874-4/50004-X
+      \endverb
+    \endentry
+    \entry{Mugiraneza2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=75dd5a2a613ab155508a28f01b87f48f}{%
+           family={Mugiraneza},
+           familyi={M\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2cf707a7b8e014c74f8234fc376d13dd}{%
+           family={Hallas},
+           familyi={H\bibinitperiod},
+           given={Alannah\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{85cacea51c4a610906e082d0fd158d3b}
+      \strng{fullhash}{85cacea51c4a610906e082d0fd158d3b}
+      \strng{fullhashraw}{85cacea51c4a610906e082d0fd158d3b}
+      \strng{bibnamehash}{85cacea51c4a610906e082d0fd158d3b}
+      \strng{authorbibnamehash}{85cacea51c4a610906e082d0fd158d3b}
+      \strng{authornamehash}{85cacea51c4a610906e082d0fd158d3b}
+      \strng{authorfullhash}{85cacea51c4a610906e082d0fd158d3b}
+      \strng{authorfullhashraw}{85cacea51c4a610906e082d0fd158d3b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2399-3650}
+      \field{issue}{1}
+      \field{journaltitle}{Communications Physics}
+      \field{month}{4}
+      \field{title}{Tutorial: a beginner’s guide to interpreting magnetic susceptibility data with the Curie-Weiss law}
+      \field{volume}{5}
+      \field{year}{2022}
+      \field{pages}{95}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s42005-022-00853-y
       \endverb
     \endentry
     \entry{coey2010magnetism}{book}{}{}
@@ -275,8 +265,8 @@
       \strng{authornamehash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhashraw}{5733536a8c334812dd8e088877f7b1d5}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Magnetism and magnetic materials}
@@ -330,8 +320,8 @@
       \strng{authornamehash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhashraw}{883888a79180ecb0cd7bb36db3dbe683}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://measurlabs.com/methods/thermogravimetric-analysis-tga/}}
@@ -353,8 +343,8 @@
       \strng{authornamehash}{b1506d795713a78166436180a3b569b3}
       \strng{authorfullhash}{b1506d795713a78166436180a3b569b3}
       \strng{authorfullhashraw}{b1506d795713a78166436180a3b569b3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Introduction_to_Materials_Characterization__CHM_412_Collaborative_Text/Thermal_Analysis/Thermogravimetric_analysis_(TGA)}}
@@ -382,8 +372,8 @@
       \strng{authornamehash}{6adcddf836f71e754b0efe50729f1efa}
       \strng{authorfullhash}{6adcddf836f71e754b0efe50729f1efa}
       \strng{authorfullhashraw}{6adcddf836f71e754b0efe50729f1efa}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://serc.carleton.edu/research_education/geochemsheets/techniques/XRD.html}}
@@ -552,8 +542,8 @@
       \strng{authornamehash}{e87032dfd7c7e61401cb681397ef0ae4}
       \strng{authorfullhash}{e87032dfd7c7e61401cb681397ef0ae4}
       \strng{authorfullhashraw}{e87032dfd7c7e61401cb681397ef0ae4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{9}
@@ -686,8 +676,8 @@
       \strng{authornamehash}{5254ee0e36bb5b8ed53cb31e022e384e}
       \strng{authorfullhash}{5254ee0e36bb5b8ed53cb31e022e384e}
       \strng{authorfullhashraw}{5254ee0e36bb5b8ed53cb31e022e384e}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{1}
@@ -815,8 +805,8 @@
       \strng{authornamehash}{ba640f0e7386e8d56a01f4aa62be4b56}
       \strng{authorfullhash}{ba640f0e7386e8d56a01f4aa62be4b56}
       \strng{authorfullhashraw}{ba640f0e7386e8d56a01f4aa62be4b56}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
@@ -1015,8 +1005,8 @@
       \strng{authornamehash}{aef046be8d4511b80a74d9b2a4e89812}
       \strng{authorfullhash}{3195e96aa18560e7b48ad47373019f05}
       \strng{authorfullhashraw}{3195e96aa18560e7b48ad47373019f05}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0032-5910}
@@ -1035,8 +1025,8 @@
       \list{publisher}{1}{%
         {American Institute of Physics Inc.}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{issn}{10897550}
       \field{issue}{3}

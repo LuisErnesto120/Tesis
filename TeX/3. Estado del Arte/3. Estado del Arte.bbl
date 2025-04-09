@@ -161,6 +161,69 @@
       \verb 10.1021/acsami.0c21792
       \endverb
     \endentry
+    \entry{griffiths2023introduction}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a00328547222c4a2a201442ee59dccfd}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{fullhash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{fullhashraw}{a00328547222c4a2a201442ee59dccfd}
+      \strng{bibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorbibnamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
+      \strng{authorfullhashraw}{a00328547222c4a2a201442ee59dccfd}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to electrodynamics}
+      \field{year}{2023}
+      \field{pages}{255\bibrangedash 258}
+      \range{pages}{4}
+    \endentry
+    \entry{Damjanovic2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=6db93fbe40aeb35c846d50e769333ac2}{%
+           family={Damjanovic},
+           familyi={D\bibinitperiod},
+           given={Dragan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{6db93fbe40aeb35c846d50e769333ac2}
+      \strng{fullhash}{6db93fbe40aeb35c846d50e769333ac2}
+      \strng{fullhashraw}{6db93fbe40aeb35c846d50e769333ac2}
+      \strng{bibnamehash}{6db93fbe40aeb35c846d50e769333ac2}
+      \strng{authorbibnamehash}{6db93fbe40aeb35c846d50e769333ac2}
+      \strng{authornamehash}{6db93fbe40aeb35c846d50e769333ac2}
+      \strng{authorfullhash}{6db93fbe40aeb35c846d50e769333ac2}
+      \strng{authorfullhashraw}{6db93fbe40aeb35c846d50e769333ac2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-12-480874-4}
+      \field{journaltitle}{The Science of Hysteresis}
+      \field{month}{1}
+      \field{title}{Hysteresis in Piezoelectric and Ferroelectric Materials}
+      \field{volume}{3-3}
+      \field{year}{2006}
+      \field{pages}{337\bibrangedash 465}
+      \range{pages}{129}
+      \verb{doi}
+      \verb 10.1016/B978-012480874-4/50022-1
+      \endverb
+    \endentry
     \entry{Visintin2006}{inbook}{}{}
       \name{author}{1}{}{%
         {{hash=9d6b1accd80a7976c6e85165ece56d85}{%
@@ -180,8 +243,8 @@
       \strng{authornamehash}{9d6b1accd80a7976c6e85165ece56d85}
       \strng{authorfullhash}{9d6b1accd80a7976c6e85165ece56d85}
       \strng{authorfullhashraw}{9d6b1accd80a7976c6e85165ece56d85}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Science of Hysteresis}
@@ -212,8 +275,8 @@
       \strng{authornamehash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhashraw}{5733536a8c334812dd8e088877f7b1d5}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Magnetism and magnetic materials}

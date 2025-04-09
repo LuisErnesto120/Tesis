@@ -1,14 +1,14 @@
-PWD C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte
+PWD C:\Users\PC\Desktop\Git\Tesis\TeX
 INPUT C:\Users\PC\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.tex
-OUTPUT 3. Estado del Arte.log
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.log
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT ..\main.tex
-INPUT ..\main.tex
-INPUT ..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\main.tex
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
@@ -335,10 +335,10 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT .\3. Estado del Arte.aux
-INPUT .\3. Estado del Arte.aux
-INPUT 3. Estado del Arte.aux
-OUTPUT 3. Estado del Arte.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
@@ -350,14 +350,14 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\3. Estado del Arte.out
-INPUT .\3. Estado del Arte.out
-INPUT 3. Estado del Arte.out
-INPUT 3. Estado del Arte.out
-OUTPUT 3. Estado del Arte.pdf
-INPUT .\3. Estado del Arte.out
-INPUT .\3. Estado del Arte.out
-OUTPUT 3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-dictionary-English.dict
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-dictionary-English.dict
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-dictionary-English.dict
@@ -367,12 +367,12 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-spanish\glo
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-OUTPUT 3. Estado del Arte.bcf
-INPUT 3. Estado del Arte.bbl
-INPUT .\3. Estado del Arte.bbl
-INPUT .\3. Estado del Arte.bbl
-INPUT .\3. Estado del Arte.bbl
-INPUT 3. Estado del Arte.bbl
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bcf
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.bbl
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
@@ -427,12 +427,13 @@ INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0800.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0600.tfm
-INPUT ..\fig\estructuraNd.jpg
-INPUT ..\fig\estructuraNd.jpg
-INPUT ..\fig\estructuraNd.jpg
-INPUT ..\fig\estructuraNd.jpg
-INPUT ..\fig\estructuraNd.jpg
-INPUT ..\fig\estructuraNd.jpg
+INPUT .\fig\estructuraNd.jpg
+INPUT .\fig\estructuraNd.jpg
+INPUT .\fig\estructuraNd.jpg
+INPUT .\fig\estructuraNd.jpg
+INPUT .\fig\estructuraNd.jpg
+INPUT .\fig\estructuraNd.jpg
+INPUT .\fig\estructuraNd.jpg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymbolF10.tfm
@@ -447,7 +448,6 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl12.tfm
@@ -455,11 +455,12 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbo
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolD.enc
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolC.enc
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolF.enc
-INPUT 3. Estado del Arte.aux
-INPUT .\3. Estado del Arte.out
-INPUT .\3. Estado del Arte.out
-INPUT 3. Estado del Arte.run.xml
-OUTPUT 3. Estado del Arte.run.xml
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.run.xml
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.run.xml
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol8.pfb

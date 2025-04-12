@@ -39,35 +39,7 @@ Así, se puede escribir:
     \label{eq:maxwellmacro}
 \end{equation}
 Donde la fuente de los campos $\vec{D}$ y $\vec{H}$ son las cargas (o corrientes) libres, determinadas por la configuración del sistema, mientras que para los campos $\vec{P}$ y $\vec{M}$ son las cargas (o corrientes) ligadas, determinadas por las propiedades del material \cite{griffiths2023introduction}.
-\subsection{Magnetización y Polarización en Sólidos}
-Ambas propiedades representan la respuesta de la estructura a los campos externos. Macroscópicamente, pueden escribirse de la siguiente manera:
-\begin{equation}
-    \begin{split}
-        P_{i}=\varepsilon_0\chi_{ij}^{(e)}E_j\\
-        M_{i}=\chi_{ij}^{(m)}B_j
-    \end{split}
-    \label{eq:tensorMP}
-\end{equation}
-En esta expresión, $\chi_{ij}$, la susceptibilidad, representa los componentes de un tensor de $3\times3$ \cite{Damjanovic2006}.
-
-Sin embargo, para un material isótropo, esta relación se simplifica a una multiplicación por un escalar, el cual aún puede depender de factores como la temperatura o el tiempo.
-\begin{equation}
-    \begin{split}
-        \vec{P}=\varepsilon_0\chi^{(e)}\vec{E}\\
-        \vec{M}=\chi^{(m)}\vec{B}
-    \end{split}
-    \label{eq:escalarMP}
-\end{equation}
-Por otro lado, también es posible entenderlas como la suma de una propiedad microscópica, es decir, para un volumen de material $V$ pueden escribirse como:
-\begin{equation}
-    \begin{split}
-        \vec{P}=\sum_i \dfrac{\vec{d_i}}{V}\\
-        \vec{M}=\sum_i \dfrac{\vec{m_i}}{V}
-    \end{split}
-    \label{eq:relacionmicromacro}
-\end{equation}
-Donde $\vec{m_i}$ es el momento magnético de cada electrón en el material, y $\vec{d_i}$ es el momento dipolar de cada celda unitaria \cite{Visintin2006}.
-\subsection{Magnetización en sólidos}
+\subsection{Magnetización en Sólidos}
 Esta propiedad depende de las contribuciones de los momentos magnéticos $\vec{m_i}$ de cada electrón dentro del volumen estudiado $V$, es decir:
 \begin{equation}
     \vec{M}=\sum_i\dfrac{\vec{m_i}}{V}
@@ -96,7 +68,7 @@ Los electrones en este estado pueden decaer a estados energéticos más bajos en
 
 Este comportamiento puede modelarse mediante el siguiente hamiltoniano:
 \begin{equation}
-    \mathcal{H}_{\text{Heisenberg}}=-2\mathcal{J}\vec{S_i}\vec{S_j}
+    \mathcal{H}_{\text{Heisenberg}}=-2\mathcal{J}\vec{S_i}\cdot\vec{S_j}
     \label{eq:heisenberginterc}
 \end{equation}
 Donde $\mathcal{H}_{\text{Heisenberg}}$ se conoce como el hamiltoniano de Heisenberg, $\mathcal{J}$ es una constante que depende de la estructura del cristal y $\vec{S_i}$ y $\vec{S_j}$ son los espines totales de dos átomos consecutivos \cite{coey2010magnetism}.
@@ -105,20 +77,64 @@ Según el signo de $\mathcal{J}$ se favorece un acomodo paralelo ($\mathcal{J}>0
 \begin{itemize}
     \item \textbf{Ferromagnéticos ($\mathcal{J}>0$):} Los espines se alinean de forma paralela debido al signo de $\mathcal{J}$, esto provoca que los dominios magnéticos tengan una magnetización distinta de 0. Cuando se aplica un campo magnético externo $H$, los dominios cuya magnetización es paralela a $H$ comienzan a crecer a costa de las zonas con magnetizaciones en direcciones distintas. Son similares a los materiales paramagnéticos debido a que ambos provienen de una reorientación de espines, ambos tienen una $\chi>0$, y ambos poseen un campo de saturación $M_s$, sin embargo, la interacción de intercambio provoca un campo de magnetización remanente $M_r$ incluso al retirar el campo externo, para regresar la magnetización a 0 es necesario aplicar un campo coercitivo $H_c$ \cite{coey2010magnetism}.
     \item \textbf{Antiferromagnéticos ($\mathcal{J}<0$):} De manera similar a los materiales ferromagnéticos, estos también presentan dominios magnéticos, sin embargo, los espines se alinean de forma antiparalela, puesto que $\mathcal{J}<0$, esto genera dos subredes, cuyos espines apuntan en direcciones opuestas, sin embargo, la magnetización generada por ambas subredes es de la misma magnitud, es decir, la magnetización neta es 0 \cite{coey2010magnetism}.
-    \item \textbf{Ferrimagnéticos $\mathcal{J}<0$:} Finalmente, los materiales ferrimagnéticos son similares a los antiferromagnéticos, también forman dos subredes con espines alineados en direcciones opuestas, sin embargo, la magnetización de una subred es mayor que la de la otra, lo cual provoca una magnetización neta positiva, aunque menor a la de los materiales ferrimagnéticos \cite{coey2010magnetism}.
+    \item \textbf{Ferrimagnéticos ($\mathcal{J}<0$):} Finalmente, los materiales ferrimagnéticos son similares a los antiferromagnéticos, también forman dos subredes con espines alineados en direcciones opuestas, sin embargo, la magnetización de una subred es mayor que la de la otra, lo cual provoca una magnetización neta positiva, aunque menor a la de los materiales ferrimagnéticos \cite{coey2010magnetism}.
 \end{itemize}
 \subsubsection{Transiciones de Fase Magnéticas} \label{sec:magtemp}
-Debido a que la magnetización se compone de la suma de efectos a nivel cuántico, es de esperarse que tenga dependencia en la temperatura.
+Debido a que la magnetización se compone de la suma de efectos a nivel cuántico, es de esperarse que tenga dependencia en la temperatura. El comportamiento de la susceptibilidad como función de la temperatura es distinto para cada tipo de material, por lo que proporciona información sobre la fase del material a una temperatura dada.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{fig/chitemp.png}
+    \caption{Comportamiento de la susceptibilidad respecto a la temperatura para cada tipo de material. Adaptado de \cite{Ohl2021}.}
+    \label{fig:chitemp}
+\end{figure}
+\begin{itemize}
+    \item \textbf{Diamagnetismo:} Contiene dos contribuciones, el diamagnetismo orbital (ecuación \ref{eq:diamagorb}), que toma en cuenta electrones ligados, y el de Landau (ecuación \ref{eq:diamaglandau}), para electrones libres, explícitamente:
+    \begin{equation}
+            \chi_{\text{orb}}=\dfrac{-n\mu_0e^2\avrg{r^2}}{6m_e}\\
+        \label{eq:diamagorb}
+    \end{equation}
+    \begin{equation}
+        \chi_L=\dfrac{-n\mu_0\mu_B^2}{2k_BT_F}
+        \label{eq:diamaglandau}
+    \end{equation}
+    Con $n$ el número de electrones, ya sean libres o ligados en cada caso, $\mu_0$ la permeabilidad del vacío, $\mu_B$ el magnetón de Bohr, $\k_B$ la constante de Boltzmann, $m_e$ y $e$ la masa y carga del electrón respectivamente, $\avrg{r^2}$ el promedio del cuadrado de la posición de los electrones y $T_F$ la temperatura de Fermi.
 
-La única excepción es el diamagnetismo, 
-\subsection{Histéresis} \label{sec:hist}
-Un fenómeno presenta histéresis si depende no sólo de las condiciones actuales del sistema, sino que también de las condiciones anteriores. Ésto ocurre para propiedades como la elasticidad, la fricción, la superconductividad, la adsorción, la desorción y, siendo éstas el objeto de estudio de este trabajo, la magnetización y la polarización.
-
-En general, la histéresis, observada en propiedades extensivas, proviene de las contribuciones microscópicas de propiedades intensivas \cite{Visintin2006}.
-
-Este fenómeno es evidente al aplicar un campo externo, sea este magnético o eléctrico, los dominios en el material cuya propiedad intensiva relevante sea paralela al campo aplicado serán energéticamente favorables y por lo tanto crecerán a costa de aquellos dominios orientados de forma distinta, lo que aumenta la propiedad extensiva relevante hasta alcanzar un valor máximo, conocido como campo de saturación.
-
-Este proceso no es reversible, si se quita el campo externo el sistema no regresará por si solo a la configuración inicial, sino que tendrá una polarización, o magnetización, remanente distinta de 0. Si se busca que ésta se anule, se debe de aplicar un campo externo en sentido opuesto, conocido como campo coercitivo.
+    Ambas son constantes negativas en la temperatura, como se ilustra en la recta morada en la figura \ref{fig:chitemp}
+    \item \textbf{Paramagnetismo:} De forma similar al diamagnetismo, existen dos componentes para éste, el paramagnetismo de Curie (ecuación \ref{eq:paramcurie}), que considera electrones localizados, y el paramagnetismo de Pauli (ecuación \ref{eq:parampauli}), que contiene la contribución de los electrones libres, estos se pueden escribir:
+    \begin{equation}
+        \chi_C=\dfrac{n\mu_0\mu_B^2}{k_B T}=\dfrac{C}{T}
+        \label{eq:paramcurie}
+    \end{equation}
+    \begin{equation}
+        \chi_P=\dfrac{3n\mu_0\mu_B^2}{2k_BT_F}
+        \label{eq:parampauli}
+    \end{equation}
+    Donde $C$ es la constante de Curie para una partícula de espín $1/2$ y $g=2$.
+    
+    Se observa que $\chi_C$ es inversamente proporcional a la temperatura, este comportamiento se ilustra en la curva verde en la figura \ref{fig:chitemp}.
+\end{itemize}
+En general, la constante de Curie está dada por:
+\begin{equation}
+    C=\dfrac{\mu_0g^2\mu_B^2J(J+1)}{3k_B}
+    \label{eq:constcurie}
+\end{equation}
+Donde, además de los términos ya descritos, $J$ es el momento angular total de los átomos que componen al sistema.
+\begin{itemize}
+    \item \textbf{Ferromagnetismo:} Los materiales ferromagnéticos sólo presentan este comportamiento bajo cierta temperatura, $T_C$ conocida como temperatura de Curie. Cuando $T>T_C$, la energía térmica domina, y las contribuciones a la energía producto del intercambio se vuelven despreciables, por lo que $\chi$ adquiere un comportamiento paramagnético, el cual puede observarse en la siguiente ecuación
+    \begin{equation}
+       \chi=\dfrac{C}{T-T_C}&\qquad&\text{Cuando }T<T_C
+        \label{eq:chiferro}
+    \end{equation}
+    Este comportamiento se ilustra con la curva azul en la figura \ref{fig:chitemp}.
+    \item \textbf{Antiferromagnetismo:} Igual que en el caso del ferromagnetismo, los materiales antiferromagnéticos presentan un cambio de fase a una temperatura particular, conocida como temperatura de Néel ($T_N$). A temperaturas mayores a $T_N$, presentan un comportamiento paramagnético, mientra que por debajo de $T_N$, 
+    \item \textbf{Ferrimagnetismo:}
+\end{itemize}
+Cabe mencionar que, las expresiones para $\chi_P$ y $\chi_L$ son a $T=0$ K, para temperaturas más altas se tiene una corrección de la forma:
+\begin{equation}
+    \left[1-\dfrac{\pi^2}{12}\left(\dfrac{T}{T_F}\right)+...\right]
+    \label{eq:correcpaulilandau}
+\end{equation}
+Sin embargo, usualmente $T_F\gg T$, por lo que $T/T_F\approx0$ y se puede aproximar a estas contribuciones como constantes.
 \subsection{Clasificación de Materiales}
 Es posible clasificar los materiales según su respuesta a los campos externos aplicados.
 

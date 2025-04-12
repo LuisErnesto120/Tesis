@@ -141,73 +141,6 @@
       \field{pages}{255\bibrangedash 258}
       \range{pages}{4}
     \endentry
-    \entry{Damjanovic2006}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=6db93fbe40aeb35c846d50e769333ac2}{%
-           family={Damjanovic},
-           familyi={D\bibinitperiod},
-           given={Dragan},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Academic Press}%
-      }
-      \strng{namehash}{6db93fbe40aeb35c846d50e769333ac2}
-      \strng{fullhash}{6db93fbe40aeb35c846d50e769333ac2}
-      \strng{fullhashraw}{6db93fbe40aeb35c846d50e769333ac2}
-      \strng{bibnamehash}{6db93fbe40aeb35c846d50e769333ac2}
-      \strng{authorbibnamehash}{6db93fbe40aeb35c846d50e769333ac2}
-      \strng{authornamehash}{6db93fbe40aeb35c846d50e769333ac2}
-      \strng{authorfullhash}{6db93fbe40aeb35c846d50e769333ac2}
-      \strng{authorfullhashraw}{6db93fbe40aeb35c846d50e769333ac2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0-12-480874-4}
-      \field{journaltitle}{The Science of Hysteresis}
-      \field{month}{1}
-      \field{title}{Hysteresis in Piezoelectric and Ferroelectric Materials}
-      \field{volume}{3-3}
-      \field{year}{2006}
-      \field{pages}{337\bibrangedash 465}
-      \range{pages}{129}
-      \verb{doi}
-      \verb 10.1016/B978-012480874-4/50022-1
-      \endverb
-    \endentry
-    \entry{Visintin2006}{inbook}{}{}
-      \name{author}{1}{}{%
-        {{hash=9d6b1accd80a7976c6e85165ece56d85}{%
-           family={Visintin},
-           familyi={V\bibinitperiod},
-           given={Augusto},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{9d6b1accd80a7976c6e85165ece56d85}
-      \strng{fullhash}{9d6b1accd80a7976c6e85165ece56d85}
-      \strng{fullhashraw}{9d6b1accd80a7976c6e85165ece56d85}
-      \strng{bibnamehash}{9d6b1accd80a7976c6e85165ece56d85}
-      \strng{authorbibnamehash}{9d6b1accd80a7976c6e85165ece56d85}
-      \strng{authornamehash}{9d6b1accd80a7976c6e85165ece56d85}
-      \strng{authorfullhash}{9d6b1accd80a7976c6e85165ece56d85}
-      \strng{authorfullhashraw}{9d6b1accd80a7976c6e85165ece56d85}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{The Science of Hysteresis}
-      \field{title}{Mathematical Models of Hysteresis}
-      \field{year}{2006}
-      \field{pages}{1\bibrangedash 123}
-      \range{pages}{123}
-      \verb{doi}
-      \verb 10.1016/B978-012480874-4/50004-X
-      \endverb
-    \endentry
     \entry{Mugiraneza2022}{article}{}{}
       \name{author}{2}{}{%
         {{hash=75dd5a2a613ab155508a28f01b87f48f}{%
@@ -229,15 +162,15 @@
       \strng{authornamehash}{85cacea51c4a610906e082d0fd158d3b}
       \strng{authorfullhash}{85cacea51c4a610906e082d0fd158d3b}
       \strng{authorfullhashraw}{85cacea51c4a610906e082d0fd158d3b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2399-3650}
       \field{issue}{1}
       \field{journaltitle}{Communications Physics}
       \field{month}{4}
-      \field{title}{Tutorial: a beginner’s guide to interpreting magnetic susceptibility data with the Curie-Weiss law}
+      \field{title}{Tutorial: a beginners guide to interpreting magnetic susceptibility data with the Curie-Weiss law}
       \field{volume}{5}
       \field{year}{2022}
       \field{pages}{95}
@@ -265,12 +198,37 @@
       \strng{authornamehash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhashraw}{5733536a8c334812dd8e088877f7b1d5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Magnetism and magnetic materials}
       \field{year}{2010}
+    \endentry
+    \entry{Ohl2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9b8033b4840caeddea3fb9395013ecb9}{%
+           family={Ohl},
+           familyi={O\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{fullhash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{fullhashraw}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{bibnamehash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{authorbibnamehash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{authornamehash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{authorfullhash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{authorfullhashraw}{9b8033b4840caeddea3fb9395013ecb9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{note}{\url{https://msestudent.com/wp-content/uploads/2021/01/types-of-magnetism-susceptibility.svg}}
+      \field{title}{Magnetic Susceptibilty vs Temperature for Different Types of Magnets}
+      \field{year}{2021}
     \endentry
     \entry{sonicaciondef}{book}{}{}
       \name{author}{1}{}{%
@@ -320,8 +278,8 @@
       \strng{authornamehash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhashraw}{883888a79180ecb0cd7bb36db3dbe683}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://measurlabs.com/methods/thermogravimetric-analysis-tga/}}
@@ -917,6 +875,7 @@
       \field{issue}{1}
       \field{journaltitle}{World Journal of Engineering}
       \field{month}{3}
+      \field{note}{\url{https://www.researchgate.net/publication/244483920_Ball_milling_of_jute_fibre_wastes_to_prepare_nanocellulose}}
       \field{title}{Ball milling of jute fibre wastes to prepare nanocellulose}
       \field{volume}{9}
       \field{year}{2012}
@@ -924,12 +883,6 @@
       \range{pages}{6}
       \verb{doi}
       \verb 10.1260/1708-5284.9.1.45
-      \endverb
-      \verb{urlraw}
-      \verb https://www.researchgate.net/publication/244483920_Ball_milling_of_jute_fibre_wastes_to_prepare_nanocellulose
-      \endverb
-      \verb{url}
-      \verb https://www.researchgate.net/publication/244483920_Ball_milling_of_jute_fibre_wastes_to_prepare_nanocellulose
       \endverb
     \endentry
     \entry{Banerjee2019}{article}{}{}
@@ -1005,8 +958,8 @@
       \strng{authornamehash}{aef046be8d4511b80a74d9b2a4e89812}
       \strng{authorfullhash}{3195e96aa18560e7b48ad47373019f05}
       \strng{authorfullhashraw}{3195e96aa18560e7b48ad47373019f05}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0032-5910}

@@ -10,7 +10,7 @@
 \usepackage{upgreek}
 \usepackage{mathrsfs}
 \usepackage[mathcal]{euscript}
-\usepackage{physics}
+%\usepackage{physics}
 \usepackage{multicol}
 \usepackage[hidelinks]{hyperref}
 \usepackage{endnotes}
@@ -32,7 +32,7 @@
 \usepackage[font=small]{caption}
 \usepackage[left=2.5cm,right=2.5cm,top=2 cm,bottom=2 cm]{geometry}
 \usepackage[backend=biber,sorting=none,style=numeric-comp,bibstyle=chem-acs,articletitle=true,biblabel=brackets,doi=false,autocite = superscript]{biblatex} %Nota del 05 de julio de 2021: esta librería genera las referencias bibliográficas.
-\bibliography{bib}
+\bibliography{bib.bib}
 \usepackage{verbatim} %Nota del 05 de julio de 2021: esta librería es para comentar varias lineas
 \usepackage{float} %Nota del 06 de julio de 2021: esta librería sirve para las imágenes en el entorno multicols
 \usepackage{ragged2e}
@@ -57,6 +57,15 @@
 	{\huge \thechapter}	% 
 	{20pt}				% 
 	{\huge}				% 
+\usepackage{mathtools}
+	%\DeclarePairedDelimiter\bra{\langle}{\rvert} % \bra{a} -> <a|
+	%\DeclarePairedDelimiter\ket{\lvert}{\rangle} % \ket{a} -> |a>
+	%\DeclarePairedDelimiterX\braket[2]{\langle}{\rangle}{#1\,\delimsize\vert\,\mathopen{}#2} % \braket{a}{b} -> <a|b>
+	%\DeclarePairedDelimiter\avrg{\langle}{\rangle} % \avrg{x} -> <x>
+	\newcommand{\bra}[1]{\ensuremath{\langle #1 \rvert}}
+	\newcommand{\ket}[1]{\ensuremath{\lvert #1 \rangle}}
+	\newcommand{\braket}[2]{\ensuremath{\langle #1 \mid #2 \rangle}}
+	\newcommand{\avrg}[1]{\ensuremath{\langle #1 \rangle}}
 \begin{document}
 %COMIENZA SECCIÓN COMENTADA
 %-------------------------------------------

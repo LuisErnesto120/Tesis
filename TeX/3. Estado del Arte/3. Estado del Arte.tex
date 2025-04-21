@@ -47,12 +47,12 @@ Esta propiedad depende de las contribuciones de los momentos magnéticos $\vec{m
 \end{equation}
 Macroscópicamente, se puede observar que el campo de magnetización depende del campo aplicado $\vec{B}$ y de la susceptibilidad, la cual es un tensor con componentes $\chi_{ij}$, es decir:
 \begin{equation}
-    M_j=\chi_{ij}B_i
+    M_j=\chi_{ij}H_i
     \label{eq:tensormag}
 \end{equation}
 Para materiales en los que $\chi_{ij}=\chi\delta_{ij}$, es decir, el tensor de susceptibilidad es diagonal, se puede escribir:
 \begin{equation}
-    \vec{M}=\chi\vec{B}
+    \vec{M}=\chi\vec{H}
     \label{eq:macromag}
 \end{equation}
 Al medir la magnetización de muestras policristalinas, o muestras en polvo, se miden simultáneamente todas las direcciones, debido a las diversas orientaciones de cada cristal. Esto arroja un promedio escalar de manera similar a la ecuación \ref{eq:macromag}, perdiendo en el proceso información sobre la dependencia direccional de la magnetización \cite{Mugiraneza2022}.
@@ -122,12 +122,17 @@ Donde, además de los términos ya descritos, $J$ es el momento angular total de
 \begin{itemize}
     \item \textbf{Ferromagnetismo:} Los materiales ferromagnéticos sólo presentan este comportamiento bajo cierta temperatura, $T_C$ conocida como temperatura de Curie. Cuando $T>T_C$, la energía térmica domina, y las contribuciones a la energía producto del intercambio se vuelven despreciables, por lo que $\chi$ adquiere un comportamiento paramagnético, el cual puede observarse en la siguiente ecuación
     \begin{equation}
-       \chi=\dfrac{C}{T-T_C}&\qquad&\text{Cuando }T<T_C
+       \chi=\dfrac{C}{T-T_C}&\qquad&\text{Cuando }T>T_C
         \label{eq:chiferro}
     \end{equation}
-    Este comportamiento se ilustra con la curva azul en la figura \ref{fig:chitemp}.
-    \item \textbf{Antiferromagnetismo:} Igual que en el caso del ferromagnetismo, los materiales antiferromagnéticos presentan un cambio de fase a una temperatura particular, conocida como temperatura de Néel ($T_N$). A temperaturas mayores a $T_N$, presentan un comportamiento paramagnético, mientra que por debajo de $T_N$, 
-    \item \textbf{Ferrimagnetismo:}
+    Este comportamiento se ilustra con la curva azul en la figura \ref{fig:chitemp}, en la cual se observa un comportamiento paramagnético en la región $T>T_C$, un punto de inflexión en $T=T_C$ y un comportamiento .
+    \item \textbf{Antiferromagnetismo:} Igual que en el caso del ferromagnetismo, los materiales antiferromagnéticos presentan un cambio de fase a una temperatura particular, conocida como temperatura de Néel ($T_N$). De manera similar al ferromagnetismo, a temperaturas mayores a $T_N$, se observa un comportamiento paramagnético dado por la siguiente ecuación:
+    \begin{equation}
+        \chi=\dfrac{C}{T+T_N}&\qquad&\text{Cuando }T>T_C
+         \label{eq:chiantiferro}
+     \end{equation}
+    Por otro lado, $\chi$ alcanza su valor máximo en $T=T_N$ y comienza a bajar cuando $T<T_N$. Este comportamiento se ilustra en la curva naranja en la figura \ref{fig:chitemp}.
+    \item \textbf{Ferrimagnetismo:} De manera similar al antiferromagnetismo, estos materiales presentan una temperatura de Néel, con un comportamiento paramagnético cuando $T>T_N$ dado por \ref{eq:chiantiferro}. Presentan además un cambio de fase en $T=T_N$, sin embargo, debido a que sus subredes no son de la misma magnitud, por lo que se tiene una magnetización neta distinta de 0, no presentan un máximo en $T=T_N$, sino que la susceptibilidad se comporta de forma similar a un material ferromagnético, lo cual se observa en la curva roja de la figura \ref{fig:chitemp}.
 \end{itemize}
 Cabe mencionar que, las expresiones para $\chi_P$ y $\chi_L$ son a $T=0$ K, para temperaturas más altas se tiene una corrección de la forma:
 \begin{equation}
@@ -135,11 +140,14 @@ Cabe mencionar que, las expresiones para $\chi_P$ y $\chi_L$ son a $T=0$ K, para
     \label{eq:correcpaulilandau}
 \end{equation}
 Sin embargo, usualmente $T_F\gg T$, por lo que $T/T_F\approx0$ y se puede aproximar a estas contribuciones como constantes.
-\subsection{Clasificación de Materiales}
-Es posible clasificar los materiales según su respuesta a los campos externos aplicados.
+\subsubsection{Curvas $M$ contra $H$}
+Como se observa en \ref{eq:macromag}, el campo $\vec{M}$ es proporcional a $\vec{H}$, con $\chi$ la constante de proporcionalidad entre estos.
 
-Hasta ahora ambos campos han tenido relaciones análogas, sin embargo, el hecho de que sólo el campo eléctrico posea cargas, hace que existan comportamientos de la polarización que no se observan para la magnetización. Por esta razón, se discutirán por separado.
+Sin embargo, $\chi$ es distinto según la fase, por lo que el comportamiento de las curvas $M$ vs $H$ a una temperatura constante caracterizan la fase magnética en la que se encuentra el material.
 
+\begin{itemize}
+    \item 
+\end{itemize}
 \subsubsection{Clasificación de Materiales Eléctricos}
 \subsection{Multiferroicidad}
 \end{document}

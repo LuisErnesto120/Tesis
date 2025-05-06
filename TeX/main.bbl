@@ -179,6 +179,31 @@
       \verb 10.1038/s42005-022-00853-y
       \endverb
     \endentry
+    \entry{Ohl2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9b8033b4840caeddea3fb9395013ecb9}{%
+           family={Ohl},
+           familyi={O\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{fullhash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{fullhashraw}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{bibnamehash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{authorbibnamehash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{authornamehash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{authorfullhash}{9b8033b4840caeddea3fb9395013ecb9}
+      \strng{authorfullhashraw}{9b8033b4840caeddea3fb9395013ecb9}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{note}{\url{https://msestudent.com/wp-content/uploads/2021/01/types-of-magnetism-susceptibility.svg}}
+      \field{title}{Magnetic Susceptibilty vs Temperature for Different Types of Magnets}
+      \field{year}{2021}
+    \endentry
     \entry{coey2010magnetism}{book}{}{}
       \name{author}{1}{}{%
         {{hash=5733536a8c334812dd8e088877f7b1d5}{%
@@ -198,37 +223,114 @@
       \strng{authornamehash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhash}{5733536a8c334812dd8e088877f7b1d5}
       \strng{authorfullhashraw}{5733536a8c334812dd8e088877f7b1d5}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Magnetism and magnetic materials}
       \field{year}{2010}
     \endentry
-    \entry{Ohl2021}{misc}{}{}
+    \entry{Buschow2003}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=9b8033b4840caeddea3fb9395013ecb9}{%
-           family={Ohl},
-           familyi={O\bibinitperiod},
-           given={Brandon},
-           giveni={B\bibinitperiod}}}%
+        {{hash=5c4718bc5cca772fcce6968f9a9a34f7}{%
+           family={Buschow},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi H.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{9b8033b4840caeddea3fb9395013ecb9}
-      \strng{fullhash}{9b8033b4840caeddea3fb9395013ecb9}
-      \strng{fullhashraw}{9b8033b4840caeddea3fb9395013ecb9}
-      \strng{bibnamehash}{9b8033b4840caeddea3fb9395013ecb9}
-      \strng{authorbibnamehash}{9b8033b4840caeddea3fb9395013ecb9}
-      \strng{authornamehash}{9b8033b4840caeddea3fb9395013ecb9}
-      \strng{authorfullhash}{9b8033b4840caeddea3fb9395013ecb9}
-      \strng{authorfullhashraw}{9b8033b4840caeddea3fb9395013ecb9}
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{fullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{fullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{bibnamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authorbibnamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authornamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authorfullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
+      \strng{authorfullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{1}
-      \field{note}{\url{https://msestudent.com/wp-content/uploads/2021/01/types-of-magnetism-susceptibility.svg}}
-      \field{title}{Magnetic Susceptibilty vs Temperature for Different Types of Magnets}
-      \field{year}{2021}
+      \field{edition}{1st}
+      \field{month}{12}
+      \field{title}{Handbook of Magnetic Materials}
+      \field{volume}{15}
+      \field{year}{2003}
+    \endentry
+    \entry{Landau1984}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ab77fc1405f1025268c1fed8c4fe3104}{%
+           family={Landau},
+           familyi={L\bibinitperiod},
+           given={L\bibnamedelima D},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=1e5737ddc6200d0118261e7bc577ab25}{%
+           family={Lifshitz},
+           familyi={L\bibinitperiod},
+           given={E\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{0c0920d244a4ef518dc023815875721c}
+      \strng{fullhash}{0c0920d244a4ef518dc023815875721c}
+      \strng{fullhashraw}{0c0920d244a4ef518dc023815875721c}
+      \strng{bibnamehash}{0c0920d244a4ef518dc023815875721c}
+      \strng{authorbibnamehash}{0c0920d244a4ef518dc023815875721c}
+      \strng{authornamehash}{0c0920d244a4ef518dc023815875721c}
+      \strng{authorfullhash}{0c0920d244a4ef518dc023815875721c}
+      \strng{authorfullhashraw}{0c0920d244a4ef518dc023815875721c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-08-030275-1}
+      \field{journaltitle}{Course of Theoretical Physics}
+      \field{title}{Electrodynamics of Continuous Media (Second Edition Revised and Enlarged)}
+      \field{volume}{8}
+      \field{year}{1984}
+      \field{pages}{460}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/B9780080302751500102
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/B9780080302751500102
+      \endverb
+    \endentry
+    \entry{Stewart1999}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0c56d36d3c0eddf5cce526900fcbdf60}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a0ef7624e3e50f5f095ef3d73464371}{%
+           family={Cain},
+           familyi={C\bibinitperiod},
+           given={M\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{fullhash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{fullhashraw}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{bibnamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{authorbibnamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{authornamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{authorfullhash}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{authorfullhashraw}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{CMMT(A) 152}
+      \field{journaltitle}{NPL Report}
+      \field{month}{5}
+      \field{title}{Ferroelectric Hysteresis Measurement and Analysis}
+      \field{year}{1999}
     \endentry
     \entry{sonicaciondef}{book}{}{}
       \name{author}{1}{}{%
@@ -246,8 +348,8 @@
       \strng{authornamehash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
       \strng{authorfullhash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
       \strng{authorfullhashraw}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{Rev. 4-16}
@@ -259,8 +361,8 @@
       \list{publisher}{1}{%
         {HNZXIB Lab}%
       }
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{UH-650W Ultrasonic cell crusher (Instructions)}
     \endentry
@@ -278,8 +380,8 @@
       \strng{authornamehash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhash}{883888a79180ecb0cd7bb36db3dbe683}
       \strng{authorfullhashraw}{883888a79180ecb0cd7bb36db3dbe683}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://measurlabs.com/methods/thermogravimetric-analysis-tga/}}
@@ -301,8 +403,8 @@
       \strng{authornamehash}{b1506d795713a78166436180a3b569b3}
       \strng{authorfullhash}{b1506d795713a78166436180a3b569b3}
       \strng{authorfullhashraw}{b1506d795713a78166436180a3b569b3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Introduction_to_Materials_Characterization__CHM_412_Collaborative_Text/Thermal_Analysis/Thermogravimetric_analysis_(TGA)}}
@@ -330,8 +432,8 @@
       \strng{authornamehash}{6adcddf836f71e754b0efe50729f1efa}
       \strng{authorfullhash}{6adcddf836f71e754b0efe50729f1efa}
       \strng{authorfullhashraw}{6adcddf836f71e754b0efe50729f1efa}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://serc.carleton.edu/research_education/geochemsheets/techniques/XRD.html}}
@@ -376,8 +478,8 @@
       \strng{authornamehash}{d724738c3b9d7910bcbca62cacc6f87b}
       \strng{authorfullhash}{3c6190f166a6416b53fd581710b3b258}
       \strng{authorfullhashraw}{3c6190f166a6416b53fd581710b3b258}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{20054602}
@@ -418,8 +520,8 @@
       \strng{authornamehash}{f60683403a92a32e002be743cb4a5e4b}
       \strng{authorfullhash}{f60683403a92a32e002be743cb4a5e4b}
       \strng{authorfullhashraw}{f60683403a92a32e002be743cb4a5e4b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Solid State Physics}
@@ -441,8 +543,8 @@
       \strng{authornamehash}{8bb0715a111dbadfec10c83514983109}
       \strng{authorfullhash}{8bb0715a111dbadfec10c83514983109}
       \strng{authorfullhashraw}{8bb0715a111dbadfec10c83514983109}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://www.sciencefacts.net/bravais-lattice.html}}
@@ -473,8 +575,8 @@
       \strng{authornamehash}{c4f588658d947883367cf33e82a0728f}
       \strng{authorfullhash}{c4f588658d947883367cf33e82a0728f}
       \strng{authorfullhashraw}{c4f588658d947883367cf33e82a0728f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3}
@@ -500,8 +602,8 @@
       \strng{authornamehash}{e87032dfd7c7e61401cb681397ef0ae4}
       \strng{authorfullhash}{e87032dfd7c7e61401cb681397ef0ae4}
       \strng{authorfullhashraw}{e87032dfd7c7e61401cb681397ef0ae4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{9}
@@ -527,8 +629,8 @@
       \strng{authornamehash}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
       \strng{authorfullhash}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
       \strng{authorfullhashraw}{9aaf1f6ba86f1baeb56e0d0b64c7c07c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3}
@@ -556,8 +658,8 @@
       \strng{authornamehash}{50236057fd063b93dd014928a83cef85}
       \strng{authorfullhash}{50236057fd063b93dd014928a83cef85}
       \strng{authorfullhashraw}{50236057fd063b93dd014928a83cef85}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
@@ -580,8 +682,8 @@
       \strng{authornamehash}{9a6a705f90ef07fad457db1a196640b4}
       \strng{authorfullhash}{9a6a705f90ef07fad457db1a196640b4}
       \strng{authorfullhashraw}{9a6a705f90ef07fad457db1a196640b4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{http://www.crystallography.net/cod/}}
@@ -606,8 +708,8 @@
       \strng{authornamehash}{7f4203b4ffea72d0b91407e42bf2e2d1}
       \strng{authorfullhash}{7f4203b4ffea72d0b91407e42bf2e2d1}
       \strng{authorfullhashraw}{7f4203b4ffea72d0b91407e42bf2e2d1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{0387258000}
@@ -634,8 +736,8 @@
       \strng{authornamehash}{5254ee0e36bb5b8ed53cb31e022e384e}
       \strng{authorfullhash}{5254ee0e36bb5b8ed53cb31e022e384e}
       \strng{authorfullhashraw}{5254ee0e36bb5b8ed53cb31e022e384e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{1}
@@ -662,8 +764,8 @@
       \strng{authornamehash}{19346454842bb742895e536fb596da21}
       \strng{authorfullhash}{19346454842bb742895e536fb596da21}
       \strng{authorfullhashraw}{19346454842bb742895e536fb596da21}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{ImageJ}
@@ -685,8 +787,8 @@
       \strng{authornamehash}{580182f03c7a1baecaf2ee51f170aba5}
       \strng{authorfullhash}{580182f03c7a1baecaf2ee51f170aba5}
       \strng{authorfullhashraw}{580182f03c7a1baecaf2ee51f170aba5}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{9}
@@ -713,8 +815,8 @@
       \strng{authornamehash}{d96bea3005622192b78d422e648cad7e}
       \strng{authorfullhash}{d96bea3005622192b78d422e648cad7e}
       \strng{authorfullhashraw}{d96bea3005622192b78d422e648cad7e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3}
@@ -737,8 +839,8 @@
       \strng{authornamehash}{1d2437b0ccc035a0da08d83f7dab16ff}
       \strng{authorfullhash}{1d2437b0ccc035a0da08d83f7dab16ff}
       \strng{authorfullhashraw}{1d2437b0ccc035a0da08d83f7dab16ff}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Analysis \& Separations}
@@ -763,8 +865,8 @@
       \strng{authornamehash}{ba640f0e7386e8d56a01f4aa62be4b56}
       \strng{authorfullhash}{ba640f0e7386e8d56a01f4aa62be4b56}
       \strng{authorfullhashraw}{ba640f0e7386e8d56a01f4aa62be4b56}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
@@ -800,8 +902,8 @@
       \strng{authornamehash}{039b29214aa4c62d11e49016a5404edf}
       \strng{authorfullhash}{fc93aafa20c82090c04d83696c20921d}
       \strng{authorfullhashraw}{fc93aafa20c82090c04d83696c20921d}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{19487185}
@@ -817,6 +919,100 @@
       \verb 10.1021/ACS.JPCLETT.8B02892
       \endverb
     \endentry
+    \entry{Kirtley1999}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f083eade65fa52080e9dd521e8fc7165}{%
+           family={Kirtley},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=83847c564d5342b4b918ae43dbae6e4f}{%
+           family={Wikswo},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bb11aea85a191767b44c3fae7aa5bce}
+      \strng{fullhash}{2bb11aea85a191767b44c3fae7aa5bce}
+      \strng{fullhashraw}{2bb11aea85a191767b44c3fae7aa5bce}
+      \strng{bibnamehash}{2bb11aea85a191767b44c3fae7aa5bce}
+      \strng{authorbibnamehash}{2bb11aea85a191767b44c3fae7aa5bce}
+      \strng{authornamehash}{2bb11aea85a191767b44c3fae7aa5bce}
+      \strng{authorfullhash}{2bb11aea85a191767b44c3fae7aa5bce}
+      \strng{authorfullhashraw}{2bb11aea85a191767b44c3fae7aa5bce}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0084-6600}
+      \field{issue}{1}
+      \field{journaltitle}{Annual Review of Materials Science}
+      \field{month}{8}
+      \field{title}{SCANNING SQUID MICROSCOPY}
+      \field{volume}{29}
+      \field{year}{1999}
+      \field{pages}{117\bibrangedash 148}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1146/annurev.matsci.29.1.117
+      \endverb
+    \endentry
+    \entry{Marcon2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=1b4bf795837089b550e41e518413a7fa}{%
+           family={Marcon},
+           familyi={M\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=de3f5c59c58316d111a864cdcab41c80}{%
+           family={Ostanina},
+           familyi={O\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{58d26a3a10e9dac7fdcf057c35ab7f33}
+      \strng{fullhash}{58d26a3a10e9dac7fdcf057c35ab7f33}
+      \strng{fullhashraw}{58d26a3a10e9dac7fdcf057c35ab7f33}
+      \strng{bibnamehash}{58d26a3a10e9dac7fdcf057c35ab7f33}
+      \strng{authorbibnamehash}{58d26a3a10e9dac7fdcf057c35ab7f33}
+      \strng{authornamehash}{58d26a3a10e9dac7fdcf057c35ab7f33}
+      \strng{authorfullhash}{58d26a3a10e9dac7fdcf057c35ab7f33}
+      \strng{authorfullhashraw}{58d26a3a10e9dac7fdcf057c35ab7f33}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Progress In Electromagnetics Research Symposium Proceedings}
+      \field{title}{Overview of Methods for Magnetic Susceptibility Measurement}
+      \field{year}{2012}
+      \field{pages}{420\bibrangedash 424}
+      \range{pages}{5}
+    \endentry
+    \entry{Ali2014}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1f262b8db98b1f765534b157e103f21a}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Irfan},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f262b8db98b1f765534b157e103f21a}
+      \strng{fullhash}{1f262b8db98b1f765534b157e103f21a}
+      \strng{fullhashraw}{1f262b8db98b1f765534b157e103f21a}
+      \strng{bibnamehash}{1f262b8db98b1f765534b157e103f21a}
+      \strng{authorbibnamehash}{1f262b8db98b1f765534b157e103f21a}
+      \strng{authornamehash}{1f262b8db98b1f765534b157e103f21a}
+      \strng{authorfullhash}{1f262b8db98b1f765534b157e103f21a}
+      \strng{authorfullhashraw}{1f262b8db98b1f765534b157e103f21a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{\url{https://www.researchgate.net/post/What-is-basic-difference-between-ZFC-and-FC-curves-and-what-type-of-information-we-can-be-obtained-from-these-curves}}
+      \field{title}{What is basic difference between ZFC and FC curves? and what type of information we can be obtained from these curves? | ResearchGate}
+      \field{year}{2014}
+    \endentry
     \entry{Molino}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=e04c59f46edf842ed2e107bec2fa3205}{%
@@ -831,8 +1027,8 @@
       \strng{authornamehash}{e04c59f46edf842ed2e107bec2fa3205}
       \strng{authorfullhash}{e04c59f46edf842ed2e107bec2fa3205}
       \strng{authorfullhashraw}{e04c59f46edf842ed2e107bec2fa3205}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://www.micronanotools.com/products/copy-of-bench-top-high-speed-vibrating-ball-mill-hvbm-1200v-with-one-80ml-ss-jar-2-year-warranty}}
@@ -867,8 +1063,8 @@
       \strng{authornamehash}{8a7b1d5dd9e8236fea79131280a33365}
       \strng{authorfullhash}{2acf9e5968b72561bf27ea0608a3e317}
       \strng{authorfullhashraw}{2acf9e5968b72561bf27ea0608a3e317}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1708-5284}
@@ -909,8 +1105,8 @@
       \strng{authornamehash}{6cfb4846d93d81edabfba619defe9073}
       \strng{authorfullhash}{6cfb4846d93d81edabfba619defe9073}
       \strng{authorfullhashraw}{6cfb4846d93d81edabfba619defe9073}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9780081021521}
@@ -958,8 +1154,8 @@
       \strng{authornamehash}{aef046be8d4511b80a74d9b2a4e89812}
       \strng{authorfullhash}{3195e96aa18560e7b48ad47373019f05}
       \strng{authorfullhashraw}{3195e96aa18560e7b48ad47373019f05}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0032-5910}
@@ -978,8 +1174,8 @@
       \list{publisher}{1}{%
         {American Institute of Physics Inc.}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labeltitlesource}{title}
       \field{issn}{10897550}
       \field{issue}{3}
@@ -999,37 +1195,6 @@
       \verb{url}
       \verb /aip/jap/article/120/3/034101/143625/Room-temperature-dual-ferroic-behaviour-of-ball
       \endverb
-    \endentry
-    \entry{Stewart1999}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=0c56d36d3c0eddf5cce526900fcbdf60}{%
-           family={Stewart},
-           familyi={S\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=8a0ef7624e3e50f5f095ef3d73464371}{%
-           family={Cain},
-           familyi={C\bibinitperiod},
-           given={M\bibnamedelima G},
-           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-      }
-      \strng{namehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{fullhash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{fullhashraw}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{bibnamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{authorbibnamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{authornamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{authorfullhash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{authorfullhashraw}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issue}{CMMT(A) 152}
-      \field{journaltitle}{NPL Report}
-      \field{month}{5}
-      \field{title}{Ferroelectric Hysteresis Measurement \& Analysis}
-      \field{year}{1999}
     \endentry
   \enddatalist
 \endrefsection

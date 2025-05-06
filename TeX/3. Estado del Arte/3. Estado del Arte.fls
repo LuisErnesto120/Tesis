@@ -449,10 +449,13 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnSymb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
-INPUT .\fig\estructura.jpg
-INPUT .\fig\estructura.jpg
-INPUT .\fig\estructura.jpg
-INPUT .\fig\estructura.jpg
+INPUT .\fig\neelradio.jpg
+INPUT .\fig\neelradio.jpg
+INPUT .\fig\neelradio.jpg
+INPUT .\fig\neelradio.jpg
+INPUT .\fig\neelradio.jpg
+INPUT .\fig\neelradio.jpg
+INPUT .\fig\neelradio.jpg
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
@@ -462,19 +465,34 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbo
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolC.enc
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolF.enc
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\fig\chitemp.png
+INPUT .\fig\chitemp.png
+INPUT .\fig\chitemp.png
+INPUT .\fig\chitemp.png
+INPUT .\fig\chitemp.png
+INPUT .\fig\chitemp.png
+INPUT .\fig\chitemp.png
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\ueus.fd
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\ueus.fd
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\ueus.fd
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm7.tfm
-INPUT .\fig\chitemp.png
-INPUT .\fig\chitemp.png
-INPUT .\fig\chitemp.png
-INPUT .\fig\chitemp.png
-INPUT .\fig\chitemp.png
-INPUT .\fig\chitemp.png
-INPUT .\fig\chitemp.png
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolA.enc
+INPUT .\fig\histeresis1.jpg
+INPUT .\fig\histeresis1.jpg
+INPUT .\fig\histeresis1.jpg
+INPUT .\fig\histeresis1.jpg
+INPUT .\fig\histeresis1.jpg
+INPUT .\fig\histeresis1.jpg
+INPUT .\fig\histeresis1.jpg
+INPUT .\fig\PEloop.png
+INPUT .\fig\PEloop.png
+INPUT .\fig\PEloop.png
+INPUT .\fig\PEloop.png
+INPUT .\fig\PEloop.png
+INPUT .\fig\PEloop.png
+INPUT .\fig\PEloop.png
 INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
 INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
 INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
@@ -482,6 +500,8 @@ INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.ru
 OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.run.xml
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol12.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol8.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol8.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
@@ -492,6 +512,8 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\c
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb

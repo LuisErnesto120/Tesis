@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  10 APR 2025 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  5 MAY 2025 20:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1538,40 +1538,63 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 5.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-<fig/estructura.jpg, id=30, 370.94336pt x 282.68442pt>
+<fig/estructura.jpg, id=30, 372.46846pt x 283.0575pt>
 File: fig/estructura.jpg Graphic file (type jpg)
 <use fig/estructura.jpg>
 Package pdftex.def Info: fig/estructura.jpg  used on input line 14.
-(pdftex.def)             Requested size: 236.01561pt x 179.86061pt.
-File: fig/estructura.jpg Graphic file (type jpg)
-<use fig/estructura.jpg>
-Package pdftex.def Info: fig/estructura.jpg  used on input line 23.
-(pdftex.def)             Requested size: 236.01561pt x 179.86061pt.
+(pdftex.def)             Requested size: 236.01561pt x 179.36374pt.
+<fig/neelradio.jpg, id=36, 249.68198pt x 210.76736pt>
+File: fig/neelradio.jpg Graphic file (type jpg)
+<use fig/neelradio.jpg>
+Package pdftex.def Info: fig/neelradio.jpg  used on input line 23.
+(pdftex.def)             Requested size: 236.01561pt x 199.23729pt.
  [1
 
 
 {C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./fig/estructura.jpg>]
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
- [2{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}]
-LaTeX Font Info:    Trying to load font information for U+eus on input line 71.
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+ [2{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolF.enc} <./fig/neelradio.jpg>]
+<fig/chitemp.png, id=71, 1298.60156pt x 613.54219pt>
+File: fig/chitemp.png Graphic file (type png)
+<use fig/chitemp.png>
+Package pdftex.def Info: fig/chitemp.png  used on input line 62.
+(pdftex.def)             Requested size: 354.02342pt x 167.25949pt.
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [3 <./fig/chitemp.png>]
+LaTeX Font Info:    Trying to load font information for U+eus on input line 123.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueus.fd
 File: ueus.fd 2013/01/14 v3.01 Euler Script
 )
-LaTeX Info: Redefining \. on input line 79.
-LaTeX Info: Redefining \% on input line 79.
- [3]
-<fig/chitemp.png, id=86, 1298.60156pt x 613.54219pt>
-File: fig/chitemp.png Graphic file (type png)
-<use fig/chitemp.png>
-Package pdftex.def Info: fig/chitemp.png  used on input line 86.
-(pdftex.def)             Requested size: 330.42041pt x 156.10948pt.
-LaTeX Info: Redefining \. on input line 99.
-LaTeX Info: Redefining \% on input line 99.
- [4 <./fig/chitemp.png>]
-LaTeX Info: Redefining \. on input line 127.
-LaTeX Info: Redefining \% on input line 127.
- [5] (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+LaTeX Info: Redefining \. on input line 134.
+LaTeX Info: Redefining \% on input line 134.
+ [4{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
+ [5]
+<fig/histeresis1.jpg, id=122, 603.7423pt x 493.09885pt>
+File: fig/histeresis1.jpg Graphic file (type jpg)
+<use fig/histeresis1.jpg>
+Package pdftex.def Info: fig/histeresis1.jpg  used on input line 172.
+(pdftex.def)             Requested size: 259.6186pt x 212.04341pt.
+LaTeX Info: Redefining \. on input line 178.
+LaTeX Info: Redefining \% on input line 178.
+ [6 <./fig/histeresis1.jpg>]
+LaTeX Info: Redefining \. on input line 203.
+LaTeX Info: Redefining \% on input line 203.
+ [7]
+LaTeX Info: Redefining \. on input line 239.
+LaTeX Info: Redefining \% on input line 239.
+ [8]
+<fig/PEloop.png, id=159, 988.44281pt x 206.27063pt>
+File: fig/PEloop.png Graphic file (type png)
+<use fig/PEloop.png>
+Package pdftex.def Info: fig/PEloop.png  used on input line 248.
+(pdftex.def)             Requested size: 424.82523pt x 88.65372pt.
+LaTeX Info: Redefining \. on input line 262.
+LaTeX Info: Redefining \% on input line 262.
+ [9 <./fig/PEloop.png>] (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
 LaTeX Info: Redefining \sptext on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
@@ -1581,24 +1604,33 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-05-08>
  ***********
 Package rerunfilecheck Info: File `"3. Estado del Arte".out' has not changed.
-(rerunfilecheck)             Checksum: 65C0A232B402AA90B159B0A281FD1367;1074.
+(rerunfilecheck)             Checksum: A113FFF7C88F0972C57360C509765F7A;1235.
 Package logreq Info: Writing requests to '"3. Estado del Arte".run.xml'.
 \openout1 = `"3. Estado del Arte.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35027 strings out of 474312
- 629216 string characters out of 5740701
- 1941907 words of memory out of 5000000
- 56922 multiletter control sequences out of 15000+600000
+ 35094 strings out of 474312
+ 630532 string characters out of 5740701
+ 1942907 words of memory out of 5000000
+ 56962 multiletter control sequences out of 15000+600000
  575676 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,16n,134p,2454b,1961s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,17n,134p,2454b,1961s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-pdfTeX warning (dest): name{cite.0@Ohl2021} has been referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{cite.0@Stewart1999} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Landau1984} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Buschow2003} has been referenced but does not exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{cite.0@coey2010magnetism} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Ohl2021} has been referenced but does not exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{cite.0@Mugiraneza2022} has been referenced but does not exist, replaced by a fixed one
@@ -1612,10 +1644,10 @@ pdfTeX warning (dest): name{cite.0@Sharma2024} has been referenced but does not 
 
 pdfTeX warning (dest): name{cite.0@Wang2019} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb>
-Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf" (5 pages, 373192 bytes).
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb>
+Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf" (9 pages, 877651 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 59 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 251 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

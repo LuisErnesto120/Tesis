@@ -1,24 +1,24 @@
 # Fdb version 4
-["biber 3. Estado del Arte/3. Estado del Arte"] 1746497389.73283 "3. Estado del Arte/3. Estado del Arte.bcf" "3. Estado del Arte/3. Estado del Arte.bbl" "3. Estado del Arte/3. Estado del Arte" 1746497591.28359 0
-  "3. Estado del Arte/3. Estado del Arte.bcf" 1746497590.52763 109413 290097b2851b0fa84ac785f9ef47438a "pdflatex"
-  "bib.bib" 1746004148.35854 13094 30d8499a25664043782e95f48ec84e52 ""
+["biber 3. Estado del Arte/3. Estado del Arte"] 1746501737.10594 "3. Estado del Arte/3. Estado del Arte.bcf" "3. Estado del Arte/3. Estado del Arte.bbl" "3. Estado del Arte/3. Estado del Arte" 1746501750.7104 0
+  "3. Estado del Arte/3. Estado del Arte.bcf" 1746501749.97176 109479 fabb77b36359da7e309d1912e48ed006 "pdflatex"
+  "bib.bib" 1746500900.06408 13472 2c26fb10f8549c500e78dfff356c886e ""
   (generated)
   "3. Estado del Arte/3. Estado del Arte.bbl"
   "3. Estado del Arte/3. Estado del Arte.blg"
   (rewritten before read)
-["biber C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte"] 1746497386.29663 "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bcf" "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl" "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte" 1746497591.28179 0
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bcf" 1746497590.52763 109413 290097b2851b0fa84ac785f9ef47438a ""
-  "bib.bib" 1746004148.35854 13094 30d8499a25664043782e95f48ec84e52 ""
+["biber C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte"] 1746501733.78098 "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bcf" "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl" "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte" 1746501750.70857 0
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bcf" 1746501749.97176 109479 fabb77b36359da7e309d1912e48ed006 ""
+  "bib.bib" 1746500900.06408 13472 2c26fb10f8549c500e78dfff356c886e ""
   (generated)
   "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl"
   "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.blg"
   (rewritten before read)
-["pdflatex"] 1746497586.23171 "c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex" "3. Estado del Arte/3. Estado del Arte.pdf" "3. Estado del Arte" 1746497591.28534 0
+["pdflatex"] 1746501745.70696 "c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex" "3. Estado del Arte/3. Estado del Arte.pdf" "3. Estado del Arte" 1746501750.71217 0
   "3. Estado del Arte/../main.tex" 1745196836.12633 3881 04ed906fb56e719b16793f40125478d8 ""
-  "3. Estado del Arte/3. Estado del Arte.aux" 1746497590.50351 8835 737281effcb3fc7d0f4f9b3f90179a7e "pdflatex"
-  "3. Estado del Arte/3. Estado del Arte.bbl" 1746497393.11607 14316 c626f43913c574fe4f90abdba19ddddf "biber 3. Estado del Arte/3. Estado del Arte"
-  "3. Estado del Arte/3. Estado del Arte.out" 1746497590.52086 1235 a113fff7c88f0972c57360c509765f7a "pdflatex"
-  "3. Estado del Arte/3. Estado del Arte.run.xml" 1746497590.53063 2483 0d12e06003455f114d16d1204b6ed192 "pdflatex"
+  "3. Estado del Arte/3. Estado del Arte.aux" 1746501749.94827 9039 fc5b929fd6148f9914ac9690443aaf20 "pdflatex"
+  "3. Estado del Arte/3. Estado del Arte.bbl" 1746501740.44812 15758 8f4705d23828030cf5dd5b98d38bf98f "biber 3. Estado del Arte/3. Estado del Arte"
+  "3. Estado del Arte/3. Estado del Arte.out" 1746501749.96039 1235 a113fff7c88f0972c57360c509765f7a "pdflatex"
+  "3. Estado del Arte/3. Estado del Arte.run.xml" 1746501749.97476 2483 0d12e06003455f114d16d1204b6ed192 "pdflatex"
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744266701.05094 182663 8a8647167012e1778c6bdf8e7ba3d50e ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1716864877.11816 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1716864878.39123 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -250,11 +250,11 @@
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/xfor/xfor.sty" 1233849756 2689 44855b72da58344b1c1d9b3087bce6ca ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.aux" 1746497590.50351 8835 737281effcb3fc7d0f4f9b3f90179a7e ""
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl" 1746497393.11607 14316 c626f43913c574fe4f90abdba19ddddf "biber C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte"
-  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.out" 1746497590.52086 1235 a113fff7c88f0972c57360c509765f7a ""
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.aux" 1746501749.94827 9039 fc5b929fd6148f9914ac9690443aaf20 ""
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.bbl" 1746501740.44812 15758 8f4705d23828030cf5dd5b98d38bf98f "biber C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte"
+  "C:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.out" 1746501749.96039 1235 a113fff7c88f0972c57360c509765f7a ""
   "C:/Users/PC/Desktop/Git/Tesis/TeX/main.tex" 1745196836.12633 3881 04ed906fb56e719b16793f40125478d8 ""
-  "c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex" 1746497563.30539 23914 09662c15c6b7060a17ed3b705809873c ""
+  "c:/Users/PC/Desktop/Git/Tesis/TeX/3. Estado del Arte/3. Estado del Arte.tex" 1746501720.68517 24858 e69af3f8468695d40a5aa53d89056c4f ""
   "fig/PEloop.png" 1746497246.48016 51288 70dfc73995d0810dada1ff34fd378a15 ""
   "fig/chitemp.png" 1744267231.95473 117066 4152f9d0711ab7e940eb1cb75aedbe58 ""
   "fig/estructura.jpg" 1745196447.15832 244143 685e596ad1d9a17d133f740b67d7e207 ""

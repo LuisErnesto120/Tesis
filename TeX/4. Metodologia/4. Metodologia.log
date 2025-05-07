@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  28 APR 2025 00:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  6 MAY 2025 00:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -12,7 +12,7 @@ Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
 Preamble taken from file `../main.tex'
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
-) (C:\Users\PC\Desktop\Git\Tesis\TeX\main.tex (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+) (../main.tex (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
 File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
@@ -1391,7 +1391,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
+ (4. Metodologia.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1443,7 +1443,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 2.
- (C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out) (C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out)
+ (4. Metodologia.out) (4. Metodologia.out)
 \@outlinefile=\write5
 \openout5 = `"4. Metodologia.out"'.
 
@@ -1513,7 +1513,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"4. Metodologia".bbl' found.
- (C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.bbl)
+ (4. Metodologia.bbl)
 Package biblatex Info: Reference section=0 on input line 2.
 Package biblatex Info: Reference segment=0 on input line 2.
 
@@ -1526,10 +1526,10 @@ Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 Cap\'{\i }tulo 1.
-<fig/2.png, id=47, 1390.44469pt x 753.5653pt>
-File: fig/2.png Graphic file (type png)
-<use fig/2.png>
-Package pdftex.def Info: fig/2.png  used on input line 7.
+<../fig/2.png, id=47, 1390.44469pt x 753.5653pt>
+File: ../fig/2.png Graphic file (type png)
+<use ../fig/2.png>
+Package pdftex.def Info: ../fig/2.png  used on input line 7.
 (pdftex.def)             Requested size: 354.02342pt x 191.86339pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -1545,50 +1545,46 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) [1
 
 
-{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} <./fig/2.png>]
+{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} <../fig/2.png>]
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
  [2]
-<fig/tgadiag.png, id=84, 481.3182pt x 285.7074pt>
-File: fig/tgadiag.png Graphic file (type png)
-<use fig/tgadiag.png>
-Package pdftex.def Info: fig/tgadiag.png  used on input line 68.
+<../fig/tgadiag.png, id=84, 481.3182pt x 285.7074pt>
+File: ../fig/tgadiag.png Graphic file (type png)
+<use ../fig/tgadiag.png>
+Package pdftex.def Info: ../fig/tgadiag.png  used on input line 68.
 (pdftex.def)             Requested size: 330.42041pt x 196.1356pt.
 LaTeX Info: Redefining \. on input line 77.
 LaTeX Info: Redefining \% on input line 77.
- [3{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} <./fig/tgadiag.png>]
-<fig/DRXdiag.png, id=101, 221.15958pt x 140.525pt>
-File: fig/DRXdiag.png Graphic file (type png)
-<use fig/DRXdiag.png>
-Package pdftex.def Info: fig/DRXdiag.png  used on input line 81.
+ [3{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} <../fig/tgadiag.png>]
+<../fig/DRXdiag.png, id=101, 221.15958pt x 140.525pt>
+File: ../fig/DRXdiag.png Graphic file (type png)
+<use ../fig/DRXdiag.png>
+Package pdftex.def Info: ../fig/DRXdiag.png  used on input line 81.
 (pdftex.def)             Requested size: 283.22162pt x 179.96143pt.
-
-
-LaTeX Warning: Command \r invalid in math mode on input line 86.
-
 LaTeX Info: Redefining \. on input line 97.
 LaTeX Info: Redefining \% on input line 97.
-[4{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolF.enc} <./fig/DRXdiag.png>]
-<fig/bravais.png, id=119, 1129.97156pt x 633.11531pt>
-File: fig/bravais.png Graphic file (type png)
-<use fig/bravais.png>
-Package pdftex.def Info: fig/bravais.png  used on input line 100.
+ [4{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolF.enc} <../fig/DRXdiag.png>]
+<../fig/bravais.png, id=119, 1129.97156pt x 633.11531pt>
+File: ../fig/bravais.png Graphic file (type png)
+<use ../fig/bravais.png>
+Package pdftex.def Info: ../fig/bravais.png  used on input line 100.
 (pdftex.def)             Requested size: 354.02342pt x 198.35039pt.
-<fig/braggdiag.png, id=124, 499.8675pt x 267.24844pt>
-File: fig/braggdiag.png Graphic file (type png)
-<use fig/braggdiag.png>
-Package pdftex.def Info: fig/braggdiag.png  used on input line 111.
+<../fig/braggdiag.png, id=124, 499.8675pt x 267.24844pt>
+File: ../fig/braggdiag.png Graphic file (type png)
+<use ../fig/braggdiag.png>
+Package pdftex.def Info: ../fig/braggdiag.png  used on input line 111.
 (pdftex.def)             Requested size: 330.42041pt x 176.6618pt.
 LaTeX Info: Redefining \. on input line 114.
 LaTeX Info: Redefining \% on input line 114.
- [5 <./fig/bravais.png>]
+ [5 <../fig/bravais.png>]
 LaTeX Info: Redefining \. on input line 143.
 LaTeX Info: Redefining \% on input line 143.
- [6 <./fig/braggdiag.png>]
-<fig/Rietveld.png, id=157, 986.9372pt x 480.29437pt>
-File: fig/Rietveld.png Graphic file (type png)
-<use fig/Rietveld.png>
-Package pdftex.def Info: fig/Rietveld.png  used on input line 165.
+ [6 <../fig/braggdiag.png>]
+<../fig/Rietveld.png, id=157, 986.9372pt x 480.29437pt>
+File: ../fig/Rietveld.png Graphic file (type png)
+<use ../fig/Rietveld.png>
+Package pdftex.def Info: ../fig/Rietveld.png  used on input line 165.
 (pdftex.def)             Requested size: 330.42041pt x 160.79883pt.
 
 Underfull \vbox (badness 1337) has occurred while \output is active []
@@ -1598,99 +1594,100 @@ LaTeX Info: Redefining \% on input line 169.
  [7]
 LaTeX Info: Redefining \. on input line 194.
 LaTeX Info: Redefining \% on input line 194.
- [8 <./fig/Rietveld.png>]
-<fig/semdiag.png, id=187, 640.64343pt x 359.09157pt>
-File: fig/semdiag.png Graphic file (type png)
-<use fig/semdiag.png>
-Package pdftex.def Info: fig/semdiag.png  used on input line 197.
+ [8 <../fig/Rietveld.png>]
+<../fig/semdiag.png, id=187, 640.64343pt x 359.09157pt>
+File: ../fig/semdiag.png Graphic file (type png)
+<use ../fig/semdiag.png>
+Package pdftex.def Info: ../fig/semdiag.png  used on input line 197.
 (pdftex.def)             Requested size: 330.42041pt x 185.21092pt.
 LaTeX Info: Redefining \. on input line 212.
 LaTeX Info: Redefining \% on input line 212.
- [9 <./fig/semdiag.png>]
-<fig/semtipos.png, id=202, 509.65407pt x 190.46156pt>
-File: fig/semtipos.png Graphic file (type png)
-<use fig/semtipos.png>
-Package pdftex.def Info: fig/semtipos.png  used on input line 216.
+ [9 <../fig/semdiag.png>]
+<../fig/semtipos.png, id=202, 509.65407pt x 190.46156pt>
+File: ../fig/semtipos.png Graphic file (type png)
+<use ../fig/semtipos.png>
+Package pdftex.def Info: ../fig/semtipos.png  used on input line 216.
 (pdftex.def)             Requested size: 330.42041pt x 123.48466pt.
-<fig/imagejcomp.png, id=209, 1024.04723pt x 251.74495pt>
-File: fig/imagejcomp.png Graphic file (type png)
-<use fig/imagejcomp.png>
-Package pdftex.def Info: fig/imagejcomp.png  used on input line 225.
+<../fig/imagejcomp.png, id=209, 1024.04723pt x 251.74495pt>
+File: ../fig/imagejcomp.png Graphic file (type png)
+<use ../fig/imagejcomp.png>
+Package pdftex.def Info: ../fig/imagejcomp.png  used on input line 225.
 (pdftex.def)             Requested size: 330.42041pt x 81.22841pt.
 LaTeX Info: Redefining \. on input line 229.
 LaTeX Info: Redefining \% on input line 229.
- [10 <./fig/semtipos.png>]
-<fig/ejemplohist.png, id=219, 684.3969pt x 551.1792pt>
-File: fig/ejemplohist.png Graphic file (type png)
-<use fig/ejemplohist.png>
-Package pdftex.def Info: fig/ejemplohist.png  used on input line 232.
+ [10 <../fig/semtipos.png>]
+<../fig/ejemplohist.png, id=219, 684.3969pt x 551.1792pt>
+File: ../fig/ejemplohist.png Graphic file (type png)
+<use ../fig/ejemplohist.png>
+Package pdftex.def Info: ../fig/ejemplohist.png  used on input line 232.
 (pdftex.def)             Requested size: 330.42041pt x 266.1105pt.
 LaTeX Info: Redefining \. on input line 254.
 LaTeX Info: Redefining \% on input line 254.
- [11 <./fig/imagejcomp.png> <./fig/ejemplohist.png>]
-<fig/uvvisdiag.png, id=234, 469.755pt x 143.78719pt>
-File: fig/uvvisdiag.png Graphic file (type png)
-<use fig/uvvisdiag.png>
-Package pdftex.def Info: fig/uvvisdiag.png  used on input line 273.
+ [11 <../fig/imagejcomp.png> <../fig/ejemplohist.png>]
+<../fig/uvvisdiag.png, id=234, 469.755pt x 143.78719pt>
+File: ../fig/uvvisdiag.png Graphic file (type png)
+<use ../fig/uvvisdiag.png>
+Package pdftex.def Info: ../fig/uvvisdiag.png  used on input line 273.
 (pdftex.def)             Requested size: 330.42041pt x 101.1374pt.
 LaTeX Info: Redefining \. on input line 283.
 LaTeX Info: Redefining \% on input line 283.
- [12 <./fig/uvvisdiag.png>]
-<fig/bandgapdiag.png, id=250, 396.7322pt x 216.05719pt>
-File: fig/bandgapdiag.png Graphic file (type png)
-<use fig/bandgapdiag.png>
-Package pdftex.def Info: fig/bandgapdiag.png  used on input line 288.
+ [12 <../fig/uvvisdiag.png>]
+<../fig/bandgapdiag.png, id=250, 396.7322pt x 216.05719pt>
+File: ../fig/bandgapdiag.png Graphic file (type png)
+<use ../fig/bandgapdiag.png>
+Package pdftex.def Info: ../fig/bandgapdiag.png  used on input line 288.
 (pdftex.def)             Requested size: 330.42041pt x 179.94719pt.
-<fig/ejemplotauc.png, id=255, 770.88pt x 578.16pt>
-File: fig/ejemplotauc.png Graphic file (type png)
-<use fig/ejemplotauc.png>
-Package pdftex.def Info: fig/ejemplotauc.png  used on input line 307.
+<../fig/ejemplotauc.png, id=255, 770.88pt x 578.16pt>
+File: ../fig/ejemplotauc.png Graphic file (type png)
+<use ../fig/ejemplotauc.png>
+Package pdftex.def Info: ../fig/ejemplotauc.png  used on input line 307.
 (pdftex.def)             Requested size: 283.22162pt x 212.4161pt.
 LaTeX Info: Redefining \. on input line 311.
 LaTeX Info: Redefining \% on input line 311.
- [13 <./fig/bandgapdiag.png>]
-<fig/squiddiag.png, id=269, 522.45187pt x 417.05812pt>
-File: fig/squiddiag.png Graphic file (type png)
-<use fig/squiddiag.png>
-Package pdftex.def Info: fig/squiddiag.png  used on input line 329.
+ [13 <../fig/bandgapdiag.png>]
+<../fig/squiddiag.png, id=269, 522.45187pt x 417.05812pt>
+File: ../fig/squiddiag.png Graphic file (type png)
+<use ../fig/squiddiag.png>
+Package pdftex.def Info: ../fig/squiddiag.png  used on input line 329.
 (pdftex.def)             Requested size: 188.8096pt x 150.71991pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 333.
 LaTeX Info: Redefining \% on input line 333.
- [14 <./fig/ejemplotauc.png (PNG copy)>]
+ [14 <../fig/ejemplotauc.png (PNG copy)>]
 LaTeX Info: Redefining \. on input line 354.
 LaTeX Info: Redefining \% on input line 354.
- [15 <./fig/squiddiag.png>]
-<fig/molinodiag.png, id=298, 151.90083pt x 136.51pt>
-File: fig/molinodiag.png Graphic file (type png)
-<use fig/molinodiag.png>
-Package pdftex.def Info: fig/molinodiag.png  used on input line 363.
+ [15 <../fig/squiddiag.png>]
+<../fig/molinodiag.png, id=298, 151.90083pt x 136.51pt>
+File: ../fig/molinodiag.png Graphic file (type png)
+<use ../fig/molinodiag.png>
+Package pdftex.def Info: ../fig/molinodiag.png  used on input line 363.
 (pdftex.def)             Requested size: 188.8096pt x 169.68932pt.
 LaTeX Info: Redefining \. on input line 379.
 LaTeX Info: Redefining \% on input line 379.
- [16 <./fig/molinodiag.png>]
-<fig/sintdiag.jpg, id=316, 653.62779pt x 191.86726pt>
-File: fig/sintdiag.jpg Graphic file (type jpg)
-<use fig/sintdiag.jpg>
-Package pdftex.def Info: fig/sintdiag.jpg  used on input line 389.
+ [16 <../fig/molinodiag.png>]
+<../fig/sintdiag.jpg, id=316, 653.62779pt x 191.86726pt>
+File: ../fig/sintdiag.jpg Graphic file (type jpg)
+<use ../fig/sintdiag.jpg>
+Package pdftex.def Info: ../fig/sintdiag.jpg  used on input line 389.
 (pdftex.def)             Requested size: 377.62642pt x 110.84686pt.
-LaTeX Info: Redefining \. on input line 419.
-LaTeX Info: Redefining \% on input line 419.
- [17 <./fig/sintdiag.jpg>]
-
-LaTeX Warning: Reference `sec:analisistermico' on page 18 undefined on input line 419.
 
 
-LaTeX Warning: Reference `sec:analisisestruc' on page 18 undefined on input line 420.
+LaTeX Warning: Reference `sec:analisistermico' on page 17 undefined on input line 401.
 
 
-LaTeX Warning: Reference `sec:analisisoptmagelec' on page 18 undefined on input line 421.
+LaTeX Warning: Reference `sec:analisisestruc' on page 17 undefined on input line 402.
 
-LaTeX Info: Redefining \. on input line 449.
-LaTeX Info: Redefining \% on input line 449.
-[18] (C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
+
+LaTeX Warning: Reference `sec:analisisoptmagelec' on page 17 undefined on input line 403.
+
+LaTeX Info: Redefining \. on input line 409.
+LaTeX Info: Redefining \% on input line 409.
+[17 <../fig/sintdiag.jpg>]
+LaTeX Info: Redefining \. on input line 431.
+LaTeX Info: Redefining \% on input line 431.
+ [18] (4. Metodologia.aux
 LaTeX Info: Redefining \sptext on input line 11.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
@@ -1705,21 +1702,23 @@ LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `"4. Metodologia".out' has not changed.
 (rerunfilecheck)             Checksum: 0184E67A8D4D2E4C6F5B96640E92719C;1964.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                "4. Metodologia"
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to '"4. Metodologia".run.xml'.
 \openout1 = `"4. Metodologia.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35291 strings out of 474312
- 634732 string characters out of 5740701
+ 35316 strings out of 474312
+ 635291 string characters out of 5740701
  1949907 words of memory out of 5000000
- 57098 multiletter control sequences out of 15000+600000
+ 57127 multiletter control sequences out of 15000+600000
  576749 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,18n,134p,2446b,2007s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{cite.0@Stewart1999} has been referenced but does not exist, replaced by a fixed one
-
 
 pdfTeX warning (dest): name{cite.0@Aparnadevi2016} has been referenced but does not exist, replaced by a fixed one
 
@@ -1807,10 +1806,10 @@ pdfTeX warning (dest): name{cite.0@manualpunta} has been referenced but does not
 
 pdfTeX warning (dest): name{cite.0@sonicaciondef} has been referenced but does not exist, replaced by a fixed one
 
- <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.pdf" (18 pages, 6248736 bytes).
+ <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "4. Metodologia.pdf" (18 pages, 6237596 bytes).
 PDF statistics:
- 459 PDF objects out of 1000 (max. 8388607)
- 121 named destinations out of 1000 (max. 500000)
+ 448 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
  169 words of extra memory for PDF output out of 10000 (max. 10000000)
 

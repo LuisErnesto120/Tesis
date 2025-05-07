@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber main"] 1746500900.89186 "main.bcf" "main.bbl" "main" 1746500904.75242 0
-  "bib.bib" 1746500900.06408 13472 2c26fb10f8549c500e78dfff356c886e ""
-  "main.bcf" 1746497584.17553 113083 9bcd73d8e9f040d15fac1f1bacd55508 "pdflatex"
+["biber main"] 1746513729.54945 "main.bcf" "main.bbl" "main" 1746513805.39757 0
+  "bib.bib" 1746513702.8998 13837 b076c93398036dc78ac8a75a67e70543 ""
+  "main.bcf" 1746513804.43509 113204 2d57b02f2f29d0e7e4738cb727c9ce16 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1746497564.29393 "c:/Users/PC/Desktop/Git/Tesis/TeX/main.tex" "main.pdf" "main" 1746500904.75345 0
-  "3. Estado del Arte/3. Estado del Arte.tex" 1746497563.30539 23914 09662c15c6b7060a17ed3b705809873c ""
-  "4. Metodologia/4. Metodologia.tex" 1746497307.78018 42051 2fd43c19161e8bed9007872a41bb1fd6 ""
+["pdflatex"] 1746513781.08056 "c:/Users/PC/Desktop/Git/Tesis/TeX/main.tex" "main.pdf" "main" 1746513805.39757 0
+  "3. Estado del Arte/3. Estado del Arte.tex" 1746513702.8998 25171 789b7ca903f4b4c1160c06437476fe90 ""
+  "4. Metodologia/4. Metodologia.tex" 1746513702.8998 42049 fabe8476142b9d2ffab10c9b1d03c872 ""
   "5. Resultados/5. Resultados.tex" 1745803010.71333 6928 9e421f0648bcd870e837786a83e7c235 ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744266701.05094 182663 8a8647167012e1778c6bdf8e7ba3d50e ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1745803037.62574 14064 156b3b2aaa1d3370d9c065820b1b37a7 ""
@@ -267,6 +267,7 @@
   "fig/ejemplohist.png" 1744267231.85448 212986 dd40aa4b1c6818a4779830d6ff34552b ""
   "fig/ejemplotauc.png" 1744267231.87011 194391 73bc7486de0802945db1e5e5313ce42b ""
   "fig/estructura.jpg" 1745196447.15832 244143 685e596ad1d9a17d133f740b67d7e207 ""
+  "fig/ferroelecdiag.jpg" 1746513512.80695 70881 fe6ae20b77c41b4f43ea0ec5327d8fc8 ""
   "fig/histeresis1.jpg" 1744267231.87011 127889 75927abed03319dd0170bec808007f84 ""
   "fig/imagejcomp.png" 1744267231.88578 3745990 7f79a606788f6edf30a47e793d9289f4 ""
   "fig/molinodiag.png" 1744267231.89579 20465 c82bd4cea1dd177a9a42ee50050ede7f ""
@@ -279,11 +280,11 @@
   "fig/squiddiag.png" 1745805026.83634 121971 b9d8f9a81a4ce241631c5f89280d9d66 ""
   "fig/tgadiag.png" 1744267231.95473 82575 2c8dc9f58a800e42528c050ca7f01426 ""
   "fig/uvvisdiag.png" 1744267231.95473 29480 ef0692019606abb9ad0602fc6a92bbfa ""
-  "main.aux" 1746497584.14276 31228 f719d2f04eb9e59962e64db88b24099f "pdflatex"
-  "main.bbl" 1746500904.50391 52403 ff9b8d01f881feccc5fd31033c3f9b89 "biber main"
-  "main.out" 1746497584.16553 4467 c8a4145d43280c2e196030e6efe5ac13 "pdflatex"
-  "main.run.xml" 1746497584.17613 2371 21149cf7338497cabc9d44bc070debbe "pdflatex"
-  "main.toc" 1746497584.17613 5365 125a46c21a941e6bb5284f2301ba43b6 "pdflatex"
+  "main.aux" 1746513804.40155 32013 bc997154e83656d25be4d972bffa0032 "pdflatex"
+  "main.bbl" 1746513733.31839 55976 b6963d0db6f10be4a3c6820d90315082 "biber main"
+  "main.out" 1746513804.42539 4467 039b934060c388e3c4e2f4c62184b938 "pdflatex"
+  "main.run.xml" 1746513804.43809 2371 21149cf7338497cabc9d44bc070debbe "pdflatex"
+  "main.toc" 1746513804.43809 5368 57c6710b419de4ff86ea6aa8c5ec4b90 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

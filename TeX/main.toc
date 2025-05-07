@@ -6,50 +6,50 @@
 \contentsline {subsubsection}{\numberline {1.2.1.1}Clasificación y Comportamiento de Materiales Magnéticos}{3}{subsubsection.1.2.1.1}%
 \contentsline {subsubsection}{\numberline {1.2.1.2}Curvas $M$ contra $H$}{6}{subsubsection.1.2.1.2}%
 \contentsline {subsection}{\numberline {1.2.2}Polarización en Sólidos}{7}{subsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.2.1}Curvas $P$ contra $E$}{8}{subsubsection.1.2.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2.1}Curvas $P$ contra $E$}{9}{subsubsection.1.2.2.1}%
 \contentsline {subsubsection}{\numberline {1.2.2.2}Multiferroicidad}{9}{subsubsection.1.2.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Propiedades de las Ortoferritas de Tierras Raras}{9}{subsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.3.1}Magnetismo}{9}{subsubsection.1.2.3.1}%
-\contentsline {subsubsection}{\numberline {1.2.3.2}Electricidad}{9}{subsubsection.1.2.3.2}%
-\contentsline {chapter}{\numberline {2}Metodología}{10}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Síntesis}{10}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Sonicación}{11}{subsection.2.1.1}%
-\contentsline {section}{\numberline {2.2}Caracterización}{12}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Análisis Termogravimétrico (TGA)}{12}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Difracción de Rayos X (DRX)}{13}{subsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.2.1}Estructura Cristalina}{13}{subsubsection.2.2.2.1}%
-\contentsline {paragraph}{\numberline {2.2.2.1.1}Ley de Bragg}{14}{paragraph.2.2.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.2.2.2}Refinamiento Rietveld}{15}{subsubsection.2.2.2.2}%
-\contentsline {paragraph}{\numberline {2.2.2.2.1}Criterios de Refinamiento}{17}{paragraph.2.2.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.3}Microscopía Electrónica de Barrido (SEM)}{17}{subsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.2.3.1}Interacciones Electrón-Sólido}{18}{subsubsection.2.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.2.3.2}Análisis Estadístico del Tamaño de Partículas}{19}{subsubsection.2.2.3.2}%
-\contentsline {subsection}{\numberline {2.2.4}Espectroscopía UV-Vis}{21}{subsection.2.2.4}%
-\contentsline {subsubsection}{\numberline {2.2.4.1}Método Tauc}{22}{subsubsection.2.2.4.1}%
-\contentsline {subsection}{\numberline {2.2.5}Magnetometría}{23}{subsection.2.2.5}%
-\contentsline {subsubsection}{\numberline {2.2.5.1}Dispositivo Superconductor de Interferencia Cuántica (SQUID)}{23}{subsubsection.2.2.5.1}%
-\contentsline {paragraph}{\numberline {2.2.5.1.1}Mediciones Magnéticas Realizadas}{24}{paragraph.2.2.5.1.1}%
-\contentsline {paragraph}{\numberline {2.2.5.1.2}\textit {Zero Field Cooling} y \textit {Field Cooling}}{24}{paragraph.2.2.5.1.2}%
-\contentsline {subsection}{\numberline {2.2.6}Mediciones Ferroeléctricas}{24}{subsection.2.2.6}%
-\contentsline {subsubsection}{\numberline {2.2.6.1}Preparación de la Muestra}{24}{subsubsection.2.2.6.1}%
-\contentsline {subsubsection}{\numberline {2.2.6.2}Molienda}{25}{subsubsection.2.2.6.2}%
-\contentsline {subsubsection}{\numberline {2.2.6.3}Sinterización}{25}{subsubsection.2.2.6.3}%
-\contentsline {subsubsection}{\numberline {2.2.6.4}Mediciones de Polarización (Curvas P-E)}{26}{subsubsection.2.2.6.4}%
-\contentsline {subsection}{\numberline {2.2.7}Clasificación metodológica y de muestras}{26}{subsection.2.2.7}%
-\contentsline {chapter}{\numberline {3}Resultados}{28}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Muestras Sintetizadas}{28}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Caracterización}{29}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Análisis Térmico}{29}{subsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.1.1}Análisis Termogravimétrico}{29}{subsubsection.3.2.1.1}%
-\contentsline {subsection}{\numberline {3.2.2}Análisis Estructural, Morfológico y de Composición}{29}{subsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.1}Microscopía Electrónica de Barrido}{29}{subsubsection.3.2.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2.2}Espectroscopía de Dispersión de Energía}{31}{subsubsection.3.2.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.3}Difracción de Rayos X}{31}{subsubsection.3.2.2.3}%
-\contentsline {subsection}{\numberline {3.2.3}Análisis Óptico, Magnético y Eléctrico}{31}{subsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.1}Espectroscopía UV-Vis}{31}{subsubsection.3.2.3.1}%
-\contentsline {subsubsection}{\numberline {3.2.3.2}Magnetometría VSM}{31}{subsubsection.3.2.3.2}%
-\contentsline {paragraph}{\numberline {3.2.3.2.1}M vs T}{31}{paragraph.3.2.3.2.1}%
-\contentsline {paragraph}{\numberline {3.2.3.2.2}\textchi {} vs T}{31}{paragraph.3.2.3.2.2}%
-\contentsline {paragraph}{\numberline {3.2.3.2.3}M v H}{31}{paragraph.3.2.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.3}Espectroscopía de Impedancia}{31}{subsubsection.3.2.3.3}%
-\contentsline {chapter}{Bibliografía}{32}{chapter*.30}%
+\contentsline {subsection}{\numberline {1.2.3}Propiedades de las Ortoferritas de Tierras Raras}{10}{subsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.3.1}Magnetismo}{10}{subsubsection.1.2.3.1}%
+\contentsline {subsubsection}{\numberline {1.2.3.2}Electricidad}{10}{subsubsection.1.2.3.2}%
+\contentsline {chapter}{\numberline {2}Metodología}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Síntesis}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Sonicación}{12}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Caracterización}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Análisis Termogravimétrico (TGA)}{13}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Difracción de Rayos X (DRX)}{14}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Estructura Cristalina}{14}{subsubsection.2.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.2.1.1}Ley de Bragg}{15}{paragraph.2.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}Refinamiento Rietveld}{16}{subsubsection.2.2.2.2}%
+\contentsline {paragraph}{\numberline {2.2.2.2.1}Criterios de Refinamiento}{18}{paragraph.2.2.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.3}Microscopía Electrónica de Barrido (SEM)}{18}{subsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}Interacciones Electrón-Sólido}{19}{subsubsection.2.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.2.3.2}Análisis Estadístico del Tamaño de Partículas}{20}{subsubsection.2.2.3.2}%
+\contentsline {subsection}{\numberline {2.2.4}Espectroscopía UV-Vis}{22}{subsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.4.1}Método Tauc}{23}{subsubsection.2.2.4.1}%
+\contentsline {subsection}{\numberline {2.2.5}Magnetometría}{24}{subsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.5.1}Dispositivo Superconductor de Interferencia Cuántica (SQUID)}{24}{subsubsection.2.2.5.1}%
+\contentsline {paragraph}{\numberline {2.2.5.1.1}Mediciones Magnéticas Realizadas}{25}{paragraph.2.2.5.1.1}%
+\contentsline {paragraph}{\numberline {2.2.5.1.2}\textit {Zero Field Cooling} y \textit {Field Cooling}}{25}{paragraph.2.2.5.1.2}%
+\contentsline {subsection}{\numberline {2.2.6}Mediciones Ferroeléctricas}{25}{subsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.6.1}Preparación de la Muestra}{25}{subsubsection.2.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.2.6.2}Molienda}{26}{subsubsection.2.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.2.6.3}Sinterización}{26}{subsubsection.2.2.6.3}%
+\contentsline {subsubsection}{\numberline {2.2.6.4}Mediciones de Polarización (Curvas P-E)}{27}{subsubsection.2.2.6.4}%
+\contentsline {subsection}{\numberline {2.2.7}Clasificación metodológica y de muestras}{27}{subsection.2.2.7}%
+\contentsline {chapter}{\numberline {3}Resultados}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Muestras Sintetizadas}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Caracterización}{30}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Análisis Térmico}{30}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Análisis Termogravimétrico}{30}{subsubsection.3.2.1.1}%
+\contentsline {subsection}{\numberline {3.2.2}Análisis Estructural, Morfológico y de Composición}{30}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Microscopía Electrónica de Barrido}{30}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}Espectroscopía de Dispersión de Energía}{32}{subsubsection.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.3}Difracción de Rayos X}{32}{subsubsection.3.2.2.3}%
+\contentsline {subsection}{\numberline {3.2.3}Análisis Óptico, Magnético y Eléctrico}{32}{subsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}Espectroscopía UV-Vis}{32}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.3.2}Magnetometría VSM}{32}{subsubsection.3.2.3.2}%
+\contentsline {paragraph}{\numberline {3.2.3.2.1}M vs T}{32}{paragraph.3.2.3.2.1}%
+\contentsline {paragraph}{\numberline {3.2.3.2.2}\textchi {} vs T}{32}{paragraph.3.2.3.2.2}%
+\contentsline {paragraph}{\numberline {3.2.3.2.3}M v H}{32}{paragraph.3.2.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.3}Espectroscopía de Impedancia}{32}{subsubsection.3.2.3.3}%
+\contentsline {chapter}{Bibliografía}{33}{chapter*.31}%

@@ -332,6 +332,39 @@
       \field{title}{Ferroelectric Hysteresis Measurement and Analysis}
       \field{year}{1999}
     \endentry
+    \entry{Vopson2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=bad08a00bcf0920108fedea73c509c10}{%
+           family={Vopson},
+           familyi={V\bibinitperiod},
+           given={Melvin\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{bad08a00bcf0920108fedea73c509c10}
+      \strng{fullhash}{bad08a00bcf0920108fedea73c509c10}
+      \strng{fullhashraw}{bad08a00bcf0920108fedea73c509c10}
+      \strng{bibnamehash}{bad08a00bcf0920108fedea73c509c10}
+      \strng{authorbibnamehash}{bad08a00bcf0920108fedea73c509c10}
+      \strng{authornamehash}{bad08a00bcf0920108fedea73c509c10}
+      \strng{authorfullhash}{bad08a00bcf0920108fedea73c509c10}
+      \strng{authorfullhashraw}{bad08a00bcf0920108fedea73c509c10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1040-8436}
+      \field{issue}{4}
+      \field{journaltitle}{Critical Reviews in Solid State and Materials Sciences}
+      \field{month}{7}
+      \field{title}{Fundamentals of Multiferroic Materials and Their Possible Applications}
+      \field{volume}{40}
+      \field{year}{2015}
+      \field{pages}{223\bibrangedash 250}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1080/10408436.2014.992584
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

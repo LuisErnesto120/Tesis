@@ -8,7 +8,7 @@ El objeto de estudio de este trabajo son las ortoferritas \ce{RFeO3}, con R una 
 
 Esta estructura, con grupo espacial Pbnm, es decir, una celda primitiva ortorrómbica, un plano de deslizamiento tipo b, el cual es perpendicular al eje $\hat{a}$, un plano de deslizamiento tipo n, el cual es perpendicular a $\hat{b}$ y un plano de reflexión perpendicular al eje $\hat{c}$.
 
-La geometría de esta misma estructura favorece también la aparición de momentos dipolares en las celdas cristalinas, lo hace posible la presencia de ferroelectricidad, haciendo de estas ferritas posibles materiales multiferroicos. \cite{Sharma2024}.
+La geometría de esta misma estructura favorece también la aparición de momentos dipolares en las celdas cristalinas, lo que hace posible la presencia de ferroelectricidad, haciendo de estas ferritas posibles materiales multiferroicos. \cite{Sharma2024}.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.5\textwidth]{fig/estructura.jpg}
@@ -76,9 +76,7 @@ Los materiales magnéticos pueden clasificarse a través de su respuesta a los c
         \chi_L=\dfrac{-n\mu_0\mu_B^2}{2k_BT_F}
         \label{eq:chidiamaglandau}
     \end{equation}
-    Donde la contribución del diamagnetismo orbital $(\chi_\text{orb})$ toma en cuenta los electrones ligados, y la del diamagnetismo de Landau $(\chi_L)$ los electrones libres. Además, $n$ es el número de electrones del tipo correspondiente, $\mu_0$ la permeabilidad del vacío, $\mu_B$ el magnetón de Bohr, $k_B$ la constante de Boltzmann, $m_e$ y $e$ la masa y la carga del electrón respectivamente, $\avrg{r^2}$ el promedio del cuadrado de la posición de los electrones y $T_F$ la temperatura de Fermi.
-
-    Observe que ambas son menores a 0 y son constantes en la temperatura, como se observa en la línea morada de la figura \ref{fig:chitemp} \cite{coey2010magnetism}.
+    Donde la contribución del diamagnetismo orbital $(\chi_\text{orb})$ toma en cuenta los electrones ligados, y la del diamagnetismo de Landau $(\chi_L)$ los electrones libres. Además, $n$ es el número de electrones del tipo correspondiente, $\mu_0$ la permeabilidad del vacío, $\mu_B$ el magnetón de Bohr, $k_B$ la constante de Boltzmann, $m_e$ y $e$ la masa y la carga del electrón respectivamente, $\avrg{r^2}$ el promedio del cuadrado de la posición de los electrones y $T_F$ la temperatura de Fermi. Ambas susceptibilidades son negativas y constantes en la temperatura, como se observa en la línea morada de la figura \ref{fig:chitemp} \cite{coey2010magnetism}.
     \item \textbf{Paramagnéticos:} Cuando un material que posee electrones desapareados en su capa de valencia es expuesto a un campo magnético externo ($H$), favorecerá el alineamiento de los momentos magnéticos de cada electrón en el mismo eje. En particular, para los electrones desapareados, el campo favorecerá a la población paralela sobre la antiparalela, provocando una magnetización en el mismo sentido que el campo, la cual puede modelarse a través de las funciones de Brillouin y Langevin \cite{coey2010magnetism}.
     \begin{equation}
         B_J(x)=\dfrac{2J+1}{2J}\coth\left(\dfrac{2J+1}{2J}x\right)-\dfrac{1}{2J}\coth\left(\dfrac{x}{2J}\right)
@@ -88,7 +86,7 @@ Los materiales magnéticos pueden clasificarse a través de su respuesta a los c
         L(x)=\coth(x)-\dfrac{1}{x}
         \label{eq:Langevin}
     \end{equation}
-    Donde $J$ es el momento angular total de los átomos que conforman el material. Cabe mencionar que $L$ es el límite de las funciones $B_J$ cuando $J\rightarrow\infty$. Por otro lado, se tiene
+    Donde $J$ es el momento angular total de los átomos que conforman el material. Cabe mencionar que $L$ es el límite clásico de las funciones $B_J$ cuando $J\rightarrow\infty$, es decir, cuando existe una infinidad de estados energéticos posibles. Por otro lado, se tiene
     \begin{equation}
         x=\dfrac{g\mu_B\mu_0M_JH}{k_BT}\qquad (B_J(x))
         \label{eq:xBrillouin}
@@ -118,7 +116,7 @@ Es necesario introducir dos conceptos para entender estos materiales.
 
 El primero de estos es la interacción de intercambio. Cuando se tiene un enlace metálico, en el cual los electrones pueden moverse libremente en el cristal a través de un orbital compartido, la energía de estos se degenera, producto del principio de exclusión de Pauli.
 
-Los electrones en este estado de energía, debido a que son indistinguibles entre sí, pueden decaer a cualquier orbital de cualquier átomo en la red. Este comportamiento puede modelarse mediante el siguiente hamiltoniano:
+Los electrones en este estado de energía, debido a que son indistinguibles entre sí, pueden ocupar cualquier orbital en la red correspondiente a electrones desapareados. Este comportamiento puede modelarse mediante el siguiente hamiltoniano:
 \begin{equation}
     \mathcal{H}_\text{H}=-2\mathcal{J}\vec{S_i}\cdot\vec{S_J}
     \label{eq:hamiltonianoheisenberg}
@@ -128,9 +126,9 @@ Donde $\mathcal{H}_\text{H}$ se conoce como el hamiltoniano de Heisenberg, $\vec
     \mathcal{J}=\int \psi^\ast_i(\vec{r}')\psi^\ast_j(\vec{r})\mathcal{H}(\vec{r},\vec{r}')\psi_i(\vec{r}')\psi_j(\vec{r})\text{d}^3r\text{d}^3r'
     \label{eq:intintercambio}
 \end{equation}
-El signo de esta integral determina qué orientación relativa de espines de átomos vecinos será favorecida por el cristal, si $\mathcal{J}>0$, será más energéticamente favorable que haya espines paralelos, mientras que con $\mathcal{J}<0$ lo mismo ocurrirá para espines antiparalelos, esto a su vez genera regiones del cristal con espines alineados, conocidas como dominios \cite{coey2010magnetism}.
+El signo de esta integral determina qué orientación relativa de espines de átomos vecinos será favorecida por el cristal, si $\mathcal{J}>0$, será más energéticamente favorable que haya espines paralelos, mientras que con $\mathcal{J}<0$ lo mismo ocurrirá para espines antiparalelos, esto a su vez genera regiones del cristal con espines alineados, conocidas como dominios magnéticos \cite{coey2010magnetism}.
 
-El segundo concepto necesario para entender el comportamiento de los materiales con un orden magnético intrínseco es la teoría de campo medio de Weiss.
+El segundo concepto necesario para entender el comportamiento de los materiales con un orden magnético intrínseco es el campo medio de Weiss.
 
 Esta supone que el efecto de la magnetización al aplicar un campo $H$ da como resultado un campo neto $H^i$ de la forma:
 \begin{equation}
@@ -139,7 +137,7 @@ Esta supone que el efecto de la magnetización al aplicar un campo $H$ da como r
 \end{equation}
 Esto permite extender el análisis realizado para el paramagnetismo a través de funciones de Brillouin a los materiales con orden magnético intrínseco.
 \begin{itemize}
-    \item \textbf{Ferromagnéticos $(\mathcal{J}>0)$ :} El signo de $\mathcal{J}$ provoca que los espines se alineen de forma paralela, lo cual produce que los dominios tengan una magnetización neta distinta de 0. Cuando se aplica un campo externo $H$, los dominios cuya magnetización es paralela al campo aplicado comienzan a crecer a costa de aquellos con otra orientación. Estos materiales presentan un cambio de fase en una temperatura determinada conocida como la temperatura de Curie, esto pues, al realizar el análisis hecho para el paramagnetismo con $H^i$ en lugar de $H$, se encuentra lo siguiente:
+    \item \textbf{Ferromagnéticos $(\mathcal{J}>0)$ :} El signo de $\mathcal{J}$ provoca que los espines se alineen de forma paralela, lo cual produce que los dominios tengan una magnetización neta distinta de 0. Estos materiales presentan un cambio de fase en una temperatura determinada conocida como la temperatura de Curie, esto pues, al realizar el análisis hecho para el paramagnetismo con $H^i$ en lugar de $H$, se encuentra lo siguiente:
     \begin{equation}\begin{split}
         M=\dfrac{C}{T}H^i=\dfrac{C}{T}(n_wM+H)\\
         \implies M=\dfrac{C}{T-T_C}H\text{ , }n_wC=T_C\\
@@ -150,7 +148,7 @@ Esto permite extender el análisis realizado para el paramagnetismo a través de
     Donde $T_C$ se conoce como temperatura de Curie. Esta expresión se conoce como la ley de Curie-Weiss.
 
     Por debajo de la temperatura de Curie, los materiales ferromagnéticos presentan orden magnético intrínseco, cuando rebasan esta temperatura tienen un comportamiento paramagnético, como se muestra en la curva azul de la figura \ref{fig:chitemp} \cite{coey2010magnetism}.
-    \item \textbf{Antiferromagnéticos ($\mathcal{J}<0$):} De manera similar a los materiales ferromagnéticos, existen dominios magnéticos producto de la interacción de intercambio en este tipo de material, sin embargo, los espines se alinean de manera antiparalela, puesto que $\mathcal(J)<0$. Esto genera dos subredes, cuyos espines apuntan en direcciones opuestas y son de igual magnitud. Al modelar estas dos subredes como campos medios independientes, se puede llegar a un análogo de la ley de Curie-Weiss:
+    \item \textbf{Antiferromagnéticos ($\mathcal{J}<0$):} De manera similar a los materiales ferromagnéticos, existen dominios magnéticos producto de la interacción de intercambio en este tipo de material, sin embargo, los espines se alinean de manera antiparalela, puesto que $\mathcal{J}<0$. Esto genera dos subredes, cuyos espines apuntan en direcciones opuestas y son de igual magnitud. Al modelar estas dos subredes como campos medios independientes, se puede llegar a un análogo de la ley de Curie-Weiss:
     \begin{equation}
         \chi=\dfrac{C}{T+T_N}\qquad\text{Cuando }T>T_N
         \label{eq:tempdeneel}
@@ -177,7 +175,7 @@ Los materiales sin orden magnético intrínseco tienen un comportamiento simple,
 
 Por otro lado, los materiales con orden magnético intrínseco presentan histéresis, es decir, su estado actual no depende sólo de las condiciones en las que se encuentran, sino también de las condiciones pasadas del sistema.
 
-Esto tiene su origen en la interacción de intercambio, dado que esta hace energéticamente más favorable que los espines estén alineados de cierta forma, como se describió en la sección \ref{sec:magtemp} \cite{coey2010magnetism}.
+Esto tiene su origen en la interacción de intercambio, dado que esta hace energéticamente más favorable que los espines estén alineados, lo cual provoque que, al aplicar un campo externo $H$, los dominios cuya magnetización es paralela al campo aplicado comienzan a crecer a costa de aquellos con otra orientación.
 
 Para estos materiales podemos definir:
 \begin{itemize}
@@ -200,8 +198,13 @@ Por simetría, esta polarización debe ser invariante ante las mismas transforma
 
 Si el sólido es centrosimétrico, es decir, tiene un punto de simetría, $P=0$, se considera un paraeléctrico, su polarización está dada completamente por el campo externo, es decir, tienen una respuesta lineal, análoga a los materiales paramagnéticos.
 
-La polarización espontánea de un sólido deforma a las cargas ligadas de la misma forma en la que lo haría el aplicar un campo externo, dando lugar a carga en la superficie del sólido, lo cual provoca un campo de depolarización $\vec{E_\text{dep}}$ en el sentido opuesto a $\vec{P_0}$. Estas cargas ligadas provocan el movimiento de cargas libres en el sistema, por lo cual, al llegar al equilibrio, el campo externo es 0.
-
+La polarización espontánea de un sólido deforma a las cargas ligadas de la misma forma en la que lo haría el aplicar un campo externo, dando lugar a carga en la superficie del sólido, lo cual provoca un campo de depolarización $\vec{E_\text{dep}}$ en el sentido opuesto a $\vec{P_0}$. Estas cargas ligadas provocan el movimiento de cargas libres en el sistema, por lo cual, al llegar al equilibrio, el campo externo es 0, esto se ilustra en la figura \ref{fig:ferroelecdiag}.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{fig/ferroelecdiag.jpg}
+    \caption{Diagrama de la configuración de cargas en un ferroeléctrico. Adaptado de \cite{Qiao2021}.}
+    \label{fig:ferroelecdiag}
+\end{figure}
 Sin embargo, al variar la temperatura, las posiciones de los átomos en la celda cristalina cambian ligeramente, lo cual provoca un movimiento de las cargas superficiales, generando una corriente, este fenómeno se conoce como piroelectricidad.
 
 Las modificaciones a una red cristalina pueden incluir fases piroeléctricas y fases paraeléctricas, si el cambio de una a otra se da a través de una transición de segundo orden, cerca del punto de transición, conocido como punto de Curie, se tienen propiedades distintas de las esperadas de un piroeléctrico.
@@ -210,7 +213,7 @@ En un cristal piroeléctrico, el cambio de dirección de la polarización espont
 
 Cerca de el punto Curie, la energía necesaria para cambiar la dirección de polarización no es tan grande debido a que $\vec{P_{0}}$ es más pequeño, además de que la estructura cristalina está cerca de una configuración paraeléctrica, lo cual produce un comportamiento conocido como ferroelectricidad.
 
-El hecho de que esta deformación sea posible, hace que el campo de depolarización pueda cambiar la dirección de polarización espontanea de las celdas cristalinas.
+El hecho de que esta deformación sea posible, hace que $E_\text{dep}$ pueda cambiar la dirección de polarización espontanea de las celdas cristalinas.
 
 La energía $U_\text{dep}$ proveniente del campo de depolarización se puede escribir como:
 \begin{equation}
@@ -256,6 +259,20 @@ Finalmente, debido a que $E$ es una función de $t$ cuyo valor se controla a tra
 \end{itemize}
 Finalmente, es necesario mencionar que la polarización de los paraeléctricos reales pueden tener cierta dependencia con la corriente, dando lugar a un comportamiento intermedio en la curva de polarización, como se observa en la figura \ref{fig:PEloop}d.
 \subsubsection{Multiferroicidad}
+Los materiales multiferroicos son aquellos que presentan orden en más de una de sus propiedades. En particular son relevantes para este trabajo aquellos que presentan orden magnético y orden eléctrico.
+
+En estos materiales existe un efecto de acoplamiento entre las respuestas magnética y eléctrica, dando como resultado que el aplicar un campo magnético produzca cambios en la polarización, y el aplicar un campo eléctrico produzca cambios en la magnetización.
+
+La fuerza de este acoplamiento puede describirse mediante las siguientes constantes:
+\begin{equation}
+    \alpha_E=\left(\dfrac{\partial M}{\partial E}\right)
+    \label{eq:alphaE}
+\end{equation}
+\begin{equation}
+    \alpha_H=\left(\dfrac{\partial P}{\partial H}\right)=\varepsilon_0\varepsilon_r\left(\dfrac{\partial E}{\partial H}\right)
+    \label{eq:alphaH}
+\end{equation}
+Donde $\varepsilon_r$ es la permitividad relativa del sólido \cite{Vopson2015}.
 \subsection{Propiedades de las Ortoferritas de Tierras Raras}
 \subsubsection{Magnetismo}
 \subsubsection{Electricidad}

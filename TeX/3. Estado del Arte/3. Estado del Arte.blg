@@ -1,14 +1,14 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is '3. Estado del Arte/3. Estado del Arte.blg'
-[171] biber-MSWIN64:340> INFO - === 
-[225] Biber.pm:420> INFO - Reading '3. Estado del Arte/3. Estado del Arte.bcf'
-[409] Biber.pm:994> INFO - Found 9 citekeys in bib section 0
-[435] Biber.pm:4463> INFO - Processing section 0
-[452] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
-[533] bibtex.pm:1713> INFO - LaTeX decoding ...
-[624] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
-[774] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[774] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[774] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[789] bbl.pm:676> INFO - Writing '3. Estado del Arte/3. Estado del Arte.bbl' with encoding 'UTF-8'
-[796] bbl.pm:779> INFO - Output to 3. Estado del Arte/3. Estado del Arte.bbl
+[162] biber-MSWIN64:340> INFO - === 
+[221] Biber.pm:420> INFO - Reading '3. Estado del Arte/3. Estado del Arte.bcf'
+[408] Biber.pm:994> INFO - Found 10 citekeys in bib section 0
+[433] Biber.pm:4463> INFO - Processing section 0
+[450] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
+[534] bibtex.pm:1713> INFO - LaTeX decoding ...
+[616] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
+[764] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[764] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[765] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[780] bbl.pm:676> INFO - Writing '3. Estado del Arte/3. Estado del Arte.bbl' with encoding 'UTF-8'
+[788] bbl.pm:779> INFO - Output to 3. Estado del Arte/3. Estado del Arte.bbl

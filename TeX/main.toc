@@ -9,8 +9,6 @@
 \contentsline {subsubsection}{\numberline {1.2.2.1}Curvas $P$ contra $E$}{9}{subsubsection.1.2.2.1}%
 \contentsline {subsubsection}{\numberline {1.2.2.2}Multiferroicidad}{9}{subsubsection.1.2.2.2}%
 \contentsline {subsection}{\numberline {1.2.3}Propiedades de las Ortoferritas de Tierras Raras}{10}{subsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.3.1}Magnetismo}{10}{subsubsection.1.2.3.1}%
-\contentsline {subsubsection}{\numberline {1.2.3.2}Electricidad}{10}{subsubsection.1.2.3.2}%
 \contentsline {chapter}{\numberline {2}Metodología}{11}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Síntesis}{11}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Sonicación}{12}{subsection.2.1.1}%
@@ -28,28 +26,13 @@
 \contentsline {subsubsection}{\numberline {2.2.4.1}Método Tauc}{23}{subsubsection.2.2.4.1}%
 \contentsline {subsection}{\numberline {2.2.5}Magnetometría}{24}{subsection.2.2.5}%
 \contentsline {subsubsection}{\numberline {2.2.5.1}Dispositivo Superconductor de Interferencia Cuántica (SQUID)}{24}{subsubsection.2.2.5.1}%
-\contentsline {paragraph}{\numberline {2.2.5.1.1}Mediciones Magnéticas Realizadas}{25}{paragraph.2.2.5.1.1}%
-\contentsline {paragraph}{\numberline {2.2.5.1.2}\textit {Zero Field Cooling} y \textit {Field Cooling}}{25}{paragraph.2.2.5.1.2}%
-\contentsline {subsection}{\numberline {2.2.6}Mediciones Ferroeléctricas}{25}{subsection.2.2.6}%
-\contentsline {subsubsection}{\numberline {2.2.6.1}Preparación de la Muestra}{25}{subsubsection.2.2.6.1}%
+\contentsline {paragraph}{\numberline {2.2.5.1.1}Mediciones M vs H}{25}{paragraph.2.2.5.1.1}%
+\contentsline {paragraph}{\numberline {2.2.5.1.2}Mediciones dependientes de la temperatura}{25}{paragraph.2.2.5.1.2}%
+\contentsline {subsection}{\numberline {2.2.6}Mediciones Ferroeléctricas}{26}{subsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.6.1}Preparación de la Muestra}{26}{subsubsection.2.2.6.1}%
 \contentsline {subsubsection}{\numberline {2.2.6.2}Molienda}{26}{subsubsection.2.2.6.2}%
 \contentsline {subsubsection}{\numberline {2.2.6.3}Sinterización}{26}{subsubsection.2.2.6.3}%
-\contentsline {subsubsection}{\numberline {2.2.6.4}Mediciones de Polarización (Curvas P-E)}{27}{subsubsection.2.2.6.4}%
-\contentsline {subsection}{\numberline {2.2.7}Clasificación metodológica y de muestras}{27}{subsection.2.2.7}%
-\contentsline {chapter}{\numberline {3}Resultados}{29}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Muestras Sintetizadas}{29}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Caracterización}{30}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Análisis Térmico}{30}{subsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.1.1}Análisis Termogravimétrico}{30}{subsubsection.3.2.1.1}%
-\contentsline {subsection}{\numberline {3.2.2}Análisis Estructural, Morfológico y de Composición}{30}{subsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.1}Microscopía Electrónica de Barrido}{30}{subsubsection.3.2.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2.2}Espectroscopía de Dispersión de Energía}{32}{subsubsection.3.2.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.3}Difracción de Rayos X}{32}{subsubsection.3.2.2.3}%
-\contentsline {subsection}{\numberline {3.2.3}Análisis Óptico, Magnético y Eléctrico}{32}{subsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.1}Espectroscopía UV-Vis}{32}{subsubsection.3.2.3.1}%
-\contentsline {subsubsection}{\numberline {3.2.3.2}Magnetometría VSM}{32}{subsubsection.3.2.3.2}%
-\contentsline {paragraph}{\numberline {3.2.3.2.1}M vs T}{32}{paragraph.3.2.3.2.1}%
-\contentsline {paragraph}{\numberline {3.2.3.2.2}\textchi {} vs T}{32}{paragraph.3.2.3.2.2}%
-\contentsline {paragraph}{\numberline {3.2.3.2.3}M v H}{32}{paragraph.3.2.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.3}Espectroscopía de Impedancia}{32}{subsubsection.3.2.3.3}%
-\contentsline {chapter}{Bibliografía}{33}{chapter*.31}%
+\contentsline {subsubsection}{\numberline {2.2.6.4}Fracción Sólida}{27}{subsubsection.2.2.6.4}%
+\contentsline {subsubsection}{\numberline {2.2.6.5}Mediciones de Polarización (Curvas P-E)}{28}{subsubsection.2.2.6.5}%
+\contentsline {subsection}{\numberline {2.2.7}Clasificación Metodológica y de muestras}{28}{subsection.2.2.7}%
+\contentsline {chapter}{Bibliografía}{30}{chapter*.28}%

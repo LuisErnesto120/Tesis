@@ -417,6 +417,191 @@
       \verb 10.1080/10408436.2014.992584
       \endverb
     \endentry
+    \entry{KamalWarshi2018}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=0350cb830c3be808ee1c1c929fe13a20}{%
+           family={Warshi},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi Kamal},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=fb9e750c14a39f1441114f9f65539389}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Vikash},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0c20a49dc4f27a55dd2dfdb4fd3f8e61}{%
+           family={Sagdeo},
+           familyi={S\bibinitperiod},
+           given={Archna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6153b8c633819b538c186b02007019bf}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Vinayak},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5dbaee2bd1f68bfb2185d56f91e4b038}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Rajesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1d6de5a883150ad73e4374e0b89dd1fc}{%
+           family={Sagdeo},
+           familyi={S\bibinitperiod},
+           given={P.R.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{5161a3fcd7eadee2a099235c0d1dd617}
+      \strng{fullhash}{14219fe8e6fe0cc7cb7faf7f634d09c4}
+      \strng{fullhashraw}{14219fe8e6fe0cc7cb7faf7f634d09c4}
+      \strng{bibnamehash}{14219fe8e6fe0cc7cb7faf7f634d09c4}
+      \strng{authorbibnamehash}{14219fe8e6fe0cc7cb7faf7f634d09c4}
+      \strng{authornamehash}{5161a3fcd7eadee2a099235c0d1dd617}
+      \strng{authorfullhash}{14219fe8e6fe0cc7cb7faf7f634d09c4}
+      \strng{authorfullhashraw}{14219fe8e6fe0cc7cb7faf7f634d09c4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2374-068X}
+      \field{issue}{4}
+      \field{journaltitle}{Advances in Materials and Processing Technologies}
+      \field{month}{10}
+      \field{title}{Synthesis and characterization of RFeO3 : experimental results and theoretical prediction}
+      \field{volume}{4}
+      \field{year}{2018}
+      \field{pages}{558\bibrangedash 572}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/2374068X.2018.1483680
+      \endverb
+    \endentry
+    \entry{Zhang2016}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=b867c3d4cf5f0f7fd192544606b9b944}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chenyang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ddd2907dcfd536c5a03e597bdbaff94f}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Mingyu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5ad2e42c894171b41668994abb4d8378}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=84e6df72c84aaaa13aadac179eb605a3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Tingsong},
+           giveni={T\bibinitperiod}}}%
+        {{hash=dedf6e425674a7552c1b1f4a6416d4b6}{%
+           family={Ge},
+           familyi={G\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b02d8ff391dcdaa3131204038822aff4}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Hongming},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6f05f358156a28c745ea90806b985dae}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Shouhua},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d5cf5d5ab18029ab522569caa2a66058}
+      \strng{fullhash}{f2c6260d686f6c70025528807f99153c}
+      \strng{fullhashraw}{f2c6260d686f6c70025528807f99153c}
+      \strng{bibnamehash}{f2c6260d686f6c70025528807f99153c}
+      \strng{authorbibnamehash}{f2c6260d686f6c70025528807f99153c}
+      \strng{authornamehash}{d5cf5d5ab18029ab522569caa2a66058}
+      \strng{authorfullhash}{f2c6260d686f6c70025528807f99153c}
+      \strng{authorfullhashraw}{f2c6260d686f6c70025528807f99153c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0925-8388}
+      \field{journaltitle}{Journal of Alloys and Compounds}
+      \field{month}{4}
+      \field{title}{Multiferroicity in SmFeO3 synthesized by hydrothermal method}
+      \field{volume}{665}
+      \field{year}{2016}
+      \field{pages}{152\bibrangedash 157}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/J.JALLCOM.2016.01.042
+      \endverb
+      \keyw{Hydrothermal synthesis,Multiferroic,Orthoferrite,Perovskite}
+    \endentry
+    \entry{Rajaitha2022}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=ea3d5c065f6ad9ff4d70d9c31ae6cf35}{%
+           family={Rajaitha},
+           familyi={R\bibinitperiod},
+           given={P.\bibnamedelimi Mary},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f8973d797f1fdefc93aa73fc2d812820}{%
+           family={Hajra},
+           familyi={H\bibinitperiod},
+           given={Sugato},
+           giveni={S\bibinitperiod}}}%
+        {{hash=32d847ca038b566a998ea73f9bbc2b6f}{%
+           family={Padhan},
+           familyi={P\bibinitperiod},
+           given={Aneeta\bibnamedelima Manjari},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f7b37e7eb4ce4b7d55ca87614c1bfe13}{%
+           family={Panda},
+           familyi={P\bibinitperiod},
+           given={Swati},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3acc7fce6d79ae8a68868809b48ab29f}{%
+           family={Sahu},
+           familyi={S\bibinitperiod},
+           given={Manisha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=41af480ffd4ae65ac169a5fc2bb817db}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hoe\bibnamedelima Joon},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9601542ddc71af72b5656fa04089a390}
+      \strng{fullhash}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{fullhashraw}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{bibnamehash}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{authorbibnamehash}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{authornamehash}{9601542ddc71af72b5656fa04089a390}
+      \strng{authorfullhash}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{authorfullhashraw}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0925-8388}
+      \field{journaltitle}{Journal of Alloys and Compounds}
+      \field{month}{9}
+      \field{title}{An electrochemical sensor based on multiferroic NdFeO3 particles modified electrode for the detection of H2O2}
+      \field{volume}{915}
+      \field{year}{2022}
+      \field{pages}{165402}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.JALLCOM.2022.165402
+      \endverb
+      \keyw{Electrochemical sensors,Hydrogen peroxide,Multiferroics,Rare earth}
+    \endentry
     \entry{sonicaciondef}{book}{}{}
       \name{author}{1}{}{%
         {{hash=fc8694d8a8aa3dfccf7f4e0b7318bb83}{%
@@ -433,8 +618,8 @@
       \strng{authornamehash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
       \strng{authorfullhash}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
       \strng{authorfullhashraw}{fc8694d8a8aa3dfccf7f4e0b7318bb83}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{Rev. 4-16}
@@ -446,8 +631,8 @@
       \list{publisher}{1}{%
         {HNZXIB Lab}%
       }
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{title}{UH-650W Ultrasonic cell crusher (Instructions)}
     \endentry
@@ -628,8 +813,8 @@
       \strng{authornamehash}{8bb0715a111dbadfec10c83514983109}
       \strng{authorfullhash}{8bb0715a111dbadfec10c83514983109}
       \strng{authorfullhashraw}{8bb0715a111dbadfec10c83514983109}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://www.sciencefacts.net/bravais-lattice.html}}
@@ -660,8 +845,8 @@
       \strng{authornamehash}{c4f588658d947883367cf33e82a0728f}
       \strng{authorfullhash}{c4f588658d947883367cf33e82a0728f}
       \strng{authorfullhashraw}{c4f588658d947883367cf33e82a0728f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3}
@@ -767,8 +952,8 @@
       \strng{authornamehash}{9a6a705f90ef07fad457db1a196640b4}
       \strng{authorfullhash}{9a6a705f90ef07fad457db1a196640b4}
       \strng{authorfullhashraw}{9a6a705f90ef07fad457db1a196640b4}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{http://www.crystallography.net/cod/}}
@@ -793,8 +978,8 @@
       \strng{authornamehash}{7f4203b4ffea72d0b91407e42bf2e2d1}
       \strng{authorfullhash}{7f4203b4ffea72d0b91407e42bf2e2d1}
       \strng{authorfullhashraw}{7f4203b4ffea72d0b91407e42bf2e2d1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{0387258000}
@@ -900,8 +1085,8 @@
       \strng{authornamehash}{d96bea3005622192b78d422e648cad7e}
       \strng{authorfullhash}{d96bea3005622192b78d422e648cad7e}
       \strng{authorfullhashraw}{d96bea3005622192b78d422e648cad7e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3}
@@ -924,8 +1109,8 @@
       \strng{authornamehash}{1d2437b0ccc035a0da08d83f7dab16ff}
       \strng{authorfullhash}{1d2437b0ccc035a0da08d83f7dab16ff}
       \strng{authorfullhashraw}{1d2437b0ccc035a0da08d83f7dab16ff}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Analysis \& Separations}
@@ -1089,8 +1274,8 @@
       \strng{authornamehash}{1f262b8db98b1f765534b157e103f21a}
       \strng{authorfullhash}{1f262b8db98b1f765534b157e103f21a}
       \strng{authorfullhashraw}{1f262b8db98b1f765534b157e103f21a}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{10}
@@ -1112,8 +1297,8 @@
       \strng{authornamehash}{e04c59f46edf842ed2e107bec2fa3205}
       \strng{authorfullhash}{e04c59f46edf842ed2e107bec2fa3205}
       \strng{authorfullhashraw}{e04c59f46edf842ed2e107bec2fa3205}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{\url{https://www.micronanotools.com/products/copy-of-bench-top-high-speed-vibrating-ball-mill-hvbm-1200v-with-one-80ml-ss-jar-2-year-warranty}}
@@ -1259,8 +1444,8 @@
       \list{publisher}{1}{%
         {American Institute of Physics Inc.}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labeltitlesource}{title}
       \field{issn}{10897550}
       \field{issue}{3}
@@ -1280,6 +1465,45 @@
       \verb{url}
       \verb /aip/jap/article/120/3/034101/143625/Room-temperature-dual-ferroic-behaviour-of-ball
       \endverb
+    \endentry
+    \entry{Erklaert2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=d6d3078db7e543d638e56cbbbf211dd7}{%
+           family={Erklaert},
+           familyi={E\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{fullhash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{fullhashraw}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{bibnamehash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{authorbibnamehash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{authornamehash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{authorfullhash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{authorfullhashraw}{d6d3078db7e543d638e56cbbbf211dd7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{note}{\url{https://www.solids-development.com/en/feststofffraktion-porositaet-porosity-solid-fraction/}}
+      \field{title}{Feststofffraktion // Porosität // Porosity // Solid fraction - Solids Development}
+      \field{year}{2024}
+    \endentry
+    \entry{densneod}{misc}{}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://next-gen.materialsproject.org/materials/mp-1180433}}
+      \field{title}{NdFeO3 mp-1180433}
+    \endentry
+    \entry{denssama}{misc}{}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://next-gen.materialsproject.org/materials/mp-20243}}
+      \field{title}{SmFeO3 mp-20243}
     \endentry
   \enddatalist
 \endrefsection

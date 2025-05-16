@@ -1,14 +1,14 @@
-PWD C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia
+PWD C:\Users\PC\Desktop\Git\Tesis\TeX
 INPUT C:\Users\PC\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.tex
-OUTPUT 4. Metodologia.log
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.log
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\subfiles\subfiles.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT ..\main.tex
-INPUT ..\main.tex
-INPUT ..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\..\main.tex
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\main.tex
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
@@ -84,6 +84,8 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\euscript.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\euscript.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
@@ -143,14 +145,17 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\endnotes\endnotes.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\endnotes\endnotes.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
@@ -337,10 +342,10 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mathtools.st
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mathtools.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup.sty
-INPUT .\4. Metodologia.aux
-INPUT .\4. Metodologia.aux
-INPUT 4. Metodologia.aux
-OUTPUT 4. Metodologia.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
@@ -352,14 +357,14 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\4. Metodologia.out
-INPUT .\4. Metodologia.out
-INPUT 4. Metodologia.out
-INPUT 4. Metodologia.out
-OUTPUT 4. Metodologia.pdf
-INPUT .\4. Metodologia.out
-INPUT .\4. Metodologia.out
-OUTPUT 4. Metodologia.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.pdf
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-dictionary-English.dict
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-dictionary-English.dict
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-dictionary-English.dict
@@ -369,12 +374,12 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-spanish\glo
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-OUTPUT 4. Metodologia.bcf
-INPUT 4. Metodologia.bbl
-INPUT .\4. Metodologia.bbl
-INPUT .\4. Metodologia.bbl
-INPUT .\4. Metodologia.bbl
-INPUT 4. Metodologia.bbl
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.bcf
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.bbl
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.bbl
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
@@ -382,12 +387,13 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-no
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT ..\fig\2.png
-INPUT ..\fig\2.png
-INPUT ..\fig\2.png
-INPUT ..\fig\2.png
-INPUT ..\fig\2.png
-INPUT ..\fig\2.png
+INPUT .\fig\2.png
+INPUT .\fig\2.png
+INPUT .\fig\2.png
+INPUT .\fig\2.png
+INPUT .\fig\2.png
+INPUT .\fig\2.png
+INPUT .\fig\2.png
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
@@ -455,119 +461,135 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbo
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl12.tfm
-INPUT ..\fig\tgadiag.png
-INPUT ..\fig\tgadiag.png
-INPUT ..\fig\tgadiag.png
-INPUT ..\fig\tgadiag.png
-INPUT ..\fig\tgadiag.png
-INPUT ..\fig\tgadiag.png
+INPUT .\fig\tgadiag.png
+INPUT .\fig\tgadiag.png
+INPUT .\fig\tgadiag.png
+INPUT .\fig\tgadiag.png
+INPUT .\fig\tgadiag.png
+INPUT .\fig\tgadiag.png
+INPUT .\fig\tgadiag.png
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolD.enc
-INPUT ..\fig\DRXdiag.png
-INPUT ..\fig\DRXdiag.png
-INPUT ..\fig\DRXdiag.png
-INPUT ..\fig\DRXdiag.png
-INPUT ..\fig\DRXdiag.png
-INPUT ..\fig\DRXdiag.png
+INPUT .\fig\DRXdiag.png
+INPUT .\fig\DRXdiag.png
+INPUT .\fig\DRXdiag.png
+INPUT .\fig\DRXdiag.png
+INPUT .\fig\DRXdiag.png
+INPUT .\fig\DRXdiag.png
+INPUT .\fig\DRXdiag.png
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolF.enc
-INPUT ..\fig\bravais.png
-INPUT ..\fig\bravais.png
-INPUT ..\fig\bravais.png
-INPUT ..\fig\bravais.png
-INPUT ..\fig\bravais.png
-INPUT ..\fig\bravais.png
-INPUT ..\fig\braggdiag.png
-INPUT ..\fig\braggdiag.png
-INPUT ..\fig\braggdiag.png
-INPUT ..\fig\braggdiag.png
-INPUT ..\fig\braggdiag.png
-INPUT ..\fig\braggdiag.png
-INPUT ..\fig\Rietveld.png
-INPUT ..\fig\Rietveld.png
-INPUT ..\fig\Rietveld.png
-INPUT ..\fig\Rietveld.png
-INPUT ..\fig\Rietveld.png
-INPUT ..\fig\Rietveld.png
+INPUT .\fig\bravais.png
+INPUT .\fig\bravais.png
+INPUT .\fig\bravais.png
+INPUT .\fig\bravais.png
+INPUT .\fig\bravais.png
+INPUT .\fig\bravais.png
+INPUT .\fig\bravais.png
+INPUT .\fig\braggdiag.png
+INPUT .\fig\braggdiag.png
+INPUT .\fig\braggdiag.png
+INPUT .\fig\braggdiag.png
+INPUT .\fig\braggdiag.png
+INPUT .\fig\braggdiag.png
+INPUT .\fig\braggdiag.png
+INPUT .\fig\Rietveld.png
+INPUT .\fig\Rietveld.png
+INPUT .\fig\Rietveld.png
+INPUT .\fig\Rietveld.png
+INPUT .\fig\Rietveld.png
+INPUT .\fig\Rietveld.png
+INPUT .\fig\Rietveld.png
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT ..\fig\semdiag.png
-INPUT ..\fig\semdiag.png
-INPUT ..\fig\semdiag.png
-INPUT ..\fig\semdiag.png
-INPUT ..\fig\semdiag.png
-INPUT ..\fig\semdiag.png
-INPUT ..\fig\semtipos.png
-INPUT ..\fig\semtipos.png
-INPUT ..\fig\semtipos.png
-INPUT ..\fig\semtipos.png
-INPUT ..\fig\semtipos.png
-INPUT ..\fig\semtipos.png
-INPUT ..\fig\imagejcomp.png
-INPUT ..\fig\imagejcomp.png
-INPUT ..\fig\imagejcomp.png
-INPUT ..\fig\imagejcomp.png
-INPUT ..\fig\imagejcomp.png
-INPUT ..\fig\imagejcomp.png
-INPUT ..\fig\ejemplohist.png
-INPUT ..\fig\ejemplohist.png
-INPUT ..\fig\ejemplohist.png
-INPUT ..\fig\ejemplohist.png
-INPUT ..\fig\ejemplohist.png
-INPUT ..\fig\ejemplohist.png
-INPUT ..\fig\uvvisdiag.png
-INPUT ..\fig\uvvisdiag.png
-INPUT ..\fig\uvvisdiag.png
-INPUT ..\fig\uvvisdiag.png
-INPUT ..\fig\uvvisdiag.png
-INPUT ..\fig\uvvisdiag.png
-INPUT ..\fig\bandgapdiag.png
-INPUT ..\fig\bandgapdiag.png
-INPUT ..\fig\bandgapdiag.png
-INPUT ..\fig\bandgapdiag.png
-INPUT ..\fig\bandgapdiag.png
-INPUT ..\fig\bandgapdiag.png
-INPUT ..\fig\ejemplotauc.png
-INPUT ..\fig\ejemplotauc.png
-INPUT ..\fig\ejemplotauc.png
-INPUT ..\fig\ejemplotauc.png
-INPUT ..\fig\ejemplotauc.png
-INPUT ..\fig\ejemplotauc.png
-INPUT ..\fig\squiddiag.png
-INPUT ..\fig\squiddiag.png
-INPUT ..\fig\squiddiag.png
-INPUT ..\fig\squiddiag.png
-INPUT ..\fig\squiddiag.png
-INPUT ..\fig\squiddiag.png
+INPUT .\fig\semdiag.png
+INPUT .\fig\semdiag.png
+INPUT .\fig\semdiag.png
+INPUT .\fig\semdiag.png
+INPUT .\fig\semdiag.png
+INPUT .\fig\semdiag.png
+INPUT .\fig\semdiag.png
+INPUT .\fig\semtipos.png
+INPUT .\fig\semtipos.png
+INPUT .\fig\semtipos.png
+INPUT .\fig\semtipos.png
+INPUT .\fig\semtipos.png
+INPUT .\fig\semtipos.png
+INPUT .\fig\semtipos.png
+INPUT .\fig\imagejcomp.png
+INPUT .\fig\imagejcomp.png
+INPUT .\fig\imagejcomp.png
+INPUT .\fig\imagejcomp.png
+INPUT .\fig\imagejcomp.png
+INPUT .\fig\imagejcomp.png
+INPUT .\fig\imagejcomp.png
+INPUT .\fig\ejemplohist.png
+INPUT .\fig\ejemplohist.png
+INPUT .\fig\ejemplohist.png
+INPUT .\fig\ejemplohist.png
+INPUT .\fig\ejemplohist.png
+INPUT .\fig\ejemplohist.png
+INPUT .\fig\ejemplohist.png
+INPUT .\fig\uvvisdiag.png
+INPUT .\fig\uvvisdiag.png
+INPUT .\fig\uvvisdiag.png
+INPUT .\fig\uvvisdiag.png
+INPUT .\fig\uvvisdiag.png
+INPUT .\fig\uvvisdiag.png
+INPUT .\fig\uvvisdiag.png
+INPUT .\fig\bandgapdiag.png
+INPUT .\fig\bandgapdiag.png
+INPUT .\fig\bandgapdiag.png
+INPUT .\fig\bandgapdiag.png
+INPUT .\fig\bandgapdiag.png
+INPUT .\fig\bandgapdiag.png
+INPUT .\fig\bandgapdiag.png
+INPUT .\fig\ejemplotauc.png
+INPUT .\fig\ejemplotauc.png
+INPUT .\fig\ejemplotauc.png
+INPUT .\fig\ejemplotauc.png
+INPUT .\fig\ejemplotauc.png
+INPUT .\fig\ejemplotauc.png
+INPUT .\fig\ejemplotauc.png
+INPUT .\fig\squiddiag.png
+INPUT .\fig\squiddiag.png
+INPUT .\fig\squiddiag.png
+INPUT .\fig\squiddiag.png
+INPUT .\fig\squiddiag.png
+INPUT .\fig\squiddiag.png
+INPUT .\fig\squiddiag.png
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
-INPUT ..\fig\molinodiag.png
-INPUT ..\fig\molinodiag.png
-INPUT ..\fig\molinodiag.png
-INPUT ..\fig\molinodiag.png
-INPUT ..\fig\molinodiag.png
-INPUT ..\fig\molinodiag.png
-INPUT ..\fig\sintdiag.jpg
-INPUT ..\fig\sintdiag.jpg
-INPUT ..\fig\sintdiag.jpg
-INPUT ..\fig\sintdiag.jpg
-INPUT ..\fig\sintdiag.jpg
-INPUT ..\fig\sintdiag.jpg
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
-INPUT 4. Metodologia.aux
-INPUT .\4. Metodologia.out
-INPUT .\4. Metodologia.out
-INPUT 4. Metodologia.run.xml
-OUTPUT 4. Metodologia.run.xml
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT .\fig\molinodiag.png
+INPUT .\fig\molinodiag.png
+INPUT .\fig\molinodiag.png
+INPUT .\fig\molinodiag.png
+INPUT .\fig\molinodiag.png
+INPUT .\fig\molinodiag.png
+INPUT .\fig\molinodiag.png
+INPUT .\fig\sintdiag.jpg
+INPUT .\fig\sintdiag.jpg
+INPUT .\fig\sintdiag.jpg
+INPUT .\fig\sintdiag.jpg
+INPUT .\fig\sintdiag.jpg
+INPUT .\fig\sintdiag.jpg
+INPUT .\fig\sintdiag.jpg
+INPUT .\fig\fracsolida.jpg
+INPUT .\fig\fracsolida.jpg
+INPUT .\fig\fracsolida.jpg
+INPUT .\fig\fracsolida.jpg
+INPUT .\fig\fracsolida.jpg
+INPUT .\fig\fracsolida.jpg
+INPUT .\fig\fracsolida.jpg
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.aux
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.out
+INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.run.xml
+OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\4. Metodologia\4. Metodologia.run.xml
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol8.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol8.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx8.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb

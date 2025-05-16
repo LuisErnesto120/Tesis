@@ -2399,12 +2399,13 @@
     <bcf:citekey order="18" intorder="1">coey2010magnetism</bcf:citekey>
     <bcf:citekey order="19" intorder="1">Buschow2003</bcf:citekey>
     <bcf:citekey order="20" intorder="1">Buschow2003</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">coey2010magnetism</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">Landau1984</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">Stewart1999</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Qiao2021</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Qiao2021</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Landau1984</bcf:citekey>
     <bcf:citekey order="24" intorder="1">Stewart1999</bcf:citekey>
     <bcf:citekey order="25" intorder="1">Stewart1999</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">Vopson2015</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Stewart1999</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Vopson2015</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

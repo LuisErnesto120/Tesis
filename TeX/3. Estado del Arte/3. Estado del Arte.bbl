@@ -259,6 +259,58 @@
       \field{volume}{15}
       \field{year}{2003}
     \endentry
+    \entry{Qiao2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=328c880025b5e4d5a97240f123fba30d}{%
+           family={Qiao},
+           familyi={Q\bibinitperiod},
+           given={Huimin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=47f64381ad069e88d82016d4c642356d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chenxi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=69b5d13326c23fa186a5d3580d068b70}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Woo\bibnamedelima Seok},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=c4328a6f1a2337d8a725c550f6d308a1}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Min\bibnamedelima Hyuk},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2d6b4fc9cf855d340c44f98c87a397b4}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yunseok},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{a693183fbaf6ddf307db29785078aa8f}
+      \strng{fullhash}{8f94ea07977d18f2a5bb3a076b80ad68}
+      \strng{fullhashraw}{8f94ea07977d18f2a5bb3a076b80ad68}
+      \strng{bibnamehash}{8f94ea07977d18f2a5bb3a076b80ad68}
+      \strng{authorbibnamehash}{8f94ea07977d18f2a5bb3a076b80ad68}
+      \strng{authornamehash}{a693183fbaf6ddf307db29785078aa8f}
+      \strng{authorfullhash}{8f94ea07977d18f2a5bb3a076b80ad68}
+      \strng{authorfullhashraw}{8f94ea07977d18f2a5bb3a076b80ad68}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0927796X}
+      \field{journaltitle}{Materials Science and Engineering: R: Reports}
+      \field{month}{7}
+      \field{title}{Ultra-thin ferroelectrics}
+      \field{volume}{145}
+      \field{year}{2021}
+      \field{pages}{100622}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.mser.2021.100622
+      \endverb
+    \endentry
     \entry{Landau1984}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ab77fc1405f1025268c1fed8c4fe3104}{%

@@ -86,7 +86,7 @@ Los materiales magnéticos pueden clasificarse a través de su respuesta a los c
         L(x)=\coth(x)-\dfrac{1}{x}
         \label{eq:Langevin}
     \end{equation}
-    Donde $J$ es el momento angular total de los átomos que conforman el material. Cabe mencionar que $L$ es el límite clásico de las funciones $B_J$ cuando $J\rightarrow\infty$, es decir, cuando existe una infinidad de estados energéticos posibles. Por otro lado, se tiene
+    Donde $J$ es el momento angular total de los átomos que conforman el material. Cabe mencionar que $L$ es el límite clásico de las funciones $B_J$ cuando $J\rightarrow\infty$, por lo que se puede utilizar cuando se tiene una gran cantidad de estados energéticos y se pueden aproximar como continuos. Por otro lado, se tiene
     \begin{equation}
         x=\dfrac{g\mu_B\mu_0M_JH}{k_BT}\qquad (B_J(x))
         \label{eq:xBrillouin}
@@ -218,7 +218,7 @@ El hecho de que esta deformación sea posible, hace que $E_\text{dep}$ pueda cam
 La energía $U_\text{dep}$ proveniente del campo de depolarización se puede escribir como:
 \begin{equation}
     U_\text{dep}=\dfrac{1}{2}\varepsilon_0\varepsilon\int|E_\text{dep}|^2dV\propto\dfrac{P^2}{2\varepsilon_0\varepsilon}V
-    \label{eq:label}
+    \label{eq:energiadepolarizacion}
 \end{equation}
 Se observa que esta depende del volumen, es decir, se ve minimizada con este, lo cual favorece energéticamente la aparición de dominios de polarización.
 
@@ -258,7 +258,7 @@ Finalmente, debido a que $E$ es una función de $t$ cuyo valor se controla a tra
   \item \textbf{Resistores:} No tienen una relación entre $P$ y $E$ independiente de la corriente aplicada, sino que su comportamiento depende de esta. Dada la integral con la que se obtiene $Q$, si se aplica un campo senoidal, la polarización será cosenoidal, dando como resultado una curva como la que se observa en la figura \ref{fig:PEloop}c.
 \end{itemize}
 Finalmente, es necesario mencionar que la polarización de los paraeléctricos reales pueden tener cierta dependencia con la corriente, dando lugar a un comportamiento intermedio en la curva de polarización, como se observa en la figura \ref{fig:PEloop}d.
-\subsubsection{Multiferroicidad}
+\subsubsection{Multiferroicidad} \label{sec:multif}
 Los materiales multiferroicos son aquellos que presentan orden en más de una de sus propiedades. En particular son relevantes para este trabajo aquellos que presentan orden magnético y orden eléctrico.
 
 En estos materiales existe un efecto de acoplamiento entre las respuestas magnética y eléctrica, dando como resultado que el aplicar un campo magnético produzca cambios en la polarización, y el aplicar un campo eléctrico produzca cambios en la magnetización.
@@ -272,8 +272,18 @@ La fuerza de este acoplamiento puede describirse mediante las siguientes constan
     \alpha_H=\left(\dfrac{\partial P}{\partial H}\right)=\varepsilon_0\varepsilon_r\left(\dfrac{\partial E}{\partial H}\right)
     \label{eq:alphaH}
 \end{equation}
-Donde $\varepsilon_r$ es la permitividad relativa del sólido \cite{Vopson2015}.
+Donde $\varepsilon_r$ es la permitividad relativa del sólido. Asumiendo una muestra cilíndrica delgada de grosor $t$, el voltaje puede escribirse como $V=E/t$, por lo que:
+\begin{equation}
+    \alpha_H=\dfrac{\varepsilon_0\varepsilon_r}{t}\left(\dfrac{\partial V}{\partial H}\right)=\varepsilon_0\varepsilon_r\alpha_H^V
+    \label{eq:alphaHV}
+\end{equation}
+Donde $\alpha_H^V$ se conoce como coeficiente  magneto-eléctrico de voltaje inducido magnéticamente.
+
+Este acoplamiento es lo que hace a estos materiales de interés particular, ya que permite un gran número de aplicaciones, como detectores de campo magnético de alta precisión (campos del orden de $\sim10^{-12}$ T) a temperatura ambiente, aparatos de resonancia ferromagnética (FMR) sintonizables eléctricamente, además de aplicaciones en el manejo y procesamiento de señales, además de el almacenamiento de datos, entre otras \cite{Vopson2015}.
 \subsection{Propiedades de las Ortoferritas de Tierras Raras}
-\subsubsection{Magnetismo}
-\subsubsection{Electricidad}
+Las ortoferritas \ce{RFeO3} presentan un comportamiento antiferromagnético a temperatura ambiente, con un ferromagnetismo débil inducido por la interacción de Dzyaloshinskii-Moriya \cite{KamalWarshi2018}.
+
+Aunque la simetría de la estructura cristalina $Pbnm$ no permite la ferroelectricidad, se ha observado que el calentamiento de estas ferritas induce una transición de fase hacia una estructura $Pna2_1$, la cual corresponde a una celda primitiva con un plano de reflexión perpendicular al eje $a$, un plano de deslizamiento perpendicular a $b$ y un eje helicoidal a lo largo de $c$, las cuales son simetrías compatibles con la ferroelectricidad \cite{Zhang2016}, \cite{Rajaitha2022}.
+
+La coexistencia de orden magnético y eléctrico en estas fases las posiciona como candidatas ideales para aplicaciones multiferroicas, como las que se detallan en la sección \ref{sec:multif}.
 \end{document}

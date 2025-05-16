@@ -12,10 +12,12 @@
 \usepackage[mathcal]{euscript}
 %\usepackage{physics}
 \usepackage{multicol}
+\usepackage{multirow}
 \usepackage[hidelinks]{hyperref}
 \usepackage{endnotes}
 \usepackage{array}
-\usepackage{color}
+\usepackage{xcolor}
+\usepackage{colortbl}
 \usepackage{lscape}
 \usepackage{enumitem}
 \usepackage{units}
@@ -31,7 +33,7 @@
 \usepackage{amsbsy}
 \usepackage[font=small]{caption}
 \usepackage[left=2.5cm,right=2.5cm,top=2 cm,bottom=2 cm]{geometry}
-\usepackage[backend=biber,sorting=none,style=numeric-comp,bibstyle=chem-acs,articletitle=true,biblabel=brackets,doi=false,autocite = superscript]{biblatex} %Nota del 05 de julio de 2021: esta librería genera las referencias bibliográficas.
+\usepackage[backend=biber,sorting=none,style=numeric-comp,bibstyle=chem-acs,articletitle=true,biblabel=brackets,doi=false, maxcitenames=2, autocite = superscript]{biblatex} %Nota del 05 de julio de 2021: esta librería genera las referencias bibliográficas.
 \bibliography{bib.bib}
 \usepackage{verbatim} %Nota del 05 de julio de 2021: esta librería es para comentar varias lineas
 \usepackage{float} %Nota del 06 de julio de 2021: esta librería sirve para las imágenes en el entorno multicols
@@ -98,7 +100,7 @@
 %\subfile{2. Introduccion/2. Introduccion.tex}
 \subfile{3. Estado del Arte/3. Estado del Arte.tex}
 \subfile{4. Metodologia/4. Metodologia.tex}
-\subfile{5. Resultados/5. Resultados.tex}
+%\subfile{5. Resultados/5. Resultados.tex}
 %\subfile{6. Conclusion/6. Conclusion.tex}
 \printbibliography[heading=bibintoc, title={Bibliografía}]
 %\subfile{8. Anexos/8. Anexos.tex}

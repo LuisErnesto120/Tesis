@@ -313,7 +313,7 @@ El espectrómetro, al medir absorbancia, permite conocer $\alpha$ respecto a $\n
 \subsubsection{Dispositivo Superconductor de Interferencia Cuántica (SQUID)}
 Estos instrumentos son capaces de medir flujos magnéticos del orden del cuanto de flujo ($\Phi_0=h/2e\approx2.07\cdot10^{-15}$ Wb). Estos funcionan a través del efecto Josephson.
 
-Éste es un efecto cuántico que ocurre cuando dos superconductores están unidos por una capa aislante delgada (de aproximadamente 1 nm), la cual representa una barrera de potencial. Debido al tunelamiento cuántico, al hacer pasar una corriente por el superconductor, esta atravesará la barrera, sin embargo, tendrá una fase distinta del otro lado.
+Éste es un efecto cuántico que ocurre cuando dos superconductores están unidos por una capa aislante delgada (de aproximadamente 1 nm), la cual representa una barrera de potencial. Debido al tunelaje cuántico, al hacer pasar una corriente por el superconductor, ésta atravesará la barrera, sin embargo, la función de onda de los electrones tendrá una fase distinta del otro lado.
 
 En ausencia de voltaje ($V=0$), la corriente que fluye por los superconductores está dada por:
 \begin{equation}
@@ -341,16 +341,17 @@ Por lo tanto, la corriente total que fluye a través de los superconductores es
     \label{eq:corrienteSQUID}
 \end{equation}
 Lo cual explica la precisión del SQUID, cada oscilación de $I_\text{total}$ es provocada por un cambio de $\Phi_\text{total}$ de un solo cuanto de flujo $\Phi_0$.
-\paragraph{Mediciones Magnéticas Realizadas}
-Existen diversas curvas que pueden obtenerse a través de SQUID, entre estos están las curvas de histéresis ($M$ vs. $H$), la medición de la susceptibilidad magnética ($\chi$ vs. $T$) y la magnetización contra la temperatura ($M$ vs. $T$).
-
-Las mediciones que varían en temperatura se realizaron entre 5 y 350K para el caso del \sama{} y entre 5 y 300K para el \neod{}, además, las curvas FC se obtuvieron con un campo externo de 50mT en un equipo \textit{PPMS DYNACOOL} de \textit{QUANTUM DESIGN} con la opción de VSM.
-\paragraph{\textit{Zero Field Cooling} y \textit{Field Cooling}}
+\paragraph{Mediciones M vs H}
+Estas mediciones fueron realizadas con un equipo \textit{PPMS DYNACOOL} de \textit{QUANTUM DESIGN} con la opción de VSM, a $T=5$ K y $300$ K, de $-2$ a $2$ T.
+Las mediciones que varían en temperatura se realizaron entre 5 y 350K para el caso del \sama{} y entre 5 y 300K para el \neod{}, además, las curvas FC se obtuvieron con un campo externo de 50mT en 
+\paragraph{Mediciones dependientes de la temperatura}
 Las mediciones en SQUID que dependen de la temperatura pueden ser realizadas de dos maneras, puede enfriarse la muestra en ausencia de campo magnético (Zero Field Cooling, ZFC), o bien, en presencia de éste (Field Cooling, FC), dando como resultado curvas distintas debido a que la presencia del campo alinea los espines de manera que se reducen los efectos por anisotropía \cite{Ali2014}.
+
+Se midió la magnetización contra la temperatura ($M$ vs. $T$) y la susceptibilidad contra la temperatura ($\chi$ vs. $T$) utilizando el mismo equipo que en las mediciones $M$ vs. $H$, las curvas $FC$ se obtuvieron con un campo externo de $50$ mT, realizándose en un rango de temperatura de $5$ a $300$ K.
 \subsection{Mediciones Ferroeléctricas}
 
 \subsubsection{Preparación de la Muestra}
-Para conseguir medir la polarización contra la carga aplicada es necesario que la muestra sea un sólido. Para conseguir esto a partir de los polvos sintetizados cada muestra fue molida a través del proceso que se explica en la sección \ref{sec:molienda} y moldeada a través de un proceso conocido como sinterización, que consiste en la aplicación de presión y calor con el fin de obtener un sólido, como se detalla en la sección \ref{sec:sinter}. Ésto se realizó con las ortoferritas calcinadas a temperatura más baja (600\gradoC{} para el \neod{} y 700\gradoC{} para el \sama{}), tanto a las muestras sin procesar como a las sonicadas por 4 horas a 292 W.
+Para medir la polarización contra la carga aplicada es necesario que la muestra sea un sólido. Por lo tanto, a partir de los polvos sintetizados cada muestra fue molida a través del proceso que se explica en la sección \ref{sec:molienda} y moldeada a través de un proceso conocido como sinterización, que consiste en la aplicación de presión y calor con el fin de obtener una pastilla sólida, como se detalla en la sección \ref{sec:sinter}. Ésto se realizó con las ortoferritas calcinadas a temperatura más baja (600\gradoC{} para el \neod{} y 700\gradoC{} para el \sama{}), tanto a las muestras sin procesar como a las sonicadas por 4 horas a 292 W.
 
 \subsubsection{Molienda} \label{sec:molienda}
 La molienda se realizó haciendo uso de un molino de bolas vibratorio de alta velocidad modelo \textit{HVBM-1200} de la marca \textit{MicroNanoTools}, que tiene una velocidad de 1200 rpm \cite{Molino}.
@@ -393,39 +394,72 @@ Este proceso funciona a través de la difusión de los átomos en las fronteras 
 
 Los resultados de este proceso dependen de la temperatura, presión aplicada, tiempo de sinterización e incluso de la presión atmosférica. En este trabajo se tomaron como condiciones de sinterización una presión de 5 t aplicada por 15 minutos, realizado con una prensa hidráulica manual de 15 t de marca \textit{SPECAC}, y una temperatura de 1000\gradoC{} aplicada por 2 horas, haciendo uso de un horno (\textit{nombre}) \cite{Aparnadevi2016}.
 
+\subsubsection{Fracción Sólida}
+Es posible dividir un sólido en dos partes, la fracción sólida, que consiste en el material que compone al sólido, y la porosidad, formada de los espacios vacíos en el sólido, como se ilustra en la figura \ref{fig:fracsolida}. 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{fig/fracsolida.jpg}
+    \caption{Fracción sólida y porosidad de un sólido. Adaptado de \cite{Erklaert2024}.}
+    \label{fig:fracsolida}
+\end{figure}
+La fracción sólida se define como:
+\begin{equation}
+    \text{FS}=\dfrac{V_\text{sólido}}{V_\text{total}}
+    \label{eq:fracsolida}
+\end{equation}
+Donde $V_\text{sólido}$ es el volumen que ocupan los átomos que componen al material y $V_\text{total}$ es el volumen que ocupa el sólido macroscópicamente.
+
+Para obtener el valor de $\text{FS}$, es necesario pesar la muestra normalmente (es decir, rodeada de aire) y además sumergida en agua.
+
+Considerando la masa de fluido desplazada por la pastilla en ambos medios:
+\begin{equation}
+    \begin{split}
+        m_\text{aire}=\rho V_\text{sólido} - \rho_\text{aire} V_\text{total}\\
+        m_\text{agua}=\rho V_\text{sólido} - \rho_\text{agua} V_\text{total}
+    \end{split}
+    \label{eq:masasaireagua}
+\end{equation}
+Donde $m_\text{aire}$, $\rho_\text{aire}$  y $m_\text{agua}$, $\rho_\text{agua}$ son las masas medidas en aire y agua y sus densidades, respectivamente y $\rho$ es la densidad del material.
+
+A partir de estas ecuaciones, es posible encontrar una expresión para la ecuación \ref{eq:fracsolida}:
+\begin{equation}
+    \text{FS}=\dfrac{V_\text{sólido}}{V_\text{total}}=\dfrac{\rho_\text{agua}m_\text{aire}-\rho_\text{aire}m_\text{agua}}{\rho(m_\text{aire}-m_\text{agua})}
+    \label{eq:fracsolidamasas}
+\end{equation}
+Esta será la expresión utilizada para encontrar la fracción sólida de las pastillas.
+
+Las densidades utilizadas fueron $\rho=5.74$ g/cm$^3$ para el \neod{} \cite{densneod} y $\rho=7.19$ g/cm$^3$ para el \sama{} \cite{denssama}.
+
 \subsubsection{Mediciones de Polarización (Curvas P-E)}
 
-\subsection{Clasificación metodológica y de muestras}
+\subsection{Clasificación Metodológica y de muestras}
 Las técnicas descritas en esta sección pueden dividirse en tres apartados.
 \begin{enumerate}
     \item Análisis térmico (sección \ref{sec:analisistermico}): Permite optimizar las condiciones de síntesis a través de TGA.
     \item Análisis estructural, morfológico y de composición (sección \ref{sec:analisisestruc}): Permite comprobar la presencia de la fase que se busca y estudiar la forma física de las muestras sintetizadas, esto a través de SEM, EDS y DRX.
     \item Análisis óptico, magnético y eléctrico (sección \ref{sec:analisisoptmagelec}): Permite relacionar estas propiedades con las estudiadas en la sección anterior, esto se obtiene a través de espectroscopía UV-Vis, mediciones con SQUID y obteniendo las curvas P-E.
 \end{enumerate} 
-En conjunto, estos análisis permiten una caracterización apropiada de las muestras obtenidas en función del tamaño de partícula, las cuales se describen a continuación:
-\begin{itemize}
-    \item \textbf{Muestras de \ce{NdFeO3}:}
-    \begin{itemize}
-        \item Calcinada a 600\gradoC{}
-        \item Calcinada a 600\gradoC{}, sinterizada como se describe en las secciones \ref{sec:molienda} y \ref{sec:sinter}
-        \item Calcinada a 600\gradoC{}, sonicada a 292 W por 6 h
-        \item Calcinada a 600\gradoC{}, sonicada a 292 W por 12 h
-        \item Calcinada a 600\gradoC{}, sonicada a 292 W por 12 h, sinterizada como se describe en las secciones \ref{sec:molienda} y \ref{sec:sinter}
-        \item Calcinada a 700\gradoC{}
-        \item Calcinada a 800\gradoC{}
-        \item Calcinada a 900\gradoC{}
-        \item Calcinada a 1000\gradoC{}
-    \end{itemize}
-    \item \textbf{Muestras de \ce{SmFeO3}:}
-    \begin{itemize}
-        \item Calcinada a 700\gradoC{}
-        \item Calcinada a 700\gradoC{}, sinterizada como se describe en las secciones \ref{sec:molienda} y \ref{sec:sinter}
-        \item Calcinada a 700\gradoC{}, sonicada a 292 W por 6 h
-        \item Calcinada a 700\gradoC{}, sonicada a 292 W por 12 h
-        \item Calcinada a 700\gradoC{}, sonicada a 292 W por 12 h, sinterizada como se describe en las secciones \ref{sec:molienda} y \ref{sec:sinter}
-        \item Calcinada a 800\gradoC{}
-        \item Calcinada a 900\gradoC{}
-        \item Calcinada a 1000\gradoC{}
-    \end{itemize}
-\end{itemize}
+En conjunto, estos análisis permiten una caracterización apropiada de las muestras obtenidas en función del tamaño de partícula.
+
+Las muestras sintetizadas se detallan en la siguiente tabla:
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c||c|c|c|c|c||c|c|c|c|}
+        \hline
+        Ortoferrita & \multicolumn{5}{c||}{NdFeO3} & \multicolumn{4}{c|}{SmFeO3} \\
+        \hline
+        Temperatura & \multirow{3}{*}{\rotatebox[origin=c]{90}{600\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{700\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{800\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{900\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{1000\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{700\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{800\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{900\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{1000\gradoC{}}} \\
+        de & & & & & & & & & \\
+        Calcinación & & & & & & & & & \\ 
+        \hline\hline
+        Sin Sonicar & \cellcolor[HTML]{EAB676}$\times$ & $\times$ & $\times$ & $\times$ & $\times$ & \cellcolor[HTML]{EAB676}$\times$ & $\times$ & $\times$ & $\times$ \\
+        \hline
+        Sonicada 2 h & \cellcolor[HTML]{EAB676}$\times$ & & & & & \cellcolor[HTML]{EAB676}$\times$ & & & \\
+        \hline
+        Sonicada 4 h & \cellcolor[HTML]{EAB676}$\times$ & & & & & \cellcolor[HTML]{EAB676}$\times$ & & & \\
+        \hline
+        \end{tabular} 
+    \caption{Muestras sintetizadas. Las muestras marcadas en naranja fueron sinterizadas.}
+    \label{table:muestras}
+\end{table}
 \end{document}

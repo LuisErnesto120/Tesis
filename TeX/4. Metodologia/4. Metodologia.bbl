@@ -883,36 +883,44 @@
       \verb /aip/jap/article/120/3/034101/143625/Room-temperature-dual-ferroic-behaviour-of-ball
       \endverb
     \endentry
-    \entry{Stewart1999}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=0c56d36d3c0eddf5cce526900fcbdf60}{%
-           family={Stewart},
-           familyi={S\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=8a0ef7624e3e50f5f095ef3d73464371}{%
-           family={Cain},
-           familyi={C\bibinitperiod},
-           given={M\bibnamedelima G},
-           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+    \entry{Erklaert2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=d6d3078db7e543d638e56cbbbf211dd7}{%
+           family={Erklaert},
+           familyi={E\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{fullhash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{fullhashraw}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{bibnamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{authorbibnamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{authornamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{authorfullhash}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \strng{authorfullhashraw}{1e07cee9246c93b8e1f42ee00ef81d1c}
+      \strng{namehash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{fullhash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{fullhashraw}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{bibnamehash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{authorbibnamehash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{authornamehash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{authorfullhash}{d6d3078db7e543d638e56cbbbf211dd7}
+      \strng{authorfullhashraw}{d6d3078db7e543d638e56cbbbf211dd7}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issue}{CMMT(A) 152}
-      \field{journaltitle}{NPL Report}
-      \field{month}{5}
-      \field{title}{Ferroelectric Hysteresis Measurement and Analysis}
-      \field{year}{1999}
+      \field{month}{8}
+      \field{note}{\url{https://www.solids-development.com/en/feststofffraktion-porositaet-porosity-solid-fraction/}}
+      \field{title}{Feststofffraktion // Porosität // Porosity // Solid fraction - Solids Development}
+      \field{year}{2024}
+    \endentry
+    \entry{densneod}{misc}{}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://next-gen.materialsproject.org/materials/mp-1180433}}
+      \field{title}{NdFeO3 mp-1180433}
+    \endentry
+    \entry{denssama}{misc}{}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://next-gen.materialsproject.org/materials/mp-20243}}
+      \field{title}{SmFeO3 mp-20243}
     \endentry
   \enddatalist
 \endrefsection

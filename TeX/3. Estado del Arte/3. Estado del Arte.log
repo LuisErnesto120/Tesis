@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  15 MAY 2025 19:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  29 MAY 2025 00:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1584,46 +1584,57 @@ Package pdftex.def Info: fig/chitemp.png  used on input line 62.
 LaTeX Info: Redefining \. on input line 81.
 LaTeX Info: Redefining \% on input line 81.
  [3 <./fig/chitemp.png>]
-LaTeX Font Info:    Trying to load font information for U+eus on input line 121.
+LaTeX Font Info:    Trying to load font information for U+eus on input line 127.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueus.fd
 File: ueus.fd 2013/01/14 v3.01 Euler Script
 )
 LaTeX Info: Redefining \. on input line 131.
 LaTeX Info: Redefining \% on input line 131.
  [4{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
-LaTeX Info: Redefining \. on input line 164.
-LaTeX Info: Redefining \% on input line 164.
+LaTeX Info: Redefining \. on input line 161.
+LaTeX Info: Redefining \% on input line 161.
  [5]
-<fig/histeresis1.jpg, id=123, 603.7423pt x 493.09885pt>
+<fig/tiposAFM.png, id=118, 274.02374pt x 59.22125pt>
+File: fig/tiposAFM.png Graphic file (type png)
+<use fig/tiposAFM.png>
+Package pdftex.def Info: fig/tiposAFM.png  used on input line 167.
+(pdftex.def)             Requested size: 377.62642pt x 81.61784pt.
+<fig/histeresis1.jpg, id=128, 603.7423pt x 493.09885pt>
 File: fig/histeresis1.jpg Graphic file (type jpg)
 <use fig/histeresis1.jpg>
-Package pdftex.def Info: fig/histeresis1.jpg  used on input line 170.
+Package pdftex.def Info: fig/histeresis1.jpg  used on input line 182.
 (pdftex.def)             Requested size: 259.6186pt x 212.04341pt.
-LaTeX Info: Redefining \. on input line 179.
-LaTeX Info: Redefining \% on input line 179.
- [6 <./fig/histeresis1.jpg>]
-<fig/ferroelecdiag.jpg, id=140, 159.42763pt x 82.53233pt>
+LaTeX Info: Redefining \. on input line 186.
+LaTeX Info: Redefining \% on input line 186.
+ [6 <./fig/tiposAFM.png>]
+LaTeX Info: Redefining \. on input line 199.
+LaTeX Info: Redefining \% on input line 199.
+ [7 <./fig/histeresis1.jpg>]
+<fig/ferroelecdiag.jpg, id=154, 159.42763pt x 82.53233pt>
 File: fig/ferroelecdiag.jpg Graphic file (type jpg)
 <use fig/ferroelecdiag.jpg>
-Package pdftex.def Info: fig/ferroelecdiag.jpg  used on input line 204.
+Package pdftex.def Info: fig/ferroelecdiag.jpg  used on input line 225.
 (pdftex.def)             Requested size: 330.42041pt x 171.0738pt.
-LaTeX Info: Redefining \. on input line 207.
-LaTeX Info: Redefining \% on input line 207.
- [7]
-LaTeX Info: Redefining \. on input line 236.
-LaTeX Info: Redefining \% on input line 236.
- [8 <./fig/ferroelecdiag.jpg>]
-<fig/PEloop.png, id=161, 988.44281pt x 206.27063pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 229.
+LaTeX Info: Redefining \% on input line 229.
+ [8]
+LaTeX Info: Redefining \. on input line 261.
+LaTeX Info: Redefining \% on input line 261.
+ [9 <./fig/ferroelecdiag.jpg>]
+<fig/PEloop.png, id=175, 988.44281pt x 206.27063pt>
 File: fig/PEloop.png Graphic file (type png)
 <use fig/PEloop.png>
-Package pdftex.def Info: fig/PEloop.png  used on input line 251.
+Package pdftex.def Info: fig/PEloop.png  used on input line 276.
 (pdftex.def)             Requested size: 424.82523pt x 88.65372pt.
-LaTeX Info: Redefining \. on input line 270.
-LaTeX Info: Redefining \% on input line 270.
- [9 <./fig/PEloop.png>]
-LaTeX Info: Redefining \. on input line 279.
-LaTeX Info: Redefining \% on input line 279.
- [10] (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
+LaTeX Info: Redefining \. on input line 295.
+LaTeX Info: Redefining \% on input line 295.
+ [10 <./fig/PEloop.png>]
+LaTeX Info: Redefining \. on input line 314.
+LaTeX Info: Redefining \% on input line 314.
+ [11] (C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.aux
 LaTeX Info: Redefining \sptext on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
@@ -1639,13 +1650,22 @@ Package logreq Info: Writing requests to '"3. Estado del Arte".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35651 strings out of 474312
- 638650 string characters out of 5740701
- 1942907 words of memory out of 5000000
- 57503 multiletter control sequences out of 15000+600000
+ 35682 strings out of 474312
+ 639437 string characters out of 5740701
+ 1941907 words of memory out of 5000000
+ 57528 multiletter control sequences out of 15000+600000
  575676 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,17n,134p,2454b,1961s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,17n,134p,2454b,2103s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{cite.0@Rajaitha2022} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Zhang2016} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@KamalWarshi2018} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{cite.0@Vopson2015} has been referenced but does not exist, replaced by a fixed one
 
@@ -1660,6 +1680,9 @@ pdfTeX warning (dest): name{cite.0@Qiao2021} has been referenced but does not ex
 
 
 pdfTeX warning (dest): name{cite.0@Buschow2003} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@Burema2021} has been referenced but does not exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{cite.0@coey2010magnetism} has been referenced but does not exist, replaced by a fixed one
@@ -1679,10 +1702,10 @@ pdfTeX warning (dest): name{cite.0@Sharma2024} has been referenced but does not 
 
 pdfTeX warning (dest): name{cite.0@Wang2019} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb>
-Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf" (10 pages, 953026 bytes).
+ <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb>
+Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.pdf" (11 pages, 992183 bytes).
 PDF statistics:
- 264 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
- 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 289 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
+ 84 words of extra memory for PDF output out of 10000 (max. 10000000)
 

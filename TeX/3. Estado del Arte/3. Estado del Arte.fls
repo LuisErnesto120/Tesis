@@ -484,6 +484,13 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm7.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolA.enc
+INPUT .\fig\tiposAFM.png
+INPUT .\fig\tiposAFM.png
+INPUT .\fig\tiposAFM.png
+INPUT .\fig\tiposAFM.png
+INPUT .\fig\tiposAFM.png
+INPUT .\fig\tiposAFM.png
+INPUT .\fig\tiposAFM.png
 INPUT .\fig\histeresis1.jpg
 INPUT .\fig\histeresis1.jpg
 INPUT .\fig\histeresis1.jpg
@@ -510,6 +517,8 @@ INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.ou
 INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.out
 INPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.run.xml
 OUTPUT C:\Users\PC\Desktop\Git\Tesis\TeX\3. Estado del Arte\3. Estado del Arte.run.xml
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol12.pfb
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\mnsymbol\MnSymbol8.pfb

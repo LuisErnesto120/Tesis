@@ -48,7 +48,7 @@ Por su parte, la relación estequiométrica por cada gramo de \sama{} es la que 
     \caption{Cantidad de cada compuesto necesaria para sintetizar 1 g de \sama{}.}
     \label{tab:sintesissama}
     \end{table}
-    En cada caso, los reactivos se mezclaron en dos vasos de precipitados con 20 ml de agua desionizada cada uno, el EDTA y el hidróxido de amonio en un vaso y el resto de los compuestos en otro, como se observa en la figura \ref{fig:diagflujosint} (1), se calentó el vaso que contenía EDTA a alrededor de 60\gradoC{} mientras éste se disolvía y posteriormente se añadió el contenido del otro vaso de precipitados. Una vez hecho ésto, se comprobó que se tuviera un pH neutro y se subió la temperatura gradualmente hasta que la mezcla alcanzó alrededor de 80\gradoC{}, lo cual se ilustra en la figura \ref{fig:diagflujosint} (2), ésto con el fin de que se combustionara. Finalmente, el producto de esta combustión se molió haciendo uso de un mortero. 
+    En cada caso, los reactivos se mezclaron en dos vasos de precipitados con 20 ml de agua desionizada cada uno, el EDTA y el hidróxido de amonio en un vaso y el resto de los compuestos en otro, como se observa en la figura \ref{fig:diagflujosint} (1), se calentó el vaso que contenía EDTA a alrededor de 60\gradoC{} mientras éste se disolvía y posteriormente se añadió el contenido del otro vaso de precipitados. Una vez hecho ésto, se comprobó que se tuviera un pH neutro, en caso contrario se agregó más EDTA o hidróxido de amonio según fuera necesario. Una vez hecho esto, se subió la temperatura gradualmente hasta que la mezcla alcanzó alrededor de 80\gradoC{}, lo cual se ilustra en la figura \ref{fig:diagflujosint} (2), ésto con el fin de que se combustionara. Finalmente, el producto de esta combustión se molió haciendo uso de un mortero. 
     
     Se separó una muestra por cada tierra rara para realizar un análisis termogravimétrico, mostrado en la figura \ref{fig:diagflujosint} (3a), del cual se hablará en una sección posterior.
 
@@ -73,7 +73,7 @@ Los procesos que se observan mediante esta técnica pueden ser endo o exotérmic
 
 Sin embargo, es posible inferir información sobre la posible temperatura a la que ocurre la cristalización al comparar los datos obtenidos con la temperatura de los cambios que se espera ocurran en la muestra. En este caso, se espera que haya una combustión de la fase orgánica y la evaporación del agua contenida en la muestra entre los 100 y 200\gradoC{}, mientras que la fase metálica es estable hasta temperaturas mucho más altas que las máximas alcanzadas por el equipo ($\approx1000$\gradoC{}), por lo que es posible asociar un proceso que ocurra a una temperatura mayor a 200\gradoC{} a la cristalización.
 
-Se utilizó un \textit{detector}, el cual se configuró con una rampa de calor de $10$\gradoC{}$/$min en un rango de 30\gradoC{}-845\gradoC{}.
+Se utilizó un \textit{TGA 550} de la marca \textit{TA Instruments}, el cual se configuró con una rampa de calor de $10$\gradoC{}$/$min en un rango de 30\gradoC{}-845\gradoC{}.
 \subsection{Difracción de Rayos X (DRX)}
 Esta técnica, cuyo equipo se puede observar en la figura \ref{fig:diagflujosint} (4) se basa en la interferencia constructiva que ocurre al irradiar una muestra cristalina con un haz de rayos X monocromados en ángulos que dependen de las fases que contenga la muestra. Funciona a través de un tubo de rayos catódicos que bombardea con electrones a un objetivo, los cuales, al tener la energía suficiente, desplazarán los electrones más internos de los átomos del objetivo a niveles energéticos más altos, los cuales a su vez, al regresar al estado de menor energía liberan rayos X de una longitud de onda característica que depende el material objetivo utilizado, los cuales irradian la muestra que se quiere medir en un arreglo como el que se ilustra en la figura \ref{fig:diagDRX}, lo cual brinda información sobre las fases contenidas en la muestra, como se explicará en las siguientes secciones \cite{dutrowxrd}.
 \begin{figure}[H]
@@ -83,7 +83,7 @@ Esta técnica, cuyo equipo se puede observar en la figura \ref{fig:diagflujosint
     \label{fig:diagDRX}
 \end{figure}
 
-Se utilizó un \textit{detector} para las muestras en polvo, y un  difractómetro \textit{Rigaku Ultima IV} para las muestras sinterizadas, ambos con fuentes de Cobre ($K_\alpha=1.54$ \r{A}), la medición se realizó con $2\theta\in(20^\circ,80^\circ)$.
+Se utilizó un \textit{Bruker D8 Advance} para las muestras en polvo, y un  difractómetro \textit{Rigaku Ultima IV} para las muestras sinterizadas, ambos con fuentes de Cobre ($K_\alpha=1.54$ \r{A}), la medición se realizó con $2\theta\in(20^\circ,80^\circ)$.
 \subsubsection{Estructura Cristalina}
 Los átomos y moléculas que conforman la mayoría de sólidos, como el cuarzo, la sal, los metales o los óxidos, se encuentran en un arreglo periódico regular, ésto se conoce como cristalinidad, y a la estructura periódica como estructura cristalina.
 
@@ -130,7 +130,7 @@ Es decir, éstos forman un rayo difractado si y sólo si:
     n\lambda=2d'\sin{\theta}
     \label{eq:leydebragg}
 \end{equation}
-Esta ecuación se denomina ley de Bragg \cite{Cullity2014}.
+Esta ecuación se denomina ley de Bragg, esta proporciona información sobre la estructura cristalina de una estructura dada a través de sus ángulos de difracción \cite{Cullity2014}.
 \subsubsection{Refinamiento Rietveld}
 El método de Rietveld es una técnica de refinamiento que permite estudiar los patrones de difracción generados por rayos X de manera cuantitativa. Esta técnica permite encontrar información sobre la composición de la muestra, las fases cristalinas existentes en ésta y la posible presencia de contaminantes que posean una fase cristalina.
 
@@ -219,21 +219,29 @@ Los electrones utilizados en un microscopio electrónico de barrido se conocen c
 \end{figure}
 En el caso de los EDS realizados, se utilizaron las mismas condiciones que en la obtención de imágenes, es decir, voltaje de 15 kV, corriente en 8 unidades arbitrarias, presión de $9.6\cdot10^{-5}$Pa. Se registraron los rayos X emitidos por la muestra durante un minuto en cada medición.
 \subsubsection{Análisis Estadístico del Tamaño de Partículas} \label{sec:analisisestadistico}
-Las imágenes obtenidas a través de SEM fueron analizadas a través de ImageJ \cite{ImageJ}, éstas fueron procesadas definiendo la escala correcta en $\mu$m, en éste caso se tomaron las imágenes obtenidas en una amplificación de x500 debido a que éstas muestran de manera completa las partículas grandes mientras siguen siendo visibles las más pequeñas, como se puede ver en la figura \ref{fig:imgjcomp}a. Se prosiguió utilizando la función \textit{Threshold} para definir la posición de las partículas en la imagen, como se observa en la figura \ref{fig:imgjcomp}b, seguido de la función \textit{Analyze Particles} para seleccionarlas y medirlas, esto se puede ver en la figura \ref{fig:imgjcomp}c, lo cual dió como resultado una tabla que registra el diámetro de cada partícula detectada por el programa.
+Las imágenes obtenidas a través de SEM fueron analizadas a través de ImageJ \cite{ImageJ}. Se utilizó una amplificación de $\times500$ debido a que este valor permite observar de manera completa las partículas grandes mientras siguen siendo visibles las más pequeñas, como se puede ver en la figura \ref{fig:imgjcomp}a.
+
+Se buscó determinar el diámetro promedio de partícula y el porcentaje de partículas con diámetro $\leq$1 $\mu$m. En conjunto, ambas mediciones permiten distinguir si el tamaño mínimo de partículas cambia o si se rompen las partículas más grandes. Para esto se realizaron dos métodos de medición complementarios:
+\begin{enumerate}
+    \item Para obtener el diámetro promedio, se realizaron mediciones manuales de 200 partículas. Aunque este método proporciona datos precisos para partículas individuales, las partículas pequeñas son difíciles de identificar y medir manualmente en cantidades suficientes para reflejar la proporción real de tamaños de partícula. Este método dió histogramas como el que se observa en la figura \ref{fig:ejemplohist}a.
+    \item Para encontrar el porcentaje de partículas con diámetro $\leq$1 $\mu$m se utilizó la función \textit{Threshold} para definir la posición de las partículas en la imagen, como se observa en la figura \ref{fig:imgjcomp}b, seguido de la función \textit{Analyze Particles} para medir su diámetro, esto se puede ver en la figura \ref{fig:imgjcomp}c. Al tratarse de un método automático basado en el contraste de las partículas con el fondo, puede tener dificultades para delimitar correctamente partículas cercanas entre sí, sin embargo, al medir un gran número de partículas,  permite una estimación confiable de la distribución de tamaños. Este método dió histogramas como el que se observa en la figura \ref{fig:ejemplohist}b.
+\end{enumerate}
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.7\textwidth]{fig/imagejcomp.png}
     \caption{Procesado de Imágenes con ImageJ.}
     \label{fig:imgjcomp}
 \end{figure}
-Para visualizar los datos obtenidos mediante este método, se empleó un histograma del diámetro de las partículas de cada muestra, como se observa en la figura \ref{fig:ejemplohist}.
+
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.7\textwidth]{fig/ejemplohist.png}
-    \caption{Histograma de los datos obtenidos con ImageJ.}
+    \includegraphics[width=0.35\textwidth]{fig/ejemplohist1.png}
+    \quad
+    \includegraphics[width=0.35\textwidth]{fig/ejemplohist2.png}
+    \caption{Histogramas de los datos obtenidos con ImageJ mediante ambos métodos.}
     \label{fig:ejemplohist}
 \end{figure}
-Se obtuvo a partir de éste el porcentaje de partículas con un diámetro menor o igual a $1\mu$m. Éste se puede expresar de la siguiente manera:
+Para analizar los porcentajes de partículas de diámetro $\leq1$ $\mu$m obtenidos ($P$) se partió de la siguiente expresión:
 \begin{equation}
     P=\dfrac{n}{N}\cdot100=p\cdot100
     \label{eq:porcentajeeq}
@@ -280,7 +288,9 @@ Posteriormente, se hace pasar el haz de luz a través de monocromadores, además
 
 Después, el haz resultante se incide primero en una muestra en blanco para medir el fondo y restar éste de los datos que se obtengan, para luego incidir el haz sobre la muestra y registrar ya sea la absorbancia o reflectancia a través de detectores, los cuales funcionan haciendo uso de semiconductores o una capa fotoeléctrica, debido a que ambos generan una corriente proporcional a la intensidad de la luz incidente \cite{Tom2023}.
 
-En el caso de las mediciones realizadas, se utilizó un espectrómetro modelo \textit{Macylab UV-1800CPC} en modo de absorción en precisión normal, utilizando luz de 200 a 800 nm, con un paso de 0.2nm.
+En el caso de las mediciones realizadas, se utilizó un espectrómetro modelo \textit{Macylab UV-1800CPC} en modo de absorción en precisión normal.
+
+Se colocó un portamuestras recubierto con \ce{BaSO4} como fondo, con el cual se calibró el fondo utilizado para las mediciones. Posteriormente se realizó la medición con aproximadamente 0.05 g de la muestra, utilizando luz de 200 a 800 nm, con un paso de 0.2 nm entre cada punto.
 \subsubsection{Método Tauc}
 Una de las propiedades ópticas más importantes en los semiconductores se conoce como brecha de energía prohibida o \textit{band gap}. Esta nos habla de la separación entre el estado más energético ocupado por los electrones del material (banda de valencia) y el estado siguiente (banda de conducción), este concepto se ilustra en la figura \ref{fig:diagbandgap}. El \textit{band gap} es la energía requerida para que un electrón pase de una banda a la otra \cite{Ashcroft1976}.
 \begin{figure}[H]
@@ -311,9 +321,9 @@ El espectrómetro, al medir absorbancia, permite conocer $\alpha$ respecto a $\n
 \subsection{Magnetometría}
 
 \subsubsection{Dispositivo Superconductor de Interferencia Cuántica (SQUID)}
-Estos instrumentos son capaces de medir flujos magnéticos del orden del cuanto de flujo ($\Phi_0=h/2e\approx2.07\cdot10^{-15}$ Wb). Estos funcionan a través del efecto Josephson.
+Estos instrumentos son capaces de medir flujos magnéticos del orden del cuanto de flujo ($\Phi_0=h/2e\approx2.07\cdot10^{-15}$ Wb) ya que funcionan a través del efecto Josephson.
 
-Éste es un efecto cuántico que ocurre cuando dos superconductores están unidos por una capa aislante delgada (de aproximadamente 1 nm), la cual representa una barrera de potencial. Debido al tunelaje cuántico, al hacer pasar una corriente por el superconductor, ésta atravesará la barrera, sin embargo, la función de onda de los electrones tendrá una fase distinta del otro lado.
+Éste es un efecto cuántico que ocurre cuando dos superconductores están unidos por una capa aislante delgada (de aproximadamente 1 nm), la cual representa una barrera de potencial. Debido al tunelaje, al hacer pasar una corriente por el superconductor, ésta atravesará la barrera, sin embargo, la función de onda de los electrones tendrá una fase distinta del otro lado.
 
 En ausencia de voltaje ($V=0$), la corriente que fluye por los superconductores está dada por:
 \begin{equation}
@@ -343,9 +353,9 @@ Por lo tanto, la corriente total que fluye a través de los superconductores es
 Lo cual explica la precisión del SQUID, cada oscilación de $I_\text{total}$ es provocada por un cambio de $\Phi_\text{total}$ de un solo cuanto de flujo $\Phi_0$.
 \paragraph{Mediciones M vs H}
 Estas mediciones fueron realizadas con un equipo \textit{PPMS DYNACOOL} de \textit{QUANTUM DESIGN} con la opción de VSM, a $T=5$ K y $300$ K, de $-2$ a $2$ T.
-Las mediciones que varían en temperatura se realizaron entre 5 y 350K para el caso del \sama{} y entre 5 y 300K para el \neod{}, además, las curvas FC se obtuvieron con un campo externo de 50mT en 
+Las mediciones que varían en temperatura se realizaron entre 5 y 350K para el caso del \sama{} y entre 5 y 300K para el \neod{}.
 \paragraph{Mediciones dependientes de la temperatura}
-Las mediciones en SQUID que dependen de la temperatura pueden ser realizadas de dos maneras, puede enfriarse la muestra en ausencia de campo magnético (Zero Field Cooling, ZFC), o bien, en presencia de éste (Field Cooling, FC), dando como resultado curvas distintas debido a que la presencia del campo alinea los espines de manera que se reducen los efectos por anisotropía \cite{Ali2014}.
+Las mediciones en SQUID que dependen de la temperatura pueden ser realizadas de dos maneras, puede enfriarse la muestra en ausencia de campo magnético (Zero Field Cooling, ZFC), o bien, en presencia de éste (Field Cooling, FC), dando como resultado curvas distintas debido a que la presencia del campo alinea los momentos magnéticos de manera que se reducen los efectos por anisotropía \cite{Ali2014}.
 
 Se midió la magnetización contra la temperatura ($M$ vs. $T$) y la susceptibilidad contra la temperatura ($\chi$ vs. $T$) utilizando el mismo equipo que en las mediciones $M$ vs. $H$, las curvas $FC$ se obtuvieron con un campo externo de $50$ mT, realizándose en un rango de temperatura de $5$ a $300$ K.
 \subsection{Mediciones Ferroeléctricas}
@@ -392,7 +402,7 @@ Este proceso funciona a través de la difusión de los átomos en las fronteras 
     \label{fig:sintdiag}
 \end{figure}
 
-Los resultados de este proceso dependen de la temperatura, presión aplicada, tiempo de sinterización e incluso de la presión atmosférica. En este trabajo se tomaron como condiciones de sinterización una presión de 5 t aplicada por 15 minutos, realizado con una prensa hidráulica manual de 15 t de marca \textit{SPECAC}, y una temperatura de 1000\gradoC{} aplicada por 2 horas, haciendo uso de un horno (\textit{nombre}) \cite{Aparnadevi2016}.
+Los resultados de este proceso dependen de la temperatura, presión aplicada, tiempo de sinterización e incluso de la presión atmosférica. En este trabajo se tomaron como condiciones de sinterización una presión de 5 t aplicada por 15 minutos, realizado con una prensa hidráulica manual de 15 t de marca \textit{SPECAC}, y una temperatura de 1000\gradoC{} aplicada por 2 horas, haciendo uso de un horno \textit{Thermolyne 46100} \cite{Aparnadevi2016}.
 
 \subsubsection{Fracción Sólida}
 Es posible dividir un sólido en dos partes, la fracción sólida, que consiste en el material que compone al sólido, y la porosidad, formada de los espacios vacíos en el sólido, como se ilustra en la figura \ref{fig:fracsolida}. 
@@ -431,8 +441,18 @@ Esta será la expresión utilizada para encontrar la fracción sólida de las pa
 Las densidades utilizadas fueron $\rho=5.74$ g/cm$^3$ para el \neod{} \cite{densneod} y $\rho=7.19$ g/cm$^3$ para el \sama{} \cite{denssama}.
 
 \subsubsection{Mediciones de Polarización (Curvas P-E)}
+Para medir la polarización de una muestra cilíndrica delgada, se comienza recubriendo sus caras planas con un conductor. Esto genera un capacitor de placas paralelas, donde el campo eléctrico estará dado por:
+\begin{equation}
+    E=\dfrac{V}{h}
+    \label{eq:campovoltaje}
+\end{equation}
+Donde $h$ es el espesor de la muestra y $V$ es el voltaje aplicado, el cual se varía entre $\pm V_\text{max}$.
 
-\subsection{Clasificación Metodológica y de muestras}
+Finalmente, se obtiene la polarización del material mediante el método descrito en \ref{sec:PEarte} y se grafica contra el campo eléctrico.
+
+Las mediciones de polarización fueron realizadas utilizando un \textit{Radiant Precision RT66B 4KV-HVi}, con el voltaje provisto por una fuente de la marca \textit{TReK} modelo \textit{609E-6}. Las caras de las pastillas sinterizadas fueron recubiertas con una pintura de plata y posteriormente colocadas en el portamuestras, donde se realizaron mediciones comenzando en 100 V, seguidas de 200 V, y posteriormente en intervalos de 200 V (400 V, 600 V,...) hasta llegar a 2000 V.
+
+\subsection{Clasificación metodológica y de muestras}
 Las técnicas descritas en esta sección pueden dividirse en tres apartados.
 \begin{enumerate}
     \item Análisis térmico (sección \ref{sec:analisistermico}): Permite optimizar las condiciones de síntesis a través de TGA.
@@ -444,19 +464,19 @@ En conjunto, estos análisis permiten una caracterización apropiada de las mues
 Las muestras sintetizadas se detallan en la siguiente tabla:
 \begin{table}[H]
     \centering
-    \begin{tabular}{|c||c|c|c|c|c||c|c|c|c|}
+    \begin{tabular}{|c||c|c|c|c||c|c|c|c|}
         \hline
-        Ortoferrita & \multicolumn{5}{c||}{NdFeO3} & \multicolumn{4}{c|}{SmFeO3} \\
+        Ortoferrita & \multicolumn{4}{c||}{NdFeO3} & \multicolumn{4}{c|}{SmFeO3} \\
         \hline
-        Temperatura & \multirow{3}{*}{\rotatebox[origin=c]{90}{600\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{700\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{800\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{900\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{1000\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{700\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{800\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{900\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{1000\gradoC{}}} \\
-        de & & & & & & & & & \\
-        Calcinación & & & & & & & & & \\ 
+        Temperatura & \multirow{3}{*}{\rotatebox[origin=c]{90}{600\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{700\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{800\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{900\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{700\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{800\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{900\gradoC{}}} & \multirow{3}{*}{\rotatebox[origin=c]{90}{1000\gradoC{}}} \\
+        de & & & & & & & & \\
+        Calcinación & & & & & & & & \\ 
         \hline\hline
-        Sin Sonicar & \cellcolor[HTML]{EAB676}$\times$ & $\times$ & $\times$ & $\times$ & $\times$ & \cellcolor[HTML]{EAB676}$\times$ & $\times$ & $\times$ & $\times$ \\
+        Sin Sonicar & \cellcolor[HTML]{EAB676}$\times$ & $\times$ & $\times$ & $\times$ & \cellcolor[HTML]{EAB676}$\times$ & $\times$ & $\times$ & $\times$ \\
         \hline
-        Sonicada 2 h & \cellcolor[HTML]{EAB676}$\times$ & & & & & \cellcolor[HTML]{EAB676}$\times$ & & & \\
+        Sonicada 2 h & \cellcolor[HTML]{EAB676}$\times$ & & & & \cellcolor[HTML]{EAB676}$\times$ & & & \\
         \hline
-        Sonicada 4 h & \cellcolor[HTML]{EAB676}$\times$ & & & & & \cellcolor[HTML]{EAB676}$\times$ & & & \\
+        Sonicada 4 h & \cellcolor[HTML]{EAB676}$\times$ & & & & \cellcolor[HTML]{EAB676}$\times$ & & & \\
         \hline
         \end{tabular} 
     \caption{Muestras sintetizadas. Las muestras marcadas en naranja fueron sinterizadas.}

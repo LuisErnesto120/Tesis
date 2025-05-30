@@ -230,6 +230,42 @@
       \field{title}{Magnetism and magnetic materials}
       \field{year}{2010}
     \endentry
+    \entry{Burema2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=859e1cbf58af173a7fa8b325d3645159}{%
+           family={Burema},
+           familyi={B\bibinitperiod},
+           given={Arjan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Groningen}%
+      }
+      \strng{namehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{fullhash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{fullhashraw}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{bibnamehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authorbibnamehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authornamehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authorfullhash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authorfullhashraw}{859e1cbf58af173a7fa8b325d3645159}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Angle-dependent magnetoresistance in epitaxially strain-engineered thin films}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.33612/DISS.190723184
+      \endverb
+      \verb{urlraw}
+      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
+      \endverb
+      \verb{url}
+      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
+      \endverb
+    \endentry
     \entry{Buschow2003}{book}{}{}
       \name{author}{1}{}{%
         {{hash=5c4718bc5cca772fcce6968f9a9a34f7}{%
@@ -249,8 +285,8 @@
       \strng{authornamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
       \strng{authorfullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
       \strng{authorfullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{1st}
@@ -458,8 +494,8 @@
       \strng{authornamehash}{5161a3fcd7eadee2a099235c0d1dd617}
       \strng{authorfullhash}{14219fe8e6fe0cc7cb7faf7f634d09c4}
       \strng{authorfullhashraw}{14219fe8e6fe0cc7cb7faf7f634d09c4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2374-068X}
@@ -524,8 +560,8 @@
       \strng{authornamehash}{d5cf5d5ab18029ab522569caa2a66058}
       \strng{authorfullhash}{f2c6260d686f6c70025528807f99153c}
       \strng{authorfullhashraw}{f2c6260d686f6c70025528807f99153c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0925-8388}
@@ -790,8 +826,8 @@
       \strng{authornamehash}{f60683403a92a32e002be743cb4a5e4b}
       \strng{authorfullhash}{f60683403a92a32e002be743cb4a5e4b}
       \strng{authorfullhashraw}{f60683403a92a32e002be743cb4a5e4b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Solid State Physics}
@@ -928,8 +964,8 @@
       \strng{authornamehash}{50236057fd063b93dd014928a83cef85}
       \strng{authorfullhash}{50236057fd063b93dd014928a83cef85}
       \strng{authorfullhashraw}{50236057fd063b93dd014928a83cef85}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
@@ -1034,8 +1070,8 @@
       \strng{authornamehash}{19346454842bb742895e536fb596da21}
       \strng{authorfullhash}{19346454842bb742895e536fb596da21}
       \strng{authorfullhashraw}{19346454842bb742895e536fb596da21}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{ImageJ}
@@ -1057,8 +1093,8 @@
       \strng{authornamehash}{580182f03c7a1baecaf2ee51f170aba5}
       \strng{authorfullhash}{580182f03c7a1baecaf2ee51f170aba5}
       \strng{authorfullhashraw}{580182f03c7a1baecaf2ee51f170aba5}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{9}
@@ -1210,8 +1246,8 @@
       \strng{authornamehash}{2bb11aea85a191767b44c3fae7aa5bce}
       \strng{authorfullhash}{2bb11aea85a191767b44c3fae7aa5bce}
       \strng{authorfullhashraw}{2bb11aea85a191767b44c3fae7aa5bce}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0084-6600}
@@ -1248,8 +1284,8 @@
       \strng{authornamehash}{58d26a3a10e9dac7fdcf057c35ab7f33}
       \strng{authorfullhash}{58d26a3a10e9dac7fdcf057c35ab7f33}
       \strng{authorfullhashraw}{58d26a3a10e9dac7fdcf057c35ab7f33}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Progress In Electromagnetics Research Symposium Proceedings}

@@ -55,15 +55,32 @@ La región 1 coincide con las temperaturas a la que el agua se evapora y se comb
 \subsection{Análisis Estructural, Morfológico y de Composición} \label{sec:analisisestruc}
 
 \subsubsection{Microscopía Electrónica de Barrido}
-Se estudió la morfología de las partículas sintetizadas a través de esta técnica, dando como resultado imágenes como las que se muestran en la figura \ref{fig:resSEMsonic}.
-
-En general, se observa que estas partículas presentan una estructura porosa, la cual se rompe después de ser sometida a un proceso de sonicación, siendo esto evidente al comparar las figuras \ref{fig:resSEMsonic} (a) y \ref{fig:resSEMsonic} (b), las cuales muestras a las ortoferritas de \neod{} calcinada a 600\gradoC{} y \sama{} calcinada a 700\gradoC{} respectivamente, con las figuras \ref{fig:resSEMsonic} (c) y\ref{fig:resSEMsonic}(d), en donde se muestran éstas mismas muestras después de ser sonicadas por 2 horas a 292W, además de las figuras \ref{fig:resSEMsonic} (e) y \ref{fig:resSEMsonic} (f), donde éstas muestras fueron sonicadas por 4 horas a la misma potencia.
+Se estudió la morfología de las partículas sintetizadas a través de esta técnica, dando como resultado imágenes como las que se muestran en las figuras \ref{fig:resSEMsinsonicar}, \ref{fig:resSEMsonicada2} y \ref{fig:resSEMsonicada4}.
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.7\textwidth]{fig/ressem.png}
-    \caption{Imágenes obtenidas a través de SEM. Amplificación x500.}
-    \label{fig:resSEMsonic}
+    \includegraphics[width=0.45\textwidth]{fig/semneod.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/semsama.png}
+    \caption{Imágenes obtenidas a través de SEM para las muestras sin sonicar. Amplificación $\times500$}
+    \label{fig:resSEMsinsonicar}
 \end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/semneod2h.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/semsama2h.png}
+    \caption{Imágenes obtenidas a través de SEM para las muestras sonicadas 2 horas. Amplificación $\times500$}
+    \label{fig:resSEMsonicada2}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/semneod4h.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/semsama4h.png}
+    \caption{Imágenes obtenidas a través de SEM para las muestras sonicadas 4 horas. Amplificación $\times500$}
+    \label{fig:resSEMsonicada4}
+\end{figure}
+Se observa que estas partículas presentan una estructura porosa, la cual se rompe después de ser sometida a un proceso de sonicación, siendo esto evidente al comparar las imágenes de la figura \ref{fig:resSEMsinsonicar}, las cuales muestran a las ortoferritas de \neod{} calcinada a 600\gradoC{} y \sama{} calcinada a 700\gradoC{} respectivamente, con las que se encuentran en la figura \ref{fig:resSEMsonicada2}, en donde se muestran éstas mismas muestras después de ser sonicadas por 2 horas a 292W, además de las de la figura figura \ref{fig:resSEMsonicada4}, donde éstas muestras fueron sonicadas por 4 horas a la misma potencia.
 Como ya se describió en la sección \ref{sec:analisisestadistico}, los tamaños de partícula fueron obtenidos haciendo uso de \textit{ImageJ}.
 
 El primer método descrito en esa sección dió como resultado los siguientes diámetros de partícula promedio:
@@ -197,17 +214,64 @@ En ninguna de las mediciones se encontraron contaminantes externos, a excepción
             \label{tab:EDSSm}
 \end{table}
 \subsubsection{Difracción de Rayos X} \label{sec:analisisDRX}
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.7\textwidth]{fig/drxtemp.png}
-    \caption{Gráfica Rietveld.}
-    \label{fig:drxrietveld}
-\end{figure}
 
 \subsection{Análisis Óptico, Magnético y Eléctrico} \label{sec:analisisoptmagelec}
 \subsubsection{Espectroscopía UV-Vis}
-
-\subsubsection{Magnetometría VSM}
+Mediante la metodología descrita en la sección \ref{sec:uvvismetod} se obtuvieron las siguientes gráficas de absorbancia contra longitud de onda:
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/absorbancianeod.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/absorbanciasama.png}
+    \caption{Gráficas de la absorbancia contra la longitud de onda para ambas ferritas.}
+    \label{fig:absorbres}
+\end{figure}
+Mediante los resultados anteriores se llegó a los siguientes \textit{band gaps} para cada muestra:
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c||c|c|}
+        \hline
+        Muestra & Temperatura de & \textit{Band Gap} \\
+        & calcinación & \\
+        \hline\hline
+        \multirow{6}{*}{\rotatebox[origin=c]{90}{\neod{}}} & 600\gradoC{} & 1.84$\pm$0.003 \\
+        \cline{2-3}
+        & 600\gradoC{}, sonicada 2 h & 2.01$\pm$0.001 \\
+        \cline{2-3}
+        & 600\gradoC{}, sonicada 4 h & 2.13$\pm$0.009 \\
+        \cline{2-3}
+        & 700\gradoC{} & 2.05$\pm$0.004 \\
+        \cline{2-3}
+        & 800\gradoC{} & 2.08$\pm$0.005 \\
+        \cline{2-3}
+        & 900\gradoC{} & 2.29$\pm$0.004 \\
+        \hline\hline
+        \multirow{6}{*}{\rotatebox[origin=c]{90}{\sama{}}} & 700\gradoC{} & 2.03$\pm$0.002 \\
+        \cline{2-3}
+        & 700\gradoC{}, sonicada 2 h & 2.14$\pm$0.015 \\
+        \cline{2-3}
+        & 700\gradoC{}, sonicada 4 h & 2.22$\pm$0.002 \\
+        \cline{2-3}
+        & 800\gradoC{} & 2.20$\pm$0.001 \\
+        \cline{2-3}
+        & 900\gradoC{} & 2.21$\pm$0.001 \\
+        \cline{2-3}
+        & 1000\gradoC{} & 2.30$\pm$0.001 \\
+        \hline
+    \end{tabular} 
+    \caption{\textit{Band gaps} de las distintas muestras según su temperatura de calcinación.}
+    \label{tabla:bandgaps}
+\end{table}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/BGNdFeO3.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/BGSmFeO3.png}
+    \caption{Gráfica del \textit{band gap} de cada muestra según su temperatura de calcinación.}
+    \label{fig:bandgapvT}
+\end{figure}
+En ambas ortoferritas se observa que el \textit{band gap} aumenta con la temperatura y el tiempo de sonicación, teniendo en ambos casos un mínimo en la muestra calcinada a menor temperatura y sin sonicar.
+\subsubsection{Magnetometría SQUID}
 
 \paragraph{M vs T}
 
@@ -215,4 +279,57 @@ En ninguna de las mediciones se encontraron contaminantes externos, a excepción
 
 \paragraph{M v H}
 \subsubsection{Curvas P-E}
+Se obtuvieron las siguientes gráficas:
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/PENdFeO3100V.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/PENdFeO3-S100V.png}
+    \caption{Curvas $P$ contra $E$ con $V_\text{max}=100$ V de las muestras de \neod{}.}
+    \label{fig:nd100v}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/PENdFeO32000V.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/PENdFeO3-S2000V.png}
+    \caption{Curvas $P$ contra $E$ con $V_\text{max}=2000$ V de las muestras de \neod{}.}
+    \label{fig:nd2000v}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/PESmFeO3100V.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/PESmFeO3-S100V.png}
+    \caption{Curvas $P$ contra $E$ con $V_\text{max}=100$ V de las muestras de \sama{}.}
+    \label{fig:sm100v}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/PESmFeO32000V.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/PESmFeO3-S2000V.png}
+    \caption{Curvas $P$ contra $E$ con $V_\text{max}=2000$ V de las muestras de \sama{}.}
+    \label{fig:sm2000v}
+\end{figure}
+Se puede observar un comportamiento de histéresis sólo en las mediciones realizadas a $V_\text{max}=100$ V, el cual se pierde al aumentar el $V_\text{max}$. Se reportan los valores obtenidos para $P_r$, $P_s$ y $E_c$ para estas mediciones.
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c||c|c|c|}
+        \hline
+        Muestra & $P_s$ ($\mu$C/cm$^2$) & $P_r$ ($\mu$C/cm$^2$) & $E_c$ (kV/cm) \\
+        \hline\hline
+        \neod{} sin sonicar & 0.0067 $\pm$ 0.00036 & $0.0054 \pm 0.00012$ & $0.7448 \pm 0.01392$ \\
+        \hline
+        \neod{} sonicada & 0.0062 $\pm$ 0.00018 & $0.0044 \pm 0.00017$ & $0.6651 \pm 0.08038$ \\
+        \hline
+        \sama{} sin sonicar & 0.0072 $\pm$ 0.00032 & $0.0022 \pm 0.00062$ & $0.3794 \pm 0.04913$ \\
+        \hline
+        \sama{} sonicada & 0.0054 $\pm$ 0.00018 & $0.0037 \pm 0.00011$ & $0.7354 \pm 0.05652$ \\
+        \hline
+        \end{tabular} 
+    \label{tabla:respolar}
+\end{table}
+Se observan valores pequeños en los valores de $P_s$, $P_r$ y $E_c$ para todas las muestras. La sonicación no tuvo un efecto notorio en las propiedades eléctricas.
 \end{document}

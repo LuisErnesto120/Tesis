@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  30 MAY 2025 02:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.27)  5 JUN 2025 02:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1393,6 +1393,11 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen270
 \titlewidthlast=\dimen271
 \titlewidthfirst=\dimen272
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup12
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 ) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
@@ -1446,7 +1451,8 @@ File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
- (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count498
 \scratchdimen=\dimen281
@@ -1470,7 +1476,7 @@ Package hyperref Info: Link coloring OFF on input line 2.
 \@outlinefile=\write5
 \openout5 = `"5. Resultados.out"'.
 
-\symgns@font=\mathgroup12
+\symgns@font=\mathgroup13
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 2.
 Package gensymb Info: Math companion symbols declared on input line 2.
@@ -1549,11 +1555,11 @@ Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 Cap\'{\i }tulo 1.
-<fig/diagresultados.png, id=28, 832.61063pt x 567.62062pt>
+<fig/diagresultados.png, id=28, 4979.85469pt x 3763.3097pt>
 File: fig/diagresultados.png Graphic file (type png)
 <use fig/diagresultados.png>
 Package pdftex.def Info: fig/diagresultados.png  used on input line 7.
-(pdftex.def)             Requested size: 330.42041pt x 225.26001pt.
+(pdftex.def)             Requested size: 330.42041pt x 249.67697pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
 (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1565,7 +1571,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 14.
  (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 14.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd) [1
 
 
 {C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc} <./fig/diagresultados.png>]
@@ -1590,63 +1598,160 @@ File: fig/TGA-derSmFeO3.png Graphic file (type png)
 Package pdftex.def Info: fig/TGA-derSmFeO3.png  used on input line 34.
 (pdftex.def)             Requested size: 188.8096pt x 144.51567pt.
 
-Underfull \vbox (badness 4543) has occurred while \output is active []
+Underfull \vbox (badness 1776) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 54.
 LaTeX Info: Redefining \% on input line 54.
  [2 <./fig/TGA-NdFeO3.png (PNG copy)> <./fig/TGA-SmFeO3.png (PNG copy)> <./fig/TGA-derNdFeO3.png> <./fig/TGA-derSmFeO3.png>]
-<fig/ressem.png, id=63, 1957.3125pt x 2333.71875pt>
-File: fig/ressem.png Graphic file (type png)
-<use fig/ressem.png>
-Package pdftex.def Info: fig/ressem.png  used on input line 63.
-(pdftex.def)             Requested size: 330.42041pt x 393.94939pt.
+<fig/semneod.png, id=59, 341.34908pt x 273.07927pt>
+File: fig/semneod.png Graphic file (type png)
+<use fig/semneod.png>
+Package pdftex.def Info: fig/semneod.png  used on input line 61.
+(pdftex.def)             Requested size: 212.41261pt x 169.92825pt.
+<fig/semsama.png, id=60, 341.34908pt x 273.07927pt>
+File: fig/semsama.png Graphic file (type png)
+<use fig/semsama.png>
+Package pdftex.def Info: fig/semsama.png  used on input line 63.
+(pdftex.def)             Requested size: 212.41261pt x 169.92825pt.
+<fig/semneod2h.png, id=61, 341.34908pt x 273.07927pt>
+File: fig/semneod2h.png Graphic file (type png)
+<use fig/semneod2h.png>
+Package pdftex.def Info: fig/semneod2h.png  used on input line 69.
+(pdftex.def)             Requested size: 212.41261pt x 169.92825pt.
+<fig/semsama2h.png, id=62, 341.34908pt x 273.07927pt>
+File: fig/semsama2h.png Graphic file (type png)
+<use fig/semsama2h.png>
+Package pdftex.def Info: fig/semsama2h.png  used on input line 71.
+(pdftex.def)             Requested size: 212.41261pt x 169.92825pt.
+<fig/semneod4h.png, id=63, 341.34908pt x 273.07927pt>
+File: fig/semneod4h.png Graphic file (type png)
+<use fig/semneod4h.png>
+Package pdftex.def Info: fig/semneod4h.png  used on input line 77.
+(pdftex.def)             Requested size: 212.41261pt x 169.92825pt.
+<fig/semsama4h.png, id=64, 341.34908pt x 273.07927pt>
+File: fig/semsama4h.png Graphic file (type png)
+<use fig/semsama4h.png>
+Package pdftex.def Info: fig/semsama4h.png  used on input line 79.
+(pdftex.def)             Requested size: 212.41261pt x 169.92825pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
- [3]
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
+ [3 <./fig/semneod.png> <./fig/semsama.png>]
 
-LaTeX Warning: Reference `sec:analisisestadistico' on page 4 undefined on input line 67.
+LaTeX Warning: Reference `sec:analisisestadistico' on page 4 undefined on input line 84.
 
-<fig/restamañoprom.png, id=71, 1549.4688pt x 592.97536pt>
+<fig/restamañoprom.png, id=79, 1549.4688pt x 592.97536pt>
 File: fig/restamañoprom.png Graphic file (type png)
 <use fig/restamañoprom.png>
-Package pdftex.def Info: fig/restamañoprom.png  used on input line 109.
+Package pdftex.def Info: fig/restamañoprom.png  used on input line 126.
 (pdftex.def)             Requested size: 424.82523pt x 162.5756pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
- [4 <./fig/ressem.png>]
+LaTeX Info: Redefining \. on input line 129.
+LaTeX Info: Redefining \% on input line 129.
+ [4 <./fig/semneod2h.png> <./fig/semsama2h.png> <./fig/semneod4h.png> <./fig/semsama4h.png>]
 
-LaTeX Warning: Reference `sec:analisisestadistico' on page 5 undefined on input line 114.
+LaTeX Warning: Reference `sec:analisisestadistico' on page 5 undefined on input line 131.
 
-<fig/resporcentaje.png, id=77, 1649.6832pt x 576.2328pt>
+<fig/resporcentaje.png, id=85, 1649.6832pt x 576.2328pt>
 File: fig/resporcentaje.png Graphic file (type png)
 <use fig/resporcentaje.png>
-Package pdftex.def Info: fig/resporcentaje.png  used on input line 154.
+Package pdftex.def Info: fig/resporcentaje.png  used on input line 171.
 (pdftex.def)             Requested size: 424.82523pt x 148.3926pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 157.
-LaTeX Info: Redefining \% on input line 157.
+LaTeX Info: Redefining \. on input line 174.
+LaTeX Info: Redefining \% on input line 174.
  [5 <./fig/restamañoprom.png>]
-Overfull \hbox (43.10606pt too wide) in paragraph at lines 164--175
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
+ [6{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} <./fig/resporcentaje.png>]
+Overfull \hbox (43.10606pt too wide) in paragraph at lines 186--197
 [][] 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Reference `sec:uvvismetod' on page 7 undefined on input line 220.
 
-LaTeX Info: Redefining \. on input line 193.
-LaTeX Info: Redefining \% on input line 193.
- [6{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} <./fig/resporcentaje.png>]
-LaTeX Info: Redefining \. on input line 209.
-LaTeX Info: Redefining \% on input line 209.
- [7] (C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.aux
+<fig/absorbancianeod.png, id=111, 770.88pt x 578.16pt>
+File: fig/absorbancianeod.png Graphic file (type png)
+<use fig/absorbancianeod.png>
+Package pdftex.def Info: fig/absorbancianeod.png  used on input line 223.
+(pdftex.def)             Requested size: 212.41261pt x 159.30766pt.
+<fig/absorbanciasama.png, id=112, 774.7344pt x 592.97536pt>
+File: fig/absorbanciasama.png Graphic file (type png)
+<use fig/absorbanciasama.png>
+Package pdftex.def Info: fig/absorbanciasama.png  used on input line 225.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+<fig/BGNdFeO3.png, id=113, 824.8416pt x 576.2328pt>
+File: fig/BGNdFeO3.png Graphic file (type png)
+<use fig/BGNdFeO3.png>
+Package pdftex.def Info: fig/BGNdFeO3.png  used on input line 267.
+(pdftex.def)             Requested size: 212.41261pt x 148.3926pt.
+<fig/BGSmFeO3.png, id=114, 774.7344pt x 592.97536pt>
+File: fig/BGSmFeO3.png Graphic file (type png)
+<use fig/BGSmFeO3.png>
+Package pdftex.def Info: fig/BGSmFeO3.png  used on input line 269.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+LaTeX Info: Redefining \. on input line 272.
+LaTeX Info: Redefining \% on input line 272.
+[7 <./fig/absorbancianeod.png (PNG copy)> <./fig/absorbanciasama.png (PNG copy)>]
+<fig/PENdFeO3100V.png, id=124, 774.7344pt x 592.97536pt>
+File: fig/PENdFeO3100V.png Graphic file (type png)
+<use fig/PENdFeO3100V.png>
+Package pdftex.def Info: fig/PENdFeO3100V.png  used on input line 285.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+<fig/PENdFeO3-S100V.png, id=125, 774.7344pt x 592.97536pt>
+File: fig/PENdFeO3-S100V.png Graphic file (type png)
+<use fig/PENdFeO3-S100V.png>
+Package pdftex.def Info: fig/PENdFeO3-S100V.png  used on input line 287.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+<fig/PENdFeO32000V.png, id=126, 774.7344pt x 592.97536pt>
+File: fig/PENdFeO32000V.png Graphic file (type png)
+<use fig/PENdFeO32000V.png>
+Package pdftex.def Info: fig/PENdFeO32000V.png  used on input line 293.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+<fig/PENdFeO3-S2000V.png, id=127, 774.7344pt x 592.97536pt>
+File: fig/PENdFeO3-S2000V.png Graphic file (type png)
+<use fig/PENdFeO3-S2000V.png>
+Package pdftex.def Info: fig/PENdFeO3-S2000V.png  used on input line 295.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+LaTeX Info: Redefining \. on input line 298.
+LaTeX Info: Redefining \% on input line 298.
+ [8 <./fig/BGNdFeO3.png (PNG copy)> <./fig/BGSmFeO3.png (PNG copy)>]
+<fig/PESmFeO3100V.png, id=141, 774.7344pt x 592.97536pt>
+File: fig/PESmFeO3100V.png Graphic file (type png)
+<use fig/PESmFeO3100V.png>
+Package pdftex.def Info: fig/PESmFeO3100V.png  used on input line 301.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+<fig/PESmFeO3-S100V.png, id=142, 774.7344pt x 592.97536pt>
+File: fig/PESmFeO3-S100V.png Graphic file (type png)
+<use fig/PESmFeO3-S100V.png>
+Package pdftex.def Info: fig/PESmFeO3-S100V.png  used on input line 303.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+<fig/PESmFeO32000V.png, id=143, 774.7344pt x 592.97536pt>
+File: fig/PESmFeO32000V.png Graphic file (type png)
+<use fig/PESmFeO32000V.png>
+Package pdftex.def Info: fig/PESmFeO32000V.png  used on input line 309.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+<fig/PESmFeO3-S2000V.png, id=144, 774.7344pt x 592.97536pt>
+File: fig/PESmFeO3-S2000V.png Graphic file (type png)
+<use fig/PESmFeO3-S2000V.png>
+Package pdftex.def Info: fig/PESmFeO3-S2000V.png  used on input line 311.
+(pdftex.def)             Requested size: 212.41261pt x 162.5756pt.
+
+Underfull \vbox (badness 6575) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 315.
+LaTeX Info: Redefining \% on input line 315.
+ [9 <./fig/PENdFeO3100V.png (PNG copy)> <./fig/PENdFeO3-S100V.png (PNG copy)> <./fig/PENdFeO32000V.png (PNG copy)> <./fig/PENdFeO3-S2000V.png (PNG copy)> <./fig/PESmFeO3100V.png (PNG copy)> <./fig/PESmFeO3-S100V.png (PNG copy)>]
+LaTeX Info: Redefining \. on input line 335.
+LaTeX Info: Redefining \% on input line 335.
+ [10 <./fig/PESmFeO32000V.png (PNG copy)> <./fig/PESmFeO3-S2000V.png (PNG copy)>] (C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.aux
 LaTeX Info: Redefining \sptext on input line 11.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
@@ -1666,17 +1771,17 @@ Package logreq Info: Writing requests to '"5. Resultados".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35582 strings out of 474312
- 634579 string characters out of 5740701
- 1949907 words of memory out of 5000000
- 57460 multiletter control sequences out of 15000+600000
- 582805 words of font info for 101 fonts, out of 8000000 for 9000
+ 35975 strings out of 474312
+ 641307 string characters out of 5740701
+ 1952907 words of memory out of 5000000
+ 57829 multiletter control sequences out of 15000+600000
+ 584310 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,22n,134p,2444b,1841s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn1200.pfb>
-Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.pdf" (7 pages, 8480567 bytes).
+ <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grxn1200.pfb>
+Output written on "C:\Users\PC\Desktop\Git\Tesis\TeX\5. Resultados\5. Resultados.pdf" (10 pages, 18796633 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 523 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 174 words of extra memory for PDF output out of 10000 (max. 10000000)
 

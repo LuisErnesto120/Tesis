@@ -1,5 +1,23 @@
 \documentclass[../main.tex]{subfiles}
 \begin{document}
+\chapter{Resumen}
+En este trabajo se estudian las propiedades morfológicas, estructurales, ópticas, magnéticas y eléctricas del \neod{} y \sama{}, sintetizadas mediante el método sol-gel, con énfasis en su comportamiento magnético y posible multiferroicidad a temperatura ambiente. La síntesis se realizó variando la temperatura de calcinación (600-900\gradoC{} para \neod{} y 700-1000\gradoC{} para \sama) y se realizó un procesado posterior de las muestras mediante la sonicación (0, 2 y 4 h, 292 W).
+
+\section{Caracterización térmica, estructural y morfológica}
+El análisis termogravimétrico (TGA) reveló que la cristalización ocurre en el rango de 300-500\gradoC{} para ambas ortoferritas.
+
+Las imágenes obtenidas mediante espectroscopía electrónica de barrido (SEM) mostraron partículas porosas que se rompen fácilmente, cuyo tamaño promedio disminuye al aplicar la sonicación ($1.49\pm0.028$ $\mu$m $\shortrightarrow$ $0.98\pm0.023$ $\mu$m para el \neod{} y $2.01\pm0.051$ $\mu$m $\shortrightarrow$ $1.66\pm0.045$ $\mu$m para el \sama{}) y al reducir la temperatura de calcinación, debido a la ruptura de las partículas más grandes, lo cual aumentó significativamente el porcentaje de partículas de diámetro $\geq1$ $\mu$m ($67.29\pm4.0796$\% $\shortrightarrow$ $87.1\pm1.29258$\% para el \neod{} y $55.18\pm2.1034$\% $\shortrightarrow$ $92.62\pm0.91496$\% para el \sama{}).
+
+La espectroscopía de dispersión de energía confirmó la ausencia de contaminantes significativos.
+
+Los patrones obtenidos por difracción de rayos X (DRX) refinados por Rietveld indicaron purezas superiores al 95\% (\neod{} a $\geq$600\gradoC) y 97\% (\sama{} a $\geq$700\gradoC), con trazas de óxidos e hidróxidos.
+
+\section{Caracterización óptica, magnética y eléctrica}
+A través de la espectroscopía UV-Vis se observa que el \textit{band gap} disminuye con la temperatura de calcinación (2.29$\pm$0.004 $\shortrightarrow$ 1.84$\pm$0.003 para el \neod{} y 2.30$\pm$0.001 $\shortrightarrow$ 2.03$\pm$0.002 para el \sama{}), este vuelve a aumentar con el tiempo de sonicación (2.13$\pm$0.009 para el \neod{} y 2.22$\pm$0.002 para el \sama{}).
+
+Las mediciones de $M$ contra $H$ muestran. En cuanto a las curvas ZFC y FC, el análisis de $1/\chi$ vs. $T$ reveló .
+
+Las curvas $P$ vs. $E$ mostraron un comportamiento de histéresis débil a bajos voltajes, con polarizaciones de saturación y remanentes muy bajas independientes de la sonicación ($P_s\approx 0.006$ $\mu$C/cm$^2$ para el \neod{} y $P_s\approx 0.007$ $\mu$C/cm$^2$ para el \sama{}). Este comportamiento desapareció al aumentar el voltaje.
 \chapter{Estado del Arte}
 \section{Ortoferritas de Tierras Raras}
 Los óxidos de tipo perovskita (\ce{ABO3} con A una tierra rara o metal alcalinotérreo y B un metal de transición) son estructuras estudiadas muy comúnmente en el campo de la ciencia de materiales debido a sus propiedades electromagnéticas, ópticas y catalíticas, además de su estabilidad \cite{Wang2019}.
@@ -162,19 +180,6 @@ Esta interacción tiende a alinear los espines de forma perpendicular, sin embar
         \label{eq:tempdeneel}
     \end{equation}
     Donde $T_N$ es la temperatura de Néel. Esto representa un comportamiento paramagnético cuando $T>T_N$, cuando $T$ es menor, $\chi$ se vuelve menor debido al alineamiento antiparalelo de los espines, por lo que se tiene un máximo en $T=T_N$. Este comportamiento se muestra en la curva amarilla de la figura \ref{fig:chitemp} \cite{coey2010magnetism}.
-
-    Se pueden distinguir tres tipos de material antiferromagnético (AFM), según su ordenamiento espacial.
-    \begin{figure}[H]
-        \centering
-        \includegraphics[width=0.8\textwidth]{fig/tiposAFM.png}
-        \caption{Tipos de material antiferromagnético. Adaptado de \cite{Burema2021}.}
-        \label{fig:tiposAFM}
-    \end{figure}
-    \begin{itemize}
-        \item \textbf{AFM tipo A:} (figura \ref{fig:tiposAFM} a) los espines se alinean en planos paralelos dentro de una misma capa pero alternan su orientación entre capas adyacentes.
-        \item \textbf{AFM tipo C:} (figura \ref{fig:tiposAFM} b) los espines se alinean a lo largo de una línea, alternando su orientación entre líneas paralelas.
-        \item \textbf{AFM tipo G:} (figura \ref{fig:tiposAFM} c) los espines alternan su orientación respecto a sus primeros vecinos.
-    \end{itemize}
     \item \textbf{Ferrimagnéticos ($\mathcal{J}<0$):} De manera similar a los materiales antiferromagnéticos, presentan dos subredes producto de la alineación antiparalela debido al signo de $\mathcal{J}$, tienen un comportamiento paramagnético sobre la temperatura de Néel, la cual se define como la que se muestra en la ecuación \ref{eq:tempdeneel}, sin embargo, las subredes no son de la misma magnitud, sino que una de ellas es mayor a la otra, provocando una magnetización neta distinta de 0 en los dominios cuando $T<T_N$, de forma similar a los materiales ferromagnéticos. Este comportamiento se observa en la curva roja de la figura \ref{fig:chitemp} \cite{coey2010magnetism}.
 \end{itemize}
 \subsubsection{Curvas \texorpdfstring{$M$}{M} contra \texorpdfstring{$H$}{H}}
@@ -307,10 +312,30 @@ Donde $\varepsilon_r$ es la permitividad relativa del sólido. Asumiendo una mue
 Donde $\alpha_H^V$ se conoce como coeficiente  magneto-eléctrico de voltaje inducido magnéticamente.
 
 Este acoplamiento es lo que hace a estos materiales de interés particular, ya que permite un gran número de aplicaciones, como detectores de campo magnético de alta precisión (campos del orden de $\sim10^{-12}$ T) a temperatura ambiente, aparatos de resonancia ferromagnética (FMR) sintonizables eléctricamente, además de aplicaciones en el manejo y procesamiento de señales, además de el almacenamiento de datos, entre otras \cite{Vopson2015}.
-\subsection{Propiedades de las Ortoferritas de Tierras Raras}
-Las ortoferritas \ce{RFeO3} presentan un comportamiento antiferromagnético a temperatura ambiente, con un ferromagnetismo débil inducido por la interacción de Dzyaloshinskii-Moriya \cite{KamalWarshi2018}.
+\subsection{Propiedades de las ortoferritas de tierras raras}
+\subsubsection{Propiedades magnéticas}
+Las ortoferritas \ce{RFeO3} presentan un comportamiento antiferromagnético (AFM) a temperatura ambiente, con un ferromagnetismo débil inducido por la interacción de Dzyaloshinskii-Moriya.
 
+Se pueden distinguir tres tipos de orden antiferromagnético en las ortoferritas de tierras raras \cite{KamalWarshi2018}:
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{fig/tiposAFM.png}
+    \caption{Tipos de material antiferromagnético. Adaptado de \cite{Burema2021}.}
+    \label{fig:tiposAFM}
+\end{figure}
+\begin{itemize}
+    \item \textbf{AFM tipo A:} (figura \ref{fig:tiposAFM} a) los espines se alinean en planos paralelos dentro de una misma capa pero alternan su orientación entre capas adyacentes.
+    \item \textbf{AFM tipo C:} (figura \ref{fig:tiposAFM} b) los espines se alinean a lo largo de una línea, alternando su orientación entre líneas paralelas.
+    \item \textbf{AFM tipo G:} (figura \ref{fig:tiposAFM} c) los espines alternan su orientación respecto a sus primeros vecinos.
+\end{itemize}
+Esto tiene como consecuencia que estos materiales presenten transiciones de fase magnéticas al variar la temperatura, producto de un reacomodo de sus espines.
+
+\subsubsection{Propiedades eléctricas}
 Aunque la simetría de la estructura cristalina $Pbnm$ no permite la ferroelectricidad, se ha observado que el calentamiento de estas ferritas induce una transición de fase hacia una estructura $Pna2_1$, la cual corresponde a una celda primitiva con un plano de reflexión perpendicular al eje $a$, un plano de deslizamiento perpendicular a $b$ y un eje helicoidal a lo largo de $c$, las cuales son simetrías compatibles con la ferroelectricidad \cite{Zhang2016}, \cite{Rajaitha2022}.
 
 La coexistencia de orden magnético y eléctrico en estas fases las posiciona como candidatas ideales para aplicaciones multiferroicas, como las que se detallan en la sección \ref{sec:multif}.
+\chapter{Objetivo}
+Sintetizar mediante el método sol-gel y caracterizar las propiedades eléctricas, magnéticas y ópticas de las ortoferritas \ce{RFeO3}, \ce{R}=\ce{Nd}, \ce{Sm} y relacionarlas con sus propiedades morfológicas y estructurales, tomando como parámetro el tiempo de sonicación.
+
+Investigar las posibles propiedades multiferroicas de estos materiales, analizando las curvas $P$ contra $E$ y $M$ contra $H$, además de los cambios en la estructura magnética a bajas temperaturas.
 \end{document}

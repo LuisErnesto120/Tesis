@@ -230,42 +230,6 @@
       \field{title}{Magnetism and magnetic materials}
       \field{year}{2010}
     \endentry
-    \entry{Burema2021}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=859e1cbf58af173a7fa8b325d3645159}{%
-           family={Burema},
-           familyi={B\bibinitperiod},
-           given={Arjan},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {University of Groningen}%
-      }
-      \strng{namehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{fullhash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{fullhashraw}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{bibnamehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authorbibnamehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authornamehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authorfullhash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authorfullhashraw}{859e1cbf58af173a7fa8b325d3645159}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{11}
-      \field{title}{Angle-dependent magnetoresistance in epitaxially strain-engineered thin films}
-      \field{year}{2021}
-      \verb{doi}
-      \verb 10.33612/DISS.190723184
-      \endverb
-      \verb{urlraw}
-      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
-      \endverb
-      \verb{url}
-      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
-      \endverb
-    \endentry
     \entry{Buschow2003}{book}{}{}
       \name{author}{1}{}{%
         {{hash=5c4718bc5cca772fcce6968f9a9a34f7}{%
@@ -285,8 +249,8 @@
       \strng{authornamehash}{5c4718bc5cca772fcce6968f9a9a34f7}
       \strng{authorfullhash}{5c4718bc5cca772fcce6968f9a9a34f7}
       \strng{authorfullhashraw}{5c4718bc5cca772fcce6968f9a9a34f7}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{1st}
@@ -494,8 +458,8 @@
       \strng{authornamehash}{5161a3fcd7eadee2a099235c0d1dd617}
       \strng{authorfullhash}{14219fe8e6fe0cc7cb7faf7f634d09c4}
       \strng{authorfullhashraw}{14219fe8e6fe0cc7cb7faf7f634d09c4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2374-068X}
@@ -509,6 +473,42 @@
       \range{pages}{15}
       \verb{doi}
       \verb 10.1080/2374068X.2018.1483680
+      \endverb
+    \endentry
+    \entry{Burema2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=859e1cbf58af173a7fa8b325d3645159}{%
+           family={Burema},
+           familyi={B\bibinitperiod},
+           given={Arjan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Groningen}%
+      }
+      \strng{namehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{fullhash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{fullhashraw}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{bibnamehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authorbibnamehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authornamehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authorfullhash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authorfullhashraw}{859e1cbf58af173a7fa8b325d3645159}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Angle-dependent magnetoresistance in epitaxially strain-engineered thin films}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.33612/DISS.190723184
+      \endverb
+      \verb{urlraw}
+      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
+      \endverb
+      \verb{url}
+      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
       \endverb
     \endentry
     \entry{Zhang2016}{article}{}{}

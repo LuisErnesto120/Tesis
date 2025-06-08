@@ -50,13 +50,15 @@
 \contentsline {subsubsection}{\numberline {5.2.2.1}Microscopía Electrónica de Barrido}{35}{subsubsection.5.2.2.1}%
 \contentsline {subsubsection}{\numberline {5.2.2.2}Espectroscopía de Dispersión de Energía}{38}{subsubsection.5.2.2.2}%
 \contentsline {subsubsection}{\numberline {5.2.2.3}Difracción de Rayos X}{39}{subsubsection.5.2.2.3}%
-\contentsline {subsection}{\numberline {5.2.3}Análisis Óptico, Magnético y Eléctrico}{39}{subsection.5.2.3}%
-\contentsline {subsubsection}{\numberline {5.2.3.1}Espectroscopía UV-Vis}{39}{subsubsection.5.2.3.1}%
-\contentsline {subsubsection}{\numberline {5.2.3.2}Magnetometría SQUID}{40}{subsubsection.5.2.3.2}%
-\contentsline {paragraph}{\numberline {5.2.3.2.1}M vs T}{40}{paragraph.5.2.3.2.1}%
-\contentsline {paragraph}{\numberline {5.2.3.2.2}\textchi {} vs T}{40}{paragraph.5.2.3.2.2}%
-\contentsline {paragraph}{\numberline {5.2.3.2.3}M v H}{40}{paragraph.5.2.3.2.3}%
-\contentsline {subsubsection}{\numberline {5.2.3.3}Curvas P-E}{40}{subsubsection.5.2.3.3}%
-\contentsline {chapter}{\numberline {6}Conclusiones}{43}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Perspectivas a futuro}{44}{chapter.7}%
-\contentsline {chapter}{Bibliografía}{45}{chapter*.50}%
+\contentsline {paragraph}{\numberline {5.2.2.3.1}Refinamiento Rietveld}{39}{paragraph.5.2.2.3.1}%
+\contentsline {subsection}{\numberline {5.2.3}Análisis Óptico, Magnético y Eléctrico}{40}{subsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.3.1}Espectroscopía UV-Vis}{40}{subsubsection.5.2.3.1}%
+\contentsline {subsubsection}{\numberline {5.2.3.2}Magnetometría SQUID}{41}{subsubsection.5.2.3.2}%
+\contentsline {paragraph}{\numberline {5.2.3.2.1}M v H}{41}{paragraph.5.2.3.2.1}%
+\contentsline {paragraph}{\numberline {5.2.3.2.2}Curvas ZFC y FC}{41}{paragraph.5.2.3.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3.3}Curvas P-E}{42}{subsubsection.5.2.3.3}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{44}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Perspectivas a futuro}{45}{chapter.7}%
+\contentsline {chapter}{Bibliografía}{46}{chapter*.50}%
+\contentsline {chapter}{\numberline {A}Anexos}{49}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Refinamientos Rietveld}{49}{section.Alph1.1}%

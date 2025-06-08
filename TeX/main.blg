@@ -1,14 +1,17 @@
-[0] Config.pm:308> INFO - This is Biber 2.20
-[0] Config.pm:311> INFO - Logfile is 'main.blg'
-[203] biber-MSWIN64:340> INFO - === 
-[260] Biber.pm:420> INFO - Reading 'main.bcf'
-[490] Biber.pm:994> INFO - Found 47 citekeys in bib section 0
-[528] Biber.pm:4463> INFO - Processing section 0
-[552] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
-[672] bibtex.pm:1713> INFO - LaTeX decoding ...
-[800] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
-[1274] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1274] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1274] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[1342] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1380] bbl.pm:779> INFO - Output to main.bbl
+[10] Config.pm:308> INFO - This is Biber 2.20
+[24] Config.pm:311> INFO - Logfile is 'main.blg'
+[2775] biber:340> INFO - === Sun Jun  8, 2025, 01:00:21
+[3412] Biber.pm:420> INFO - Reading 'main.bcf'
+[6062] Biber.pm:994> INFO - Found 49 citekeys in bib section 0
+[6457] Biber.pm:4463> INFO - Processing section 0
+[6625] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
+[6652] bibtex.pm:1713> INFO - LaTeX decoding ...
+[8159] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
+[16483] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[16489] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[16490] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[17457] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[18244] bbl.pm:779> INFO - Output to main.bbl
+[18260] Biber.pm:131> WARN - I didn't find a database entry for 'ndfeo3' (section 0)
+[18263] Biber.pm:131> WARN - I didn't find a database entry for 'smfeo3' (section 0)
+[18265] Biber.pm:133> INFO - WARNINGS: 2

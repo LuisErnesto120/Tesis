@@ -1541,9 +1541,432 @@
       \field{note}{\url{https://next-gen.materialsproject.org/materials/mp-20243}}
       \field{title}{SmFeO3 mp-20243}
     \endentry
+    \entry{ndfeo3}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2e32db33de770540297c31db9a823da8}{%
+           family={Streltsov},
+           familyi={S\bibinitperiod},
+           given={Victor\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c6eb4457a6f8881d4e95800807962ae6}{%
+           family={Ishizawa},
+           familyi={I\bibinitperiod},
+           given={Nobuo},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Union of Crystallography}%
+      }
+      \strng{namehash}{2bba3fee1b6f88422955f923ec8c8a78}
+      \strng{fullhash}{2bba3fee1b6f88422955f923ec8c8a78}
+      \strng{fullhashraw}{2bba3fee1b6f88422955f923ec8c8a78}
+      \strng{bibnamehash}{2bba3fee1b6f88422955f923ec8c8a78}
+      \strng{authorbibnamehash}{2bba3fee1b6f88422955f923ec8c8a78}
+      \strng{authornamehash}{2bba3fee1b6f88422955f923ec8c8a78}
+      \strng{authorfullhash}{2bba3fee1b6f88422955f923ec8c8a78}
+      \strng{authorfullhashraw}{2bba3fee1b6f88422955f923ec8c8a78}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0108-7681}
+      \field{issue}{1}
+      \field{journaltitle}{urn:issn:0108-7681}
+      \field{month}{2}
+      \field{title}{Synchrotron X-ray study of the electron density in RFeO3 (R = Nd, Dy)}
+      \field{volume}{55}
+      \field{year}{1999}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1107/S0108768198005400
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.iucr.org/paper?sh0113 https://journals.iucr.org/b/issues/1999/01/00/sh0113/
+      \endverb
+      \verb{url}
+      \verb https://journals.iucr.org/paper?sh0113%20https://journals.iucr.org/b/issues/1999/01/00/sh0113/
+      \endverb
+    \endentry
+    \entry{smfeo3}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=d889d5550718e7cd95a17bc9c81f44f4}{%
+           family={Sangaletti},
+           familyi={S\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8f30d5f2b26c32db6000f711aa7f18da}{%
+           family={Depero},
+           familyi={D\bibinitperiod},
+           given={Laura\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7d3029e25bdb5217f6ce5172652c0101}{%
+           family={Allieri},
+           familyi={A\bibinitperiod},
+           given={Brigida},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4393843af34ca1c404fecc52bb4bbd76}{%
+           family={Nunziante},
+           familyi={N\bibinitperiod},
+           given={Patrizia},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2042f00f0be1b99e8b6ef5a1a9eca8e1}{%
+           family={Traversa},
+           familyi={T\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2297af557c9b90aa25f6c4e1eb20be7f}
+      \strng{fullhash}{95373a4fc6f2d44e71a5c6949e08a687}
+      \strng{fullhashraw}{95373a4fc6f2d44e71a5c6949e08a687}
+      \strng{bibnamehash}{95373a4fc6f2d44e71a5c6949e08a687}
+      \strng{authorbibnamehash}{95373a4fc6f2d44e71a5c6949e08a687}
+      \strng{authornamehash}{2297af557c9b90aa25f6c4e1eb20be7f}
+      \strng{authorfullhash}{95373a4fc6f2d44e71a5c6949e08a687}
+      \strng{authorfullhashraw}{95373a4fc6f2d44e71a5c6949e08a687}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0955-2219}
+      \field{issue}{6}
+      \field{journaltitle}{Journal of the European Ceramic Society}
+      \field{month}{6}
+      \field{title}{An X-ray study of the trimetallic LaxSm1-xFeO3 orthoferrites}
+      \field{volume}{21}
+      \field{year}{2001}
+      \field{pages}{719\bibrangedash 726}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/S0955-2219(00)00267-3
+      \endverb
+      \keyw{(Ka,Ferrites,Perovskites,Powders-chemical preparation,Sm)FeO3,X-ray methods}
+    \endentry
+    \entry{ndoh3}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=37e4a8323ce886f2a48bba7ea9961724}{%
+           family={Beall},
+           familyi={B\bibinitperiod},
+           given={GW},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0fb535b1dbcb1cbe54f61de9d573f30e}{%
+           family={Milligan},
+           familyi={M\bibinitperiod},
+           given={WO},
+           giveni={W\bibinitperiod}}}%
+        {{hash=4e76b38bb24b2fa8b1b528569436327d}{%
+           family={Dillin},
+           familyi={D\bibinitperiod},
+           given={DR},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3740d28ae1ebd03c4353c0cb357b2558}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={RJ},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8dd30af255be9ef968b15ddaeb5867c8}{%
+           family={McCoy},
+           familyi={M\bibinitperiod},
+           given={JJ},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Union of Crystallography}%
+      }
+      \strng{namehash}{7d897317a87a1461a62fc98fe797dcbc}
+      \strng{fullhash}{e2211c0d799c99ee8fe778f2a414c06a}
+      \strng{fullhashraw}{e2211c0d799c99ee8fe778f2a414c06a}
+      \strng{bibnamehash}{e2211c0d799c99ee8fe778f2a414c06a}
+      \strng{authorbibnamehash}{e2211c0d799c99ee8fe778f2a414c06a}
+      \strng{authornamehash}{7d897317a87a1461a62fc98fe797dcbc}
+      \strng{authorfullhash}{e2211c0d799c99ee8fe778f2a414c06a}
+      \strng{authorfullhashraw}{e2211c0d799c99ee8fe778f2a414c06a}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Structural Science}
+      \field{number}{7}
+      \field{title}{Refinement of neodymium trihydroxide}
+      \field{volume}{32}
+      \field{year}{1976}
+      \field{pages}{2227\bibrangedash 2229}
+      \range{pages}{3}
+    \endentry
+    \entry{feoh2}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=510dd0b23869c06e30cd7694ccf3a764}{%
+           family={Patrat},
+           familyi={P\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ac78ddb526beb0ab4ea161e03006f5ed}{%
+           family={De\bibnamedelima Bergevin},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ac021b814887482935412b263613be32}{%
+           family={Pernet},
+           familyi={P\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4cd8c9974ca48e961c1b063f4f22ddfd}{%
+           family={Joubert},
+           familyi={J\bibinitperiod},
+           given={JC},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Union of Crystallography}%
+      }
+      \strng{namehash}{a053a7c9496df227a1a0975484aaca92}
+      \strng{fullhash}{b0f8063520b602a19832e71d8948bba7}
+      \strng{fullhashraw}{b0f8063520b602a19832e71d8948bba7}
+      \strng{bibnamehash}{b0f8063520b602a19832e71d8948bba7}
+      \strng{authorbibnamehash}{b0f8063520b602a19832e71d8948bba7}
+      \strng{authornamehash}{a053a7c9496df227a1a0975484aaca92}
+      \strng{authorfullhash}{b0f8063520b602a19832e71d8948bba7}
+      \strng{authorfullhashraw}{b0f8063520b602a19832e71d8948bba7}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Structural Science}
+      \field{number}{2}
+      \field{title}{Structure locale de $\delta$-FeOOH}
+      \field{volume}{39}
+      \field{year}{1983}
+      \field{pages}{165\bibrangedash 170}
+      \range{pages}{6}
+    \endentry
+    \entry{nd2o3}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=57a38d8edbec089221544cd0733a932b}{%
+           family={Zachariasen},
+           familyi={Z\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Oldenbourg}%
+      }
+      \strng{namehash}{57a38d8edbec089221544cd0733a932b}
+      \strng{fullhash}{57a38d8edbec089221544cd0733a932b}
+      \strng{fullhashraw}{57a38d8edbec089221544cd0733a932b}
+      \strng{bibnamehash}{57a38d8edbec089221544cd0733a932b}
+      \strng{authorbibnamehash}{57a38d8edbec089221544cd0733a932b}
+      \strng{authornamehash}{57a38d8edbec089221544cd0733a932b}
+      \strng{authorfullhash}{57a38d8edbec089221544cd0733a932b}
+      \strng{authorfullhashraw}{57a38d8edbec089221544cd0733a932b}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift fuer Physikalische Chemie}
+      \field{number}{1}
+      \field{title}{Die Kristallstruktur der A-Modifikation von den Sesquioxyden der seltenen Erdmetalle.(La2O3 Ce2O3, Pr2O3, Nd2O3)}
+      \field{volume}{123}
+      \field{year}{1926}
+      \field{pages}{134\bibrangedash 150}
+      \range{pages}{17}
+    \endentry
+    \entry{fe2o3}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=675a90e238ebc79faad5dc98ac13633b}{%
+           family={J{ø}rgensen},
+           familyi={J\bibinitperiod},
+           given={Jens-Erik},
+           giveni={J\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=242105e888725df0a4fd39d0a1134cc3}{%
+           family={Mosegaard},
+           familyi={M\bibinitperiod},
+           given={Lene},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b4d66f7906d927e65dbeb7619676fc95}{%
+           family={Thomsen},
+           familyi={T\bibinitperiod},
+           given={Line\bibnamedelima E},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=1ce5994e25a73d2d8c8e0383e8572de9}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Torben\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c65ab77340c7f2c8c6b91858f6858835}{%
+           family={Hanson},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{43635c3e67ddbd5c88fd9476aac0a6c7}
+      \strng{fullhash}{7b7f510ad11517604a6f0138d13fe806}
+      \strng{fullhashraw}{7b7f510ad11517604a6f0138d13fe806}
+      \strng{bibnamehash}{7b7f510ad11517604a6f0138d13fe806}
+      \strng{authorbibnamehash}{7b7f510ad11517604a6f0138d13fe806}
+      \strng{authornamehash}{43635c3e67ddbd5c88fd9476aac0a6c7}
+      \strng{authorfullhash}{7b7f510ad11517604a6f0138d13fe806}
+      \strng{authorfullhashraw}{7b7f510ad11517604a6f0138d13fe806}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Solid State Chemistry}
+      \field{number}{1}
+      \field{title}{Formation of $\gamma$-Fe2O3 nanoparticles and vacancy ordering: An in situ X-ray powder diffraction study}
+      \field{volume}{180}
+      \field{year}{2007}
+      \field{pages}{180\bibrangedash 185}
+      \range{pages}{6}
+    \endentry
+    \entry{feo}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c65324247cd4b7ad917f3e91e799483e}{%
+           family={Jette},
+           familyi={J\bibinitperiod},
+           given={Eric\bibnamedelima R},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7bad9ed5828b1e1350329ed3b48db464}{%
+           family={Foote},
+           familyi={F\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{40b98d1b4b369066050a9cd177e5510d}
+      \strng{fullhash}{40b98d1b4b369066050a9cd177e5510d}
+      \strng{fullhashraw}{40b98d1b4b369066050a9cd177e5510d}
+      \strng{bibnamehash}{40b98d1b4b369066050a9cd177e5510d}
+      \strng{authorbibnamehash}{40b98d1b4b369066050a9cd177e5510d}
+      \strng{authornamehash}{40b98d1b4b369066050a9cd177e5510d}
+      \strng{authorfullhash}{40b98d1b4b369066050a9cd177e5510d}
+      \strng{authorfullhashraw}{40b98d1b4b369066050a9cd177e5510d}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{number}{1}
+      \field{title}{An X-Ray Study of the Wüstite (FeO) Solid Solutions}
+      \field{volume}{1}
+      \field{year}{1933}
+      \field{pages}{29\bibrangedash 36}
+      \range{pages}{8}
+    \endentry
+    \entry{smoh3}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=37e4a8323ce886f2a48bba7ea9961724}{%
+           family={Beall},
+           familyi={B\bibinitperiod},
+           given={GW},
+           giveni={G\bibinitperiod}}}%
+        {{hash=01afd2002ef8f527fc3ae6cf0c85f673}{%
+           family={Milligan},
+           familyi={M\bibinitperiod},
+           given={WO\bibnamedelima t},
+           giveni={W\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
+        {{hash=9f784a6da2e92b7a2a57360d97bfd1fe}{%
+           family={Wolcott},
+           familyi={W\bibinitperiod},
+           given={Herbert\bibnamedelima A},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7d897317a87a1461a62fc98fe797dcbc}
+      \strng{fullhash}{e1fe1be9ea1eb43ef53ed1bf2d95693e}
+      \strng{fullhashraw}{e1fe1be9ea1eb43ef53ed1bf2d95693e}
+      \strng{bibnamehash}{e1fe1be9ea1eb43ef53ed1bf2d95693e}
+      \strng{authorbibnamehash}{e1fe1be9ea1eb43ef53ed1bf2d95693e}
+      \strng{authornamehash}{7d897317a87a1461a62fc98fe797dcbc}
+      \strng{authorfullhash}{e1fe1be9ea1eb43ef53ed1bf2d95693e}
+      \strng{authorfullhashraw}{e1fe1be9ea1eb43ef53ed1bf2d95693e}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Inorganic and Nuclear Chemistry}
+      \field{number}{1}
+      \field{title}{Structural trends in the lanthanide trihydroxides}
+      \field{volume}{39}
+      \field{year}{1977}
+      \field{pages}{65\bibrangedash 70}
+      \range{pages}{6}
+    \endentry
+    \entry{sm2o3}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b768ed28e4d08f2a15663d826b5655d0}{%
+           family={Forening},
+           familyi={F\bibinitperiod},
+           given={Norsk\bibnamedelima Geologisk},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universitetsforlaget.}%
+      }
+      \strng{namehash}{b768ed28e4d08f2a15663d826b5655d0}
+      \strng{fullhash}{b768ed28e4d08f2a15663d826b5655d0}
+      \strng{fullhashraw}{b768ed28e4d08f2a15663d826b5655d0}
+      \strng{bibnamehash}{b768ed28e4d08f2a15663d826b5655d0}
+      \strng{authorbibnamehash}{b768ed28e4d08f2a15663d826b5655d0}
+      \strng{authornamehash}{b768ed28e4d08f2a15663d826b5655d0}
+      \strng{authorfullhash}{b768ed28e4d08f2a15663d826b5655d0}
+      \strng{authorfullhashraw}{b768ed28e4d08f2a15663d826b5655d0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Norsk Geologisk Tidsskrift}
+      \field{volume}{9}
+      \field{year}{1927}
+    \endentry
+    \entry{smo}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2ba62513b2f5cf64106a6142affcb3d1}{%
+           family={Ellinger},
+           familyi={E\bibinitperiod},
+           given={FH},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9f33bf0088dc29a30bfca370e8a010e4}{%
+           family={Zachariasen},
+           familyi={Z\bibinitperiod},
+           given={WH},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{ad9ebadf9c78641cd08d4a579c73a135}
+      \strng{fullhash}{ad9ebadf9c78641cd08d4a579c73a135}
+      \strng{fullhashraw}{ad9ebadf9c78641cd08d4a579c73a135}
+      \strng{bibnamehash}{ad9ebadf9c78641cd08d4a579c73a135}
+      \strng{authorbibnamehash}{ad9ebadf9c78641cd08d4a579c73a135}
+      \strng{authornamehash}{ad9ebadf9c78641cd08d4a579c73a135}
+      \strng{authorfullhash}{ad9ebadf9c78641cd08d4a579c73a135}
+      \strng{authorfullhashraw}{ad9ebadf9c78641cd08d4a579c73a135}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{22}
+      \field{title}{The crystal structure of samarium metal and of samarium monoxide1}
+      \field{volume}{75}
+      \field{year}{1953}
+      \field{pages}{5650\bibrangedash 5652}
+      \range{pages}{3}
+    \endentry
   \enddatalist
-  \missing{ndfeo3}
-  \missing{smfeo3}
 \endrefsection
 \endinput
 

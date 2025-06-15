@@ -23,7 +23,7 @@ Se realizó un análisis termogravimétrico a ambas ortoferritas, lo cual dió c
     \includegraphics[width=0.4\textwidth]{fig/TGA-NdFeO3.png}
     \quad
     \includegraphics[width=0.4\textwidth]{fig/TGA-SmFeO3.png}
-    \caption{Análisis termogravimétrico de las ortoferritas.}
+    \caption{Análisis termogravimétrico de las ortoferritas. a) \neod{}, b) \sama{}}
     \label{fig:TGAres}
 \end{figure}
 Se obtuvo la derivada de la masa respecto a la temperatura:
@@ -32,7 +32,7 @@ Se obtuvo la derivada de la masa respecto a la temperatura:
     \includegraphics[width=0.4\textwidth]{fig/TGA-derNdFeO3.png}
     \quad
     \includegraphics[width=0.4\textwidth]{fig/TGA-derSmFeO3.png}
-    \caption{Derivada de la masa respecto a la temperatura para ambas ferritas.}
+    \caption{Derivada de la masa respecto a la temperatura para ambas ferritas. a) \neod{}, b) \sama{}}
     \label{fig:derTGAres}
 \end{figure}
 Se pueden observar 3 regiones distintas donde ocurren cambios térmicos en la muestra:
@@ -124,7 +124,7 @@ El primer método descrito en esa sección dió como resultado los siguientes di
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.9\textwidth]{fig/restamañoprom.png}
-    \caption{Gráfica del tamaño promedio de partícula según la temperatura de calcinación.}
+    \caption{Gráfica del tamaño promedio de partícula según la temperatura de calcinación. a) Muestras de \neod{}, b) muestras de \sama{}}
     \label{fig:restamañoprom}
 \end{figure}
 
@@ -169,7 +169,7 @@ Por otro lado, el segundo método descrito en la sección \ref{sec:analisisestad
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.9\textwidth]{fig/resporcentaje.png}
-    \caption{Gráfica del porcentaje de partículas con diámetro $\leq$1 $\mu$m según la temperatura de calcinación.}
+    \caption{Gráfica del porcentaje de partículas con diámetro $\leq$1 $\mu$m según la temperatura de calcinación. a) Muestras de \neod{}, b) muestras de \sama{}}
     \label{fig:resporcentaje}
 \end{figure}
 Estos datos sugieren una correlación entre la temperatura de calcinación y el diámetro promedio, en particular para el \neod{}.
@@ -215,47 +215,92 @@ En ninguna de las mediciones se encontraron contaminantes externos, a excepción
 \end{table}
 \subsubsection{Difracción de Rayos X} \label{sec:analisisDRX}
 A continuación se reportan los espectros obtenidos mediante la metodología descrita en \ref{sec:metodologiadrx} para cada temperatura de calcinación.
-
-(Figura que no he hecho)
-
-%\caption{Espectros obtenidos mediante DRX de las muestras calcinadas a distintas temperaturas. a) Muestras de \neod{}, b) Muestras de \sama{}.}
-
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/drxtempndfeo3.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/drxtempsmfeo3.png}
+    \caption{Espectros obtenidos mediante DRX de las muestras calcinadas a distintas temperaturas. a) Muestras de \neod{}, b) Muestras de \sama{}.}
+    \label{fig:drxtempcomp}
+\end{figure}
 Se puede observar que los picos obtenidos coinciden con el espectro de la estructura reportada en \cite{ndfeo3} para el \neod{} y en \cite{smfeo3} para el \sama{}.
 
 Se observa el desdoblamiento del pico principal al aumentar la temperatura de calcinación, esto sugiere un cambio de fase cristalina al realizar la síntesis a mayor temperatura.
 
 A continuación se reportan los espectros obtenidos para las muestras sonicadas
-
-(Figura que ya hice)
-
-%\caption{Espectros obtenidos mediante DRX de las muestras sonicadas. a) Muestras de \neod{}, b) Muestras de \sama{}.}
-
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/drxsonicndfeo3.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/drxsonicsmfeo3.png}
+    \caption{Espectros obtenidos mediante DRX de las muestras sonicadas. a) Muestras de \neod{}, b) Muestras de \sama{}.}
+    \label{fig:drxsoniccomp}
+\end{figure}
 No se observan cambios notorios entre los espectros al variar el tiempo de sonicación.
 
 \paragraph{Refinamiento Rietveld}
 Mediante esta técnica se obtuvieron espectros como los siguientes:
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{fig/DRX600NdFeO3.png}
+    \caption{Refinamiento Rietveld de la muestra de \neod{} calcinada a 600\gradoC{} sin sonicar. Estructuras utilizadas: \neod{} \cite{ndfeo3}, \ce{Nd(OH)3} \cite{ndoh3}, \ce{Fe(OH)2} \cite{feoh2}, \ce{Nd2O3} \cite{nd2o3}, \ce{Fe2O3} \cite{fe2o3}, \ce{FeO} \cite{feo}.}
+    \label{fig:rietveld600ndresultados}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{fig/DRX700SmFeO3.png}
+    \caption{Refinamiento Rietveld de la muestra de \neod{} calcinada a 600\gradoC{} sin sonicar. Estructuras utilizadas: \sama{} \cite{smfeo3}, \ce{Sm(OH)3} \cite{smoh3}, \ce{Fe(OH)2} \cite{feoh2}, \ce{Sm2O3} \cite{sm2o3}, \ce{Fe2O3} \cite{fe2o3}, \ce{SmO} \cite{smo}, \ce{FeO} \cite{feo}.}
+    \label{fig:rietveld700smresultados}
+\end{figure}
+El resto de refinamientos pueden encontrarse en el anexo \ref{sec:anexorietveld}.
 
-(Figura rietveld ndfeo3)
+Mediante estos refinamientos se encontró que las muestras contienen las siguientes estructuras:
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c||c|c|c|c|c|c|c|}
+        \hline
+        Muestra & \neod{} & \ce{Fe(OH)2} & \ce{Nd(OH)3} & \ce{Nd2O3} & \ce{Fe2O3} & \ce{FeO} & $\chi^2$ \\
+        \hline
+        \hline
+        600\gradoC{} S 4 h & 98.81$\pm$0.0 & 0.61$\pm$0.782 & 0.26$\pm$0.170 & 0.30$\pm$0.111 & 0$\pm$0 & 0$\pm$0 & 1.08 \\
+        \hline
+        600\gradoC{} S 2 h & 95.73$\pm$0.0 & 0$\pm$0 & 1.38$\pm$0.231 & 2.62$\pm$0.188 & 0.24$\pm$0.649 & 0.00$\pm$0.309 & 1.21 \\
+        \hline
+        600\gradoC{} & 96.97$\pm$0.0 & 0$\pm$0 & 1.16$\pm$0.163 & 1.49$\pm$0.1312 & 0.37$\pm$0.457 & 0$\pm$0 & 1.12 \\
+        \hline
+        700\gradoC{} & 98.67$\pm$0.0 & 0$\pm$0 & 0$\pm$0 & 0.57$\pm$0.096 & 0.74$\pm$0.331 & 0$\pm$0 & 1.07 \\
+        \hline
+        800\gradoC{} & 98.67$\pm$0.0 & 0.40$\pm$0.632 & 0$\pm$0 & 0.33$\pm$0.088 & 0.58$\pm$0.319 & 0$\pm$0 & 1.05 \\
+        \hline
+        900\gradoC{} & 99.20$\pm$0.0 & 0$\pm$0 & 0$\pm$0 & 0.10$\pm$0.100 & 0.10$\pm$0.351 & 0.58$\pm$0.414 & 1.12 \\
+        \hline
+        \end{tabular} 
+    \caption{Porcentaje del peso que representa cada una de las estructuras cristalinas presentes en cada muestra de \neod{}.}
+    \label{tabla:refrietvneod}
+\end{table}
 
-%\caption{Refinamiento Rietveld de la muestra de \neod{} sonicada 4 h. \cite{(todas las estructuras)}.}
-
-(Figura rietveld smfeo3)
-
-%\caption{Refinamiento Rietveld de la muestra de \sama{} sonicada 4 h. \cite{(todas las estructuras)}.}
-
-El resto de refinamientos pueden encontrarse en \ref{sec:anexorietveld}.
-
-Mediante estos refinamientos se encontraron 
-las siguientes estructuras cristalinas:
-
-(Tabla Rietveld ndfeo3)
-
-%\caption{Porcentaje del peso que representa cada una de las estructuras cristalinas presentes en cada muestra de \neod{}.}
-
-(Tabla Rietveld smfeo3)
-
-%\caption{Porcentaje del peso que representa cada una de las estructuras cristalinas presentes en cada muestra de \sama{}.}
-
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c||c|c|c|c|c|c|c|}
+        \hline
+        Muestra & \sama{} & \ce{Sm(OH)3} & \ce{Fe(OH)2} & \ce{Sm2O3} & \ce{Fe2O3} & \ce{FeO} & $\chi^2$ \\ 
+        \hline\hline
+        700\gradoC{} S 4 h & 97.95$\pm$0.0 & 0.40$\pm$0.218 & 1.41$\pm$1.011 & 0.22$\pm$0.153 & 0$\pm$0 & 0$\pm$0 & 1.06 \\
+        \hline
+        700\gradoC{} S 2 h & 98.19$\pm$0.0 & 1.22$\pm$0.260 & 0$\pm$0 & 0.56$\pm$0.184 & 0$\pm$0 & 0$\pm$0 & 1.10 \\
+        \hline
+        700\gradoC{} & 99.17$\pm$0.0 & 0.35$\pm$0.176 & 0$\pm$0 & 0.19$\pm$0.150 & 0$\pm$0 & 0.27$\pm$0.358 & 1.07 \\
+        \hline
+        800\gradoC{} & 98.90$\pm$0.0 & 0.41$\pm$0.175 & 0$\pm$0 & 0.37$\pm$0.149 & 0$\pm$0 & 0.30$\pm$0.353 & 1.06 \\
+        \hline
+        900\gradoC{} & 98.65$\pm$0.0 & 0.41$\pm$0.178 & 0$\pm$0 & 0.69$\pm$0.151 & 0.23$\pm$0.484 & 0$\pm$0 & 1.08 \\
+        \hline
+        1000\gradoC{} & 97.56$\pm$0.0 & 0.70$\pm$0.177 & 0$\pm$0 & 0.64$\pm$0.149 & 0$\pm$0 & 1.08$\pm$0.348 & 1.09 \\
+        \hline
+        \end{tabular} 
+    \caption{Porcentaje del peso que representa cada una de las estructuras cristalinas presentes en cada muestra de \sama{}.}
+    \label{tabla:refrietvsama}
+\end{table}
 Se observa que el método de síntesis utilizado produce muestras de pureza alta, $\geq$(min ndfeo3) para el \neod{} y $\geq$(min smfeo3) para el \sama{}.
 \subsection{Análisis Óptico, Magnético y Eléctrico} \label{sec:analisisoptmagelec}
 \subsubsection{Espectroscopía UV-Vis}
@@ -301,7 +346,7 @@ Mediante los resultados anteriores se llegó a los siguientes \textit{band gaps}
         & 1000\gradoC{} & 2.30$\pm$0.001 \\
         \hline
     \end{tabular} 
-    \caption{\textit{Band gaps} de las distintas muestras según su temperatura de calcinación.}
+    \caption{\textit{Band gaps} de las distintas muestras según su temperatura de calcinación. a) Muestras de \neod{}, b) muestras de \sama{}}
     \label{tabla:bandgaps}
 \end{table}
 \begin{figure}[H]
@@ -309,7 +354,7 @@ Mediante los resultados anteriores se llegó a los siguientes \textit{band gaps}
     \includegraphics[width=0.45\textwidth]{fig/BGNdFeO3.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/BGSmFeO3.png}
-    \caption{Gráfica del \textit{band gap} de cada muestra según su temperatura de calcinación.}
+    \caption{Gráfica del \textit{band gap} de cada muestra según su temperatura de calcinación. a) Muestras de \neod{}, b) muestras de \sama{}}
     \label{fig:bandgapvT}
 \end{figure}
 En ambas ortoferritas se observa que el \textit{band gap} aumenta con la temperatura y el tiempo de sonicación, teniendo en ambos casos un mínimo en la muestra calcinada a menor temperatura y sin sonicar.
@@ -317,12 +362,22 @@ En ambas ortoferritas se observa que el \textit{band gap} aumenta con la tempera
 
 \paragraph{M v H}
 Se obtuvieron las siguientes mediciones:
-%FIGURA MAG -1: NdFeO3 sonicado y sin sonicar%
-%caption: Curvas $M$ contra $H$ para las muestras de \neod{}: a) sin sonicar y b) sonicada.%
-
-%FIGURA MAG 0: SmFeO3 sonicado y sin sonicar%
-%caption: Curvas $M$ contra $H$ para las muestras de \sama{}: a) sin sonicar y b) sonicada.%
-
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/mvhNd.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/mvhNd-S.png}
+    \caption{Curvas $M$ contra $H$ para las muestras de \neod{}: a) sin sonicar y b) sonicada.}
+    \label{fig:mvhNd}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/mvhSm.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/mvhSm-S.png}
+    \caption{Curvas $M$ contra $H$ para las muestras de \sama{}: a) sin sonicar y b) sonicada.}
+    \label{fig:mvhSm}
+\end{figure}
 En ninguno de los casos se observa una diferencia significativa en el comportamiento de las muestras sonicadas y sin sonicar.
 
 Las muestras de \neod{} exhiben un comportamiento ferromagnético débil a $T=5$ K, el cual tiende a un paramagnético al aumentar la temperatura.
@@ -330,21 +385,82 @@ Las muestras de \neod{} exhiben un comportamiento ferromagnético débil a $T=5$
 Por otro lado, las muestras de \sama{} exhiben un comportamiento ferromagnético más fuerte a $T=5$ K, el cual tiende a un paramagnético al aumentar la temperatura. Sin embargo, la muestra de \sama{} sonicada aún muestra un ciclo de histéresis debil a $T=300$ K.
 
 A continuación se reportan los valores obtenidos para $M_r$, $M_s$ y $H_c$.
-
-(Tabla)
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c||c|c|c|}
+        \hline
+        \multicolumn{4}{|c|}{$T=5$ K} \\
+        \hline 
+        Muestra & $M_s$ (emu/g) & $M_r$ (emu/g) & $H_c$ (Oe) \\
+        \hline
+        \hline
+        \neod{} sin sonicar & 2.83$\pm$0.006 & 1.74$\pm$0.024 & 523.71$\pm$23.818 \\
+        \hline
+        \neod{} sonicada & 2.63$\pm$0.011 & 1.44$\pm$0.032 & 219.61$\pm$17.736 \\
+        \hline
+        \sama{} sin sonicar & 0.13$\pm$0.002 & 0.01$\pm$0.004 & 252.014$\pm$5.531 \\
+        \hline
+        \sama{} sonicada & 0.04$\pm$0.001 & 0.08$\pm$0.002 & 591.54$\pm$20.834 \\
+        \hline
+        \end{tabular} 
+    \caption{Valores obtenidos para las muestras a $T= 5$ K.}
+    \label{tabla:mvh5k}
+\end{table}
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c||c|c|c|}
+        \hline
+        \multicolumn{4}{|c|}{$T=300$ K} \\
+        \hline
+        Muestra & $M_s$ (emu/g) & $M_r$ (emu/g) & $H_c$ (Oe) \\
+        \hline
+        \hline
+        \neod{} sin sonicar & 2.18$\pm$0.001 & 0.83$\pm$0.012 & 163.64$\pm$74.669 \\
+        \hline
+        \neod{} sonicada & 2.34$\pm$0.001 & 0.92$\pm$0.039 & 219.61$\pm$17.736 \\
+        \hline
+        \sama{} sin sonicar & 0.06$\pm$0.001 & 0.07$\pm$0.001 & 2206.76$\pm$41.575 \\
+        \hline
+        \sama{} sonicada & 0.17$\pm$0.002 & 0.12$\pm$0.001 & 1561.36$\pm$20.612 \\
+        \hline
+        \end{tabular} 
+    \caption{Valores obtenidos para las muestras a $T= 300$ K.}
+    \label{tabla:mvh300k}
+\end{table}
 \paragraph{Curvas ZFC y FC}
 Se obtuvieron las siguientes curvas:
-%FIGURA MAG 1: NdFeO3 sonicado y sin sonicar%
-%caption: Curvas $M$ contra $T$ para las muestras de \neod{}: a) sin sonicar y b) sonicada.%
-
-%FIGURA MAG 2: NdFeO3 sonicado y sin sonicar%
-%caption: Curvas $\chi$ contra $T$ para las muestras de \neod{}: a) sin sonicar y b) sonicada.%
-
-%FIGURA MAG 3: SmFeO3 sonicado y sin sonicar%
-%caption: Curvas $M$ contra $T$ para las muestras de \sama{}: a) sin sonicar y b) sonicada.%
-
-%FIGURA MAG 4: SmFeO3 sonicado y sin sonicar%
-%caption: Curvas $\chi$ contra $T$ para las muestras de \sama{}: a) sin sonicar y b) sonicada.%
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/MvTNd.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/MvTNd-S.png}
+    \caption{Curvas $M$ contra $T$ para las muestras de \neod{}: a) sin sonicar y b) sonicada.}
+    \label{fig:MvTNd}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/chivTNd.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/chivTNd-S.png}
+    \caption{Curvas $\chi$ contra $T$ para las muestras de \neod{}: a) sin sonicar y b) sonicada.}
+    \label{fig:chivTNd}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/MvTSm.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/MvTSm-S.png}
+    \caption{Curvas $M$ contra $T$ para las muestras de \sama{}: a) sin sonicar y b) sonicada.}
+    \label{fig:MvTSm}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/chivTSm.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/chivTSm-S.png}
+    \caption{Curvas $\chi$ contra $T$ para las muestras de \sama{}: a) sin sonicar y b) sonicada.}
+    \label{fig:chivTSm}
+\end{figure}
 En el caso de las muestras de \neod{} no se observa un cambio significativo entre las muestras sonicada y sin sonicar. Se observa un reordenamiento magnético alrededor de los 10 K, donde ocurre un mínimo local de $M$ y $\chi$.
 
 Se observa una separación considerable de las curvas ZFC y FC, la cual se reduce a medida que aumenta la temperatura. Esto sugiere un efecto considerable de la anisotropía para estas muestras.
@@ -359,7 +475,7 @@ Se obtuvieron las siguientes gráficas:
     \includegraphics[width=0.45\textwidth]{fig/PENdFeO3100V.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/PENdFeO3-S100V.png}
-    \caption{Curvas $P$ contra $E$ con $V_\text{max}=100$ V de las muestras de \neod{}.}
+    \caption{Curvas $P$ contra $E$ (eje izquierdo) y $\chi$ contra $E$ (eje derecho) con $V_\text{max}=100$ V de las muestras de \neod{}: a) sin sonicar y b) sonicada 4 h.}
     \label{fig:nd100v}
 \end{figure}
 \begin{figure}[H]
@@ -367,7 +483,7 @@ Se obtuvieron las siguientes gráficas:
     \includegraphics[width=0.45\textwidth]{fig/PENdFeO32000V.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/PENdFeO3-S2000V.png}
-    \caption{Curvas $P$ contra $E$ con $V_\text{max}=2000$ V de las muestras de \neod{}.}
+    \caption{Curvas $P$ contra $E$ (eje izquierdo) y $\chi$ contra $E$ (eje derecho) con $V_\text{max}=2000$ V de las muestras de \neod{}: a) sin sonicar y b) sonicada 4 h..}
     \label{fig:nd2000v}
 \end{figure}
 \begin{figure}[H]
@@ -375,7 +491,7 @@ Se obtuvieron las siguientes gráficas:
     \includegraphics[width=0.45\textwidth]{fig/PESmFeO3100V.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/PESmFeO3-S100V.png}
-    \caption{Curvas $P$ contra $E$ con $V_\text{max}=100$ V de las muestras de \sama{}.}
+    \caption{Curvas $P$ contra $E$ (eje izquierdo) y $\chi$ contra $E$ (eje derecho) con $V_\text{max}=100$ V de las muestras de \sama{}: a) sin sonicar y b) sonicada 4 h.}
     \label{fig:sm100v}
 \end{figure}
 \begin{figure}[H]
@@ -383,10 +499,12 @@ Se obtuvieron las siguientes gráficas:
     \includegraphics[width=0.45\textwidth]{fig/PESmFeO32000V.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/PESmFeO3-S2000V.png}
-    \caption{Curvas $P$ contra $E$ con $V_\text{max}=2000$ V de las muestras de \sama{}.}
+    \caption{Curvas $P$ contra $E$ (eje izquierdo) y $\chi$ contra $E$ (eje derecho) con $V_\text{max}=2000$ V de las muestras de \sama{}: a) sin sonicar y b) sonicada 4 h.}
     \label{fig:sm2000v}
 \end{figure}
-Se puede observar un comportamiento de histéresis sólo en las mediciones realizadas a $V_\text{max}=100$ V, el cual se pierde al aumentar el $V_\text{max}$. Se reportan los valores obtenidos para $P_r$, $P_s$ y $E_c$ para estas mediciones.
+Se puede observar un comportamiento de histéresis sólo en las mediciones realizadas a $V_\text{max}=100$ V, el cual se pierde al aumentar el $V_\text{max}$.
+
+A continuación se reportan los valores obtenidos para $P_r$, $P_s$ y $E_c$ para las mediciones con $V_\text{max}=100$ V.
 
 \begin{table}[H]
     \centering

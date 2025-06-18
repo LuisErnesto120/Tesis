@@ -451,7 +451,7 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1200.t
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolC.enc
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolD.enc
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolE.enc
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsl1200.tfm
 INPUT ..\fig\estructura.jpg
 INPUT ..\fig\estructura.jpg
 INPUT ..\fig\estructura.jpg
@@ -481,7 +481,7 @@ INPUT ..\fig\neelradio.jpg
 INPUT ..\fig\neelradio.jpg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsl1200.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolE.enc
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolF.enc
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
 INPUT ..\fig\chitemp.png
@@ -497,6 +497,12 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm7.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolA.enc
+INPUT ..\fig\magtiposdiag.jpg
+INPUT ..\fig\magtiposdiag.jpg
+INPUT ..\fig\magtiposdiag.jpg
+INPUT ..\fig\magtiposdiag.jpg
+INPUT ..\fig\magtiposdiag.jpg
+INPUT ..\fig\magtiposdiag.jpg
 INPUT ..\fig\histeresis1.jpg
 INPUT ..\fig\histeresis1.jpg
 INPUT ..\fig\histeresis1.jpg
@@ -521,23 +527,32 @@ INPUT ..\fig\tiposAFM.png
 INPUT ..\fig\tiposAFM.png
 INPUT ..\fig\tiposAFM.png
 INPUT ..\fig\tiposAFM.png
+INPUT ..\fig\estructurascristalinas.png
+INPUT ..\fig\estructurascristalinas.png
+INPUT ..\fig\estructurascristalinas.png
+INPUT ..\fig\estructurascristalinas.png
+INPUT ..\fig\estructurascristalinas.png
+INPUT ..\fig\estructurascristalinas.png
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1095.tfm
 INPUT 3. Estado del Arte.aux
 INPUT .\3. Estado del Arte.out
 INPUT .\3. Estado del Arte.out
 INPUT 3. Estado del Arte.run.xml
 OUTPUT 3. Estado del Arte.run.xml
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1200.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1200.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1200.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1200.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk

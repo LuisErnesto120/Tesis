@@ -1,22 +1,18 @@
 \documentclass[../main.tex]{subfiles}
 \begin{document}
 \chapter{Resultados}
-Para conseguir resultados significativos, no sólo debieron seguirse los métodos descritos en el capítulo anterior, sino que también estos se realizaron en un orden particular, que permitió determinar las condiciones de las técnicas subsecuentes además de prevenir mediciones innecesarias. En la figura \ref{fig:resdiag} se puede observar un diagrama del orden seguido.
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.7\textwidth]{fig/diagresultados.png}
-    \caption{Resultados obtenidos mediante las técnicas de síntesis y caracterización descritas en el capítulo 4.}
-    \label{fig:resdiag}
-\end{figure}
+A continuación se reportan los resultados obtenidos con la metodología descrita en el capítulo anterior.
 \section{Muestras Sintetizadas} \label{sec:sintesis}
 Se sintetizaron un total de 8 muestras de 1g de cada ortoferrita. Una muestra de cada una fue reservada para realizar un análisis termogravimétrico. A través de éste, se determinó la temperatura mínima de calcinación para ambas ortoferritas, como se reporta en la sección \ref{sec:TGA}.
 
 Con estas temperaturas en mente, 600\gradoC{} para el \neod{} y 700\gradoC{} para el \sama{}, se calcinaron el resto de muestras, 4 muestras de \neod{} se calcinaron a 600\gradoC{}, para las otras 3 se aumentó la temperatura 100\gradoC{} por cada una, es decir, se calcinaron a 700, 800 y 900\gradoC{} respectivamente.
 
 Por otro lado, para el \sama{} se calcinaron 4 muestras a 700\gradoC{}, aumentando la temperatura de la misma forma que en el caso del \neod{} para las otras 3, es decir, se calcinaron a 800, 900 y 1000\gradoC{} respectivamente.
+
+Se obtuvieron polvos de color café rojizo con apariencia porosa, como se muestra en la figura \textbf{[tomar foto de muestra]}.
 \section{Caracterización}
-\subsection{Análisis Térmico} \label{sec:analisistermico}
-\subsubsection{Análisis Termogravimétrico} \label{sec:TGA}
+En esta sección se reportan los resultados obtenidos a través de las técnicas descritas en el capítulo \ref{cap:metodologia}.
+\subsection{Análisis Termogravimétrico} \label{sec:TGA}
 Se realizó un análisis termogravimétrico a ambas ortoferritas, lo cual dió como resultado las siguientes curvas de masa contra temperatura:
 \begin{figure}[H]
     \centering
@@ -51,25 +47,33 @@ Se pueden observar 3 regiones distintas donde ocurren cambios térmicos en la mu
     \caption{Regiones donde cambia el comportamiento de la masa respecto a la temperatura para ambas muestras.}
     \label{tabla:TGAtabla}
 \end{table}
-La región 1 coincide con las temperaturas a la que el agua se evapora y se combustiona la fase orgánica en la muestra. Se piensa que la formación de la fase cristalina ocurre en las regiones 2 y 3.
+La región 1 coincide con las temperaturas a la que el agua se evapora y se combustiona la fase orgánica en la muestra. Se piensa que la formación de la fase cristalina ocurre en la región 2, lo cual se corrobora con DRX. En la región 3 parece ocurrir una modificación en los ángulos de la celda unitaria, de acuerdo a las observaciones que se discutirán en la sección 
 \subsection{Análisis Estructural, Morfológico y de Composición} \label{sec:analisisestruc}
-
+En esta sección se discutirán los resultados obtenidos en las técnicas de caracterización estructural: SEM, EDS y DRX. Se discute la morfología y la composición de las muestras así como su estructura cristalina.
 \subsubsection{Microscopía Electrónica de Barrido}
-Se estudió la morfología de las partículas sintetizadas a través de esta técnica, dando como resultado imágenes como las que se muestran en las figuras \ref{fig:resSEMsinsonicar}, \ref{fig:resSEMsonicada2} y \ref{fig:resSEMsonicada4}.
+Se estudió la morfología de las partículas sintetizadas a través de esta técnica, dando como resultado imágenes como las que se muestran en las figuras \ref{fig:resSEM900}, \ref{fig:resSEMsinsonicar}, \ref{fig:resSEMsonicada2} y \ref{fig:resSEMsonicada4}.
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.45\textwidth]{fig/semneod.png}
+    \includegraphics[width=0.45\textwidth]{fig/semneod600.png}
     \quad
-    \includegraphics[width=0.45\textwidth]{fig/semsama.png}
-    \caption{Imágenes obtenidas a través de SEM para las muestras sin sonicar. Amplificación $\times500$}
+    \includegraphics[width=0.45\textwidth]{fig/semsama700.png}
+    \caption{Imágenes obtenidas a través de SEM para las muestras sin sonicar. Muestra de \neod{} calcinada a 600\gradoC{}, muestra de \sama{} calcinada a 700\gradoC{}. Amplificación $\times500$}
     \label{fig:resSEMsinsonicar}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/semneod900.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/semsama1000.png}
+    \caption{Imágenes obtenidas a través de SEM para las muestras sin sonicar. Muestra de \neod{} calcinada a 900\gradoC{}, muestra de \sama{} calcinada a 1000\gradoC{}. Amplificación $\times500$}
+    \label{fig:resSEM900}
 \end{figure}
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.45\textwidth]{fig/semneod2h.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/semsama2h.png}
-    \caption{Imágenes obtenidas a través de SEM para las muestras sonicadas 2 horas. Amplificación $\times500$}
+    \caption{Imágenes obtenidas a través de SEM para las muestras sonicadas 2 horas. Muestra de \neod{} calcinada a 600\gradoC{}, muestra de \sama{} calcinada a 700\gradoC{}. Amplificación $\times500$}
     \label{fig:resSEMsonicada2}
 \end{figure}
 \begin{figure}[H]
@@ -77,48 +81,48 @@ Se estudió la morfología de las partículas sintetizadas a través de esta té
     \includegraphics[width=0.45\textwidth]{fig/semneod4h.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/semsama4h.png}
-    \caption{Imágenes obtenidas a través de SEM para las muestras sonicadas 4 horas. Amplificación $\times500$}
+    \caption{Imágenes obtenidas a través de SEM para las muestras sonicadas 4 horas. Muestra de \neod{} calcinada a 600\gradoC{}, muestra de \sama{} calcinada a 700\gradoC{}. Amplificación $\times500$}
     \label{fig:resSEMsonicada4}
 \end{figure}
-Se observa que estas partículas presentan una estructura porosa, la cual se rompe después de ser sometida a un proceso de sonicación, siendo esto evidente al comparar las imágenes de la figura \ref{fig:resSEMsinsonicar}, las cuales muestran a las ortoferritas de \neod{} calcinada a 600\gradoC{} y \sama{} calcinada a 700\gradoC{} respectivamente, con las que se encuentran en la figura \ref{fig:resSEMsonicada2}, en donde se muestran éstas mismas muestras después de ser sonicadas por 2 horas a 292W, además de las de la figura figura \ref{fig:resSEMsonicada4}, donde éstas muestras fueron sonicadas por 4 horas a la misma potencia.
+Se observa que estas partículas presentan una estructura porosa independientemente de la temperatura, la cual se rompe después de ser sometida a un proceso de sonicación, siendo esto visible a simple vista al comparar las imágenes de las figuras \ref{fig:resSEMsinsonicar} y \ref{fig:resSEM900}, las cuales muestran a las ortoferritas de \neod{} calcinada a 600\gradoC{} y \sama{} calcinada a 700\gradoC{} respectivamente, con las que se encuentran en la figura \ref{fig:resSEMsonicada2}, en donde se muestran éstas mismas muestras después de ser sonicadas por 2 horas a 292W, además de las de la figura figura \ref{fig:resSEMsonicada4}, donde éstas muestras fueron sonicadas por 4 horas a la misma potencia.
 Como ya se describió en la sección \ref{sec:analisisestadistico}, los tamaños de partícula fueron obtenidos haciendo uso de \textit{ImageJ}.
 
-El primer método descrito en esa sección dió como resultado los siguientes diámetros de partícula promedio:
+Los métodos descritos en esa sección dieron como resultado los siguientes resultados:
 \begin{table}[H]
     \centering
-    \begin{tabular}{|c||c|c|}
+    \begin{tabular}{|c||c|c|c|}
         \hline
-        Muestra & Temperatura de & Diámetro \\
-        & calcinación & promedio \\
-        \hline
-        \hline
-        \multirow{6}{*}{\rotatebox[origin=c]{90}{\neod{}}} & 600\gradoC{} & 1.49 $\pm$ 0.028 \\
-        \cline{2-3}
-        & 600\gradoC{}, sonicada 2 h & 1.00 $\pm$ 0.035 \\
-        \cline{2-3}
-        & 600\gradoC{}, sonicada 4 h & 0.98 $\pm$ 0.023 \\
-        \cline{2-3}
-        & 700\gradoC{} & 1.76 $\pm$ 0.047 \\
-        \cline{2-3}
-        & 800\gradoC{} & 2.5 $\pm$ 0.087 \\
-        \cline{2-3}
-        & 900\gradoC{} & 2.66 $\pm$ 0.065 \\
+        Muestra & Temperatura de & Diámetro promedio & Porcentaje \\
+        & calcinación & ($\mu$m) & $\leq1$ $\mu$m (\%) \\
         \hline
         \hline
-        \multirow{6}{*}{\rotatebox[origin=c]{90}{\sama{}}} & 700\gradoC{} & 2.01 $\pm$ 0.051 \\
-        \cline{2-3}
-        & 700\gradoC{}, sonicada 2 h & 1.81 $\pm$ 0.037 \\
-        \cline{2-3}
-        & 700\gradoC{}, sonicada 4 h & 1.66 $\pm$ 0.045 \\
-        \cline{2-3}
-        & 800\gradoC{} & 1.91 $\pm$ 0.034 \\
-        \cline{2-3}
-        & 900\gradoC{} & 1.97 $\pm$ 0.029 \\
-        \cline{2-3}
-        & 1000\gradoC{} & 2.02 $\pm$ 0.055 \\
+        \multirow{6}{*}{\rotatebox[origin=c]{90}{\neod{}}} & 600\gradoC{} & 1.49$\pm$0.028 & 67.29$\pm$4.079 \\
+        \cline{2-4}
+        & 600\gradoC{}, sonicada 2 h & 1.00$\pm$0.035 & 80.87$\pm$0.799 \\
+        \cline{2-4}
+        & 600\gradoC{}, sonicada 4 h & 0.98$\pm$0.023 & 87.10$\pm$1.292 \\
+        \cline{2-4}
+        & 700\gradoC{} & 1.76$\pm$0.047 & 58.80$\pm$1.841 \\
+        \cline{2-4}
+        & 800\gradoC{} & 2.5$\pm$0.087 & 61.27$\pm$1.805 \\
+        \cline{2-4}
+        & 900\gradoC{} & 2.66$\pm$0.065 & 53.85$\pm$2.558 \\
         \hline
-        \end{tabular} 
-    \caption{Tamaño promedio de partícula según la temperatura de calcinación para ambas ferritas.}
+        \hline
+        \multirow{6}{*}{\rotatebox[origin=c]{90}{\sama{}}} & 700\gradoC{} & 2.01$\pm$0.051 & 55.18$\pm$2.103 \\
+        \cline{2-4}
+        & 700\gradoC{}, sonicada 2 h & 1.81$\pm$0.037 & 88.13$\pm$1.080 \\
+        \cline{2-4}
+        & 700\gradoC{}, sonicada 4 h & 1.66$\pm$0.045 & 92.62$\pm$0.915 \\
+        \cline{2-4}
+        & 800\gradoC{} & 1.91$\pm$0.034 & 44.4$\pm$2.504 \\
+        \cline{2-4}
+        & 900\gradoC{} & 1.97$\pm$0.029 & 62.28$\pm$2.498 \\
+        \cline{2-4}
+        & 1000\gradoC{} & 2.02$\pm$0.055 & 44.46$\pm$2.640 \\
+        \hline
+\end{tabular}
+    \caption{Tamaño promedio de partícula y porcentaje de partículas con diámetro $\leq$1 $\mu$m según la temperatura de calcinación para ambas ferritas.}
     \label{tabla:restamañoprom}
 \end{table}
 \begin{figure}[H]
@@ -127,61 +131,27 @@ El primer método descrito en esa sección dió como resultado los siguientes di
     \caption{Gráfica del tamaño promedio de partícula según la temperatura de calcinación. a) Muestras de \neod{}, b) muestras de \sama{}}
     \label{fig:restamañoprom}
 \end{figure}
-
-Por otro lado, el segundo método descrito en la sección \ref{sec:analisisestadistico} dió como resultado los siguientes porcentajes:
-\begin{table}[H]
-    \centering
-    \begin{tabular}{|c||c|c|}
-        \hline
-        Muestra & Temperatura de & Porcentaje \\
-        & calcinación & $\leq1$ $\mu$m \\
-        \hline
-        \hline
-        \multirow{6}{*}{\rotatebox[origin=c]{90}{\neod{}}} & 600\gradoC{} & 67.29 $\pm$ 4.0796 \\
-        \cline{2-3}
-        & 600\gradoC{}, sonicada 2 h & 80.87 $\pm$ 0.79942 \\
-        \cline{2-3}
-        & 600\gradoC{}, sonicada 4 h & 87.1 $\pm$ 1.29258 \\
-        \cline{2-3}
-        & 700\gradoC{} & 58.8 $\pm$ 1.84167 \\
-        \cline{2-3}
-        & 800\gradoC{} & 61.27 $\pm$ 1.80513 \\
-        \cline{2-3}
-        & 900\gradoC{} & 53.85 $\pm$ 2.55817 \\
-        \hline
-        \hline
-        \multirow{6}{*}{\rotatebox[origin=c]{90}{\sama{}}} & 700\gradoC{} & 55.18 $\pm$ 2.1034 \\
-        \cline{2-3}
-        & 700\gradoC{}, sonicada 2 h & 88.13 $\pm$ 1.08097 \\
-        \cline{2-3}
-        & 700\gradoC{}, sonicada 4 h & 92.62 $\pm$ 0.91496 \\
-        \cline{2-3}
-        & 800\gradoC{} & 44.4 $\pm$ 2.5047 \\
-        \cline{2-3}
-        & 900\gradoC{} & 62.28 $\pm$ 2.49791 \\
-        \cline{2-3}
-        & 1000\gradoC{} & 44.46 $\pm$ 2.64018 \\
-        \hline
-\end{tabular} 
-    \caption{Porcentaje de partículas con diámetro $\leq$1 $\mu$m según la temperatura de calcinación para ambas ferritas.}
-    \label{tabla:resporcentaje}
-\end{table}
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.9\textwidth]{fig/resporcentaje.png}
     \caption{Gráfica del porcentaje de partículas con diámetro $\leq$1 $\mu$m según la temperatura de calcinación. a) Muestras de \neod{}, b) muestras de \sama{}}
     \label{fig:resporcentaje}
 \end{figure}
-Estos datos sugieren una correlación entre la temperatura de calcinación y el diámetro promedio, en particular para el \neod{}.
+Estos datos sugieren que el tamaño de partícula aumenta con la temperatura de calcinación, en particular para el \neod{}.
 
-Se observa que el tamaño de partícula decrece, al mismo tiempo que aumenta considerablemente el porcentaje de partículas de diámetro $\leq1$ $\mu$m. 
+Por otro lado, la sonicación reduce considerablemente el tamaño promedio de partícula, además de aumentar el porcentaje de partículas con diámetro $\leq$1 $\mu$m
 
 Sin embargo, duplicar el tiempo de sonicación no cambia los resultados de manera significativa, por lo cual se piensa que este proceso sólo rompe las partículas más grandes, pero no es lo suficientemente potente para fragmentar las más pequeñas.
 \subsubsection{Espectroscopía de Dispersión de Energía}
 Esta técnica reveló los elementos presentes en las muestras introducidas al microscopio electrónico de barrido, lo cual permite hallar posibles contaminantes, además de delimitar las posibles estructuras cristalinas a tomar en cuenta en el análisis de la difracción de rayos X de la sección \ref{sec:analisisDRX}.
 
 En ninguna de las mediciones se encontraron contaminantes externos, a excepción de carbono, el cuál puede explicarse debido a que la cinta utilizada para la preparación de muestras está hecha de este material, esto se reporta en las tablas \ref{tab:EDSNd} y \ref{tab:EDSSm}.
-
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{fig/resEDSNeod.png}
+    \caption{EDS de la muestra de \neod{} calcinada a 600\gradoC{} sin sonicar.}
+    \label{fig:resEDSNeod}
+\end{figure}
 \begin{table}[H]
     \begin{tabular}{|c||c|c|c|c|c|c|c|}
         \hline
@@ -197,6 +167,12 @@ En ninguna de las mediciones se encontraron contaminantes externos, a excepción
             \caption{EDS de las muestras de \neod{}.}
             \label{tab:EDSNd}
         \end{table}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{fig/resEDSSama.png}
+    \caption{EDS de la muestra de \sama{} calcinada a 700\gradoC{} sin sonicar.}
+    \label{fig:resEDSSama}
+\end{figure}
         \begin{table}[H]
             \centering
         \begin{tabular}{|c||c|c|c|c|c|c|}
@@ -220,12 +196,12 @@ A continuación se reportan los espectros obtenidos mediante la metodología des
     \includegraphics[width=0.45\textwidth]{fig/drxtempndfeo3.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/drxtempsmfeo3.png}
-    \caption{Espectros obtenidos mediante DRX de las muestras calcinadas a distintas temperaturas. a) Muestras de \neod{}, b) Muestras de \sama{}.}
+    \caption{Espectros obtenidos mediante DRX de las muestras calcinadas a distintas temperaturas. a) Muestras de \neod{}, b) Muestras de \sama{}. En cada gráfica se indican entre paréntesis los ángulos de difracción para diferentes planos obtenidos de \cite{ndfeo3} y \cite{smfeo3} respectivamente.}
     \label{fig:drxtempcomp}
 \end{figure}
 Se puede observar que los picos obtenidos coinciden con el espectro de la estructura reportada en \cite{ndfeo3} para el \neod{} y en \cite{smfeo3} para el \sama{}.
 
-Se observa el desdoblamiento del pico principal al aumentar la temperatura de calcinación, esto sugiere un cambio de fase cristalina al realizar la síntesis a mayor temperatura.
+Se observa el desdoblamiento del pico principal al aumentar la temperatura de calcinación entre 700 y 900\gradoC{}, especialmente para el \neod{}, esto sugiere un cambio de fase cristalina al realizar la síntesis a mayor temperatura.
 
 A continuación se reportan los espectros obtenidos para las muestras sonicadas
 \begin{figure}[H]
@@ -233,28 +209,28 @@ A continuación se reportan los espectros obtenidos para las muestras sonicadas
     \includegraphics[width=0.45\textwidth]{fig/drxsonicndfeo3.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/drxsonicsmfeo3.png}
-    \caption{Espectros obtenidos mediante DRX de las muestras sonicadas. a) Muestras de \neod{}, b) Muestras de \sama{}.}
+    \caption{Espectros obtenidos mediante DRX de las muestras sonicadas. a) Muestras de \neod{}, b) Muestras de \sama{}. En cada gráfica se indican entre paréntesis los ángulos de difracción para diferentes planos obtenidos de \cite{ndfeo3} y \cite{smfeo3} respectivamente.}
     \label{fig:drxsoniccomp}
 \end{figure}
-No se observan cambios notorios entre los espectros al variar el tiempo de sonicación.
+No se observan cambios notorios entre los espectros al variar el tiempo de sonicación, por lo que no parece haber un cambio en la estructura cristalina.
 
 \paragraph{Refinamiento Rietveld}
 Mediante esta técnica se obtuvieron espectros como los siguientes:
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{fig/DRX600NdFeO3.png}
-    \caption{Refinamiento Rietveld de la muestra de \neod{} calcinada a 600\gradoC{} sin sonicar. Estructuras utilizadas: \neod{} \cite{ndfeo3}, \ce{Nd(OH)3} \cite{ndoh3}, \ce{Fe(OH)2} \cite{feoh2}, \ce{Nd2O3} \cite{nd2o3}, \ce{Fe2O3} \cite{fe2o3}, \ce{FeO} \cite{feo}.}
+    \caption{Refinamiento Rietveld de la muestra de \neod{} calcinada a 600\gradoC{} sin sonicar. Cada punto representa la intensidad de los rayos difractados medida a un ángulo de incidencia dado, la curva roja es el ajuste hecho por \textit{MAUD} (panel superior). Estructuras utilizadas: \neod{} \cite{ndfeo3}, \ce{Nd(OH)3} \cite{ndoh3}, \ce{Fe(OH)2} \cite{feoh2}, \ce{Nd2O3} \cite{nd2o3}, \ce{Fe2O3} \cite{fe2o3}, \ce{FeO} \cite{feo} (panel inferior).}
     \label{fig:rietveld600ndresultados}
 \end{figure}
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{fig/DRX700SmFeO3.png}
-    \caption{Refinamiento Rietveld de la muestra de \neod{} calcinada a 600\gradoC{} sin sonicar. Estructuras utilizadas: \sama{} \cite{smfeo3}, \ce{Sm(OH)3} \cite{smoh3}, \ce{Fe(OH)2} \cite{feoh2}, \ce{Sm2O3} \cite{sm2o3}, \ce{Fe2O3} \cite{fe2o3}, \ce{SmO} \cite{smo}, \ce{FeO} \cite{feo}.}
+    \caption{Refinamiento Rietveld de la muestra de \neod{} calcinada a 600\gradoC{} sin sonicar. Cada punto representa la intensidad de los rayos difractados medida a un ángulo de incidencia dado, la curva roja es el ajuste hecho por \textit{MAUD} (panel superior). Estructuras utilizadas: \sama{} \cite{smfeo3}, \ce{Sm(OH)3} \cite{smoh3}, \ce{Fe(OH)2} \cite{feoh2}, \ce{Sm2O3} \cite{sm2o3}, \ce{Fe2O3} \cite{fe2o3}, \ce{SmO} \cite{smo}, \ce{FeO} \cite{feo} (panel inferior).}
     \label{fig:rietveld700smresultados}
 \end{figure}
 El resto de refinamientos pueden encontrarse en el anexo \ref{sec:anexorietveld}.
 
-Mediante estos refinamientos se encontró que las muestras contienen las siguientes estructuras:
+Mediante estos refinamientos se encontró que las muestras contienen las siguientes composiciones:
 \begin{table}[H]
     \centering
     \begin{tabular}{|c||c|c|c|c|c|c|c|}
@@ -301,7 +277,7 @@ Mediante estos refinamientos se encontró que las muestras contienen las siguien
     \caption{Porcentaje del peso que representa cada una de las estructuras cristalinas presentes en cada muestra de \sama{}.}
     \label{tabla:refrietvsama}
 \end{table}
-Se observa que el método de síntesis utilizado produce muestras de pureza alta, $\geq$(min ndfeo3) para el \neod{} y $\geq$(min smfeo3) para el \sama{}.
+Se observa que el método de síntesis utilizado produce muestras de pureza alta, $\geq$95.73 para el \neod{} y $\geq$97.95 para el \sama{}.
 \subsection{Análisis Óptico, Magnético y Eléctrico} \label{sec:analisisoptmagelec}
 \subsubsection{Espectroscopía UV-Vis}
 Mediante la metodología descrita en la sección \ref{sec:uvvismetod} se obtuvieron las siguientes gráficas de absorbancia contra longitud de onda:
@@ -319,7 +295,7 @@ Mediante los resultados anteriores se llegó a los siguientes \textit{band gaps}
     \begin{tabular}{|c||c|c|}
         \hline
         Muestra & Temperatura de & \textit{Band Gap} \\
-        & calcinación & \\
+        & calcinación & (eV) \\
         \hline\hline
         \multirow{6}{*}{\rotatebox[origin=c]{90}{\neod{}}} & 600\gradoC{} & 1.84$\pm$0.003 \\
         \cline{2-3}
@@ -359,81 +335,58 @@ Mediante los resultados anteriores se llegó a los siguientes \textit{band gaps}
 \end{figure}
 En ambas ortoferritas se observa que el \textit{band gap} aumenta con la temperatura y el tiempo de sonicación, teniendo en ambos casos un mínimo en la muestra calcinada a menor temperatura y sin sonicar.
 \subsubsection{Magnetometría SQUID}
-
-\paragraph{M v H}
-Se obtuvieron las siguientes mediciones:
+A continuación se presentan las mediciones magnéticas realizadas a las muestras de ambas ferritas calcinadas a 900\gradoC{}, además de las muestras de \neod{} calcinadas a 600\gradoC{} y de \sama{} calcinadas a 700\gradoC{}, sin sonicar y sonicadas 4 h.
+\paragraph{Muestras de \neod{}}
+Se obtuvieron las siguientes curvas de $M$ vs $H$:
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.45\textwidth]{fig/mvhNd.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/mvhNd-S.png}
-    \caption{Curvas $M$ contra $H$ para las muestras de \neod{}: a) sin sonicar y b) sonicada.}
+    \includegraphics[width=0.45\textwidth]{fig/mvhNd900.png}
+    \caption{Curvas $M$ contra $H$ para las muestras de \neod{}: a) calcinada a 600\gradoC{} sin sonicar, b) calcinada a 600\gradoC{} sonicada y c) calcinada a 900\gradoC{}.}
     \label{fig:mvhNd}
 \end{figure}
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.45\textwidth]{fig/mvhSm.png}
-    \quad
-    \includegraphics[width=0.45\textwidth]{fig/mvhSm-S.png}
-    \caption{Curvas $M$ contra $H$ para las muestras de \sama{}: a) sin sonicar y b) sonicada.}
-    \label{fig:mvhSm}
-\end{figure}
-En ninguno de los casos se observa una diferencia significativa en el comportamiento de las muestras sonicadas y sin sonicar.
+No se observa un cambio significativo con la sonicación, sin embargo, el comportamiento de la muestra es totalmente distinto según su temperatura de calcinación.
 
-Las muestras de \neod{} exhiben un comportamiento ferromagnético débil a $T=5$ K, el cual tiende a un paramagnético al aumentar la temperatura.
-
-Por otro lado, las muestras de \sama{} exhiben un comportamiento ferromagnético más fuerte a $T=5$ K, el cual tiende a un paramagnético al aumentar la temperatura. Sin embargo, la muestra de \sama{} sonicada aún muestra un ciclo de histéresis debil a $T=300$ K.
+Las muestras calcinadas a 600\gradoC{} muestran un comportamiento superparamagnético a temperatura ambiente, con $H_c$ y $M_r\approx0$, el cual, como es de esperarse para este tipo de material, tiende a ferromagnético al bajar la temperatura. Por otro lado, la muestra calcinada a 900\gradoC{} muestra un comportamiento ferromagnético débil, lo cual es consistente con la estructura antiferromagnética reportada en \cite{Wang2019}.
 
 A continuación se reportan los valores obtenidos para $M_r$, $M_s$ y $H_c$.
 \begin{table}[H]
     \centering
     \begin{tabular}{|c||c|c|c|}
-        \hline
-        \multicolumn{4}{|c|}{$T=5$ K} \\
         \hline 
         Muestra & $M_s$ (emu/g) & $M_r$ (emu/g) & $H_c$ (Oe) \\
         \hline
         \hline
-        \neod{} sin sonicar & 2.83$\pm$0.006 & 1.74$\pm$0.024 & 523.71$\pm$23.818 \\
+        \multicolumn{4}{|c|}{$T=5$ K} \\
         \hline
-        \neod{} sonicada & 2.63$\pm$0.011 & 1.44$\pm$0.032 & 219.61$\pm$17.736 \\
+        \neod{} (600\gradoC{}) sin sonicar & 2.83$\pm$0.006 & 1.74$\pm$0.024 & 523.71$\pm$23.818 \\
         \hline
-        \sama{} sin sonicar & 0.13$\pm$0.002 & 0.01$\pm$0.004 & 252.014$\pm$5.531 \\
-        \hline
-        \sama{} sonicada & 0.04$\pm$0.001 & 0.08$\pm$0.002 & 591.54$\pm$20.834 \\
-        \hline
-        \end{tabular} 
-    \caption{Valores obtenidos para las muestras a $T= 5$ K.}
-    \label{tabla:mvh5k}
-\end{table}
-\begin{table}[H]
-    \centering
-    \begin{tabular}{|c||c|c|c|}
+        \neod{} (600\gradoC{}) sonicada 4 h & 2.63$\pm$0.011 & 1.44$\pm$0.032 & 219.61$\pm$17.736 \\
         \hline
         \multicolumn{4}{|c|}{$T=300$ K} \\
-        \hline
+        \hline 
         Muestra & $M_s$ (emu/g) & $M_r$ (emu/g) & $H_c$ (Oe) \\
         \hline
         \hline
-        \neod{} sin sonicar & 2.18$\pm$0.001 & 0.83$\pm$0.012 & 163.64$\pm$74.669 \\
+        \neod{} (600\gradoC{}) sin sonicar & 2.18$\pm$0.001 & 0.83$\pm$0.012 & 163.64$\pm$74.669 \\
         \hline
-        \neod{} sonicada & 2.34$\pm$0.001 & 0.92$\pm$0.039 & 219.61$\pm$17.736 \\
+        \neod{} (600\gradoC{}) sonicada 4 h & 2.34$\pm$0.001 & 0.92$\pm$0.039 & 153.87$\pm$28.621 \\
         \hline
-        \sama{} sin sonicar & 0.06$\pm$0.001 & 0.07$\pm$0.001 & 2206.76$\pm$41.575 \\
-        \hline
-        \sama{} sonicada & 0.17$\pm$0.002 & 0.12$\pm$0.001 & 1561.36$\pm$20.612 \\
+        \neod{} (900\gradoC{}) & 0.09$\pm$0.002 & 0.08$\pm$0.001 & 2832.19$\pm$53.892 \\
         \hline
         \end{tabular} 
-    \caption{Valores obtenidos para las muestras a $T= 300$ K.}
-    \label{tabla:mvh300k}
+    \caption{Valores de $M_s$, $M_r$ y $H_c$ obtenidos para las muestras de \neod{}.}
+    \label{tabla:resmvshneod}
 \end{table}
-\paragraph{Curvas ZFC y FC}
-Se obtuvieron las siguientes curvas:
+Por otra parte, se obtuvieron las siguientes curvas $M$ vs $T$ y $\chi$ vs $T$:
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.45\textwidth]{fig/MvTNd.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/MvTNd-S.png}
+    \includegraphics[width=0.45\textwidth]{fig/MvTNd900.png}
     \caption{Curvas $M$ contra $T$ para las muestras de \neod{}: a) sin sonicar y b) sonicada.}
     \label{fig:MvTNd}
 \end{figure}
@@ -442,14 +395,59 @@ Se obtuvieron las siguientes curvas:
     \includegraphics[width=0.45\textwidth]{fig/chivTNd.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/chivTNd-S.png}
+    \includegraphics[width=0.45\textwidth]{fig/chivTNd900.png}
     \caption{Curvas $\chi$ contra $T$ para las muestras de \neod{}: a) sin sonicar y b) sonicada.}
     \label{fig:chivTNd}
 \end{figure}
+No se observa un cambio significativo entre las muestras sonicada y sin sonicar, pero sí un cambio con la temperatura de calcinación.
+
+Para las muestras calcinadas a 600\gradoC{} se observa un reordenamiento magnético alrededor de los 20 K (24.10$\pm$0.064 K para la muestra sin sonicar, 20.82$\pm$0.036 K para la muestra sonicada), donde ocurre un mínimo local de $M$ y $\chi$, además de una separación considerable de las curvas ZFC y FC, la cual se reduce a medida que aumenta la temperatura. Por otra parte, para la muestra calcinada a 900\gradoC{} no se observa esta transición de fase, y las curvas ZFC y FC son muy similares entre sí.
+\paragraph{Muestras de \sama{}}
+Se obtuvieron las siguientes curvas de $M$ vs $H$
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.45\textwidth]{fig/mvhSm.png}
+    \quad
+    \includegraphics[width=0.45\textwidth]{fig/mvhSm-S.png}
+    \includegraphics[width=0.45\textwidth]{fig/mvhSm900.png}
+    \caption{Curvas $M$ contra $H$ para las muestras de \sama{}: a) calcinada a 600\gradoC{} sin sonicar, b) calcinada a 600\gradoC{} sonicada y c) calcinada a 900\gradoC{}.}
+    \label{fig:mvhSm}
+\end{figure}
+A diferencia del \neod{}, las muestras de \sama{} muestran un comportamiento ferromagnético débil independientemente de la temperatura de calcinación. Se observa que en este caso la sonicación provocó una mejoría en las propiedades ferromagnéticas de la muestra calcinada a 700\gradoC{}, observando incluso un ciclo de histéresis a 5 K.
+
+A continuación se reportan los valores obtenidos para $M_r$, $M_s$ y $H_c$.
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c||c|c|c|}
+        \hline 
+        Muestra & $M_s$ (emu/g) & $M_r$ (emu/g) & $H_c$ (Oe) \\
+        \hline
+        \hline
+        \multicolumn{4}{|c|}{$T=5$ K} \\
+        \hline 
+        \sama{} (700\gradoC{}) sin sonicar & 0.13$\pm$0.002 & 0.01$\pm$0.004 & 252.014$\pm$5.531 \\
+        \hline
+        \sama{} (700\gradoC{}) sonicada 4 h & 0.04$\pm$0.001 & 0.08$\pm$0.002 & 591.54$\pm$20.834 \\
+        \hline
+        \multicolumn{4}{|c|}{$T=300$ K} \\
+        \hline
+        \sama{} (700\gradoC{}) sin sonicar & 0.06$\pm$0.001 & 0.07$\pm$0.001 & 2206.76$\pm$41.575 \\
+        \hline
+        \sama{} (700\gradoC{}) sonicada 4 h & 0.17$\pm$0.002 & 0.12$\pm$0.001 & 1561.36$\pm$20.612 \\
+        \hline
+        \sama{} (1000\gradoC{}) & 0.14$\pm$0.001 & 0.11$\pm$0.002 & 1835.08$\pm$37.872 \\
+        \hline
+        \end{tabular} 
+    \caption{Valores de $M_s$, $M_r$ y $H_c$ obtenidos para las muestras de \sama{}.}
+    \label{tabla:resmvhsama}
+\end{table}
+Por otra parte, se obtuvieron las siguientes curvas $M$ vs $T$ y $\chi$ vs $T$:
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.45\textwidth]{fig/MvTSm.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/MvTSm-S.png}
+    \includegraphics[width=0.45\textwidth]{fig/MvTSm900.png}
     \caption{Curvas $M$ contra $T$ para las muestras de \sama{}: a) sin sonicar y b) sonicada.}
     \label{fig:MvTSm}
 \end{figure}
@@ -458,18 +456,15 @@ Se obtuvieron las siguientes curvas:
     \includegraphics[width=0.45\textwidth]{fig/chivTSm.png}
     \quad
     \includegraphics[width=0.45\textwidth]{fig/chivTSm-S.png}
+    \includegraphics[width=0.45\textwidth]{fig/chivTSm900.png}
     \caption{Curvas $\chi$ contra $T$ para las muestras de \sama{}: a) sin sonicar y b) sonicada.}
     \label{fig:chivTSm}
 \end{figure}
-En el caso de las muestras de \neod{} no se observa un cambio significativo entre las muestras sonicada y sin sonicar. Se observa un reordenamiento magnético alrededor de los 10 K, donde ocurre un mínimo local de $M$ y $\chi$.
-
-Se observa una separación considerable de las curvas ZFC y FC, la cual se reduce a medida que aumenta la temperatura. Esto sugiere un efecto considerable de la anisotropía para estas muestras.
-
-Por otro lado, para las muestras de \sama{} se observa un cambio considerable en el comportamiento de la muestra sonicada y sin sonicar. Ambas presentan reordenamientos magnéticos a baja temperatura, teniendo un máximo local de $M$ y $\chi$ a alrededor de los 10 K, sin embargo este comportamiento es mucho menos pronunciado para la muestra sonicada.
+Las muestras de \sama{} presentan reordenamientos magnéticos a baja temperatura, teniendo un máximo local alrededor de 10 K para las muestras calcinadas a 700\gradoC{} (11.86$\pm$0.014 para la muestra sin sonicar y 10.55$\pm$0.008 para la muestra sonicada), y un mínimo local de $M$ y $\chi$ en 69.00$\pm$0.098 para la muestra calcinada a 900\gradoC{}, sin embargo este comportamiento es mucho menos pronunciado para la muestra sonicada.
 
 En este caso, se observa una separación considerable de las curvas ZFC y FC sólo en el caso de la muestra sonicada, lo cual indica que este proceso aumentó el efecto de la anisotropía para esta muestra.
-\subsubsection{Curvas P-E}
-Se obtuvieron las siguientes gráficas:
+\subsubsection{Curvas de polarización}
+A continuación se reportan las curvas $P$ vs $E$ de las muestras sinterizadas descritas en la sección \ref{sec:clasifmuestras}.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.45\textwidth]{fig/PENdFeO3100V.png}
@@ -502,7 +497,7 @@ Se obtuvieron las siguientes gráficas:
     \caption{Curvas $P$ contra $E$ (eje izquierdo) y $\chi$ contra $E$ (eje derecho) con $V_\text{max}=2000$ V de las muestras de \sama{}: a) sin sonicar y b) sonicada 4 h.}
     \label{fig:sm2000v}
 \end{figure}
-Se puede observar un comportamiento de histéresis sólo en las mediciones realizadas a $V_\text{max}=100$ V, el cual se pierde al aumentar el $V_\text{max}$.
+Se puede observar un comportamiento de histéresis débil sólo en las mediciones realizadas a $V_\text{max}=100$ V, cuando se aumenta el voltaje, la polarización tiende a un comportamiento dependiente de la corriente similar al de un resistor, esto es de esperarse pues las muestras son semiconductores, por lo cual, al aplicar un campo eléctrico más grande, los electrones de valencia pueden recibir suficiente energía para saltar a la banda de conducción.
 
 A continuación se reportan los valores obtenidos para $P_r$, $P_s$ y $E_c$ para las mediciones con $V_\text{max}=100$ V.
 
@@ -523,5 +518,7 @@ A continuación se reportan los valores obtenidos para $P_r$, $P_s$ y $E_c$ para
         \end{tabular} 
     \label{tabla:respolar}
 \end{table}
-Se observan valores pequeños en los valores de $P_s$, $P_r$ y $E_c$ para todas las muestras. La sonicación no tuvo un efecto notorio en las propiedades eléctricas.
+Se observan valores pequeños de $P_s$, $P_r$ y $E_c$ para todas las muestras. La sonicación no tuvo un efecto notorio en las propiedades eléctricas.
+
+No se logró hacer una comparación contra la $T$ de calcinación debido a que el proceso de sinterización se realizó a 1000\gradoC{}.
 \end{document}

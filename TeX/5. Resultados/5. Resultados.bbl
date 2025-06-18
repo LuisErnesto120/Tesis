@@ -163,8 +163,8 @@
       \strng{authorfullhash}{e2211c0d799c99ee8fe778f2a414c06a}
       \strng{authorfullhashraw}{e2211c0d799c99ee8fe778f2a414c06a}
       \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Structural Science}
@@ -209,8 +209,8 @@
       \strng{authornamehash}{a053a7c9496df227a1a0975484aaca92}
       \strng{authorfullhash}{b0f8063520b602a19832e71d8948bba7}
       \strng{authorfullhashraw}{b0f8063520b602a19832e71d8948bba7}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Structural Science}
@@ -240,8 +240,8 @@
       \strng{authornamehash}{57a38d8edbec089221544cd0733a932b}
       \strng{authorfullhash}{57a38d8edbec089221544cd0733a932b}
       \strng{authorfullhashraw}{57a38d8edbec089221544cd0733a932b}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Zeitschrift fuer Physikalische Chemie}
@@ -291,8 +291,8 @@
       \strng{authornamehash}{43635c3e67ddbd5c88fd9476aac0a6c7}
       \strng{authorfullhash}{7b7f510ad11517604a6f0138d13fe806}
       \strng{authorfullhashraw}{7b7f510ad11517604a6f0138d13fe806}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Solid State Chemistry}
@@ -327,8 +327,8 @@
       \strng{authornamehash}{40b98d1b4b369066050a9cd177e5510d}
       \strng{authorfullhash}{40b98d1b4b369066050a9cd177e5510d}
       \strng{authorfullhashraw}{40b98d1b4b369066050a9cd177e5510d}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Journal of Chemical Physics}
@@ -369,8 +369,8 @@
       \strng{authorfullhash}{e1fe1be9ea1eb43ef53ed1bf2d95693e}
       \strng{authorfullhashraw}{e1fe1be9ea1eb43ef53ed1bf2d95693e}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Inorganic and Nuclear Chemistry}
@@ -400,8 +400,8 @@
       \strng{authornamehash}{b768ed28e4d08f2a15663d826b5655d0}
       \strng{authorfullhash}{b768ed28e4d08f2a15663d826b5655d0}
       \strng{authorfullhashraw}{b768ed28e4d08f2a15663d826b5655d0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Norsk Geologisk Tidsskrift}
@@ -443,6 +443,62 @@
       \field{year}{1953}
       \field{pages}{5650\bibrangedash 5652}
       \range{pages}{3}
+    \endentry
+    \entry{Wang2019}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=39f0b3347a8cc447c5e60393cd393898}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhao\bibnamedelima Qi},
+           giveni={Z\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=b0555c1c662413f9081d43a73e6b8b49}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yang\bibnamedelima Shun},
+           giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=564fce26e7f0470b418d0ab0f97cf251}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Zhao\bibnamedelima Yi},
+           giveni={Z\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=2b202b459bbc3f1e5114ed11823bb503}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xiang\bibnamedelima Rong},
+           giveni={X\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=293792788278d838f54cbca0b0276d1f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Qi\bibnamedelima Feng},
+           giveni={Q\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{9ae312133df1c0bfaa76f1c00301819e}
+      \strng{fullhash}{968f903fd9c954112b5cded2f8420872}
+      \strng{fullhashraw}{968f903fd9c954112b5cded2f8420872}
+      \strng{bibnamehash}{968f903fd9c954112b5cded2f8420872}
+      \strng{authorbibnamehash}{968f903fd9c954112b5cded2f8420872}
+      \strng{authornamehash}{9ae312133df1c0bfaa76f1c00301819e}
+      \strng{authorfullhash}{968f903fd9c954112b5cded2f8420872}
+      \strng{authorfullhashraw}{968f903fd9c954112b5cded2f8420872}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0038-1098}
+      \field{journaltitle}{Solid State Communications}
+      \field{month}{2}
+      \field{title}{Magnetic structures and optical properties of rare-earth orthoferrites RFeO3 (R = Ho, Er, Tm and Lu)}
+      \field{volume}{288}
+      \field{year}{2019}
+      \field{pages}{10\bibrangedash 17}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/J.SSC.2018.11.004
+      \endverb
+      \keyw{Electronic structure,Magnetic anisotropy,Optical property,Orthoferrite}
     \endentry
   \enddatalist
 \endrefsection

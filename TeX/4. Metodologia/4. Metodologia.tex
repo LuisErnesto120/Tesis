@@ -48,7 +48,7 @@ Por su parte, la relación estequiométrica por cada gramo de \sama{} es la que 
     \caption{Cantidad de cada compuesto necesaria para sintetizar 1 g de \sama{}.}
     \label{tab:sintesissama}
     \end{table}
-    En cada caso, los reactivos se mezclaron en dos vasos de precipitados con 20 ml de agua desionizada cada uno, el EDTA y el hidróxido de amonio en un vaso y el resto de los compuestos en otro, como se observa en la figura \ref{fig:diagflujosint} (1), se calentó el vaso que contenía EDTA a alrededor de 60\gradoC{} mientras éste se disolvía y posteriormente se añadió el contenido del otro vaso de precipitados. Una vez hecho ésto, se comprobó que se tuviera un pH neutro, en caso contrario se agregó más EDTA o hidróxido de amonio según fuera necesario. Una vez hecho esto, se subió la temperatura gradualmente hasta que la mezcla alcanzó alrededor de 80\gradoC{}, lo cual se ilustra en la figura \ref{fig:diagflujosint} (2), ésto con el fin de que se combustionara. Finalmente, el producto de esta combustión se molió haciendo uso de un mortero. 
+    En cada caso, los reactivos se mezclaron en dos vasos de precipitados con 20 ml de agua desionizada cada uno, el EDTA y el hidróxido de amonio en un vaso y el resto de los compuestos en otro, como se observa en la figura \ref{fig:diagflujosint} (1), se calentó el vaso que contenía EDTA a alrededor de 60\gradoC{} mientras éste se disolvía y posteriormente se añadió el contenido del otro vaso de precipitados. Una vez hecho ésto, se comprobó que se tuviera un pH neutro, en caso contrario se agregó más EDTA o hidróxido de amonio según fuera necesario. Posteriormente se subió la temperatura gradualmente hasta que la mezcla alcanzó alrededor de 80\gradoC{}, lo cual se ilustra en la figura \ref{fig:diagflujosint} (2), ésto con el fin de que se combustionara. Finalmente, el producto de esta combustión se molió haciendo uso de un mortero. 
     
     Se separó una muestra por cada tierra rara para realizar un análisis termogravimétrico, mostrado en la figura \ref{fig:diagflujosint} (3a), del cual se hablará en una sección posterior.
 
@@ -131,6 +131,8 @@ Es decir, éstos forman un rayo difractado si y sólo si:
     \label{eq:leydebragg}
 \end{equation}
 Esta ecuación se denomina ley de Bragg, esta proporciona información sobre la estructura cristalina de una estructura dada a través de sus ángulos de difracción \cite{Cullity2014}.
+
+Para obtener los ángulos de difracción de cada ortoferrita se utilizó el programa \textit{VESTA} \cite{VESTA}, en conjunto con datos sobre las estructuras cristalinas encontrados en \textit{Crystallography Open Database} \cite{COD}.
 \subsubsection{Refinamiento Rietveld}
 El método de Rietveld es una técnica de refinamiento que permite estudiar los patrones de difracción generados por rayos X de manera cuantitativa. Esta técnica permite encontrar información sobre la composición de la muestra, las fases cristalinas existentes en ésta y la posible presencia de contaminantes que posean una fase cristalina.
 
@@ -159,11 +161,11 @@ Donde:
     \item $A$ es un factor de absorción que depende del espesor de la muestra y la geometría del equipo de difracción.
     \item $y_{b,i}$ es la intensidad del fondo en el punto $2\theta_i$ del patrón de difracción.
 \end{itemize} 
-Para realizar éste análisis, se utilizó el programa \textit{MAUD - Materials Analysis Using Diffraction} \cite{MAUD}, el cual permite importar datos teóricos de cada una de las fases cristalinas, obtenidos de \cite{COD}, para calcular las intensidades teóricas utilizadas en el método Rietveld y utilizar éstas en conjunto con los datos experimentales en el refinamiento para minimizar $S_y$ (ecuación \ref{eq:intcalculada}) a través de los parámetros descritos anteriormente. Ésto dando como resultado gráficas como la que se muestra en la figura \ref{fig:picosrietveld}, además del porcentaje que representa cada fase en la muestra y la calidad del ajuste a través de los criterios que se discutirán en la sección \ref{sec:refinamiento}.
+Para realizar éste análisis, se utilizó el programa \textit{MAUD - Materials Analysis Using Diffraction} \cite{MAUD}, el cual permite importar datos teóricos de cada una de las fases cristalinas, obtenidos de \cite{COD}, para calcular las intensidades teóricas utilizadas en el método Rietveld y utilizar éstas en conjunto con los datos experimentales en el refinamiento para minimizar $S_y$ (ecuación \ref{eq:intcalculada}) a través de los parámetros descritos anteriormente. Esto dando como resultado gráficas como la que se muestra en la figura \ref{fig:picosrietveld}, además del porcentaje que representa cada fase en la muestra y la calidad del ajuste a través de los criterios que se discutirán en la sección \ref{sec:refinamiento}.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.7\textwidth]{fig/Rietveld.png}
-    \caption{Modelado de picos de difracción utilizando \textit{MAUD}.}
+    \caption{Modelado de picos de difracción utilizando \textit{MAUD}. El rectángulo superior muestra las mediciones de intensidad respecto al ángulo en negro, con la curva ajustada en rojo, debajo de éste se encuentran las estructuras cristalinas y los picos que se observan de éstas en el difractograma y en el rectángulo inferior se tiene el residuo del ajuste.}
     \label{fig:picosrietveld}
 \end{figure}
 \paragraph{Criterios de Refinamiento} \label{sec:refinamiento}
@@ -198,7 +200,7 @@ Se generan campos magnéticos utilizando bobinas conectadas a generadores de ond
     \caption{Diagrama de un microscopio electrónico	de barrido. Adaptado de \cite{Egerton2005}.}
     \label{fig:semdiag}
 \end{figure}
-Se utilizó un microscopio \textit{JEOL JSM-7800F Schottky Field Emission Scanning Electron Microscope}, haciendo uso de un voltaje de 15 kV, una corriente de 8 unidades arbitrarias y un vacío de $9.6\cdot10^{-5}$ Pa.
+Se utilizó un microscopio \textit{JEOL JSM-7800F Schottky Field Emission Scanning Electron Microscope}, haciendo uso de un voltaje de 15 kV, una corriente de 8 unidades arbitrarias, un vacío de $9.6\cdot10^{-5}$ Pa y amplificaciones de $\times500$, $\times1000$, $\times2000$, $\times5000$, $\times10000$ y $\times15000$.
 
 Las muestras fueron preparadas colocando cada una en un portamuestras de aluminio cubierto con cinta de carbono, éstos materiales se utilizan debido a que no son magnéticos pero sí conducen la electricidad.
 
@@ -209,7 +211,7 @@ Los electrones utilizados en un microscopio electrónico de barrido se conocen c
 \begin{itemize}
     \item  \textbf{Electrones Retrodispersados:} Al darse una colisión elástica, producto de la interacción electrostática electrón primario-núcleo, los electrones del haz se ven dispersados. La mayoría de estas deflexiones tienen un ángulo menor a 90\grado, lo cual implica que el haz permanece en el sólido, sin embargo, también pueden darse con un ángulo mayor, conservando la mayor parte de su energía inicial, esto haciendo muy probable que los electrones salgan del sólido, como se puede ver en la figura \ref{semtipos}a.
     \item \textbf{Electrones Secundarios:} En el caso de las colisiones inelásticas, producto de la interacción entre los electrones primarios y los electrones de valencia y conducción del sólido, cuando éstos colisionan, una pequeña parte de la energía se usa como energía potencial permitiendo al electrón salir de su orbital, conservando el resto de la energía perdida por el electrón primario como energía cinética. Aún así, la energía de los electrones producidos por este tipo de interacción es mucho menor a la anterior, permitiendo que escapen del sólido sólo aquellos más cercanos a la superficie. Ésto se ilustra en la figura \ref{semtipos}b.
-    \item \textbf{Rayos X Característicos:} En éste caso, la colisión inelástica ocurre entre el electrón primario y un electrón de una capa interna del átomo, lo cual hace que éste pase brevemente a un estado de energía más alto y rápidamente decaiga de nuevo, liberando un fotón en el proceso. Este fotón estará en el rango de frecuencias de los rayos X, dependiendo el valor exacto de ésta solamente del número atómico Z del átomo, permitiendo conocer la composición química de la muestra. A ésta técnica se le conoce como Espectroscopía de Dispersión de Energía (EDS por sus siglas en inglés). Un ejemplo de esta interacción se muestra en la figura \ref{semtipos}c.
+    \item \textbf{Rayos X Característicos:} En éste caso, la colisión inelástica ocurre entre el electrón primario y un electrón de una capa interna del átomo, lo cual hace que éste pase brevemente a un estado de energía más alto y rápidamente decaiga de nuevo, liberando un fotón en el proceso. Este fotón (en el rango de los rayos X) tendrá una frecuencia que depende únicamente del número Z del átomo del que proviene, permitiendo conocer la composición química de la muestra. A esta técnica se le conoce como Espectroscopía de Dispersión de Energía (EDS por sus siglas en inglés). Un ejemplo de esta interacción se muestra en la figura \ref{semtipos}c.
 \end{itemize}
 \begin{figure}[H]
     \centering
@@ -219,7 +221,7 @@ Los electrones utilizados en un microscopio electrónico de barrido se conocen c
 \end{figure}
 En el caso de los EDS realizados, se utilizaron las mismas condiciones que en la obtención de imágenes, es decir, voltaje de 15 kV, corriente en 8 unidades arbitrarias, presión de $9.6\cdot10^{-5}$Pa. Se registraron los rayos X emitidos por la muestra durante un minuto en cada medición.
 \subsubsection{Análisis Estadístico del Tamaño de Partículas} \label{sec:analisisestadistico}
-Las imágenes obtenidas a través de SEM fueron analizadas a través de ImageJ \cite{ImageJ}. Se utilizó una amplificación de $\times500$ debido a que este valor permite observar de manera completa las partículas grandes mientras siguen siendo visibles las más pequeñas, como se puede ver en la figura \ref{fig:imgjcomp}a.
+Las imágenes obtenidas a través de SEM fueron analizadas a través de ImageJ \cite{ImageJ}. Se utilizaron las imágenes con una amplificación de $\times500$ debido a que este valor permite observar de manera completa las partículas grandes mientras siguen siendo visibles las más pequeñas, como se puede ver en la figura \ref{fig:imgjcomp}a.
 
 Se buscó determinar el diámetro promedio de partícula y el porcentaje de partículas con diámetro $\leq$1 $\mu$m. En conjunto, ambas mediciones permiten distinguir si el tamaño mínimo de partículas cambia o si se rompen las partículas más grandes. Para esto se realizaron dos métodos de medición complementarios:
 \begin{enumerate}
@@ -248,7 +250,7 @@ Para analizar los porcentajes de partículas de diámetro $\leq1$ $\mu$m obtenid
 \end{equation}
 Donde $n$ es el número de partículas con diámetro $\leq 1\mu$m, $N$ es el número total de partículas y $p=n/N$ es la proporción entre $n$ y $N$.
 
-Suponiendo que cada medición tiene una probabilidad constante $a$ de estar en una determinada barra y que cada tamaño es independiente de los demás, la probabilidad $A$ de observar exactamente $n$ partículas de diámetro $\leq 1\mu$m es de:
+Suponiendo que cada medición tiene una probabilidad constante $a$ de estar en un determinado rango de tamaños y que cada tamaño es independiente de los demás, la probabilidad $A$ de observar exactamente $n$ partículas de diámetro $\leq 1\mu$m es de:
 \begin{equation}
     A(n)=\binom{N}{n}a^n(1-a)^{N-n}
     \label{eq:binomdist}
@@ -271,7 +273,7 @@ Debido a que se busca encontrar la desviación estándar del porcentaje y no del
     \end{split}
     \label{eq:desvest}
 \end{equation}
-Se puede utilizar el doble de la desviación estándar para asignar un valor de incertidumbre a ésta medición, debido a que ésta especifica cuantitativamente la precisión de una medida, ésto debido a que, para distribuciones binomiales, se tiene cerca del 95.45\% de los valores en el intervalo $(\bar{X}-2\sigma,\bar{X}+2\sigma)$, teniendo éste porcentaje en el límite en el que la distribución es normal \cite{bertaoda}.
+Se puede utilizar el doble de la desviación estándar para asignar un valor de incertidumbre a esta medición, debido a que ésta especifica cuantitativamente la precisión de una medida. Esto debido a que, para distribuciones binomiales, se tiene cerca del 95.45\% de los valores en el intervalo $(\bar{X}-2\sigma,\bar{X}+2\sigma)$, teniendo éste porcentaje en el límite en el que la distribución es normal \cite{bertaoda}.
 \subsection{Espectroscopía UV-Vis}\label{sec:uvvismetod}
 Esta técnica, cuyo equipo se puede observar en la figura \ref{fig:diagflujosint} (6), mide la cantidad de luz UV o visible que es absorbida o transmitida a través de una muestra en comparación con una referencia o una muestra en blanco.
 
@@ -321,9 +323,7 @@ El espectrómetro, al medir absorbancia, permite conocer $\alpha$ respecto a $\n
 \subsection{Magnetometría}
 
 \subsubsection{Dispositivo Superconductor de Interferencia Cuántica (SQUID)}
-Estos instrumentos son capaces de medir flujos magnéticos del orden del cuanto de flujo ($\Phi_0=h/2e\approx2.07\cdot10^{-15}$ Wb) ya que funcionan a través del efecto Josephson.
-
-Éste es un efecto cuántico que ocurre cuando dos superconductores están unidos por una capa aislante delgada (de aproximadamente 1 nm), la cual representa una barrera de potencial. Debido al tunelaje, al hacer pasar una corriente por el superconductor, ésta atravesará la barrera, sin embargo, la función de onda de los electrones tendrá una fase distinta del otro lado.
+Estos instrumentos son capaces de medir flujos magnéticos del orden del cuanto de flujo ($\Phi_0=h/2e\approx2.07\cdot10^{-15}$ Wb) ya que funcionan a través del efecto Josephson \cite{Pekola2003}. Éste es un efecto cuántico que ocurre cuando dos superconductores están unidos por una capa aislante delgada (de aproximadamente 1 nm), la cual representa una barrera de potencial. Debido al tunelaje, al hacer pasar una corriente por el superconductor, ésta atravesará la barrera, sin embargo, la función de onda de los electrones tendrá una fase distinta del otro lado.
 
 En ausencia de voltaje ($V=0$), la corriente que fluye por los superconductores está dada por:
 \begin{equation}
@@ -355,9 +355,9 @@ Lo cual explica la precisión del SQUID, cada oscilación de $I_\text{total}$ es
 Estas mediciones fueron realizadas con un equipo \textit{PPMS DYNACOOL} de \textit{QUANTUM DESIGN} con la opción de VSM, a $T=5$ K y $300$ K, de $-2$ a $2$ T.
 Las mediciones que varían en temperatura se realizaron entre 5 y 350K para el caso del \sama{} y entre 5 y 300K para el \neod{}.
 \paragraph{Mediciones dependientes de la temperatura}
-Las mediciones en SQUID que dependen de la temperatura pueden ser realizadas de dos maneras, puede enfriarse la muestra en ausencia de campo magnético (Zero Field Cooling, ZFC), o bien, en presencia de éste (Field Cooling, FC), dando como resultado curvas distintas debido a que la presencia del campo alinea los momentos magnéticos de manera que se reducen los efectos por anisotropía \cite{Ali2014}.
+Las mediciones $M$ vs $T$ pueden ser realizadas de dos maneras, puede enfriarse la muestra en ausencia de campo magnético (Zero Field Cooling, ZFC), o bien, en presencia de éste (Field Cooling, FC), dando como resultado curvas distintas debido a que la presencia del campo alinea los momentos magnéticos de manera que se reducen los efectos por anisotropía \cite{Ali2014}.
 
-Se midió la magnetización contra la temperatura ($M$ vs. $T$) y la susceptibilidad contra la temperatura ($\chi$ vs. $T$) utilizando el mismo equipo que en las mediciones $M$ vs. $H$, las curvas $FC$ se obtuvieron con un campo externo de $50$ mT, realizándose en un rango de temperatura de $5$ a $300$ K.
+Se midió la magnetización contra la temperatura ($M$ vs. $T$), a partir de ésta se obtuvo la susceptibilidad contra la temperatura ($\chi$ vs. $T$) utilizando el mismo equipo que en las mediciones $M$ vs. $H$, las curvas $FC$ se obtuvieron con un campo externo de $50$ mT, realizándose ambas en un rango de temperatura de $5$ a $300$ K.
 \subsection{Mediciones Ferroeléctricas}
 
 \subsubsection{Preparación de la Muestra}
@@ -380,7 +380,7 @@ Se colocaron 0.6 g de la muestra a moler dentro de un reactor de circonio con bo
 \subsubsection{Sinterización} \label{sec:sinter}
 La sinterización es un tratamiento térmico de polvos metálicos o cerámicos en objetos sólidos a través de procesos de transporte de masa a nivel atómico, haciendo uso de presión y temperatura, sin que esta última llegue a la temperatura de fusión del material \cite{Banerjee2019}.
 
-Un sólido debe tener una energía mayor en su superficie que en el resto del material pues la fuerza que la mantiene unida es menor. Esta energía libre de superficie ($G_s$) se describe a través de la energía libre de Gibbs $G$ y la tensión superficial $\gamma$ en una superficie $A$ de la siguiente manera:
+Un sólido debe tener una energía mayor en su superficie que en el resto del material pues la fuerza que la mantiene unida es menor. Esta energía libre de superficie ($G_s$) se describe a través de la energía libre de Gibbs $G$ y la tensión superficial $\gamma$ en una superficie de área $A$ de la siguiente manera:
 \begin{equation}
     \gamma=\left(\dfrac{\partial G}{\partial A}\right)_{T,P,n}\\
     G_s=\sum_{i=1}^{m} n_i \mu_i + \gamma A
@@ -392,9 +392,9 @@ Donde $n_i$ es la cantidad de moles de la sustancia $i$-ésima y $\mu_i$ es su p
     G_s(A)=N(A)+\gamma A
     \label{eq:energiasuperficiedepA}
 \end{equation}
-Donde $G_s(A)$ es estrictamente creciente. Debido a que ambos términos que componen a $G_s$ dependen de
+Donde $G_s(A)$ es estrictamente creciente. Debido a que ambos términos que componen a $G_s$ dependen de $A$, el sistema buscará minimizar su superficie.
 
-Este proceso funciona a través de la difusión de los átomos en las fronteras entre granos, uniéndolos en el proceso, esto debido a la energía aplicada en forma de presión y calor, la cual provoca un reordenamiento de los cristales a una configuración de menor energía libre en su superficie, es decir, se eliminan las fronteras y las porosidades, como se muestra en la figura \ref{fig:sintdiag} \cite{Ou2014}.
+El proceso de sinterización funciona a través de la difusión de los átomos en las fronteras entre granos, uniéndolos en el proceso, esto debido a que la energía aplicada en forma de presión y calor provoca un reordenamiento de los cristales, obteniendo una configuración de menor energía libre en su superficie, es decir, se eliminan las fronteras y las porosidades, como se muestra en la figura \ref{fig:sintdiag} \cite{Ou2014}.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{fig/sintdiag.jpg}
@@ -402,7 +402,7 @@ Este proceso funciona a través de la difusión de los átomos en las fronteras 
     \label{fig:sintdiag}
 \end{figure}
 
-Los resultados de este proceso dependen de la temperatura, presión aplicada, tiempo de sinterización e incluso de la presión atmosférica. En este trabajo se tomaron como condiciones de sinterización una presión de 5 t aplicada por 15 minutos, realizado con una prensa hidráulica manual de 15 t de marca \textit{SPECAC}, y una temperatura de 1000\gradoC{} aplicada por 2 horas, haciendo uso de un horno \textit{Thermolyne 46100} \cite{Aparnadevi2016}.
+Los resultados de este proceso dependen principalmente de la temperatura y presión aplicadas, además del tiempo de sinterización. En este trabajo se tomaron como condiciones de sinterización una presión de 5 t aplicada por 15 minutos, realizado con una prensa hidráulica manual de 15 t de marca \textit{SPECAC}, y una temperatura de 1000\gradoC{} aplicada por 2 horas, haciendo uso de un horno \textit{Thermolyne 46100} \cite{Aparnadevi2016}.
 
 \subsubsection{Fracción Sólida}
 Es posible dividir un sólido en dos partes, la fracción sólida, que consiste en el material que compone al sólido, y la porosidad, formada de los espacios vacíos en el sólido, como se ilustra en la figura \ref{fig:fracsolida}. 
@@ -450,9 +450,9 @@ Donde $h$ es el espesor de la muestra y $V$ es el voltaje aplicado, el cual se v
 
 Finalmente, se obtiene la polarización del material mediante el método descrito en \ref{sec:PEarte} y se grafica contra el campo eléctrico.
 
-Las mediciones de polarización fueron realizadas utilizando un \textit{Radiant Precision RT66B 4KV-HVi}, con el voltaje provisto por una fuente de la marca \textit{TReK} modelo \textit{609E-6}. Las caras de las pastillas sinterizadas fueron recubiertas con una pintura de plata y posteriormente colocadas en el portamuestras, donde se realizaron mediciones comenzando en 100 V, seguidas de 200 V, y posteriormente en intervalos de 200 V (400 V, 600 V,...) hasta llegar a 2000 V.
+Las mediciones de polarización fueron realizadas utilizando un \textit{Radiant Precision RT66B 4KV-HVi}, con el voltaje provisto por una fuente de la marca \textit{TReK} modelo \textit{609E-6}. Las caras de las pastillas sinterizadas fueron recubiertas con pintura de plata y posteriormente colocadas en el portamuestras, donde se realizaron mediciones comenzando en 100 V, seguidas de 200 V, y posteriormente en intervalos de 200 V (400 V, 600 V,...) hasta llegar a 2000 V.
 
-\subsection{Clasificación metodológica y de muestras}
+\subsection{Clasificación metodológica y de muestras}\label{sec:clasifmuestras}
 Las técnicas descritas en esta sección pueden dividirse en tres apartados.
 \begin{enumerate}
     \item Análisis térmico (sección \ref{sec:analisistermico}): Permite optimizar las condiciones de síntesis a través de TGA.
@@ -482,4 +482,12 @@ Las muestras sintetizadas se detallan en la siguiente tabla:
     \caption{Muestras sintetizadas. Las muestras marcadas en naranja fueron sinterizadas.}
     \label{table:muestras}
 \end{table}
+\subsection{Resumen de la metodología}
+Los métodos descritos anteriormente se siguieron en el orden mostrado en la figura \ref{fig:resdiag}, esto permitió determinar las condiciones de las técnicas subsecuentes además de prevenir mediciones innecesarias.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{fig/diagresultados.png}
+    \caption{Técnicas de síntesis y caracterización utilizadas.}
+    \label{fig:resdiag}
+\end{figure}
 \end{document}

@@ -19,6 +19,89 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{Nakhaei2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=9230965f186b1cff54e5fb8e6b9ee0e2}{%
+           family={Nakhaei},
+           familyi={N\bibinitperiod},
+           given={Mehrnoush},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1c5a0e02f07c7fe918967eeb94666649}{%
+           family={Khoshnoud},
+           familyi={K\bibinitperiod},
+           given={Davoud\bibnamedelima Sanavi},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {North-Holland}%
+      }
+      \strng{namehash}{270e186237cd11d842ca3744dee8738c}
+      \strng{fullhash}{270e186237cd11d842ca3744dee8738c}
+      \strng{fullhashraw}{270e186237cd11d842ca3744dee8738c}
+      \strng{bibnamehash}{270e186237cd11d842ca3744dee8738c}
+      \strng{authorbibnamehash}{270e186237cd11d842ca3744dee8738c}
+      \strng{authornamehash}{270e186237cd11d842ca3744dee8738c}
+      \strng{authorfullhash}{270e186237cd11d842ca3744dee8738c}
+      \strng{authorfullhashraw}{270e186237cd11d842ca3744dee8738c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0921-4526}
+      \field{journaltitle}{Physica B: Condensed Matter}
+      \field{month}{1}
+      \field{title}{Influence of particle size and lattice distortion on magnetic and dielectric properties of NdFeO3 orthoferrite}
+      \field{volume}{553}
+      \field{year}{2019}
+      \field{pages}{53\bibrangedash 58}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/J.PHYSB.2018.10.032
+      \endverb
+      \keyw{Core-shell model,Dielectric properties,Magnetic properties,NdFeO3 orthoferrite,Sol-gel method}
+    \endentry
+    \entry{Sasmal2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=44a1a66e71c4717ff104ee035a5d7823}{%
+           family={Sasmal},
+           familyi={S\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod}}}%
+        {{hash=764b9b7c88c067cad3bcc3f24c1290e9}{%
+           family={Sen},
+           familyi={S\bibinitperiod},
+           given={Shrabanee},
+           giveni={S\bibinitperiod}}}%
+        {{hash=41cf6b63d2cd412a30baccdd183ba360}{%
+           family={Devi},
+           familyi={D\bibinitperiod},
+           given={Parukuttyamma\bibnamedelima Sujatha},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4422f697a7b48631dca7b9acbc0363a}
+      \strng{fullhash}{626619d243a2c24b76a32a6a15bb5b57}
+      \strng{fullhashraw}{626619d243a2c24b76a32a6a15bb5b57}
+      \strng{bibnamehash}{626619d243a2c24b76a32a6a15bb5b57}
+      \strng{authorbibnamehash}{626619d243a2c24b76a32a6a15bb5b57}
+      \strng{authornamehash}{a4422f697a7b48631dca7b9acbc0363a}
+      \strng{authorfullhash}{626619d243a2c24b76a32a6a15bb5b57}
+      \strng{authorfullhashraw}{626619d243a2c24b76a32a6a15bb5b57}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00255408}
+      \field{journaltitle}{Materials Research Bulletin}
+      \field{month}{10}
+      \field{title}{Synthesis and characterization of SmFeO3 and its effect on the electrical and energy storage properties of PVDF}
+      \field{volume}{130}
+      \field{year}{2020}
+      \field{pages}{110941}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.materresbull.2020.110941
+      \endverb
+    \endentry
     \entry{Wang2019}{article}{}{}
       \name{author}{5}{}{%
         {{hash=39f0b3347a8cc447c5e60393cd393898}{%
@@ -58,8 +141,8 @@
       \strng{authornamehash}{9ae312133df1c0bfaa76f1c00301819e}
       \strng{authorfullhash}{968f903fd9c954112b5cded2f8420872}
       \strng{authorfullhashraw}{968f903fd9c954112b5cded2f8420872}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0038-1098}
@@ -96,8 +179,8 @@
       \strng{authornamehash}{457cbb7919e4bf8a6c24593f60cc6fb0}
       \strng{authorfullhash}{457cbb7919e4bf8a6c24593f60cc6fb0}
       \strng{authorfullhashraw}{457cbb7919e4bf8a6c24593f60cc6fb0}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{02728842}
@@ -132,8 +215,8 @@
       \strng{authornamehash}{a00328547222c4a2a201442ee59dccfd}
       \strng{authorfullhash}{a00328547222c4a2a201442ee59dccfd}
       \strng{authorfullhashraw}{a00328547222c4a2a201442ee59dccfd}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Introduction to electrodynamics}
@@ -162,8 +245,8 @@
       \strng{authornamehash}{85cacea51c4a610906e082d0fd158d3b}
       \strng{authorfullhash}{85cacea51c4a610906e082d0fd158d3b}
       \strng{authorfullhashraw}{85cacea51c4a610906e082d0fd158d3b}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2399-3650}
@@ -195,8 +278,8 @@
       \strng{authornamehash}{9b8033b4840caeddea3fb9395013ecb9}
       \strng{authorfullhash}{9b8033b4840caeddea3fb9395013ecb9}
       \strng{authorfullhashraw}{9b8033b4840caeddea3fb9395013ecb9}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{1}
@@ -230,41 +313,64 @@
       \field{title}{Magnetism and magnetic materials}
       \field{year}{2010}
     \endentry
-    \entry{Burema2021}{article}{}{}
+    \entry{Dzyaloshinsky1958}{article}{}{}
       \name{author}{1}{}{%
-        {{hash=859e1cbf58af173a7fa8b325d3645159}{%
-           family={Burema},
-           familyi={B\bibinitperiod},
-           given={Arjan},
-           giveni={A\bibinitperiod}}}%
+        {{hash=99603ab63e53801bfa54baaa5badf3b3}{%
+           family={Dzyaloshinsky},
+           familyi={D\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {University of Groningen}%
+      \list{publisher}{1}{%
+        {Pergamon}%
       }
-      \strng{namehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{fullhash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{fullhashraw}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{bibnamehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authorbibnamehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authornamehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authorfullhash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authorfullhashraw}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{namehash}{99603ab63e53801bfa54baaa5badf3b3}
+      \strng{fullhash}{99603ab63e53801bfa54baaa5badf3b3}
+      \strng{fullhashraw}{99603ab63e53801bfa54baaa5badf3b3}
+      \strng{bibnamehash}{99603ab63e53801bfa54baaa5badf3b3}
+      \strng{authorbibnamehash}{99603ab63e53801bfa54baaa5badf3b3}
+      \strng{authornamehash}{99603ab63e53801bfa54baaa5badf3b3}
+      \strng{authorfullhash}{99603ab63e53801bfa54baaa5badf3b3}
+      \strng{authorfullhashraw}{99603ab63e53801bfa54baaa5badf3b3}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{11}
-      \field{title}{Angle-dependent magnetoresistance in epitaxially strain-engineered thin films}
-      \field{year}{2021}
+      \field{issn}{0022-3697}
+      \field{issue}{4}
+      \field{journaltitle}{Journal of Physics and Chemistry of Solids}
+      \field{month}{1}
+      \field{title}{A thermodynamic theory of “weak” ferromagnetism of antiferromagnetics}
+      \field{volume}{4}
+      \field{year}{1958}
+      \field{pages}{241\bibrangedash 255}
+      \range{pages}{15}
       \verb{doi}
-      \verb 10.33612/DISS.190723184
+      \verb 10.1016/0022-3697(58)90076-3
       \endverb
-      \verb{urlraw}
-      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
-      \endverb
-      \verb{url}
-      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
-      \endverb
+    \endentry
+    \entry{Bloemen2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=754842234dbe8160124ffb34e097ef2f}{%
+           family={Bloemen},
+           familyi={B\bibinitperiod},
+           given={Maarten},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{754842234dbe8160124ffb34e097ef2f}
+      \strng{fullhash}{754842234dbe8160124ffb34e097ef2f}
+      \strng{fullhashraw}{754842234dbe8160124ffb34e097ef2f}
+      \strng{bibnamehash}{754842234dbe8160124ffb34e097ef2f}
+      \strng{authorbibnamehash}{754842234dbe8160124ffb34e097ef2f}
+      \strng{authornamehash}{754842234dbe8160124ffb34e097ef2f}
+      \strng{authorfullhash}{754842234dbe8160124ffb34e097ef2f}
+      \strng{authorfullhashraw}{754842234dbe8160124ffb34e097ef2f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Immunomagnetic separation of bacteria by iron oxide nanoparticles}
+      \field{year}{2015}
     \endentry
     \entry{Buschow2003}{book}{}{}
       \name{author}{1}{}{%
@@ -410,8 +516,8 @@
       \strng{authornamehash}{1e07cee9246c93b8e1f42ee00ef81d1c}
       \strng{authorfullhash}{1e07cee9246c93b8e1f42ee00ef81d1c}
       \strng{authorfullhashraw}{1e07cee9246c93b8e1f42ee00ef81d1c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{CMMT(A) 152}
@@ -436,8 +542,8 @@
       \strng{authornamehash}{bad08a00bcf0920108fedea73c509c10}
       \strng{authorfullhash}{bad08a00bcf0920108fedea73c509c10}
       \strng{authorfullhashraw}{bad08a00bcf0920108fedea73c509c10}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1040-8436}
@@ -509,6 +615,42 @@
       \range{pages}{15}
       \verb{doi}
       \verb 10.1080/2374068X.2018.1483680
+      \endverb
+    \endentry
+    \entry{Burema2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=859e1cbf58af173a7fa8b325d3645159}{%
+           family={Burema},
+           familyi={B\bibinitperiod},
+           given={Arjan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Groningen}%
+      }
+      \strng{namehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{fullhash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{fullhashraw}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{bibnamehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authorbibnamehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authornamehash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authorfullhash}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{authorfullhashraw}{859e1cbf58af173a7fa8b325d3645159}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Angle-dependent magnetoresistance in epitaxially strain-engineered thin films}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.33612/DISS.190723184
+      \endverb
+      \verb{urlraw}
+      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
+      \endverb
+      \verb{url}
+      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
       \endverb
     \endentry
     \entry{Zhang2016}{article}{}{}

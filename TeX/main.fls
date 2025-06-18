@@ -444,8 +444,8 @@ INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary6.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0800.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0600.tfm
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 OUTPUT main.toc
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsl1200.tfm
 INPUT .\3. Estado del Arte\3. Estado del Arte.tex
 INPUT 3. Estado del Arte\3. Estado del Arte.tex
@@ -456,7 +456,6 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0600.t
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1200.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolC.enc
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolD.enc
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolE.enc
 INPUT .\fig\estructura.jpg
 INPUT .\fig\estructura.jpg
 INPUT fig\estructura.jpg
@@ -488,6 +487,7 @@ INPUT .\fig\neelradio.jpg
 INPUT .\fig\neelradio.jpg
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolE.enc
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolF.enc
 INPUT .\fig\chitemp.png
 INPUT .\fig\chitemp.png
@@ -504,6 +504,13 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm7.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolA.enc
+INPUT .\fig\magtiposdiag.jpg
+INPUT .\fig\magtiposdiag.jpg
+INPUT fig\magtiposdiag.jpg
+INPUT .\fig\magtiposdiag.jpg
+INPUT .\fig\magtiposdiag.jpg
+INPUT .\fig\magtiposdiag.jpg
+INPUT .\fig\magtiposdiag.jpg
 INPUT .\fig\histeresis1.jpg
 INPUT .\fig\histeresis1.jpg
 INPUT fig\histeresis1.jpg
@@ -532,6 +539,13 @@ INPUT .\fig\tiposAFM.png
 INPUT .\fig\tiposAFM.png
 INPUT .\fig\tiposAFM.png
 INPUT .\fig\tiposAFM.png
+INPUT .\fig\estructurascristalinas.png
+INPUT .\fig\estructurascristalinas.png
+INPUT fig\estructurascristalinas.png
+INPUT .\fig\estructurascristalinas.png
+INPUT .\fig\estructurascristalinas.png
+INPUT .\fig\estructurascristalinas.png
+INPUT .\fig\estructurascristalinas.png
 INPUT .\4. Metodologia\4. Metodologia.tex
 INPUT 4. Metodologia\4. Metodologia.tex
 INPUT .\4. Metodologia\4. Metodologia.tex
@@ -663,10 +677,6 @@ INPUT .\fig\fracsolida.jpg
 INPUT .\fig\fracsolida.jpg
 INPUT .\fig\fracsolida.jpg
 INPUT .\fig\fracsolida.jpg
-INPUT .\5. Resultados\5. Resultados.tex
-INPUT 5. Resultados\5. Resultados.tex
-INPUT .\5. Resultados\5. Resultados.tex
-INPUT 5. Resultados\5. Resultados.tex
 INPUT .\fig\diagresultados.png
 INPUT .\fig\diagresultados.png
 INPUT fig\diagresultados.png
@@ -674,6 +684,10 @@ INPUT .\fig\diagresultados.png
 INPUT .\fig\diagresultados.png
 INPUT .\fig\diagresultados.png
 INPUT .\fig\diagresultados.png
+INPUT .\5. Resultados\5. Resultados.tex
+INPUT 5. Resultados\5. Resultados.tex
+INPUT .\5. Resultados\5. Resultados.tex
+INPUT 5. Resultados\5. Resultados.tex
 INPUT .\fig\TGA-NdFeO3.png
 INPUT .\fig\TGA-NdFeO3.png
 INPUT fig\TGA-NdFeO3.png
@@ -702,20 +716,34 @@ INPUT .\fig\TGA-derSmFeO3.png
 INPUT .\fig\TGA-derSmFeO3.png
 INPUT .\fig\TGA-derSmFeO3.png
 INPUT .\fig\TGA-derSmFeO3.png
-INPUT .\fig\semneod.png
-INPUT .\fig\semneod.png
-INPUT fig\semneod.png
-INPUT .\fig\semneod.png
-INPUT .\fig\semneod.png
-INPUT .\fig\semneod.png
-INPUT .\fig\semneod.png
-INPUT .\fig\semsama.png
-INPUT .\fig\semsama.png
-INPUT fig\semsama.png
-INPUT .\fig\semsama.png
-INPUT .\fig\semsama.png
-INPUT .\fig\semsama.png
-INPUT .\fig\semsama.png
+INPUT .\fig\semneod600.png
+INPUT .\fig\semneod600.png
+INPUT fig\semneod600.png
+INPUT .\fig\semneod600.png
+INPUT .\fig\semneod600.png
+INPUT .\fig\semneod600.png
+INPUT .\fig\semneod600.png
+INPUT .\fig\semsama700.png
+INPUT .\fig\semsama700.png
+INPUT fig\semsama700.png
+INPUT .\fig\semsama700.png
+INPUT .\fig\semsama700.png
+INPUT .\fig\semsama700.png
+INPUT .\fig\semsama700.png
+INPUT .\fig\semneod900.png
+INPUT .\fig\semneod900.png
+INPUT fig\semneod900.png
+INPUT .\fig\semneod900.png
+INPUT .\fig\semneod900.png
+INPUT .\fig\semneod900.png
+INPUT .\fig\semneod900.png
+INPUT .\fig\semsama1000.png
+INPUT .\fig\semsama1000.png
+INPUT fig\semsama1000.png
+INPUT .\fig\semsama1000.png
+INPUT .\fig\semsama1000.png
+INPUT .\fig\semsama1000.png
+INPUT .\fig\semsama1000.png
 INPUT .\fig\semneod2h.png
 INPUT .\fig\semneod2h.png
 INPUT fig\semneod2h.png
@@ -758,6 +786,20 @@ INPUT .\fig\resporcentaje.png
 INPUT .\fig\resporcentaje.png
 INPUT .\fig\resporcentaje.png
 INPUT .\fig\resporcentaje.png
+INPUT .\fig\resEDSNeod.png
+INPUT .\fig\resEDSNeod.png
+INPUT fig\resEDSNeod.png
+INPUT .\fig\resEDSNeod.png
+INPUT .\fig\resEDSNeod.png
+INPUT .\fig\resEDSNeod.png
+INPUT .\fig\resEDSNeod.png
+INPUT .\fig\resEDSSama.png
+INPUT .\fig\resEDSSama.png
+INPUT fig\resEDSSama.png
+INPUT .\fig\resEDSSama.png
+INPUT .\fig\resEDSSama.png
+INPUT .\fig\resEDSSama.png
+INPUT .\fig\resEDSSama.png
 INPUT .\fig\drxtempndfeo3.png
 INPUT .\fig\drxtempndfeo3.png
 INPUT fig\drxtempndfeo3.png
@@ -828,6 +870,8 @@ INPUT .\fig\BGSmFeO3.png
 INPUT .\fig\BGSmFeO3.png
 INPUT .\fig\BGSmFeO3.png
 INPUT .\fig\BGSmFeO3.png
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx0800.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx0600.tfm
 INPUT .\fig\mvhNd.png
 INPUT .\fig\mvhNd.png
 INPUT fig\mvhNd.png
@@ -842,20 +886,13 @@ INPUT .\fig\mvhNd-S.png
 INPUT .\fig\mvhNd-S.png
 INPUT .\fig\mvhNd-S.png
 INPUT .\fig\mvhNd-S.png
-INPUT .\fig\mvhSm.png
-INPUT .\fig\mvhSm.png
-INPUT fig\mvhSm.png
-INPUT .\fig\mvhSm.png
-INPUT .\fig\mvhSm.png
-INPUT .\fig\mvhSm.png
-INPUT .\fig\mvhSm.png
-INPUT .\fig\mvhSm-S.png
-INPUT .\fig\mvhSm-S.png
-INPUT fig\mvhSm-S.png
-INPUT .\fig\mvhSm-S.png
-INPUT .\fig\mvhSm-S.png
-INPUT .\fig\mvhSm-S.png
-INPUT .\fig\mvhSm-S.png
+INPUT .\fig\mvhNd900.png
+INPUT .\fig\mvhNd900.png
+INPUT fig\mvhNd900.png
+INPUT .\fig\mvhNd900.png
+INPUT .\fig\mvhNd900.png
+INPUT .\fig\mvhNd900.png
+INPUT .\fig\mvhNd900.png
 INPUT .\fig\MvTNd.png
 INPUT .\fig\MvTNd.png
 INPUT fig\MvTNd.png
@@ -870,6 +907,13 @@ INPUT .\fig\MvTNd-S.png
 INPUT .\fig\MvTNd-S.png
 INPUT .\fig\MvTNd-S.png
 INPUT .\fig\MvTNd-S.png
+INPUT .\fig\MvTNd900.png
+INPUT .\fig\MvTNd900.png
+INPUT fig\MvTNd900.png
+INPUT .\fig\MvTNd900.png
+INPUT .\fig\MvTNd900.png
+INPUT .\fig\MvTNd900.png
+INPUT .\fig\MvTNd900.png
 INPUT .\fig\chivTNd.png
 INPUT .\fig\chivTNd.png
 INPUT fig\chivTNd.png
@@ -884,6 +928,34 @@ INPUT .\fig\chivTNd-S.png
 INPUT .\fig\chivTNd-S.png
 INPUT .\fig\chivTNd-S.png
 INPUT .\fig\chivTNd-S.png
+INPUT .\fig\chivTNd900.png
+INPUT .\fig\chivTNd900.png
+INPUT fig\chivTNd900.png
+INPUT .\fig\chivTNd900.png
+INPUT .\fig\chivTNd900.png
+INPUT .\fig\chivTNd900.png
+INPUT .\fig\chivTNd900.png
+INPUT .\fig\mvhSm.png
+INPUT .\fig\mvhSm.png
+INPUT fig\mvhSm.png
+INPUT .\fig\mvhSm.png
+INPUT .\fig\mvhSm.png
+INPUT .\fig\mvhSm.png
+INPUT .\fig\mvhSm.png
+INPUT .\fig\mvhSm-S.png
+INPUT .\fig\mvhSm-S.png
+INPUT fig\mvhSm-S.png
+INPUT .\fig\mvhSm-S.png
+INPUT .\fig\mvhSm-S.png
+INPUT .\fig\mvhSm-S.png
+INPUT .\fig\mvhSm-S.png
+INPUT .\fig\mvhSm900.png
+INPUT .\fig\mvhSm900.png
+INPUT fig\mvhSm900.png
+INPUT .\fig\mvhSm900.png
+INPUT .\fig\mvhSm900.png
+INPUT .\fig\mvhSm900.png
+INPUT .\fig\mvhSm900.png
 INPUT .\fig\MvTSm.png
 INPUT .\fig\MvTSm.png
 INPUT fig\MvTSm.png
@@ -898,6 +970,13 @@ INPUT .\fig\MvTSm-S.png
 INPUT .\fig\MvTSm-S.png
 INPUT .\fig\MvTSm-S.png
 INPUT .\fig\MvTSm-S.png
+INPUT .\fig\MvTSm900.png
+INPUT .\fig\MvTSm900.png
+INPUT fig\MvTSm900.png
+INPUT .\fig\MvTSm900.png
+INPUT .\fig\MvTSm900.png
+INPUT .\fig\MvTSm900.png
+INPUT .\fig\MvTSm900.png
 INPUT .\fig\chivTSm.png
 INPUT .\fig\chivTSm.png
 INPUT fig\chivTSm.png
@@ -912,6 +991,13 @@ INPUT .\fig\chivTSm-S.png
 INPUT .\fig\chivTSm-S.png
 INPUT .\fig\chivTSm-S.png
 INPUT .\fig\chivTSm-S.png
+INPUT .\fig\chivTSm900.png
+INPUT .\fig\chivTSm900.png
+INPUT fig\chivTSm900.png
+INPUT .\fig\chivTSm900.png
+INPUT .\fig\chivTSm900.png
+INPUT .\fig\chivTSm900.png
+INPUT .\fig\chivTSm900.png
 INPUT .\fig\PENdFeO3100V.png
 INPUT .\fig\PENdFeO3100V.png
 INPUT fig\PENdFeO3100V.png
@@ -987,16 +1073,18 @@ INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0800.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0800.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsl1200.pk

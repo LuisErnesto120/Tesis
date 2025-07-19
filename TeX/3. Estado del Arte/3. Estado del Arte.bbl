@@ -401,6 +401,48 @@
       \field{volume}{15}
       \field{year}{2003}
     \endentry
+    \entry{Landau1984}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ab77fc1405f1025268c1fed8c4fe3104}{%
+           family={Landau},
+           familyi={L\bibinitperiod},
+           given={L\bibnamedelima D},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=1e5737ddc6200d0118261e7bc577ab25}{%
+           family={Lifshitz},
+           familyi={L\bibinitperiod},
+           given={E\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{0c0920d244a4ef518dc023815875721c}
+      \strng{fullhash}{0c0920d244a4ef518dc023815875721c}
+      \strng{fullhashraw}{0c0920d244a4ef518dc023815875721c}
+      \strng{bibnamehash}{0c0920d244a4ef518dc023815875721c}
+      \strng{authorbibnamehash}{0c0920d244a4ef518dc023815875721c}
+      \strng{authornamehash}{0c0920d244a4ef518dc023815875721c}
+      \strng{authorfullhash}{0c0920d244a4ef518dc023815875721c}
+      \strng{authorfullhashraw}{0c0920d244a4ef518dc023815875721c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-08-030275-1}
+      \field{journaltitle}{Course of Theoretical Physics}
+      \field{title}{Electrodynamics of Continuous Media (Second Edition Revised and Enlarged)}
+      \field{volume}{8}
+      \field{year}{1984}
+      \field{pages}{460}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/B9780080302751500102
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/B9780080302751500102
+      \endverb
+    \endentry
     \entry{Qiao2021}{article}{}{}
       \name{author}{5}{}{%
         {{hash=328c880025b5e4d5a97240f123fba30d}{%
@@ -451,48 +493,6 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1016/j.mser.2021.100622
-      \endverb
-    \endentry
-    \entry{Landau1984}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=ab77fc1405f1025268c1fed8c4fe3104}{%
-           family={Landau},
-           familyi={L\bibinitperiod},
-           given={L\bibnamedelima D},
-           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=1e5737ddc6200d0118261e7bc577ab25}{%
-           family={Lifshitz},
-           familyi={L\bibinitperiod},
-           given={E\bibnamedelima M},
-           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Pergamon}%
-      }
-      \strng{namehash}{0c0920d244a4ef518dc023815875721c}
-      \strng{fullhash}{0c0920d244a4ef518dc023815875721c}
-      \strng{fullhashraw}{0c0920d244a4ef518dc023815875721c}
-      \strng{bibnamehash}{0c0920d244a4ef518dc023815875721c}
-      \strng{authorbibnamehash}{0c0920d244a4ef518dc023815875721c}
-      \strng{authornamehash}{0c0920d244a4ef518dc023815875721c}
-      \strng{authorfullhash}{0c0920d244a4ef518dc023815875721c}
-      \strng{authorfullhashraw}{0c0920d244a4ef518dc023815875721c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0-08-030275-1}
-      \field{journaltitle}{Course of Theoretical Physics}
-      \field{title}{Electrodynamics of Continuous Media (Second Edition Revised and Enlarged)}
-      \field{volume}{8}
-      \field{year}{1984}
-      \field{pages}{460}
-      \range{pages}{1}
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/B9780080302751500102
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/B9780080302751500102
       \endverb
     \endentry
     \entry{Stewart1999}{article}{}{}
@@ -617,41 +617,185 @@
       \verb 10.1080/2374068X.2018.1483680
       \endverb
     \endentry
-    \entry{Burema2021}{article}{}{}
+    \entry{Dagotto}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=859e1cbf58af173a7fa8b325d3645159}{%
-           family={Burema},
-           familyi={B\bibinitperiod},
-           given={Arjan},
-           giveni={A\bibinitperiod}}}%
+        {{hash=35f616ffd141396b57a2a6a73be041ca}{%
+           family={Dagotto},
+           familyi={D\bibinitperiod},
+           given={Elbio},
+           giveni={E\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {University of Groningen}%
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{fullhash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{fullhashraw}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{bibnamehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authorbibnamehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authornamehash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authorfullhash}{859e1cbf58af173a7fa8b325d3645159}
-      \strng{authorfullhashraw}{859e1cbf58af173a7fa8b325d3645159}
+      \strng{namehash}{35f616ffd141396b57a2a6a73be041ca}
+      \strng{fullhash}{35f616ffd141396b57a2a6a73be041ca}
+      \strng{fullhashraw}{35f616ffd141396b57a2a6a73be041ca}
+      \strng{bibnamehash}{35f616ffd141396b57a2a6a73be041ca}
+      \strng{authorbibnamehash}{35f616ffd141396b57a2a6a73be041ca}
+      \strng{authornamehash}{35f616ffd141396b57a2a6a73be041ca}
+      \strng{authorfullhash}{35f616ffd141396b57a2a6a73be041ca}
+      \strng{authorfullhashraw}{35f616ffd141396b57a2a6a73be041ca}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{11}
-      \field{title}{Angle-dependent magnetoresistance in epitaxially strain-engineered thin films}
-      \field{year}{2021}
+      \field{isbn}{978-3-642-07753-1}
+      \field{title}{Nanoscale Phase Separation and Colossal Magnetoresistance}
+      \field{volume}{136}
+      \field{year}{2003}
+      \field{pages}{11}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.33612/DISS.190723184
+      \verb 10.1007/978-3-662-05244-0/COVER
       \endverb
       \verb{urlraw}
-      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
+      \verb http://www.springerlink.com/index/10.1007/978-3-662-05244-0
       \endverb
       \verb{url}
-      \verb https://research.rug.nl/en/publications/angle-dependent-magnetoresistance-in-epitaxially-strain-engineere
+      \verb http://www.springerlink.com/index/10.1007/978-3-662-05244-0
       \endverb
+    \endentry
+    \entry{Herklotz2021}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=05182bdda7e65dfcce1af5fad72f14a7}{%
+           family={Herklotz},
+           familyi={H\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ca608b71d8696e5b3369f4b9c45c8cae}{%
+           family={Tippey},
+           familyi={T\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ded37f56a893479cfae44aacfeb2fa59}{%
+           family={Huon},
+           familyi={H\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bd50aa2d584c12e1a45b9c94fe61b25d}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Martin\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7363655547d36b456548e08c6fc8c7a5}{%
+           family={Dörr},
+           familyi={D\bibinitperiod},
+           given={Kathrin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3cddb8a21f0ff386eddad08256374e84}{%
+           family={Herklotz},
+           familyi={H\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{ca504357c74ddd6e74c2726d37d7f890}
+      \strng{fullhash}{1bfd9182705259958a908e4599b48fbf}
+      \strng{fullhashraw}{1bfd9182705259958a908e4599b48fbf}
+      \strng{bibnamehash}{1bfd9182705259958a908e4599b48fbf}
+      \strng{authorbibnamehash}{1bfd9182705259958a908e4599b48fbf}
+      \strng{authornamehash}{ca504357c74ddd6e74c2726d37d7f890}
+      \strng{authorfullhash}{1bfd9182705259958a908e4599b48fbf}
+      \strng{authorfullhashraw}{1bfd9182705259958a908e4599b48fbf}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15734803}
+      \field{issue}{14}
+      \field{journaltitle}{Journal of Materials Science}
+      \field{month}{5}
+      \field{title}{BiInO3 phases under asymmetric in-plane strain}
+      \field{volume}{56}
+      \field{year}{2021}
+      \field{pages}{8406\bibrangedash 8414}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/S10853-021-05807-3/FIGURES/5
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s10853-021-05807-3
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s10853-021-05807-3
+      \endverb
+      \keyw{Characterization and Evaluation of Materials,Classical Mechanics,Crystallography and Scattering Methods,Materials Science,Polymer Sciences,Solid Mechanics,general}
+    \endentry
+    \entry{Oumertem2019}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=17327d41002472f644d5372ec4c9c663}{%
+           family={Oumertem},
+           familyi={O\bibinitperiod},
+           given={Mouloud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=61c475f33e302974fde076df10ca635c}{%
+           family={Maouche},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=734e138576769880978b4f990494a224}{%
+           family={Berri},
+           familyi={B\bibinitperiod},
+           given={Saadi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7fd9424425e8547a9bf4433ae1838c15}{%
+           family={Bouarissa},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=bacaab2a5d92494460ab901d9acbfe82}{%
+           family={Rai},
+           familyi={R\bibinitperiod},
+           given={D.\bibnamedelimi P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f91a520e24bc58bed8c4929879b22399}{%
+           family={Khenata},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=27dab5ede0a9d61792df6d1ca2ac13e6}{%
+           family={Ibrir},
+           familyi={I\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York LLC}%
+      }
+      \strng{namehash}{dd6f6676ef974635316ade4e93677ff5}
+      \strng{fullhash}{beeaa21b6a74af0ce76c578c0f1a200a}
+      \strng{fullhashraw}{beeaa21b6a74af0ce76c578c0f1a200a}
+      \strng{bibnamehash}{beeaa21b6a74af0ce76c578c0f1a200a}
+      \strng{authorbibnamehash}{beeaa21b6a74af0ce76c578c0f1a200a}
+      \strng{authornamehash}{dd6f6676ef974635316ade4e93677ff5}
+      \strng{authorfullhash}{beeaa21b6a74af0ce76c578c0f1a200a}
+      \strng{authorfullhashraw}{beeaa21b6a74af0ce76c578c0f1a200a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15728137}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Computational Electronics}
+      \field{month}{6}
+      \field{title}{Theoretical investigation of the structural, electronic and thermodynamic properties of cubic and orthorhombic XZrS 3 (X = Ba,Sr,Ca) compounds}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{pages}{415\bibrangedash 427}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/S10825-019-01317-3/METRICS
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s10825-019-01317-3
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s10825-019-01317-3
+      \endverb
+      \keyw{Ab initio calculations,Chalcogenide perovskite,Electronic properties,Phase stability,Thermodynamic properties}
     \endentry
     \entry{Zhang2016}{article}{}{}
       \name{author}{7}{}{%
@@ -702,8 +846,8 @@
       \strng{authornamehash}{d5cf5d5ab18029ab522569caa2a66058}
       \strng{authorfullhash}{f2c6260d686f6c70025528807f99153c}
       \strng{authorfullhashraw}{f2c6260d686f6c70025528807f99153c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0925-8388}
@@ -763,8 +907,8 @@
       \strng{authornamehash}{9601542ddc71af72b5656fa04089a390}
       \strng{authorfullhash}{9af02e9ee3f1c6d416dc2728b7e955e2}
       \strng{authorfullhashraw}{9af02e9ee3f1c6d416dc2728b7e955e2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0925-8388}

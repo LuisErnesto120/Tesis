@@ -217,7 +217,7 @@ Aunque todos los materiales con momento magnético intrínseco, excepto los supe
 
 En el caso de los superparamagnéticos $H_c,M_r=0$, es decir, su magnetización regresa al estado inicial en ausencia de un campo externo, de la misma forma en la que lo haría un paramagnético, este comportamiento se observa en la curva rosa de la figura \ref{fig:campomag}.
 \subsection{Polarización en Sólidos}
-Podemos distinguir dos categorías de sólidos, conductores, donde las cargas eléctricas pueden desplazarse libremente, y dieléctricos, donde existen cargas ligadas. Son éstas últimas las que dan lugar a la polarización, por lo cual, esta sólo existe en dieléctricos.
+Podemos distinguir dos categorías de sólidos, conductores, donde las cargas eléctricas pueden desplazarse libremente, y dieléctricos, donde existen cargas ligadas, las cuales dan lugar a la polarización.
 
 En sólidos cristalinos dieléctricos anisótropos, podemos expresar las componentes vectoriales de la primer ecuación \ref{eq:maxwellmacro} como \cite{Landau1984}:
 \begin{equation}
@@ -226,9 +226,9 @@ En sólidos cristalinos dieléctricos anisótropos, podemos expresar las compone
 \end{equation}
 Con $\vec{P_{0}}$ la polarización espontánea del cristal y $\varepsilon_{ik}$ un tensor de rango 2 que representa la permitividad eléctrica según la dirección.
 
-Por simetría, esta polarización debe ser invariante ante las mismas transformaciones que la celda unitaria, esto sólo es posible para una polarización espontánea diferente de 0 si la dirección $\hat{P_{0}}$ permanece constante ante estas transformaciones lo cual se conoce como simetría polar.
+Por simetría, esta polarización debe ser invariante ante las mismas transformaciones que la celda unitaria, esto sólo es posible para una polarización espontánea diferente de 0 si la celda cristalina no presenta simetría de inversión.
 
-Si el sólido es centrosimétrico, es decir, tiene un punto de simetría, $P_0=0$, se considera un paraeléctrico, su polarización está dada completamente por el campo externo, es decir, tienen una respuesta lineal, análoga a los materiales paramagnéticos.
+En caso contrario, cuando existe un centro de inversión, el material se considera un paraeléctrico, es decir, su polarización está dada completamente por el campo externo y presenta una respuesta lineal.
 
 De manera análoga al magnetismo, es posible definir la polarización del material $\vec{P}$ como:
 
@@ -247,7 +247,7 @@ La polarización espontánea de un sólido deforma a las cargas ligadas de la mi
 \end{figure}
 Sin embargo, al variar la temperatura, las posiciones de los átomos en la celda cristalina cambian ligeramente, lo cual provoca un movimiento de las cargas superficiales, generando una corriente, este fenómeno se conoce como piroelectricidad.
 
-Las modificaciones a una red cristalina pueden incluir fases piroeléctricas y fases paraeléctricas, si el cambio de una a otra se da a través de una transición de segundo orden, cerca del punto de transición, conocido como punto de Curie, se tienen propiedades distintas de las esperadas de un piroeléctrico.
+Las modificaciones producto de la temperatura en una red cristalina pueden incluir fases piroeléctricas y fases paraeléctricas, si el cambio de una a otra se da a través de una transición de segundo orden, cerca del punto de transición, conocido como punto de Curie, se tienen propiedades distintas de las esperadas de un piroeléctrico.
 
 Cerca de el punto Curie, la energía necesaria para cambiar la dirección de polarización no es tan grande debido a que $\vec{P_{0}}$ es más pequeño, además de que la estructura cristalina está cerca de una configuración paraeléctrica, lo cual produce un comportamiento conocido como ferroelectricidad.
 
@@ -260,16 +260,9 @@ La energía $U_\text{dep}$ proveniente del campo de depolarización se puede esc
 \end{equation}
 Con $\varepsilon_r$ la permitividad relativa del material.
 
-Se observa que esta depende del volumen, es decir, se ve minimizada con este, lo cual favorece energéticamente la aparición de dominios de polarización.
+Se observa dicha energía depende del volumen, es decir, hay un volumen óptimo en el cual la energía de depolarización es mínima. Dicho de otra forma, es favorable energéticamente la aparición de dominios de polarización. \cite{Landau1984}.
 
-La energía libre $F$ de un ferroeléctrico se expresa de la siguiente manera:
-\begin{equation}
-    F=\underbrace{\alpha(T-T_c)P^2+\beta P^4}_\text{\clap{Potencial de Landau}}+\underbrace{\dfrac{1}{2\varepsilon_0\varepsilon}P^2}_\text{\clap{Depolarización}}+\dots
-    \label{eq:energíalibre}
-\end{equation}
-Donde $\alpha$ y $\beta$ son coeficientes que describen el comportamiento del sistema cerca de la temperatura de Curie.
-
-$F$ tiene un mínimo en $P=\pm P_{0}$, además, es estable en $P=0$ (fase paraeléctrica) $P=\pm P_{0}$ (fase ferroeléctrica) \cite{Landau1984}.
+Es necesario mencionar que dado que es necesario que no exista simetría de inversión para la aparición de ferroelectricidad, si un parámetro de orden distinto, como puede ser la magnetización, rompe esa simetría, el material puede presentar una respuesta ferroeléctrica acoplada a este parámetro. Esto se conoce como ferroelectricidad impropia \cite{Levanyuk1974}.
 \subsubsection{Curvas \texorpdfstring{$P$}{P} contra \texorpdfstring{$E$}{E}} \label{sec:PEarte}
 Al realizar mediciones de polarización contra campo, es importante considerar la corriente suministrada para generar el campo, debido a que la carga ($Q$) puede expresarse como:
 \begin{equation}
@@ -321,18 +314,34 @@ Se pueden distinguir tres tipos de orden antiferromagnético en las ortoferritas
     \item \textbf{AFM tipo A (figura \ref{fig:tiposAFM} a):} Los espines se alinean en planos ferromagnéticos paralelos al plano $ab$ con acoplamiento antiferromagnético entre ellos.
     \item \textbf{AFM tipo C (figura \ref{fig:tiposAFM} b):} Esta estructura presenta antiferromagnetismo en dos direcciones y ferromagnetismo en la tercera, la cual en este caso corresponde al eje $c$.
     \item \textbf{AFM tipo G (figura \ref{fig:tiposAFM} c):} Los espines presentan un acoplamiento antiferromagnético en las tres direcciones \cite{Dagotto}.
-    \item \textbf{AFM tipo G (figura \ref{fig:tiposAFM} d):} Debido al efecto de la interacción de Dzyaloshinskii-Moriya, los espines, acoplados antiferromagnéticamente en las tres direcciones, se desvían del eje $c$ \cite{Wang2019}.
+    \item \textbf{AFM tipo G (figura \ref{fig:tiposAFM} d):} Los espines presentan un acoplamiento antiferromagnético en las tres
+    direcciones como se ilustra en la figura \ref{fig:tiposAFM} (c). Cuando la interacción Dzyaloshinskii-
+    Moriya es relevante, los espines, acoplados antiferromagnéticamente en las tres direcciones, se desvían del eje c produciendo ferromagnetismo débil como se muestra en la figura \ref{fig:tiposAFM} (c) \cite{Wang2019}.
 \end{itemize}
 Esto tiene como consecuencia que estos materiales presenten transiciones de fase magnéticas al variar la temperatura, producto de un reacomodo de sus espines.
 
 \subsubsection{Propiedades eléctricas}
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.6\textwidth]{fig/estructurascristalinas.png}
-    \caption{Posibles estructuras cristalinas de las ortoferritas estudiadas. Adaptado de \cite{Herklotz2021} y \cite{Oumertem2019}.}
-    \label{fig:estructcrist}
+Como se reportó anteriormente, estas estructuras poseen una celda cristalina \textit{Pbnm}, la cual es centrosimétrica. Sin embargo, se ha observado la presencia de orden eléctrico en \sama{} y \neod{} a temperatura ambiente \cite{Rajaitha2022}, \cite{Zhang2016}.
+
+Esto puede ser explicado a través de la ruptura de la simetría de inversión producto del \textit{spin canting} en una configuración AFM tipo G \cite{Lee2011}.
+
+En este tipo de materiales el orden magnético puede dividirse en una componente ferromagnética $\pmb{F}$ y una antiferromagnética $\pmb{A}$. Por una parte, $F$ posee simetría de inversión, como se ilustra en \ref{fig:spincantingferroelec} (a) ($\mathcal{I}F=F$, donde $\mathcal{I}$ es una transformación de inversión), mientras que, para preservar el centro de simetría, a $A$ se le debe añadir una inversión temporal, como se muestra en \ref{fig:spincantingferroelec} (b) ($\mathcal{I}\mathcal{T}A=A$, donde $\mathcal{T}$ es una transformación de inversión temporal). Como estos sistemas poseen ambas componentes, su orden magnético no puede ser centrosimétrico \cite{Solovyev2025}.
+
+\begin{figure}
+    \includegraphics[width=0.7\textwidth]{fig/spincantingferroelec.png}
+    \caption{Simetría del orden magnético (a) ferromagnético, (b) antiferromagnetico y (c) ambos componentes. Adaptado de \cite{Solovyev2025}.}
+    \label{fig:spincantingferroelec}
 \end{figure}
-Aunque la simetría de la estructura cristalina $Pbnm$ (figura \ref{fig:estructcrist} a) no permite la ferroelectricidad, se ha observado que el calentamiento de estas ferritas induce una transición de fase hacia una estructura $Pna2_1$ (figura \ref{fig:estructcrist} b), la cual corresponde a una celda primitiva con un plano de reflexión perpendicular al eje $a$, un plano de deslizamiento perpendicular a $b$ y un eje helicoidal a lo largo de $c$, las cuales son simetrías compatibles con la ferroelectricidad \cite{Zhang2016}, \cite{Rajaitha2022}.
+
+Esta ruptura de simetría de inversión provoca una polarización que puede expresarse mediante la regla de Katsura-Nagaosa-Balatsky, también conocida como interacción de Dzyaloshinskii-Moriya reversa \cite{Katsura2005}:
+
+\begin{equation}
+    \vec{P}\propto\hat{e_{ij}}\times\left(\vec{S_i}\times\vec{S_j}\right)
+\end{equation}
+
+Donde $\hat{e_{ij}}$ es la dirección del enlace entre los átomos $i$ y $j$.
+
+Como se observa, esta polarización es dependiente de la existencia de un orden magnético intrínseco que presenta una interacción de Dzyaloshinskii-Moriya, es decir, si estos materiales presentan orden ferroeléctrico, este será impropio y se perderá si el orden magnético intrínseco deja de presentar las condiciones necesarias, como ocurriría sobre la temperatura de Néel.
 
 La coexistencia de orden magnético y eléctrico en estas fases las posiciona como candidatas ideales para aplicaciones multiferroicas, como las que se detallan en la sección \ref{sec:multif}.
 \chapter{Objetivos}

@@ -69,7 +69,7 @@ Esta técnica de caracterización, cuyo equipo se observa en la figura \ref{fig:
 \end{figure}
 Los procesos que se observan mediante esta técnica pueden ser endo o exotérmicos, debido a que tienen un efecto en el cambio de temperatura del material, sin embargo, dado que esta técnica no mide directamente la energía térmica de la muestra, no es posible diferenciar entre estos procesos sólo con los datos obtenidos mediante esta técnica \cite{TGA}.
 
-Sin embargo, es posible inferir información sobre la posible temperatura a la que ocurre la cristalización al comparar los datos obtenidos con la temperatura de los cambios que se espera ocurran en la muestra. En este caso, se espera que haya una combustión de la fase orgánica y la evaporación del agua contenida en la muestra entre los 100 y 200\gradoC{}, mientras que la fase metálica es estable hasta temperaturas mucho más altas que las máximas alcanzadas por el equipo ($\approx1000$\gradoC{}), por lo que es posible asociar un proceso que ocurra a una temperatura mayor a 200\gradoC{} a la cristalización.
+Sin embargo, es posible inferir información sobre la posible temperatura a la que ocurre la cristalización al comparar los datos obtenidos con la temperatura de los cambios que se espera ocurran en la muestra. En este caso, se espera que haya una combustión de la fase orgánica y la evaporación del agua contenida en la muestra entre los 100 y 200\gradoC{}, mientras que la fase metálica es estable hasta temperaturas mucho más altas que las máximas alcanzadas por el equipo ($\approx1000$\gradoC{}). Por esta razón, se infiere que, a una temperatura mayor a 200\gradoC{} es posible observar un proceso asociado a la cristalización.
 
 Se utilizó un \textit{TGA 550} de la marca \textit{TA Instruments}, el cual se configuró con una rampa de calor de $10$\gradoC{}$/$min en un rango de 30\gradoC{}-845\gradoC{}.
 \section{Difracción de Rayos X (DRX)} \label{sec:metodologiadrx}
@@ -77,7 +77,7 @@ Esta técnica, cuyo equipo se puede observar en la figura \ref{fig:diagflujosint
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.6\textwidth]{fig/DRXdiag.png}
-    \caption{Arreglo experimental utilizado para la obtención de espectros de difracción de rayos X. Adaptado de \cite{Jung2023}}
+    \caption{Diagrama de un arreglo experimental típico utilizado para la obtención de espectros de difracción de rayos X. Adaptado de \cite{Jung2023}}
     \label{fig:diagDRX}
 \end{figure}
 
@@ -85,7 +85,7 @@ Se utilizó un \textit{Bruker D8 Advance} para las muestras en polvo, y un  difr
 \subsection{Estructura Cristalina}
 Los átomos y moléculas que conforman la mayoría de sólidos, como el cuarzo, la sal, los metales o los óxidos, se encuentran en un arreglo periódico regular, ésto se conoce como cristalinidad, y a la estructura periódica como estructura cristalina.
 
-Pensando en cada átomo pertenecientes a un cristal como un punto, podemos expresar un cristal en 3 dimensiones como el conjunto de puntos que cumplen:
+Si se representa cada átomo perteneciente a un cristal como un punto, podemos expresar un cristal en 3 dimensiones como el conjunto de puntos que cumplen:
 \begin{equation}
     \vec{R}=\sum_{i=1}^{3} n_i\vec{a_i}  
     \label{eq:estrcrist}
@@ -128,11 +128,11 @@ Es decir, éstos forman un rayo difractado si y sólo si:
     n\lambda=2d'\sin{\theta}
     \label{eq:leydebragg}
 \end{equation}
-Esta ecuación se denomina ley de Bragg, esta proporciona información sobre la estructura cristalina de una estructura dada a través de sus ángulos de difracción \cite{Cullity2014}.
+Esta ecuación se denomina ley de Bragg, la cual proporciona información sobre la estructura cristalina de una estructura dada a través de sus ángulos de difracción \cite{Cullity2014}.
 
-Para obtener los ángulos de difracción de cada ortoferrita se utilizó el programa \textit{VESTA} \cite{VESTA}, en conjunto con datos sobre las estructuras cristalinas encontrados en \textit{Crystallography Open Database} \cite{COD}.
+Para obtener los ángulos de difracción de cada ortoferrita se utilizó el programa \textit{VESTA} \cite{VESTA}, en conjunto con datos sobre las estructuras cristalinas reportados en \textit{Crystallography Open Database} \cite{COD}.
 \subsection{Refinamiento Rietveld}
-El método de Rietveld es una técnica de refinamiento que permite estudiar los patrones de difracción generados por rayos X de manera cuantitativa. Esta técnica permite encontrar información sobre la composición de la muestra, las fases cristalinas existentes en ésta y la posible presencia de contaminantes que posean una fase cristalina.
+El método de Rietveld es una técnica de refinamiento que permite estudiar los patrones de difracción generados por rayos X de manera cuantitativa. Esta técnica permite encontrar información sobre la composición de la muestra, las fases cristalinas existentes en ésta y la posible presencia de contaminantes o fases cristalinas secundarias presentes en la muestra a analizar.
 
 Consiste en utilizar el método de mínimos cuadrados para ajustar un modelo teórico a un patrón experimental de rayos X. Para este modelo se deben tomar en cuenta factores tales como aspectos estructurales (geometría de la celda unitaria, posiciones atómicas, vibraciones térmicas), microestructurales (mezcla de fases, concentración, deformaciones) e instrumentales (anchura de las rejillas utilizadas, tamaño de la muestra irradiada) \cite{Rietveld}. La función a minimizar se define entonces como
 \begin{equation}
@@ -159,13 +159,13 @@ Donde:
     \item $A$ es un factor de absorción que depende del espesor de la muestra y la geometría del equipo de difracción.
     \item $y_{b,i}$ es la intensidad del fondo en el punto $2\theta_i$ del patrón de difracción.
 \end{itemize} 
-Para realizar éste análisis, se utilizó el programa \textit{MAUD - Materials Analysis Using Diffraction} \cite{MAUD}, el cual permite importar datos teóricos de cada una de las fases cristalinas, obtenidos de \cite{COD}, para calcular las intensidades teóricas utilizadas en el método Rietveld y utilizar éstas en conjunto con los datos experimentales en el refinamiento para minimizar $S_y$ (ecuación \ref{eq:intcalculada}) a través de los parámetros descritos anteriormente. Esto dando como resultado gráficas como la que se muestra en la figura \ref{fig:picosrietveld}, además del porcentaje que representa cada fase en la muestra y la calidad del ajuste a través de los criterios que se discutirán en la sección \ref{sec:refinamiento}.
+Para realizar éste análisis, se utilizó el programa \textit{MAUD - Materials Analysis Using Diffraction} \cite{MAUD}, el cual es un software libre que permite importar datos teóricos de cada una de las fases cristalinas, obtenidos de \cite{COD}, para calcular las intensidades teóricas utilizadas en el método Rietveld y utilizar éstas en conjunto con los datos experimentales en el refinamiento para minimizar $S_y$ (ecuación \ref{eq:intcalculada}) a través de los parámetros descritos anteriormente. Esto dando como resultado gráficas como la que se muestra en la figura \ref{fig:picosrietveld}, además del porcentaje que representa cada fase en la muestra y la calidad del ajuste a través de los criterios que se discutirán en la sección \ref{sec:refinamiento}.
 
 Este programa permite calcular el diámetro promedio de cristal a través del refinamiento realizado, esto mediante un ajuste por cada una de las fases cristalinas presentes, tomando en cuenta factores como las microdeformaciones presentes en el cristal, la fuente de rayos X utilizada, entre otros \cite{LucaLutterotti2006}.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.7\textwidth]{fig/Rietveld.png}
-    \caption{Modelado de picos de difracción utilizando \textit{MAUD}. El rectángulo superior muestra las mediciones de intensidad respecto al ángulo en negro, con la curva ajustada en rojo, debajo de éste se encuentran las estructuras cristalinas y los picos que se observan de éstas en el difractograma y en el rectángulo inferior se tiene el residuo del ajuste.}
+    \caption{Modelado de picos de difracción utilizando \textit{MAUD}. La gráfica superior muestra las mediciones de intensidad respecto al ángulo en negro, con la curva ajustada en rojo, debajo de éste se encuentran las estructuras cristalinas y los picos que se observan de éstas en el difractograma y en la gráfica inferior se tiene el residuo del ajuste.}
     \label{fig:picosrietveld}
 \end{figure}
 \subsubsection{Criterios de Refinamiento} \label{sec:refinamiento}
@@ -191,7 +191,7 @@ Existen diversos criterios de refinamiento cuyo valor permite conocer la calidad
 \section{Microscopía Electrónica de Barrido (SEM)} \label{sec:metodologiaSEM}
 Los microscopios electrónicos de barrido, de los cuales se muestra un diagrama en la figura \ref{fig:semdiag} y se ilustran en la figura \ref{fig:diagflujosint} (5), permiten lograr amplificaciones mucho mayores que las de un microscopio óptico a través del uso de electrones para generar la imagen.
 
-Estos funcionan haciendo uso de una fuente de electrones, los cuales son acelerados con un potencial de 30 kV y posteriormente son focalizados haciendo uso de lentes magnéticos. Se utilizan comúnmente tres de éstos, dos condensadores y un objetivo, siendo éste un determinante en la calidad de la imagen. Ésto produce un haz de electrones con un diámetro de entre 1 y 10 nm.
+Funcionan haciendo uso de una fuente de electrones, los cuales son acelerados con un potencial de 30 kV y posteriormente son focalizados haciendo uso de lentes magnéticos. Se utilizan comúnmente tres de éstos, dos condensadores y un objetivo, siendo éste un determinante en la calidad de la imagen. Como resultado se produce un haz de electrones con un diámetro de entre 1 y 10 nm.
 
 Se generan campos magnéticos utilizando bobinas conectadas a generadores de ondas de escalera de $n$ y $m$ pasos, éstos cambian la dirección del haz, permitiendo escanear con éste una superficie rectangular dividida en $n\cdot m$ pixeles \cite{Egerton2005}.
 \begin{figure}[H]
@@ -206,10 +206,10 @@ Las muestras fueron preparadas colocando cada una en un portamuestras de alumini
 
 Estos portamuestras fueron colocados en una platina, la cual fue ingresada a la cámara de vacío del microscopio, donde se realizó la medición. 
 
-\subsection{Interacciones Electrón-Sólido}
+\subsection{Interacciones Electrón-Sólido} \label{sec:electronsolido}
 Los electrones utilizados en un microscopio electrónico de barrido se conocen como electrones primarios cuando forman parte del haz generado. Una vez que éste entra a un sólido, cada electrón puede interactuar con los átomos presentes de diversas formas. Sin embargo, solamente tres son de interés, debido a que el resto no es medible por el microscopio electrónico. Éstas interacciones son las siguientes \cite{Egerton2005}:
 \begin{itemize}
-    \item  \textbf{Electrones Retrodispersados:} Al darse una colisión elástica, producto de la interacción electrostática electrón primario-núcleo, los electrones del haz se ven dispersados. La mayoría de estas deflexiones tienen un ángulo menor a 90\grado, lo cual implica que el haz permanece en el sólido, sin embargo, también pueden darse con un ángulo mayor, conservando la mayor parte de su energía inicial, esto haciendo muy probable que los electrones salgan del sólido, como se puede ver en la figura \ref{semtipos}a.
+    \item  \textbf{Electrones Retrodispersados:} Al darse una colisión elástica, producto de la interacción electrostática electrón primario-núcleo, los electrones del haz se ven dispersados. La mayoría de estas deflexiones tienen un ángulo menor a 90\grado, lo cual implica que el haz permanece en el sólido, sin embargo, también pueden darse con un ángulo mayor, conservando la mayor parte de su energía inicial, lo cual aumenta la probabilidad de que los electrones salgan del sólido, como se puede ver en la figura \ref{semtipos}a.
     \item \textbf{Electrones Secundarios:} En el caso de las colisiones inelásticas, producto de la interacción entre los electrones primarios y los electrones de valencia y conducción del sólido, cuando estos colisionan, una pequeña parte de la energía se usa como energía potencial permitiendo al electrón salir de su orbital, conservando el resto de la energía perdida por el electrón primario como energía cinética. Aún así, la energía de los electrones producidos por este tipo de interacción es mucho menor a la anterior, permitiendo que escapen del sólido sólo aquellos más cercanos a la superficie. Ésto se ilustra en la figura \ref{semtipos}b.
     \item \textbf{Rayos X Característicos:} En éste caso, la colisión inelástica ocurre entre el electrón primario y un electrón de una capa interna del átomo, lo cual hace que éste pase brevemente a un estado de energía más alto y rápidamente decaiga de nuevo, liberando un fotón en el proceso. Este fotón (en el rango de los rayos X) tendrá una frecuencia que depende únicamente del número Z del átomo del que proviene, permitiendo conocer la composición química de la muestra. A esta técnica se le conoce como Espectroscopía de Dispersión de Energía (EDS por sus siglas en inglés). Un ejemplo de esta interacción se muestra en la figura \ref{semtipos}c.
 \end{itemize}
@@ -221,7 +221,7 @@ Los electrones utilizados en un microscopio electrónico de barrido se conocen c
 \end{figure}
 En el caso de los EDS realizados, se utilizaron las mismas condiciones que en la obtención de imágenes, es decir, voltaje de 15 kV, corriente en 8 unidades arbitrarias, presión de $9.6\cdot10^{-5}$Pa. Se registraron los rayos X emitidos por la muestra durante un minuto en cada medición.
 \subsection{Análisis Estadístico del Tamaño de Partículas} \label{sec:analisisestadistico}
-Las imágenes obtenidas a través de SEM fueron analizadas a través de ImageJ \cite{ImageJ}. Se utilizaron las imágenes con una amplificación de $\times500$ debido a que este valor permite observar de manera completa las partículas grandes mientras siguen siendo visibles las más pequeñas, como se puede ver en la figura \ref{fig:imgjcomp} a).
+Las imágenes obtenidas a través de SEM fueron analizadas utilizando el software ImageJ \cite{ImageJ}. Para llevar a cabo el análisis estadístico del tamaño de partícula se utilizaron las imágenes con una amplificación de $\times500$ debido a que este valor permite observar de manera completa las partículas grandes mientras siguen siendo visibles las más pequeñas, como se puede ver en la figura \ref{fig:imgjcomp} a).
 
 Se buscó determinar el diámetro promedio de partícula y el porcentaje de partículas con diámetro $\leq$1 $\mu$m. En conjunto, ambas mediciones permiten distinguir si el tamaño mínimo de partículas cambia o si se rompen las partículas más grandes. Para esto se realizaron dos métodos de medición complementarios:
 \begin{enumerate}
@@ -231,7 +231,7 @@ Se buscó determinar el diámetro promedio de partícula y el porcentaje de part
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.7\textwidth]{fig/imagejcomp.png}
-    \caption{Procesado de Imágenes con ImageJ.}
+    \caption{Procesado de imágenes con ImageJ. En a) se muestra la imagen original con una amplificación de x500, b) muestra la imagen después de aplicar la función \textit{Threshold}, c) la misma imagen después de aplicar la función \textit{Analyze Particles}.}
     \label{fig:imgjcomp}
 \end{figure}
 
@@ -240,7 +240,7 @@ Se buscó determinar el diámetro promedio de partícula y el porcentaje de part
     \includegraphics[width=0.35\textwidth]{fig/ejemplohist1.png}
     \quad
     \includegraphics[width=0.35\textwidth]{fig/ejemplohist2.png}
-    \caption{Histogramas de los datos obtenidos con ImageJ mediante ambos métodos.}
+    \caption{Histogramas de los datos obtenidos con ImageJ mediante a) medición manual del diámetro de las partículas, b) medición del diámetro de las partículas mediante la función preestablecida.}
     \label{fig:ejemplohist}
 \end{figure}
 Para analizar los porcentajes de partículas de diámetro $\leq1$ $\mu$m obtenidos ($P$) se partió de la siguiente expresión:
@@ -288,9 +288,9 @@ En la figura \ref{fig:uvvisdiag} se observa un diagrama simplificado del funcion
 
 Posteriormente, se hace pasar el haz de luz a través de monocromadores, además de filtros de absorción, de interferencia y de corte, ésto permite seleccionar un rango de frecuencias, el cual puede variarse y así analizar por separado las frecuencias que las lámparas emiten.
 
-Después, el haz resultante se incide primero en una muestra en blanco para medir el fondo y restar éste de los datos que se obtengan, para luego incidir el haz sobre la muestra y registrar ya sea la absorbancia o reflectancia a través de detectores, los cuales funcionan haciendo uso de semiconductores o una capa fotoeléctrica, debido a que ambos generan una corriente proporcional a la intensidad de la luz incidente \cite{Tom2023}.
+Después, el haz resultante se incide primero en una muestra en blanco para medir el fondo y restar éste de los datos que se obtengan, para luego incidir el haz sobre la muestra de interés y registrar ya sea la absorbancia o reflectancia a través de detectores, los cuales funcionan haciendo uso de semiconductores o una capa fotoeléctrica, debido a que ambos generan una corriente proporcional a la intensidad de la luz incidente \cite{Tom2023}.
 
-En el caso de las mediciones realizadas, se utilizó un espectrómetro modelo \textit{Macylab UV-1800CPC} en modo de absorción en precisión normal.
+En el caso de las mediciones presentadas en esta tesis, se utilizó un espectrómetro modelo \textit{Macylab UV-1800CPC} en modo de absorción en precisión normal.
 
 Se colocó un portamuestras recubierto con \ce{BaSO4} como fondo, con el cual se calibró el fondo utilizado para las mediciones. Posteriormente se realizó la medición con aproximadamente 0.05 g de la muestra, utilizando luz de 200 a 800 nm, con un paso de 0.2 nm entre cada punto.
 \subsection{Método Tauc} \label{sec:metodotauc}
@@ -322,7 +322,7 @@ El espectrómetro, al medir absorbancia, permite conocer $\alpha$ respecto a $\n
 \end{figure}
 \section{Magnetometría}
 \subsection{Dispositivo Superconductor de Interferencia Cuántica (SQUID)}
-Estos instrumentos son capaces de medir flujos magnéticos del orden del cuanto de flujo ($\Phi_0=h/2e\approx2.07\cdot10^{-15}$ Wb) ya que funcionan a través del efecto Josephson \cite{Pekola2003}. Éste es un efecto cuántico que ocurre cuando dos superconductores están unidos por una capa aislante delgada (de aproximadamente 1 nm), la cual representa una barrera de potencial. Debido al tunelaje, al hacer pasar una corriente por el superconductor, ésta atravesará la barrera, sin embargo, la función de onda de los electrones tendrá una fase distinta del otro lado.
+Estos instrumentos son capaces de medir flujos magnéticos del orden del cuanto de flujo ($\Phi_0=h/2e\approx2.07\cdot10^{-15}$ Wb) ya que funcionan a través del efecto Josephson \cite{Pekola2003}. Éste es un efecto cuántico que ocurre cuando dos superconductores están unidos por una capa aislante delgada (de aproximadamente 1 nm), la cual representa una barrera de potencial. Debido al tunelaje, al hacer pasar una corriente por el superconductor, algunos electrones atravesarán la barrera, sin embargo, la función de onda de los electrones tendrá una fase distinta del otro lado de la capa aislante.
 
 En ausencia de voltaje ($V=0$), la corriente que fluye por los superconductores está dada por:
 \begin{equation}
@@ -356,7 +356,7 @@ Las mediciones que varían en temperatura se realizaron entre 5 y 300 K para amb
 \subsubsection{Mediciones dependientes de la temperatura}
 Las mediciones $M$ vs $T$ pueden ser realizadas de dos maneras, puede enfriarse la muestra en ausencia de campo magnético (Zero Field Cooling, ZFC), o bien, en presencia de éste (Field Cooling, FC), dando como resultado curvas distintas debido a que la presencia del campo alinea los momentos magnéticos de manera que se reducen los efectos por anisotropía \cite{Ali2014}.
 
-Se midió la magnetización contra la temperatura ($M$ vs. $T$), a partir de ésta se obtuvo la susceptibilidad contra la temperatura ($\chi$ vs. $T$) utilizando el mismo equipo que en las mediciones $M$ vs. $H$, las curvas $FC$ se obtuvieron con un campo externo de $50$ mT, realizándose ambas en un rango de temperatura de $5$ a $300$ K.
+Se midió la magnetización contra la temperatura ($M$ vs. $T$), a partir de ésta se obtuvo la susceptibilidad contra la temperatura ($\chi$ vs. $T$) utilizando el mismo equipo que en las mediciones $M$ vs. $H$. Las curvas $FC$ (\textit{Field Cooling}) se obtuvieron con un campo externo de $50$ mT al variarse la temperatura, mientras que para las mediciones  ZCF (\textit{Zero Field Cooling}) no se aplicó un campo externo al variar la temperatura. El rango de temperatura en el que se realizan las mediciones FC-ZFC es $5$ -$300$ K.
 \section{Mediciones Ferroeléctricas}\label{sec:metodologiapolar}
 
 \subsection{Preparación de la Muestra}

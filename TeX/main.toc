@@ -22,7 +22,7 @@
 \contentsline {subsubsection}{\numberline {4.3.1.1}Ley de Bragg}{20}{subsubsection.4.3.1.1}%
 \contentsline {subsection}{\numberline {4.3.2}Refinamiento Rietveld}{21}{subsection.4.3.2}%
 \contentsline {subsubsection}{\numberline {4.3.2.1}Criterios de Refinamiento}{23}{subsubsection.4.3.2.1}%
-\contentsline {section}{\numberline {4.4}Microscopía Electrónica de Barrido (SEM)}{23}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Microscopía Electrónica de Barrido (SEM)}{24}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}Interacciones Electrón-Sólido}{24}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}Análisis Estadístico del Tamaño de Partículas}{25}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}Espectroscopía UV-Vis}{27}{section.4.5}%
@@ -52,13 +52,13 @@
 \contentsline {subsubsection}{\numberline {5.3.1.1}Espectroscopía UV-Vis}{48}{subsubsection.5.3.1.1}%
 \contentsline {subsubsection}{\numberline {5.3.1.2}Magnetometría SQUID}{49}{subsubsection.5.3.1.2}%
 \contentsline {subsubsection}{\numberline {5.3.1.3}Curvas de polarización}{52}{subsubsection.5.3.1.3}%
-\contentsline {subsection}{\numberline {5.3.2}\ce {SmFeO3}{}}{54}{subsection.5.3.2}%
-\contentsline {subsubsection}{\numberline {5.3.2.1}Espectroscopía UV-Vis}{54}{subsubsection.5.3.2.1}%
-\contentsline {subsubsection}{\numberline {5.3.2.2}Magnetometría SQUID}{55}{subsubsection.5.3.2.2}%
+\contentsline {subsection}{\numberline {5.3.2}\ce {SmFeO3}{}}{53}{subsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.1}Espectroscopía UV-Vis}{53}{subsubsection.5.3.2.1}%
+\contentsline {subsubsection}{\numberline {5.3.2.2}Magnetometría SQUID}{54}{subsubsection.5.3.2.2}%
 \contentsline {subsubsection}{\numberline {5.3.2.3}Curvas de polarización}{58}{subsubsection.5.3.2.3}%
 \contentsline {chapter}{\numberline {6}Conclusiones}{60}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Perspectivas a futuro}{61}{section.6.1}%
-\contentsline {chapter}{Bibliografía}{62}{chapter*.75}%
-\contentsline {chapter}{\numberline {A}Anexos}{66}{appendix.Alph1}%
-\contentsline {section}{\numberline {A.1}Refinamientos Rietveld}{66}{section.Alph1.1}%
-\contentsline {section}{\numberline {A.2}Curvas P-E a diferentes voltajes}{66}{section.Alph1.2}%
+\contentsline {chapter}{Bibliografía}{62}{chapter*.73}%
+\contentsline {chapter}{\numberline {A}Anexos}{67}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Refinamientos Rietveld}{67}{section.Alph1.1}%
+\contentsline {section}{\numberline {A.2}Curvas P-E a diferentes voltajes}{67}{section.Alph1.2}%

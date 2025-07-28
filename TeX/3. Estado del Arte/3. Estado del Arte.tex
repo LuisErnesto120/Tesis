@@ -20,6 +20,8 @@ Las muestras de \neod{} calcinadas a 600\gradoC{} mostraron un comportamiento fe
 Por otro lado, las muestras de \sama{} presentan una mejoría en sus propiedades ferromagnéticas al ser sometida a sonicación. Muestra un comportamiento complejo a baja temperatura, con múltiples transiciones de fase magnéticas.
 
 Las curvas $P$ vs. $E$ mostraron un comportamiento de histéresis débil a bajos voltajes, con polarizaciones de saturación y remanentes muy bajas independientes de la sonicación ($P_s\approx 0.006$ $\mu$C/cm$^2$ para el \neod{} y $P_s\approx 0.007$ $\mu$C/cm$^2$ para el \sama{}). Este comportamiento desapareció al aumentar el voltaje.
+
+En esta tesis mostramos que las propiedades magnéticas de las partículas de \neod{} y \sama{} son extremadamente sensibles al tamaño de cristal el cual puede ser modificado durante el proceso de síntesis mediante la variación de la temperatura de calcinación o bien posteriormente, mediante un proceso adicional como la sonicación.
 \chapter{Estado del Arte}
 \section{Ortoferritas de Tierras Raras}
 Los óxidos de tipo perovskita (\ce{ABO3} con A una tierra rara o metal alcalinotérreo y B un metal de transición) son estructuras estudiadas muy comúnmente en el campo de la ciencia de materiales debido a sus propiedades electromagnéticas, ópticas y catalíticas, además de su estabilidad \cite{Wang2019}.
@@ -101,7 +103,7 @@ Los materiales magnéticos pueden clasificarse a través de su respuesta a los c
         \label{eq:chidiamaglandau}
     \end{equation}
     Donde la contribución del diamagnetismo orbital $(\chi_\text{orb})$ toma en cuenta los electrones ligados ($n_\text{orb}$), y la del diamagnetismo de Landau $(\chi_L)$ los electrones libres ($n_\text{libres}$). Además, $n$ es el número de electrones del tipo correspondiente, $\mu_0$ la permeabilidad del vacío, $\mu_B$ el magnetón de Bohr, $k_B$ la constante de Boltzmann, $m_e$ y $e$ la masa y la carga del electrón respectivamente, $\avrg{r^2}$ el promedio del cuadrado de la posición de los electrones y $T_F$ la temperatura de Fermi. Ambas susceptibilidades son negativas y constantes en la temperatura \cite{coey2010magnetism}, como se observa en la línea morada de la figura \ref{fig:chitemp}.
-    \item \textbf{Paramagnéticos:} Cuando un material que posee electrones desapareados en su capa de valencia es expuesto a un campo magnético externo ($H$), se favorecerá el alineamiento de los momentos magnéticos de cada electrón en la dirección del campo, como se ilustra en la figura \ref{fig:magtiposdiag} b). El campo ordena los momentos magnéticos, provocando una magnetización diferente de 0, la cual puede modelarse a través de las funciones de Brillouin (ecuación \ref{eq:Brillouin}) y Langevin (ecuación \ref{eq:Langevin}) \cite{coey2010magnetism}.
+    \item \textbf{Paramagnéticos:} Cuando un material que posee electrones desapareados en su capa de valencia es expuesto a un campo magnético externo ($H$), se favorecerá la alineación de los momentos magnéticos de cada electrón en la dirección del campo, como se ilustra en la figura \ref{fig:magtiposdiag} b). El campo ordena los momentos magnéticos, provocando una magnetización diferente de 0, la cual puede modelarse a través de las funciones de Brillouin (ecuación \ref{eq:Brillouin}) y Langevin (ecuación \ref{eq:Langevin}) \cite{coey2010magnetism}.
     \begin{equation}
         B_J(x)=\dfrac{2J+1}{2J}\coth\left(\dfrac{2J+1}{2J}x\right)-\dfrac{1}{2J}\coth\left(\dfrac{x}{2J}\right)
         \label{eq:Brillouin}
@@ -137,7 +139,7 @@ Los materiales magnéticos pueden clasificarse a través de su respuesta a los c
 
 Los materiales con orden magnético intrínseco poseen una magnetización interna, la cual se modela macroscópicamente con el campo medio de Weiss.
 
-Éste supone que el efecto de la magnetización produce un campo adicional al campo aplicado $H$ da como resultado un campo neto $H^i$ de la forma \cite{coey2010magnetism}:
+Éste supone que el efecto de la magnetización produce un campo interno adicional al campo aplicado $H$ da como resultado un campo neto $H^i$ de la forma \cite{coey2010magnetism}:
 \begin{equation}
     H^i=n_wM+H
     \label{eq:Weiss}
@@ -158,16 +160,19 @@ Donde $\mathcal{H}_\text{H}$ se conoce como el hamiltoniano de Heisenberg, $\vec
 \end{equation}
 Donde $\psi_k$ es la función de onda de probabilidad del átomo $k$-ésimo ($k=i,$ $j$) y $\mathcal{H}$ es un hamiltoniano que incluye únicamente la repulsión de Coulomb entre los electrones, la atracción electrón-núcleo y la energía cinética de cada electrón.
 
-El signo de esta integral determina la orientación relativa de los momentos magnéticos de los átomos vecinos en el cristal, si $\mathcal{J}>0$, será más energéticamente favorable que haya espines paralelos, mientras que con $\mathcal{J}<0$ lo mismo ocurrirá para espines antiparalelos, esto a su vez genera regiones del cristal con espines ordenados paralela o antiparalelamente, conocidas como dominios magnéticos \cite{coey2010magnetism}, como se muestra en la figura \ref{fig:magtiposdiag} c)-f).
+El signo de esta integral determina la orientación relativa de los momentos magnéticos de los átomos vecinos en el cristal, si $\mathcal{J}>0$, será más energéticamente favorable que haya espines paralelos, mientras que con $\mathcal{J}<0$ lo mismo ocurrirá para espines antiparalelos. La presencia de la interacción de intercambio genera regiones del cristal con espines ordenados paralela o antiparalelamente, conocidas como dominios magnéticos \cite{coey2010magnetism}, como se muestra en la figura \ref{fig:magtiposdiag} c)-f).
 
-Cabe mencionar que existe otra interacción que favorece que los átomos vecinos tengan espines perpendiculares, dicha interacción está descrita por el hamiltoniano de Dzyaloshinskii-Moriya:
+Cabe mencionar que existe otra contribución al intercambio magnético entre espines vecinos $\vec{S_1}$ y $\vec{S_2}$ que es el intercambio asimétrico también conocido como interacción de Dzyaloshinskii-Moriya:
 \begin{equation}
     \mathcal{H}_\text{DM}=-\vec{\mathcal{D}}\cdot\left(\vec{S_1}\times\vec{S_2}\right)
     \label{eq:hamiltonianoDM}
 \end{equation}
-Esta interacción es de mucha menor magnitud al efecto del hamiltoniano de Heisenberg ($\mathcal{D}/\mathcal{J}\approx10^{-2}$), lo cual produce una desviación de alrededor de 1$^\circ$, conocida como \textit{spin canting}. Esto provoca que algunos materiales antiferromagnéticos presenten un momento ferromagnético pequeño \cite{coey2010magnetism} \cite{Dzyaloshinsky1958}.
+Donde $\vec{\mathcal{D}}$ es un vector perpendicular a $\vec{S_1}$ y $\vec{S_2}$ también conocido como vector DMI. Esta interacción es de mucha menor magnitud al efecto del hamiltoniano de Heisenberg ($\mathcal{D}/\mathcal{J}\approx10^{-2}$), lo cual produce una desviación de alrededor de 1$^\circ$, conocida como \textit{spin canting}. Esto provoca que algunos materiales antiferromagnéticos presenten un momento ferromagnético pequeño \cite{coey2010magnetism} \cite{Dzyaloshinsky1958}.
+
+A continuación se describen con más detalle las características de los materiales magnéticos con orden intrínseco de acuerdo al signo de la integral de intercambio:
+
 \begin{itemize}
-    \item \textbf{Ferromagnéticos $(\mathcal{J}>0)$ :} El signo de $\mathcal{J}$ provoca que los espines se alineen de forma paralela, lo cual produce que los dominios tengan una magnetización neta distinta de 0. Estos materiales presentan un cambio de fase en una temperatura determinada conocida como la temperatura de Curie. Al realizar el análisis hecho para el paramagnetismo con $H^i$ en lugar de $H$, se encuentra lo siguiente:
+    \item \textbf{Ferromagnéticos $(\mathcal{J}>0)$ :} El signo de $\mathcal{J}$ provoca que los espines se alineen de forma paralela, lo cual produce que los dominios tengan una magnetización neta distinta de cero. Este comportamiento se ilustra \color{red} esquemáticamente en la figura \ref{fig:magtiposdiag} (c). Estos materiales presentan un cambio de fase en una temperatura determinada conocida como la temperatura de Curie. Al realizar el análisis hecho para el paramagnetismo con $H^i$ en lugar de $H$, se encuentra lo siguiente:
     \begin{equation}\begin{split}
         M=\dfrac{C}{T}H^i=\dfrac{C}{T}(n_wM+H)\\
         \implies M=\dfrac{C}{T-T_C}H\text{ , }n_wC=T_C\\
@@ -177,15 +182,15 @@ Esta interacción es de mucha menor magnitud al efecto del hamiltoniano de Heise
     \end{equation}
     Donde $T_C$ se conoce como temperatura de Curie. Esta expresión se conoce como la ley de Curie-Weiss.
 
-    Por debajo de la temperatura de Curie, los materiales ferromagnéticos presentan orden magnético intrínseco, cuando rebasan esta temperatura tienen un comportamiento paramagnético \cite{coey2010magnetism}, como se muestra en la curva azul de la figura \ref{fig:chitemp}, este comportamiento se ilustra en la figura \ref{fig:magtiposdiag} c.
-    \item \textbf{Antiferromagnéticos ($\mathcal{J}<0$):} De manera similar a los materiales ferromagnéticos, existen dominios magnéticos producto de la interacción de intercambio en este tipo de material, sin embargo, los espines se alinean de manera antiparalela, puesto que $\mathcal{J}<0$. Esto genera dos subredes, cuyos espines apuntan en direcciones opuestas y son de igual magnitud. Al modelar estas dos subredes como campos medios independientes, se puede llegar a un análogo de la ley de Curie-Weiss:
+    Por debajo de la temperatura de Curie, los materiales ferromagnéticos presentan orden magnético intrínseco, cuando rebasan esta temperatura tienen un comportamiento paramagnético \cite{coey2010magnetism}, como se muestra en la curva azul de la figura \ref{fig:chitemp}.
+    \item \textbf{Antiferromagnéticos ($\mathcal{J}<0$):} De manera similar a los materiales ferromagnéticos, existen dominios magnéticos producto de la interacción de intercambio en este tipo de material, sin embargo, los espines se alinean de manera antiparalela, puesto que $\mathcal{J}<0$. Esto genera dos subredes, cuyos espines apuntan en direcciones opuestas y son de igual magnitud como se ilustra esquemáticamente en la figura \ref{fig:magtiposdiag} (d). Al modelar estas dos subredes como campos medios independientes, se puede llegar a un análogo de la ley de Curie-Weiss:
     \begin{equation}
         \chi=\dfrac{C}{T+T_N}\qquad\text{Cuando }T>T_N
         \label{eq:tempdeneel}
     \end{equation}
-    Donde $T_N$ es la temperatura de Néel. Esto representa un comportamiento paramagnético cuando $T>T_N$, cuando $T$ es menor, $\chi$ se vuelve menor debido al alineamiento antiparalelo de los espines, por lo que se tiene un máximo en $T=T_N$ \cite{coey2010magnetism}. Este comportamiento se muestra en la curva amarilla de la figura \ref{fig:chitemp}. El ordenamiento de los espines se ilustra en la figura \ref{fig:magtiposdiag} d.
-    \item \textbf{Ferrimagnéticos ($\mathcal{J}<0$):} De manera similar a los materiales antiferromagnéticos, presentan dos subredes producto de la alineación antiparalela debido al signo de $\mathcal{J}$, tienen un comportamiento paramagnético sobre la temperatura de Néel, la cual se define como la que se muestra en la ecuación \ref{eq:tempdeneel}, sin embargo, la magnetización de las subredes no es de la misma magnitud, sino que una de ellas es mayor a la otra, provocando una magnetización neta distinta de 0 en los dominios cuando $T<T_N$, de forma similar a los materiales ferromagnéticos \cite{coey2010magnetism}. Este comportamiento se observa en la curva roja de la figura \ref{fig:chitemp}, mientras que la configuración de sus espines se ilustra en la figura \ref{fig:magtiposdiag} e.
-    \item \textbf{Superparamagnéticos ($\mathcal{J}>0$):} Se trata de materiales ferromagnéticos compuestos de partículas cuyo tamaño es menor o igual que el de un dominio magnético, lo cual provoca que se comporten como una sola partícula paramagnética grande con un solo espín, conocido como \textit{macroespín}, lo cual se ilustra en la figura \ref{fig:magtiposdiag} f. La susceptibilidad de estas partículas sigue la ley de Curie, con un valor de $C$ muy grande, como se observa en la curva rosa de la figura \ref{fig:chitemp}. Sin embargo, a baja temperatura, la energía térmica no es suficiente para evitar el ordenamiento magnético entre partículas, por lo cual se comportan como ferromagnéticos a baja temperatura \cite{coey2010magnetism}.
+    Donde $T_N$ es la temperatura de Néel. Estos materiales presentan un comportamiento paramagnético cuando $T>T_N$. Cuando $T<T_N$, $\chi$ disminuye debido al alineamiento antiparalelo de los espines, por lo que se tiene un máximo en $T=T_N$ \cite{coey2010magnetism}. Este comportamiento se muestra en la curva amarilla de la figura \ref{fig:chitemp}. El ordenamiento de los espines se ilustra en la figura \ref{fig:magtiposdiag} (d).
+    \item \textbf{Ferrimagnéticos ($\mathcal{J}<0$):} De manera similar a los materiales antiferromagnéticos, los materiales ferrimagnéticos presentan dos subredes producto de la alineación antiparalela debido al signo de $\mathcal{J}$. Por encima de la temperatura de Néel $T_N$,  tienen un comportamiento paramagnético. $T_N$ también se define a partir de la ecuación \ref{eq:tempdeneel}. A diferencia de los antiferromagnéticos, la magnetización de las subredes no tiene la misma magnitud, sino que una de ellas es mayor a la otra, provocando una magnetización neta distinta de cero en los dominios cuando $T<T_N$, de forma similar a los materiales ferromagnéticos \cite{coey2010magnetism}. Este comportamiento se observa en la curva roja de la figura \ref{fig:chitemp}, mientras que la configuración de sus espines se ilustra en la figura \ref{fig:magtiposdiag} (e).
+    \item \textbf{Superparamagnéticos ($\mathcal{J}>0$):} Se trata de materiales ferromagnéticos compuestos de partículas cuyo tamaño es menor o igual que el de un dominio magnético, lo cual provoca que se comporten como una sola partícula paramagnética grande con un solo espín, conocido como \textit{macroespín}, lo cual se ilustra en la figura \ref{fig:magtiposdiag} (f). La susceptibilidad de estas partículas sigue la ley de Curie, con un valor de $C$ muy grande, como se observa en la curva rosa de la figura \ref{fig:chitemp}. Sin embargo, a baja temperatura, la energía térmica no es suficiente para evitar el ordenamiento magnético entre partículas, por lo cual se comportan como ferromagnéticos a baja temperatura \cite{coey2010magnetism}.
 \end{itemize}
 \begin{figure}[H]
     \centering
@@ -205,17 +210,18 @@ Los materiales sin orden magnético intrínseco tienen un comportamiento simple,
 
 Por otro lado, los materiales con orden magnético intrínseco presentan histéresis, es decir, su estado actual no depende sólo de las condiciones en las que se encuentran, sino también de las condiciones pasadas del sistema.
 
-El fenómeno de histéresis tiene su origen en las interacciones magnéticas en el cristal, en particular la de intercambio y la anisotropía.Éstas hacen energéticamente más favorable que los espines estén alineados en dominios magnéticos, lo cual provoca que, al aplicar un campo externo $H$, los dominios cuya magnetización es paralela al campo aplicado comienzan a crecer a costa de aquellos con otra orientación.
+El fenómeno de histéresis tiene su origen en las interacciones magnéticas dentro el cristal, en particular la de intercambio y la anisotropía. Éstas hacen energéticamente más favorable que los espines estén alineados en dominios magnéticos. Al aplicar un campo externo $H$, los dominios cuya magnetización es paralela a $H$, comienzan a crecer a expensas de aquellos con otra orientación.
 
-Para estos materiales podemos definir:
+Para analizar las curvas $M$ vs $H$ podemos definir algunos parámetros útiles que proporcionan información sobre las características magnéticas de un material:
+
 \begin{itemize}
     \item \textbf{Magnetización de saturación ($M_s$):} Se refiere al valor constante que toma la magnetización cuando todos los espines se han alineado con el campo externo, siendo el valor máximo que puede alcanzar el material.
-    \item \textbf{Magnetización remanente ($M_r$):} Cuando un material con orden magnético intrínseco es expuesto a un campo externo y posteriormente este es retirado, la magnetización no regresa a 0, sino que el material mantiene una magnetización remanente.
-    \item \textbf{Campo coercitivo ($H_c$):} Se refiere al campo necesario para que la magnetización de un material con orden magnético intrínseco regrese a 0 después de haberle aplicado un campo externo.
+    \item \textbf{Magnetización remanente ($M_r$):} Cuando un material con orden magnético intrínseco es expuesto a un campo externo y posteriormente este es retirado, la magnetización no regresa a cero, sino que el material mantiene una magnetización remanente.
+    \item \textbf{Campo coercitivo ($H_c$):} Se refiere al campo necesario para que la magnetización de un material con orden magnético intrínseco regrese a cero después de haberle aplicado un campo externo.
 \end{itemize}
 Aunque todos los materiales con momento magnético intrínseco, excepto los superparamagnéticos, exhiben histéresis, las características de ésta varían significativamente entre diferentes tipos de materiales, como se ilustra en la Figura \ref{fig:campomag}. Los materiales ferromagnéticos (representados por la curva negra) presentan los valores más altos de $M_r$, $M_s$ y $H_c$, superando notablemente a los observados en sistemas ferrimagnéticos (curva naranja) y antiferromagnéticos (curva verde). Este último grupo muestra un comportamiento distinto, los materiales antiferromagnéticos se caracterizan por ciclos estrechos con apariencia elíptica, mientras que los ferrimagnéticos presentan curvas intermedias entre ambos comportamientos.
 
-En el caso de los superparamagnéticos $H_c,M_r=0$, es decir, su magnetización regresa al estado inicial en ausencia de un campo externo, de la misma forma en la que lo haría un paramagnético, este comportamiento se observa en la curva rosa de la figura \ref{fig:campomag}.
+En el caso de los superparamagnéticos $H_c,M_r=0$, es decir, su magnetización regresa al estado inicial en ausencia de un campo externo, de la misma forma en la que lo haría un paramagnético, este comportamiento se observa en la curva rosa de la figura \ref{fig:campomag} \cite{coey2010magnetism}.
 \subsection{Polarización en Sólidos}
 Podemos distinguir dos categorías de sólidos, conductores, donde las cargas eléctricas pueden desplazarse libremente, y dieléctricos, donde existen cargas ligadas, las cuales dan lugar a la polarización.
 
@@ -294,9 +300,9 @@ A través de estas mediciones es posible determinar el tipo de material que se t
 \end{itemize}
 Finalmente, es necesario mencionar que la polarización de los paraeléctricos reales pueden tener cierta dependencia con la corriente, dando lugar a un comportamiento intermedio en la curva de polarización, como se observa en la figura \ref{fig:PEloop}d.
 \subsubsection{Multiferroicidad} \label{sec:multif}
-Los materiales multiferróicos son aquellos que presentan orden intrínseco en más de una de sus propiedades. En particular son relevantes para este trabajo aquellos que presentan orden magnético y orden eléctrico.
+Los materiales multiferróicos son aquellos que presentan orden intrínseco en más de una de sus propiedades. En particular son relevantes para este trabajo aquellos que presentan orden magnético y orden eléctrico simultáneamente, presentándose en la misma fase cristalina y a la misma temperatura.
 
-En estos materiales existe un efecto de acoplamiento entre las respuestas magnética y eléctrica, dando como resultado que el aplicar un campo magnético produzca cambios en la polarización, y el aplicar un campo eléctrico produzca cambios en la magnetización.
+En estos materiales existe un efecto de acoplamiento entre las respuestas magnética y eléctrica, dando como resultado que el aplicar un campo magnético se produzcan cambios en la polarización, y el aplicar un campo eléctrico se produzcan cambios en la magnetización.
 
 Este acoplamiento es lo que hace a estos materiales de interés particular, ya que permite un gran número de aplicaciones, como detectores de campo magnético de alta precisión (campos del orden de $\sim10^{-12}$ T) a temperatura ambiente, aparatos de resonancia ferromagnética (FMR) sintonizables eléctricamente, además de aplicaciones en el manejo y procesamiento de señales, además de el almacenamiento de datos, entre otras \cite{Vopson2015}.
 \subsection{Propiedades de las ortoferritas de tierras raras}
@@ -314,9 +320,7 @@ Se pueden distinguir tres tipos de orden antiferromagnético en las ortoferritas
     \item \textbf{AFM tipo A (figura \ref{fig:tiposAFM} a):} Los espines se alinean en planos ferromagnéticos paralelos al plano $ab$ con acoplamiento antiferromagnético entre ellos.
     \item \textbf{AFM tipo C (figura \ref{fig:tiposAFM} b):} Esta estructura presenta antiferromagnetismo en dos direcciones y ferromagnetismo en la tercera, la cual en este caso corresponde al eje $c$.
     \item \textbf{AFM tipo G (figura \ref{fig:tiposAFM} c):} Los espines presentan un acoplamiento antiferromagnético en las tres direcciones \cite{Dagotto}.
-    \item \textbf{AFM tipo G (figura \ref{fig:tiposAFM} d):} Los espines presentan un acoplamiento antiferromagnético en las tres
-    direcciones como se ilustra en la figura \ref{fig:tiposAFM} (c). Cuando la interacción Dzyaloshinskii-
-    Moriya es relevante, los espines, acoplados antiferromagnéticamente en las tres direcciones, se desvían del eje c produciendo ferromagnetismo débil como se muestra en la figura \ref{fig:tiposAFM} (c) \cite{Wang2019}.
+    \item \textbf{AFM tipo G (figura \ref{fig:tiposAFM} d):} Los espines presentan un acoplamiento antiferromagnético en las tres direcciones como se ilustra en la figura \ref{fig:tiposAFM} (c). Cuando la interacción Dzyaloshinskii-Moriya es relevante, los espines, acoplados antiferromagnéticamente en las tres direcciones, se desvían del eje $c$ produciendo ferromagnetismo débil como se muestra en la figura \ref{fig:tiposAFM} (d) \cite{Dagotto} \cite{Wang2019}.
 \end{itemize}
 Esto tiene como consecuencia que estos materiales presenten transiciones de fase magnéticas al variar la temperatura, producto de un reacomodo de sus espines.
 
@@ -359,5 +363,5 @@ Determinar cómo la temperatura de calcinación y el tamaño de partícula en la
 \end{itemize}
 \textbf{Preguntas centrales de investigación:}
 
-¿Cómo varían las propiedades magnéticas, eléctricas, ópticas y estructurales de \neod{} y \sama{} en función de la temperatura de calcinación durante su síntesis por sol-gel y su tiempo de sonicación? ¿Presentan estos materiales multiferroicidad?
+¿Cómo varían las propiedades magnéticas, eléctricas, ópticas y estructurales de \neod{} y \sama{} en función de la temperatura de calcinación durante su síntesis por sol-gel y su tiempo de sonicación? ¿Bajo qué condiciones de síntesis pueden presentar estos materiales multiferroicidad?
 \end{document}

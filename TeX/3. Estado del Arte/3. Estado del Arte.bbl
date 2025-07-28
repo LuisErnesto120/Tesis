@@ -495,6 +495,44 @@
       \verb 10.1016/j.mser.2021.100622
       \endverb
     \endentry
+    \entry{Levanyuk1974}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=e870cf1f9b63f6f1fd05c3a38f49e31e}{%
+           family={Levanyuk},
+           familyi={L\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4584a0f2fc521b18af26dd3732a417a8}{%
+           family={Sannikov},
+           familyi={S\bibinitperiod},
+           given={Daniil},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4013bd079f4c20139a6a903d254bbd2}
+      \strng{fullhash}{b4013bd079f4c20139a6a903d254bbd2}
+      \strng{fullhashraw}{b4013bd079f4c20139a6a903d254bbd2}
+      \strng{bibnamehash}{b4013bd079f4c20139a6a903d254bbd2}
+      \strng{authorbibnamehash}{b4013bd079f4c20139a6a903d254bbd2}
+      \strng{authornamehash}{b4013bd079f4c20139a6a903d254bbd2}
+      \strng{authorfullhash}{b4013bd079f4c20139a6a903d254bbd2}
+      \strng{authorfullhashraw}{b4013bd079f4c20139a6a903d254bbd2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0038-5670}
+      \field{issue}{2}
+      \field{journaltitle}{Soviet Physics Uspekhi}
+      \field{month}{2}
+      \field{title}{Improper ferroelectrics}
+      \field{volume}{17}
+      \field{year}{1974}
+      \field{pages}{199\bibrangedash 214}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1070/PU1974v017n02ABEH004336
+      \endverb
+    \endentry
     \entry{Stewart1999}{article}{}{}
       \name{author}{2}{}{%
         {{hash=0c56d36d3c0eddf5cce526900fcbdf60}{%
@@ -636,8 +674,8 @@
       \strng{authornamehash}{35f616ffd141396b57a2a6a73be041ca}
       \strng{authorfullhash}{35f616ffd141396b57a2a6a73be041ca}
       \strng{authorfullhashraw}{35f616ffd141396b57a2a6a73be041ca}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-642-07753-1}
@@ -656,146 +694,66 @@
       \verb http://www.springerlink.com/index/10.1007/978-3-662-05244-0
       \endverb
     \endentry
-    \entry{Herklotz2021}{article}{}{}
+    \entry{Rajaitha2022}{article}{}{}
       \name{author}{6}{}{%
-        {{hash=05182bdda7e65dfcce1af5fad72f14a7}{%
-           family={Herklotz},
-           familyi={H\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-        {{hash=ca608b71d8696e5b3369f4b9c45c8cae}{%
-           family={Tippey},
-           familyi={T\bibinitperiod},
-           given={Kristin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=ded37f56a893479cfae44aacfeb2fa59}{%
-           family={Huon},
-           familyi={H\bibinitperiod},
-           given={Amanda},
-           giveni={A\bibinitperiod}}}%
-        {{hash=bd50aa2d584c12e1a45b9c94fe61b25d}{%
-           family={Koch},
-           familyi={K\bibinitperiod},
-           given={Martin\bibnamedelima M.},
-           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=7363655547d36b456548e08c6fc8c7a5}{%
-           family={Dörr},
-           familyi={D\bibinitperiod},
-           given={Kathrin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=3cddb8a21f0ff386eddad08256374e84}{%
-           family={Herklotz},
-           familyi={H\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{ca504357c74ddd6e74c2726d37d7f890}
-      \strng{fullhash}{1bfd9182705259958a908e4599b48fbf}
-      \strng{fullhashraw}{1bfd9182705259958a908e4599b48fbf}
-      \strng{bibnamehash}{1bfd9182705259958a908e4599b48fbf}
-      \strng{authorbibnamehash}{1bfd9182705259958a908e4599b48fbf}
-      \strng{authornamehash}{ca504357c74ddd6e74c2726d37d7f890}
-      \strng{authorfullhash}{1bfd9182705259958a908e4599b48fbf}
-      \strng{authorfullhashraw}{1bfd9182705259958a908e4599b48fbf}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{15734803}
-      \field{issue}{14}
-      \field{journaltitle}{Journal of Materials Science}
-      \field{month}{5}
-      \field{title}{BiInO3 phases under asymmetric in-plane strain}
-      \field{volume}{56}
-      \field{year}{2021}
-      \field{pages}{8406\bibrangedash 8414}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1007/S10853-021-05807-3/FIGURES/5
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/article/10.1007/s10853-021-05807-3
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/article/10.1007/s10853-021-05807-3
-      \endverb
-      \keyw{Characterization and Evaluation of Materials,Classical Mechanics,Crystallography and Scattering Methods,Materials Science,Polymer Sciences,Solid Mechanics,general}
-    \endentry
-    \entry{Oumertem2019}{article}{}{}
-      \name{author}{7}{}{%
-        {{hash=17327d41002472f644d5372ec4c9c663}{%
-           family={Oumertem},
-           familyi={O\bibinitperiod},
-           given={Mouloud},
-           giveni={M\bibinitperiod}}}%
-        {{hash=61c475f33e302974fde076df10ca635c}{%
-           family={Maouche},
-           familyi={M\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=734e138576769880978b4f990494a224}{%
-           family={Berri},
-           familyi={B\bibinitperiod},
-           given={Saadi},
-           giveni={S\bibinitperiod}}}%
-        {{hash=7fd9424425e8547a9bf4433ae1838c15}{%
-           family={Bouarissa},
-           familyi={B\bibinitperiod},
-           given={N.},
-           giveni={N\bibinitperiod}}}%
-        {{hash=bacaab2a5d92494460ab901d9acbfe82}{%
-           family={Rai},
+        {{hash=ea3d5c065f6ad9ff4d70d9c31ae6cf35}{%
+           family={Rajaitha},
            familyi={R\bibinitperiod},
-           given={D.\bibnamedelimi P.},
-           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=f91a520e24bc58bed8c4929879b22399}{%
-           family={Khenata},
-           familyi={K\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=27dab5ede0a9d61792df6d1ca2ac13e6}{%
-           family={Ibrir},
-           familyi={I\bibinitperiod},
-           given={M.},
+           given={P.\bibnamedelimi Mary},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f8973d797f1fdefc93aa73fc2d812820}{%
+           family={Hajra},
+           familyi={H\bibinitperiod},
+           given={Sugato},
+           giveni={S\bibinitperiod}}}%
+        {{hash=32d847ca038b566a998ea73f9bbc2b6f}{%
+           family={Padhan},
+           familyi={P\bibinitperiod},
+           given={Aneeta\bibnamedelima Manjari},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f7b37e7eb4ce4b7d55ca87614c1bfe13}{%
+           family={Panda},
+           familyi={P\bibinitperiod},
+           given={Swati},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3acc7fce6d79ae8a68868809b48ab29f}{%
+           family={Sahu},
+           familyi={S\bibinitperiod},
+           given={Manisha},
            giveni={M\bibinitperiod}}}%
+        {{hash=41af480ffd4ae65ac169a5fc2bb817db}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hoe\bibnamedelima Joon},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Springer New York LLC}%
+        {Elsevier}%
       }
-      \strng{namehash}{dd6f6676ef974635316ade4e93677ff5}
-      \strng{fullhash}{beeaa21b6a74af0ce76c578c0f1a200a}
-      \strng{fullhashraw}{beeaa21b6a74af0ce76c578c0f1a200a}
-      \strng{bibnamehash}{beeaa21b6a74af0ce76c578c0f1a200a}
-      \strng{authorbibnamehash}{beeaa21b6a74af0ce76c578c0f1a200a}
-      \strng{authornamehash}{dd6f6676ef974635316ade4e93677ff5}
-      \strng{authorfullhash}{beeaa21b6a74af0ce76c578c0f1a200a}
-      \strng{authorfullhashraw}{beeaa21b6a74af0ce76c578c0f1a200a}
+      \strng{namehash}{9601542ddc71af72b5656fa04089a390}
+      \strng{fullhash}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{fullhashraw}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{bibnamehash}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{authorbibnamehash}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{authornamehash}{9601542ddc71af72b5656fa04089a390}
+      \strng{authorfullhash}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{authorfullhashraw}{9af02e9ee3f1c6d416dc2728b7e955e2}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{15728137}
-      \field{issue}{2}
-      \field{journaltitle}{Journal of Computational Electronics}
-      \field{month}{6}
-      \field{title}{Theoretical investigation of the structural, electronic and thermodynamic properties of cubic and orthorhombic XZrS 3 (X = Ba,Sr,Ca) compounds}
-      \field{volume}{18}
-      \field{year}{2019}
-      \field{pages}{415\bibrangedash 427}
-      \range{pages}{13}
+      \field{issn}{0925-8388}
+      \field{journaltitle}{Journal of Alloys and Compounds}
+      \field{month}{9}
+      \field{title}{An electrochemical sensor based on multiferroic NdFeO3 particles modified electrode for the detection of H2O2}
+      \field{volume}{915}
+      \field{year}{2022}
+      \field{pages}{165402}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1007/S10825-019-01317-3/METRICS
+      \verb 10.1016/J.JALLCOM.2022.165402
       \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/article/10.1007/s10825-019-01317-3
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/article/10.1007/s10825-019-01317-3
-      \endverb
-      \keyw{Ab initio calculations,Chalcogenide perovskite,Electronic properties,Phase stability,Thermodynamic properties}
+      \keyw{Electrochemical sensors,Hydrogen peroxide,Multiferroics,Rare earth}
     \endentry
     \entry{Zhang2016}{article}{}{}
       \name{author}{7}{}{%
@@ -863,66 +821,144 @@
       \endverb
       \keyw{Hydrothermal synthesis,Multiferroic,Orthoferrite,Perovskite}
     \endentry
-    \entry{Rajaitha2022}{article}{}{}
-      \name{author}{6}{}{%
-        {{hash=ea3d5c065f6ad9ff4d70d9c31ae6cf35}{%
-           family={Rajaitha},
-           familyi={R\bibinitperiod},
-           given={P.\bibnamedelimi Mary},
-           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=f8973d797f1fdefc93aa73fc2d812820}{%
-           family={Hajra},
-           familyi={H\bibinitperiod},
-           given={Sugato},
-           giveni={S\bibinitperiod}}}%
-        {{hash=32d847ca038b566a998ea73f9bbc2b6f}{%
-           family={Padhan},
+    \entry{Lee2011}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=ec4d4caa843a01671dd7bfeec245fbef}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jung-Hoon},
+           giveni={J\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=a18531d64abbca1dad4b88fe5399e75b}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Young\bibnamedelima Kyu},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d3ad6bf61d71648a3d79cdfab1e5ef20}{%
+           family={Park},
            familyi={P\bibinitperiod},
-           given={Aneeta\bibnamedelima Manjari},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=f7b37e7eb4ce4b7d55ca87614c1bfe13}{%
-           family={Panda},
-           familyi={P\bibinitperiod},
-           given={Swati},
-           giveni={S\bibinitperiod}}}%
-        {{hash=3acc7fce6d79ae8a68868809b48ab29f}{%
-           family={Sahu},
+           given={Jung\bibnamedelima Hwan},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1b53d3b92beb5a84538a4651698aba52}{%
+           family={Oak},
+           familyi={O\bibinitperiod},
+           given={Min-Ae},
+           giveni={M\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=7bf7550da9441411d084882a1e9acfed}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Hyun\bibnamedelima Myung},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=84ad5d045f6e2cc5b8938185d8fcf6f3}{%
+           family={Son},
            familyi={S\bibinitperiod},
-           given={Manisha},
-           giveni={M\bibinitperiod}}}%
-        {{hash=41af480ffd4ae65ac169a5fc2bb817db}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Hoe\bibnamedelima Joon},
-           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given={Jong\bibnamedelima Yeog},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=dc39b8d84367197d06833445103f3aea}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{9601542ddc71af72b5656fa04089a390}
-      \strng{fullhash}{9af02e9ee3f1c6d416dc2728b7e955e2}
-      \strng{fullhashraw}{9af02e9ee3f1c6d416dc2728b7e955e2}
-      \strng{bibnamehash}{9af02e9ee3f1c6d416dc2728b7e955e2}
-      \strng{authorbibnamehash}{9af02e9ee3f1c6d416dc2728b7e955e2}
-      \strng{authornamehash}{9601542ddc71af72b5656fa04089a390}
-      \strng{authorfullhash}{9af02e9ee3f1c6d416dc2728b7e955e2}
-      \strng{authorfullhashraw}{9af02e9ee3f1c6d416dc2728b7e955e2}
+      \strng{namehash}{52cbde1311f2dc77a7fb34ca2b310b10}
+      \strng{fullhash}{61bc65919ec1f1f641646f5da3b21d00}
+      \strng{fullhashraw}{61bc65919ec1f1f641646f5da3b21d00}
+      \strng{bibnamehash}{61bc65919ec1f1f641646f5da3b21d00}
+      \strng{authorbibnamehash}{61bc65919ec1f1f641646f5da3b21d00}
+      \strng{authornamehash}{52cbde1311f2dc77a7fb34ca2b310b10}
+      \strng{authorfullhash}{61bc65919ec1f1f641646f5da3b21d00}
+      \strng{authorfullhashraw}{61bc65919ec1f1f641646f5da3b21d00}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{0925-8388}
-      \field{journaltitle}{Journal of Alloys and Compounds}
+      \field{issn}{0031-9007}
+      \field{issue}{11}
+      \field{journaltitle}{Physical Review Letters}
       \field{month}{9}
-      \field{title}{An electrochemical sensor based on multiferroic NdFeO3 particles modified electrode for the detection of H2O2}
-      \field{volume}{915}
-      \field{year}{2022}
-      \field{pages}{165402}
+      \field{title}{Spin-Canting-Induced Improper Ferroelectricity and Spontaneous Magnetization Reversal in SmFeO3}
+      \field{volume}{107}
+      \field{year}{2011}
+      \field{pages}{117201}
       \range{pages}{1}
       \verb{doi}
-      \verb 10.1016/J.JALLCOM.2022.165402
+      \verb 10.1103/PhysRevLett.107.117201
       \endverb
-      \keyw{Electrochemical sensors,Hydrogen peroxide,Multiferroics,Rare earth}
+    \endentry
+    \entry{Solovyev2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=113253f6fb6210034cb1bde24589bd7a}{%
+           family={Solovyev},
+           familyi={S\bibinitperiod},
+           given={I.\bibnamedelimi V.},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{113253f6fb6210034cb1bde24589bd7a}
+      \strng{fullhash}{113253f6fb6210034cb1bde24589bd7a}
+      \strng{fullhashraw}{113253f6fb6210034cb1bde24589bd7a}
+      \strng{bibnamehash}{113253f6fb6210034cb1bde24589bd7a}
+      \strng{authorbibnamehash}{113253f6fb6210034cb1bde24589bd7a}
+      \strng{authornamehash}{113253f6fb6210034cb1bde24589bd7a}
+      \strng{authorfullhash}{113253f6fb6210034cb1bde24589bd7a}
+      \strng{authorfullhashraw}{113253f6fb6210034cb1bde24589bd7a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2410-3896}
+      \field{issue}{2}
+      \field{journaltitle}{Condensed Matter}
+      \field{month}{4}
+      \field{title}{Basic Aspects of Ferroelectricity Induced by Noncollinear Alignment of Spins}
+      \field{volume}{10}
+      \field{year}{2025}
+      \field{pages}{21}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/condmat10020021
+      \endverb
+    \endentry
+    \entry{Katsura2005}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=9ca627ab5625b213b2e487cd8837e302}{%
+           family={Katsura},
+           familyi={K\bibinitperiod},
+           given={Hosho},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8a79cfba4a53990b92459a6435aab2ca}{%
+           family={Nagaosa},
+           familyi={N\bibinitperiod},
+           given={Naoto},
+           giveni={N\bibinitperiod}}}%
+        {{hash=aab6fd15c32541c75e30350413fcf90e}{%
+           family={Balatsky},
+           familyi={B\bibinitperiod},
+           given={Alexander\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{61eca228769e85cca3be4a59dc451fb4}
+      \strng{fullhash}{e049ae45df38bcc76e51520a299e63c3}
+      \strng{fullhashraw}{e049ae45df38bcc76e51520a299e63c3}
+      \strng{bibnamehash}{e049ae45df38bcc76e51520a299e63c3}
+      \strng{authorbibnamehash}{e049ae45df38bcc76e51520a299e63c3}
+      \strng{authornamehash}{61eca228769e85cca3be4a59dc451fb4}
+      \strng{authorfullhash}{e049ae45df38bcc76e51520a299e63c3}
+      \strng{authorfullhashraw}{e049ae45df38bcc76e51520a299e63c3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-9007}
+      \field{issue}{5}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{7}
+      \field{title}{Spin Current and Magnetoelectric Effect in Noncollinear Magnets}
+      \field{volume}{95}
+      \field{year}{2005}
+      \field{pages}{057205}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.95.057205
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

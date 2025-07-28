@@ -53,7 +53,9 @@ Se pueden observar 3 regiones distintas donde ocurren cambios térmicos en la mu
     \caption{Regiones donde cambia el comportamiento de la masa respecto a la temperatura para ambas muestras.}
     \label{tabla:TGAtabla}
 \end{table}
-La región 1 coincide con las temperaturas a la que el agua se evapora y se combustiona la fase orgánica en la muestra. Se piensa que la formación de la fase cristalina ocurre en la región 2, lo cual se corrobora con DRX. En la región 3 parece ocurrir una modificación en los ángulos de la celda unitaria, de acuerdo a las observaciones que se discutirán en la sección.
+La región 1 coincide con las temperaturas a la que el agua se evapora y se combustiona la fase orgánica en la muestra.
+
+Por otra parte, se piensa que en la región 2 comienza la cristalización de las ortoferritas, mientras que en la región 3 ocurre un crecimiento de los cristales, de acuerdo con las observaciones que se discutirán en la sección \ref{sec:resrietlveld}.
 \subsection{Microscopía electrónica de barrido}
 Se estudió la morfología de las partículas sintetizadas a través de esta técnica, dando como resultado imágenes como las que se muestran en las figuras \ref{fig:resSEM900}-\ref{fig:resSEMsonicada4}.
 \begin{figure}[H]
@@ -218,7 +220,7 @@ A continuación se reportan los espectros obtenidos para las muestras sonicadas
 \end{figure}
 No se observan cambios notorios entre los espectros al variar el tiempo de sonicación, por lo que no parece haber un cambio en la estructura cristalina.
 
-\subsubsection{Refinamiento Rietveld}
+\subsubsection{Refinamiento Rietveld} \label{sec:resrietlveld}
 Mediante esta técnica se obtuvieron los siguientes ajustes entre los espectros teóricos y los obtenidos experimentalmente (figura \ref{fig:rietveld600ndresultados} y \ref{fig:rietveld700smresultados}), así como un estimado del porcentaje del peso que representa cada fase cristalina presente en la muestra (tablas \ref{tabla:refrietvneod} y \ref{tabla:refrietvsama}):
 \begin{figure}[H]
     \centering
@@ -282,6 +284,56 @@ Mediante estos refinamientos se encontró que las muestras contienen las siguien
     \label{tabla:refrietvsama}
 \end{table}
 Se observa que el método de síntesis utilizado produce muestras de pureza alta, $\geq$95.73 para el \neod{} y $\geq$97.95 para el \sama{}. Por su parte, el valor de $\chi^2$ se encuentra en el rango establecido en \ref{sec:refinamiento} (1-1.3), teniendo como valor máximo 1.21, lo cual indica un buen ajuste en todos los refinamientos.
+
+Por otro lado, los diámetros de cristal promedio se reportan en la tabla \ref{tabla:tamañoscristal}. Una gráfica de estos contra la temperatura de calcinación se encuentra en la figura \ref{fig:tamañoscristal} a) para el \neod{} y b) para el \sama{}.
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c||c|c|}
+        \hline
+        Muestra & Diámetro promedio  & Incertidumbre (nm) \\
+        & de cristal (nm) & \\
+        \hline\hline
+        \multicolumn{3}{|c|}{\neod{}} \\
+        \hline
+        600\gradoC{} sonicada 4 h & 578.48 & 12.570 \\
+        \hline
+        600\gradoC{} sonicada 2 h & 453.07 & 8.112 \\
+        \hline
+        600\gradoC{} & 472.90 & 9.688 \\
+        \hline
+        700\gradoC{} & 700.91 & 15.561 \\
+        \hline
+        800\gradoC{} & 836.31 & 9.327 \\
+        \hline
+        900\gradoC{} & 1670.95 & 43.745 \\
+        \hline
+        \multicolumn{3}{|c|}{\sama{}} \\
+        \hline
+        700\gradoC{} sonicada 4 h & 779.21 & 12.857 \\
+        \hline
+        700\gradoC{} sonicada 2 h & 542.23 & 12.739 \\
+        \hline
+        700\gradoC{} & 614.93 & 10.439 \\
+        \hline
+        800\gradoC{} & 829.59 & 22.802 \\
+        \hline
+        900\gradoC{} & 1647.29 & 35.357 \\
+        \hline
+        1000\gradoC{} & 2540.59 & 63.644 \\
+        \hline
+        \end{tabular} 
+    \caption{Diámetro de cristal promedio reportados por Maud para las muestras de ambas ortoferritas.}
+    \label{tabla:tamañoscristal}
+\end{table}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{fig/tamañocristalneod.png}
+    \quad
+    \includegraphics[width=0.4\textwidth]{fig/tamañocristalsama.png}
+    \caption{Diámetro de cristal promedio contra temperatura de calcinación para las muestras de: a) \neod, b) \sama.}
+    \label{fig:tamañoscristal}
+\end{figure}
+Se observa un crecimiento del diámetro de cristal con el aumento de temperatura, este se vuelve más pronunciado a partir de los 900\gradoC{}. La sonicación tuvo el mismo efecto en ambas muestras, reduciendo ligeramente el diámetro en las muestras sonicadas 2 horas, pero aumentando éste cuando se sonicaron por 4 horas.
 \section{Caracterización óptica, magnética y eléctrica} \label{sec:analisisoptmagelec}
 A continuación se presentan los resultados obtenidos para cada ortoferrita al realizar espectroscopía UV-Vis, magnetometría SQUID y mediciones de curvas de polarización.
 \subsection{\texorpdfstring{\neod{}}{NdFeO3}}

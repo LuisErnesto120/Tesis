@@ -1,0 +1,64 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Resumen}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Estado del Arte}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ortoferritas de Tierras Raras}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Electromagnetismo en Sólidos}{4}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Magnetización en Sólidos}{4}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Clasificación y Comportamiento de Materiales Magnéticos}{5}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Curvas $M$ contra $H$}{9}{subsubsection.2.2.1.2}%
+\contentsline {subsection}{\numberline {2.2.2}Polarización en Sólidos}{10}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Curvas $P$ contra $E$}{12}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}Multiferroicidad}{13}{subsubsection.2.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Propiedades de las ortoferritas de tierras raras}{13}{subsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}Propiedades magnéticas}{13}{subsubsection.2.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.2.3.2}Propiedades eléctricas}{14}{subsubsection.2.2.3.2}%
+\contentsline {chapter}{\numberline {3}Objetivos}{15}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Metodología}{16}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Síntesis}{16}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Sonicación}{17}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}Análisis Termogravimétrico (TGA)}{18}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Difracción de Rayos X (DRX)}{19}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Estructura Cristalina}{19}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.1}Ley de Bragg}{20}{subsubsection.4.3.1.1}%
+\contentsline {subsection}{\numberline {4.3.2}Refinamiento Rietveld}{21}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.1}Criterios de Refinamiento}{23}{subsubsection.4.3.2.1}%
+\contentsline {section}{\numberline {4.4}Microscopía Electrónica de Barrido (SEM)}{23}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Interacciones Electrón-Sólido}{24}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Análisis Estadístico del Tamaño de Partículas}{25}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Espectroscopía UV-Vis}{27}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Método Tauc}{28}{subsection.4.5.1}%
+\contentsline {section}{\numberline {4.6}Magnetometría}{29}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Dispositivo Superconductor de Interferencia Cuántica (SQUID)}{29}{subsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.1.1}Mediciones $M$ vs $H$}{30}{subsubsection.4.6.1.1}%
+\contentsline {subsubsection}{\numberline {4.6.1.2}Mediciones dependientes de la temperatura}{30}{subsubsection.4.6.1.2}%
+\contentsline {section}{\numberline {4.7}Mediciones Ferroeléctricas}{31}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Preparación de la Muestra}{31}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Molienda}{31}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Sinterización}{31}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}Fracción Sólida}{32}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}Mediciones de Polarización (Curvas $P$-$E$)}{33}{subsection.4.7.5}%
+\contentsline {section}{\numberline {4.8}Clasificación metodológica y de muestras}{34}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Resumen de la metodología}{34}{section.4.9}%
+\contentsline {chapter}{\numberline {5}Resultados}{36}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Muestras Sintetizadas}{36}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Caracterización estructural y morfológica}{37}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Análisis Termogravimétrico}{37}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Microscopía electrónica de barrido}{38}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Espectroscopía de dispersión de energía}{41}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Difracción de rayos X}{43}{subsection.5.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.4.1}Refinamiento Rietveld}{44}{subsubsection.5.2.4.1}%
+\contentsline {section}{\numberline {5.3}Caracterización óptica, magnética y eléctrica}{47}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}\ce {NdFeO3}{}}{48}{subsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.1}Espectroscopía UV-Vis}{48}{subsubsection.5.3.1.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.2}Magnetometría SQUID}{49}{subsubsection.5.3.1.2}%
+\contentsline {subsubsection}{\numberline {5.3.1.3}Curvas de polarización}{52}{subsubsection.5.3.1.3}%
+\contentsline {subsection}{\numberline {5.3.2}\ce {SmFeO3}{}}{54}{subsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.1}Espectroscopía UV-Vis}{54}{subsubsection.5.3.2.1}%
+\contentsline {subsubsection}{\numberline {5.3.2.2}Magnetometría SQUID}{55}{subsubsection.5.3.2.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.3}Curvas de polarización}{58}{subsubsection.5.3.2.3}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{60}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Perspectivas a futuro}{61}{section.6.1}%
+\contentsline {chapter}{Bibliografía}{62}{chapter*.75}%
+\contentsline {chapter}{\numberline {A}Anexos}{66}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Refinamientos Rietveld}{66}{section.Alph1.1}%
+\contentsline {section}{\numberline {A.2}Curvas P-E a diferentes voltajes}{66}{section.Alph1.2}%

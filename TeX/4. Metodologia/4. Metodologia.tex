@@ -160,6 +160,8 @@ Donde:
     \item $y_{b,i}$ es la intensidad del fondo en el punto $2\theta_i$ del patrón de difracción.
 \end{itemize} 
 Para realizar éste análisis, se utilizó el programa \textit{MAUD - Materials Analysis Using Diffraction} \cite{MAUD}, el cual permite importar datos teóricos de cada una de las fases cristalinas, obtenidos de \cite{COD}, para calcular las intensidades teóricas utilizadas en el método Rietveld y utilizar éstas en conjunto con los datos experimentales en el refinamiento para minimizar $S_y$ (ecuación \ref{eq:intcalculada}) a través de los parámetros descritos anteriormente. Esto dando como resultado gráficas como la que se muestra en la figura \ref{fig:picosrietveld}, además del porcentaje que representa cada fase en la muestra y la calidad del ajuste a través de los criterios que se discutirán en la sección \ref{sec:refinamiento}.
+
+Este programa permite calcular el diámetro promedio de cristal a través del refinamiento realizado, esto mediante un ajuste por cada una de las fases cristalinas presentes, tomando en cuenta factores como las microdeformaciones presentes en el cristal, la fuente de rayos X utilizada, entre otros \cite{LucaLutterotti2006}.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.7\textwidth]{fig/Rietveld.png}
